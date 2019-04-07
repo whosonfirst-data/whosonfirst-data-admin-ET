@@ -1,0 +1,70 @@
+{
+  "id": 1309839757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.36097,10.9821,42.36097,10.9821",
+    "geom:latitude":10.9821,
+    "geom:longitude":42.36097,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Elakal'",
+    "gn:country_code":"ET",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347028,
+    "gn:latitude":10.9821,
+    "gn:longitude":42.36097,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Elakal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Elakal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347028
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3b2ec1e7dbc37f13ab056530ed72456c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1309839757,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1309839757,
+    "wof:lastmodified":1537622127,
+    "wof:name":"Elakal'",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.36097,
+    10.9821,
+    42.36097,
+    10.9821
+],
+  "geometry": {"coordinates":[42.36097,10.9821],"type":"Point"}
+}

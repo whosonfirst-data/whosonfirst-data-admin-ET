@@ -1,0 +1,65 @@
+{
+  "id": 1209141749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35,7.9,34.35,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":34.35,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Perbongo",
+    "gn:country_code":"ET",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329799,
+    "gn:latitude":7.9,
+    "gn:longitude":34.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Perbongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perbom",
+        "Perbongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329799
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d2f3a233e9bdb859304fbcecb7f06909",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209141749
+        }
+    ],
+    "wof:id":1209141749,
+    "wof:lastmodified":1537621930,
+    "wof:name":"Perbongo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35,
+    7.9,
+    34.35,
+    7.9
+],
+  "geometry": {"coordinates":[34.35,7.9],"type":"Point"}
+}

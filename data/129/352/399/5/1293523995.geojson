@@ -1,0 +1,72 @@
+{
+  "id": 1293523995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,9.83333,37.55,9.83333",
+    "geom:latitude":9.83333,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Asendabo",
+    "gn:country_code":"ET",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343366,
+    "gn:latitude":9.83333,
+    "gn:longitude":37.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100sendabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assandabo",
+        "Asand\u0101bo",
+        "\u0100sendabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343366
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5cddb4816636595c5a8622283e88aa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1293523995,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293523995,
+    "wof:lastmodified":1537622090,
+    "wof:name":"Asendabo",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    9.83333,
+    37.55,
+    9.83333
+],
+  "geometry": {"coordinates":[37.55,9.83333],"type":"Point"}
+}

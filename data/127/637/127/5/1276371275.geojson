@@ -1,0 +1,71 @@
+{
+  "id": 1276371275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04835,9.65008,39.04835,9.65008",
+    "geom:latitude":9.65008,
+    "geom:longitude":39.04835,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Weberi Bekera",
+    "gn:country_code":"ET",
+    "gn:dem":2654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326560,
+    "gn:latitude":9.65008,
+    "gn:longitude":39.04835,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Weber\u012b Bekera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uoberi",
+        "Weber\u012b Bekera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326560
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eadbae96a112bc845071b1a809d69a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1276371275,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276371275,
+    "wof:lastmodified":1537621897,
+    "wof:name":"Weberi Bekera",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04835,
+    9.65008,
+    39.04835,
+    9.65008
+],
+  "geometry": {"coordinates":[39.04835,9.65008],"type":"Point"}
+}

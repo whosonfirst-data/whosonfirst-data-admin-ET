@@ -1,0 +1,72 @@
+{
+  "id": 1259714749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,8.28333,35.1,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bure",
+    "gn:country_code":"ET",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341399,
+    "gn:latitude":8.28333,
+    "gn:longitude":35.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bur\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burei",
+        "Bare",
+        "Bur\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341399
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b51a549f3de85431c047d494ba6688d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1259714749,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259714749,
+    "wof:lastmodified":1537622066,
+    "wof:name":"Bure",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    8.28333,
+    35.1,
+    8.28333
+],
+  "geometry": {"coordinates":[35.1,8.28333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309835701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,9.28333,38.1,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":38.1,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Hine",
+    "gn:country_code":"ET",
+    "gn:dem":2736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334711,
+    "gn:latitude":9.28333,
+    "gn:longitude":38.1,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"H\u012bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334711
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6d7785c10bc2b66073030a8c7e374c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1309835701,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309835701,
+    "wof:lastmodified":1536887650,
+    "wof:name":"Hine",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    9.28333,
+    38.1,
+    9.28333
+],
+  "geometry": {"coordinates":[38.1,9.28333],"type":"Point"}
+}

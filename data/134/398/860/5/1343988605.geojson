@@ -1,0 +1,67 @@
+{
+  "id": 1343988605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,8.3,37.51667,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Borale",
+    "gn:country_code":"ET",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341711,
+    "gn:latitude":8.3,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Boral\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341711
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"de2643b2f85f65dda2b6e3cd001feffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1343988605,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343988605,
+    "wof:lastmodified":1536978862,
+    "wof:name":"Borale",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    8.3,
+    37.51667,
+    8.3
+],
+  "geometry": {"coordinates":[37.51667,8.3],"type":"Point"}
+}

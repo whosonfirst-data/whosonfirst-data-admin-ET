@@ -1,0 +1,73 @@
+{
+  "id": 1243098655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65,8.76667,34.65,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":34.65,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gerjeda",
+    "gn:country_code":"ET",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336795,
+    "gn:latitude":8.76667,
+    "gn:longitude":34.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gerj\u0113da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghirgeida",
+        "Gej\u0113da",
+        "Girgeida",
+        "Gerj\u0113da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336795
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"22255ef13428499abf3b5172e2722cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1243098655,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243098655,
+    "wof:lastmodified":1537622014,
+    "wof:name":"Gerjeda",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65,
+    8.76667,
+    34.65,
+    8.76667
+],
+  "geometry": {"coordinates":[34.65,8.76667],"type":"Point"}
+}

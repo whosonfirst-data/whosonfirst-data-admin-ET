@@ -1,0 +1,72 @@
+{
+  "id": 1243007221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,12.51667,38.2,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":38.2,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Adishe",
+    "gn:country_code":"ET",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344945,
+    "gn:latitude":12.51667,
+    "gn:longitude":38.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012bshe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adiscia",
+        "Adisici\u00e0",
+        "\u0100d\u012bshe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344945
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2f9f555ec7ed66d9c9b155689d7704ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1243007221,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243007221,
+    "wof:lastmodified":1537622107,
+    "wof:name":"Adishe",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    12.51667,
+    38.2,
+    12.51667
+],
+  "geometry": {"coordinates":[38.2,12.51667],"type":"Point"}
+}

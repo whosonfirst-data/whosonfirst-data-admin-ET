@@ -1,0 +1,72 @@
+{
+  "id": 1293234559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52833,13.01972,39.52833,13.01972",
+    "geom:latitude":13.01972,
+    "geom:longitude":39.52833,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Betmera",
+    "gn:country_code":"ET",
+    "gn:dem":2460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342223,
+    "gn:latitude":13.01972,
+    "gn:longitude":39.52833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u0113tmera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113t Mara",
+        "Bet Maira",
+        "B\u0113tmera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342223
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"93edbd3575201dd6d003d57e44059866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1293234559,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293234559,
+    "wof:lastmodified":1537622076,
+    "wof:name":"Betmera",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52833,
+    13.01972,
+    39.52833,
+    13.01972
+],
+  "geometry": {"coordinates":[39.52833,13.01972],"type":"Point"}
+}

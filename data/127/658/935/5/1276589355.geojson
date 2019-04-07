@@ -1,0 +1,71 @@
+{
+  "id": 1276589355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05,6.3,41.05,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":41.05,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ara Bonel",
+    "gn:country_code":"ET",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343743,
+    "gn:latitude":6.3,
+    "gn:longitude":41.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ara Bonel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haro Bonel",
+        "Ara Bonel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343743
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a61ac84ffec8115c826c7f1c8f00a2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1276589355,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276589355,
+    "wof:lastmodified":1537622095,
+    "wof:name":"Ara Bonel",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05,
+    6.3,
+    41.05,
+    6.3
+],
+  "geometry": {"coordinates":[41.05,6.3],"type":"Point"}
+}

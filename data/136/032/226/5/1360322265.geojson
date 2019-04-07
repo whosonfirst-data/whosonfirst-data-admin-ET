@@ -1,0 +1,67 @@
+{
+  "id": 1360322265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3,8.51667,39.3,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":39.3,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dabe",
+    "gn:country_code":"ET",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340349,
+    "gn:latitude":8.51667,
+    "gn:longitude":39.3,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dab\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340349
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e785c6ad174e0e50345d11b35b2127a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1360322265,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1360322265,
+    "wof:lastmodified":1536600144,
+    "wof:name":"Dabe",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3,
+    8.51667,
+    39.3,
+    8.51667
+],
+  "geometry": {"coordinates":[39.3,8.51667],"type":"Point"}
+}

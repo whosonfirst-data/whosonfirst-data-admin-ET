@@ -1,0 +1,90 @@
+{
+  "id": 890441617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.91667,5.75,38.91667,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":38.91667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":34078,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6c99\u57fa\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "Shakiso"
+    ],
+    "name:eng_x_preferred":[
+        "Shakiso"
+    ],
+    "name:fre_x_preferred":[
+        "Shakiso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ad\u30bd"
+    ],
+    "name:pol_x_preferred":[
+        "Szakiso"
+    ],
+    "name:swe_x_preferred":[
+        "Shak\u012bso"
+    ],
+    "qs:name":"Shak\u012bso",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":689,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328716,
+        "gp:id":1319370,
+        "qs:id":124178,
+        "wd:id":"Q3481278",
+        "wk:page":"Shakiso"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052330,
+    "wof:geomhash":"cdc2c6d1f314823c5a8cb58aca550ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695171,
+            "locality_id":890441617,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890441617,
+    "wof:lastmodified":1527727227,
+    "wof:name":"Shak\u012bso",
+    "wof:parent_id":1108695171,
+    "wof:placetype":"locality",
+    "wof:population":34078,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.91667,
+    5.75,
+    38.91667,
+    5.75
+],
+  "geometry": {"coordinates":[38.91667,5.75],"type":"Point"}
+}

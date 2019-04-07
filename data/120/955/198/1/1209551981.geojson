@@ -1,0 +1,61 @@
+{
+  "id": 1209551981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02482,9.81579,39.02482,9.81579",
+    "geom:latitude":9.81579,
+    "geom:longitude":39.02482,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yetnora",
+    "gn:country_code":"ET",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325836,
+    "gn:latitude":9.81579,
+    "gn:longitude":39.02482,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Yetnora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325836
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5b1a47c820d1b969fbe2e89a61b9db0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209551981
+        }
+    ],
+    "wof:id":1209551981,
+    "wof:lastmodified":1536283664,
+    "wof:name":"Yetnora",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02482,
+    9.81579,
+    39.02482,
+    9.81579
+],
+  "geometry": {"coordinates":[39.02482,9.81579],"type":"Point"}
+}

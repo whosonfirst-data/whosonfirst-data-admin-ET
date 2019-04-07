@@ -1,0 +1,67 @@
+{
+  "id": 1310439737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48333,8.78333,40.48333,8.78333",
+    "geom:latitude":8.78333,
+    "geom:longitude":40.48333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dereku",
+    "gn:country_code":"ET",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339269,
+    "gn:latitude":8.78333,
+    "gn:longitude":40.48333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dereku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339269
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9a78c866929bb0c6cfcea54c05b40e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1310439737,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310439737,
+    "wof:lastmodified":1537011164,
+    "wof:name":"Dereku",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48333,
+    8.78333,
+    40.48333,
+    8.78333
+],
+  "geometry": {"coordinates":[40.48333,8.78333],"type":"Point"}
+}

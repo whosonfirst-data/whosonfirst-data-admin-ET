@@ -1,0 +1,61 @@
+{
+  "id": 1209451915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17515,9.98054,39.17515,9.98054",
+    "geom:latitude":9.98054,
+    "geom:longitude":39.17515,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gebeya Mewaya",
+    "gn:country_code":"ET",
+    "gn:dem":2631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337171,
+    "gn:latitude":9.98054,
+    "gn:longitude":39.17515,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gebeya Mewaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337171
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"db27873ac36f8c960be9d8e8ee2fb212",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209451915
+        }
+    ],
+    "wof:id":1209451915,
+    "wof:lastmodified":1536286646,
+    "wof:name":"Gebeya Mewaya",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17515,
+    9.98054,
+    39.17515,
+    9.98054
+],
+  "geometry": {"coordinates":[39.17515,9.98054],"type":"Point"}
+}

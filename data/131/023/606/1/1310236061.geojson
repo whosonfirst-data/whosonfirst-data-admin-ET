@@ -1,0 +1,67 @@
+{
+  "id": 1310236061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96698,4.46751,42.96698,4.46751",
+    "geom:latitude":4.46751,
+    "geom:longitude":42.96698,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bur Geldel",
+    "gn:country_code":"ET",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657532,
+    "gn:latitude":4.46751,
+    "gn:longitude":42.96698,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bur Geldel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657532
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"354615ebf38e6a91a71893a838e3de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1310236061,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310236061,
+    "wof:lastmodified":1536807890,
+    "wof:name":"Bur Geldel",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96698,
+    4.46751,
+    42.96698,
+    4.46751
+],
+  "geometry": {"coordinates":[42.96698,4.46751],"type":"Point"}
+}

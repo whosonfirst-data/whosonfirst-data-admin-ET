@@ -1,0 +1,67 @@
+{
+  "id": 1259720741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56762,10.9622,39.56762,10.9622",
+    "geom:latitude":10.9622,
+    "geom:longitude":39.56762,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Bolo",
+    "gn:country_code":"ET",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341779,
+    "gn:latitude":10.9622,
+    "gn:longitude":39.56762,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Bolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341779
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ee8c2c99822a8d273a68616ac0d586d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1259720741,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259720741,
+    "wof:lastmodified":1537012561,
+    "wof:name":"Bolo",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56762,
+    10.9622,
+    39.56762,
+    10.9622
+],
+  "geometry": {"coordinates":[39.56762,10.9622],"type":"Point"}
+}

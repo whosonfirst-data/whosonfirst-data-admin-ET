@@ -1,0 +1,67 @@
+{
+  "id": 1226079003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,12.46667,39.53333,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ch'elema Dur",
+    "gn:country_code":"ET",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340944,
+    "gn:latitude":12.46667,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Ch\u2019elema Dur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340944
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ee353a830463377a613bfea12f5bed8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1226079003,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226079003,
+    "wof:lastmodified":1536677283,
+    "wof:name":"Ch'elema Dur",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    12.46667,
+    39.53333,
+    12.46667
+],
+  "geometry": {"coordinates":[39.53333,12.46667],"type":"Point"}
+}

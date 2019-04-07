@@ -1,0 +1,72 @@
+{
+  "id": 1276802003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7208,9.67151,39.7208,9.67151",
+    "geom:latitude":9.67151,
+    "geom:longitude":39.7208,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Aba Wibe Ager",
+    "gn:country_code":"ET",
+    "gn:dem":3377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345848,
+    "gn:latitude":9.67151,
+    "gn:longitude":39.7208,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u0100ba Wib\u0113 \u0100ger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cundi",
+        "Gandi Ghior",
+        "\u0100ba Wib\u0113 \u0100ger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345848
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"653b4c72a8f1437f515a35e47a326d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276802003,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276802003,
+    "wof:lastmodified":1537622121,
+    "wof:name":"Aba Wibe Ager",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7208,
+    9.67151,
+    39.7208,
+    9.67151
+],
+  "geometry": {"coordinates":[39.7208,9.67151],"type":"Point"}
+}

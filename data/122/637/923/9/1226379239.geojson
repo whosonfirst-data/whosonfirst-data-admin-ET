@@ -1,0 +1,71 @@
+{
+  "id": 1226379239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3225,5.6223,35.3225,5.6223",
+    "geom:latitude":5.6223,
+    "geom:longitude":35.3225,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Chele",
+    "gn:country_code":"ET",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340966,
+    "gn:latitude":5.6223,
+    "gn:longitude":35.3225,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Chel\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chelle",
+        "Chel\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340966
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"80983c46b5d4f948ba7332f12c399854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1226379239,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1226379239,
+    "wof:lastmodified":1537622060,
+    "wof:name":"Chele",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3225,
+    5.6223,
+    35.3225,
+    5.6223
+],
+  "geometry": {"coordinates":[35.3225,5.6223],"type":"Point"}
+}

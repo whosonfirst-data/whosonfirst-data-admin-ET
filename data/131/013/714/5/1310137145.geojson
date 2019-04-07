@@ -1,0 +1,74 @@
+{
+  "id": 1310137145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.57368,10.75542,42.57368,10.75542",
+    "geom:latitude":10.75542,
+    "geom:longitude":42.57368,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Aysha",
+    "gn:country_code":"ET",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343017,
+    "gn:latitude":10.75542,
+    "gn:longitude":42.57368,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aysha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiscia",
+        "Ayshia",
+        "Aicha",
+        "Aisha",
+        "Aysha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343017
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"366f63b07b43919522a0a6992124ec8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1310137145,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310137145,
+    "wof:lastmodified":1537622086,
+    "wof:name":"Aysha",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.57368,
+    10.75542,
+    42.57368,
+    10.75542
+],
+  "geometry": {"coordinates":[42.57368,10.75542],"type":"Point"}
+}

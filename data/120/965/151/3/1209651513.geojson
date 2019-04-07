@@ -1,0 +1,61 @@
+{
+  "id": 1209651513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16883,13.42819,39.16883,13.42819",
+    "geom:latitude":13.42819,
+    "geom:longitude":39.16883,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bugaya",
+    "gn:country_code":"ET",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341512,
+    "gn:latitude":13.42819,
+    "gn:longitude":39.16883,
+    "gn:modification_date":"2008-02-26",
+    "gn:name":"Bugaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341512
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7c9abcde12121096a0df3063300578a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209651513
+        }
+    ],
+    "wof:id":1209651513,
+    "wof:lastmodified":1536280565,
+    "wof:name":"Bugaya",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16883,
+    13.42819,
+    39.16883,
+    13.42819
+],
+  "geometry": {"coordinates":[39.16883,13.42819],"type":"Point"}
+}

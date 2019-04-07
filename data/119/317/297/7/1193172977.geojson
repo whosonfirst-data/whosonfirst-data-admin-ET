@@ -1,0 +1,71 @@
+{
+  "id": 1193172977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31667,9.38333,37.31667,9.38333",
+    "geom:latitude":9.38333,
+    "geom:longitude":37.31667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kero",
+    "gn:country_code":"ET",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333242,
+    "gn:latitude":9.38333,
+    "gn:longitude":37.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carru",
+        "Kero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333242
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a02f898679473cba2db50224ca987fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1193172977,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1193172977,
+    "wof:lastmodified":1537621968,
+    "wof:name":"Kero",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31667,
+    9.38333,
+    37.31667,
+    9.38333
+],
+  "geometry": {"coordinates":[37.31667,9.38333],"type":"Point"}
+}

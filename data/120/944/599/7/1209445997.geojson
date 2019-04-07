@@ -1,0 +1,65 @@
+{
+  "id": 1209445997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46917,6.28806,43.46917,6.28806",
+    "geom:latitude":6.28806,
+    "geom:longitude":43.46917,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Hididelli",
+    "gn:country_code":"ET",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334738,
+    "gn:latitude":6.28806,
+    "gn:longitude":43.46917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hididelli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khididelli",
+        "Hididelli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334738
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"43d0dc06381b4e4f8c2d0a99d7800a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209445997
+        }
+    ],
+    "wof:id":1209445997,
+    "wof:lastmodified":1537621990,
+    "wof:name":"Hididelli",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46917,
+    6.28806,
+    43.46917,
+    6.28806
+],
+  "geometry": {"coordinates":[43.46917,6.28806],"type":"Point"}
+}

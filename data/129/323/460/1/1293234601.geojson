@@ -1,0 +1,71 @@
+{
+  "id": 1293234601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.34972,9.06417,42.34972,9.06417",
+    "geom:latitude":9.06417,
+    "geom:longitude":42.34972,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mumed Hasen",
+    "gn:country_code":"ET",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330322,
+    "gn:latitude":9.06417,
+    "gn:longitude":42.34972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mumed H\u0101sen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumed-Khasen",
+        "Mumed H\u0101sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330322
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bda6db5890b3292e7323164f1126a40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1293234601,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293234601,
+    "wof:lastmodified":1537621936,
+    "wof:name":"Mumed Hasen",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.34972,
+    9.06417,
+    42.34972,
+    9.06417
+],
+  "geometry": {"coordinates":[42.34972,9.06417],"type":"Point"}
+}

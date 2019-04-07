@@ -1,0 +1,61 @@
+{
+  "id": 1209041705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75,8.05,39.75,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":39.75,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wereda Kula",
+    "gn:country_code":"ET",
+    "gn:dem":2544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326267,
+    "gn:latitude":8.05,
+    "gn:longitude":39.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wereda Kula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326267
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"00a608f11210b430f228e39814d14f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209041705
+        }
+    ],
+    "wof:id":1209041705,
+    "wof:lastmodified":1536299525,
+    "wof:name":"Wereda Kula",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75,
+    8.05,
+    39.75,
+    8.05
+],
+  "geometry": {"coordinates":[39.75,8.05],"type":"Point"}
+}

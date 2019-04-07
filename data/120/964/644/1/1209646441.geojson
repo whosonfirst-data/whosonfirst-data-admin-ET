@@ -1,0 +1,65 @@
+{
+  "id": 1209646441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90528,6.50139,44.90528,6.50139",
+    "geom:latitude":6.50139,
+    "geom:longitude":44.90528,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Uafdug",
+    "gn:country_code":"ET",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327104,
+    "gn:latitude":6.50139,
+    "gn:longitude":44.90528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uafdug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auafdug",
+        "Uafdug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327104
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f8a091db4429951cd7b94476ead11d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209646441
+        }
+    ],
+    "wof:id":1209646441,
+    "wof:lastmodified":1537621903,
+    "wof:name":"Uafdug",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90528,
+    6.50139,
+    44.90528,
+    6.50139
+],
+  "geometry": {"coordinates":[44.90528,6.50139],"type":"Point"}
+}

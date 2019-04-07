@@ -1,0 +1,67 @@
+{
+  "id": 1226479397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11839,9.0195,39.11839,9.0195",
+    "geom:latitude":9.0195,
+    "geom:longitude":39.11839,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wayu",
+    "gn:country_code":"ET",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326582,
+    "gn:latitude":9.0195,
+    "gn:longitude":39.11839,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Wayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326582
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c8eddd63db67c08f88e57411f921742f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1226479397,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226479397,
+    "wof:lastmodified":1537090300,
+    "wof:name":"Wayu",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11839000000001,
+    9.0195,
+    39.11839000000001,
+    9.0195
+],
+  "geometry": {"coordinates":[39.11839000000001,9.0195],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292934839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81667,9.3,38.81667,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":38.81667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sakela",
+    "gn:country_code":"ET",
+    "gn:dem":2968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329406,
+    "gn:latitude":9.3,
+    "gn:longitude":38.81667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Sakela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329406
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"40a2891cb1a27efb1c01cc9f38c47dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1292934839,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1292934839,
+    "wof:lastmodified":1537083790,
+    "wof:name":"Sakela",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81667,
+    9.3,
+    38.81667,
+    9.3
+],
+  "geometry": {"coordinates":[38.81667,9.3],"type":"Point"}
+}

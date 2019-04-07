@@ -1,0 +1,61 @@
+{
+  "id": 1209348975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24407,9.75836,39.24407,9.75836",
+    "geom:latitude":9.75836,
+    "geom:longitude":39.24407,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lench'a",
+    "gn:country_code":"ET",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332080,
+    "gn:latitude":9.75836,
+    "gn:longitude":39.24407,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"L\u0113nch\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332080
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"06305636c47a0f8ce5e82a61d417d73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209348975
+        }
+    ],
+    "wof:id":1209348975,
+    "wof:lastmodified":1536289812,
+    "wof:name":"Lench'a",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24407,
+    9.75836,
+    39.24407,
+    9.75836
+],
+  "geometry": {"coordinates":[39.24407,9.75836],"type":"Point"}
+}

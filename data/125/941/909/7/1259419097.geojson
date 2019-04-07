@@ -1,0 +1,72 @@
+{
+  "id": 1259419097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,6.11667,38.2,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":38.2,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Fisiha Genet'",
+    "gn:country_code":"ET",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337696,
+    "gn:latitude":6.11667,
+    "gn:longitude":38.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fisih\u0101 Genet\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiseha Genet",
+        "Fisiha Guennet",
+        "Fisih\u0101 Genet\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337696
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9943d6bf14f15947e72d85c747ed6762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204107,
+            "locality_id":1259419097,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1259419097,
+    "wof:lastmodified":1537622024,
+    "wof:name":"Fisiha Genet'",
+    "wof:parent_id":421204107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    6.11667,
+    38.2,
+    6.11667
+],
+  "geometry": {"coordinates":[38.2,6.11667],"type":"Point"}
+}

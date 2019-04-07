@@ -1,0 +1,67 @@
+{
+  "id": 1226178989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.94329,11.98678,40.94329,11.98678",
+    "geom:latitude":11.98678,
+    "geom:longitude":40.94329,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gewlo",
+    "gn:country_code":"ET",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336739,
+    "gn:latitude":11.98678,
+    "gn:longitude":40.94329,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Gewlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336739
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1e820717d26bcb1018f261a91f317802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1226178989,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1226178989,
+    "wof:lastmodified":1537028491,
+    "wof:name":"Gewlo",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.94329000000001,
+    11.98678,
+    40.94329000000001,
+    11.98678
+],
+  "geometry": {"coordinates":[40.94329000000001,11.98678],"type":"Point"}
+}

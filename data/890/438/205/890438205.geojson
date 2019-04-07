@@ -1,0 +1,106 @@
+{
+  "id": 890438205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.28289,14.10307,38.28289,14.10307",
+    "geom:latitude":14.10307,
+    "geom:longitude":38.28289,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":50078,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u12a5\u1295\u12f3\u1235\u120b\u1234"
+    ],
+    "name:dut_x_preferred":[
+        "Inda Selassie"
+    ],
+    "name:eng_x_preferred":[
+        "Shire"
+    ],
+    "name:fre_x_preferred":[
+        "Shire"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e8\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ec"
+    ],
+    "name:pol_x_preferred":[
+        "Shire"
+    ],
+    "name:rum_x_preferred":[
+        "Shire"
+    ],
+    "name:rus_x_preferred":[
+        "\u042b\u043d\u0434\u0430-\u0421\u044b\u043b\u043b\u0430\u0441\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Shire"
+    ],
+    "name:swe_x_preferred":[
+        "Inda Silas\u0113"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Enda Sellassie"
+    ],
+    "qs:name":"Inda Silas\u0113",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334227,
+        "gp:id":1482295,
+        "qs:id":124210,
+        "wd:id":"Q743859"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052184,
+    "wof:geomhash":"1ca36b679fe821bc335247fc4b04d949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":890438205,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":890438205,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Inda Silas\u0113",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:population":50078,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.28289,
+    14.10307,
+    38.28289,
+    14.10307
+],
+  "geometry": {"coordinates":[38.28289,14.10307],"type":"Point"}
+}

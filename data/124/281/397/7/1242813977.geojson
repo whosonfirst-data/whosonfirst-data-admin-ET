@@ -1,0 +1,72 @@
+{
+  "id": 1242813977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.15,6.08333,45.15,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":45.15,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Garasle",
+    "gn:country_code":"ET",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337309,
+    "gn:latitude":6.08333,
+    "gn:longitude":45.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garasle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ernune",
+        "Ermun",
+        "Garasle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337309
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3a57ace81db1038fff5e918cf863f0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1242813977,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1242813977,
+    "wof:lastmodified":1537622020,
+    "wof:name":"Garasle",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.15,
+    6.08333,
+    45.15,
+    6.08333
+],
+  "geometry": {"coordinates":[45.15,6.08333],"type":"Point"}
+}

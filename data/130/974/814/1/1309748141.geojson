@@ -1,0 +1,67 @@
+{
+  "id": 1309748141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81667,8.76667,40.81667,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":40.81667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Degaga",
+    "gn:country_code":"ET",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339609,
+    "gn:latitude":8.76667,
+    "gn:longitude":40.81667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Degaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339609
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"07075a9e587aa150ecc5c69b7f856c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1309748141,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309748141,
+    "wof:lastmodified":1537013503,
+    "wof:name":"Degaga",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81667,
+    8.76667,
+    40.81667,
+    8.76667
+],
+  "geometry": {"coordinates":[40.81667,8.76667],"type":"Point"}
+}

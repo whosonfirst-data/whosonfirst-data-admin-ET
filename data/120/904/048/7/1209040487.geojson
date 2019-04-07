@@ -1,0 +1,61 @@
+{
+  "id": 1209040487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07193,10.53697,39.07193,10.53697",
+    "geom:latitude":10.53697,
+    "geom:longitude":39.07193,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shafi",
+    "gn:country_code":"ET",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328728,
+    "gn:latitude":10.53697,
+    "gn:longitude":39.07193,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Shaf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328728
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f3b73c1454d0f0290cbb73ff489f8ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040487
+        }
+    ],
+    "wof:id":1209040487,
+    "wof:lastmodified":1536299561,
+    "wof:name":"Shafi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07193,
+    10.53697,
+    39.07193,
+    10.53697
+],
+  "geometry": {"coordinates":[39.07193,10.53697],"type":"Point"}
+}

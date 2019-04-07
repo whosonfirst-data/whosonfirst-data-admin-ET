@@ -1,0 +1,71 @@
+{
+  "id": 1243206267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,7.71667,39.55,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":39.55,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Moschea Osman",
+    "gn:country_code":"ET",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330430,
+    "gn:latitude":7.71667,
+    "gn:longitude":39.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moschea Osman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moschea",
+        "Moschea Osman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330430
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"662a34ccee62efff8d7dc53b7d19d636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1243206267,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243206267,
+    "wof:lastmodified":1537621938,
+    "wof:name":"Moschea Osman",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    7.71667,
+    39.55,
+    7.71667
+],
+  "geometry": {"coordinates":[39.55,7.71667],"type":"Point"}
+}

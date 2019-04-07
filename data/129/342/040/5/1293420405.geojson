@@ -1,0 +1,71 @@
+{
+  "id": 1293420405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,12.03333,37.0,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Siedever",
+    "gn:country_code":"ET",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328416,
+    "gn:latitude":12.03333,
+    "gn:longitude":37.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siedever",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidever",
+        "Siedever"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328416
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6ba1408e1d3c095c3b4154f7aa3fa749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1293420405,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1293420405,
+    "wof:lastmodified":1537621915,
+    "wof:name":"Siedever",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    12.03333,
+    37.0,
+    12.03333
+],
+  "geometry": {"coordinates":[37.0,12.03333],"type":"Point"}
+}

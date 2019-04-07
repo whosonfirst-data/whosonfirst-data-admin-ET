@@ -1,0 +1,71 @@
+{
+  "id": 1344087267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,13.86667,36.88333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":36.88333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Metemmeh",
+    "gn:country_code":"ET",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330788,
+    "gn:latitude":13.86667,
+    "gn:longitude":36.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Metemmeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metemmeli",
+        "Metemmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330788
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"49d0f787632e3dfb35b36795b658f10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1344087267,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1344087267,
+    "wof:lastmodified":1537621942,
+    "wof:name":"Metemmeh",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    13.86667,
+    36.88333,
+    13.86667
+],
+  "geometry": {"coordinates":[36.88333,13.86667],"type":"Point"}
+}

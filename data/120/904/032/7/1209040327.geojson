@@ -1,0 +1,61 @@
+{
+  "id": 1209040327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21667,8.98333,35.21667,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":35.21667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Oghiol",
+    "gn:country_code":"ET",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329929,
+    "gn:latitude":8.98333,
+    "gn:longitude":35.21667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Oghiol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329929
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ca9c057f438b731d4339fd732d12bb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040327
+        }
+    ],
+    "wof:id":1209040327,
+    "wof:lastmodified":1536299566,
+    "wof:name":"Oghiol",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21667,
+    8.98333,
+    35.21667,
+    8.98333
+],
+  "geometry": {"coordinates":[35.21667,8.98333],"type":"Point"}
+}

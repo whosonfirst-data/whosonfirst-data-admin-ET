@@ -1,0 +1,67 @@
+{
+  "id": 1243002745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66667,9.03333,36.66667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":36.66667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gimata",
+    "gn:country_code":"ET",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336502,
+    "gn:latitude":9.03333,
+    "gn:longitude":36.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gimata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336502
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1e5a304c60a597d23d7a403e26f4242e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1243002745,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243002745,
+    "wof:lastmodified":1536948646,
+    "wof:name":"Gimata",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66667,
+    9.03333,
+    36.66667,
+    9.03333
+],
+  "geometry": {"coordinates":[36.66667,9.03333],"type":"Point"}
+}

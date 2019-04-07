@@ -1,0 +1,67 @@
+{
+  "id": 1209851399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54556,5.3875,44.54556,5.3875",
+    "geom:latitude":5.3875,
+    "geom:longitude":44.54556,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Roblei",
+    "gn:country_code":"ET",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311152,
+    "gn:latitude":5.3875,
+    "gn:longitude":44.54556,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Roblei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311152
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5a02bba599a57c06349e05845e1e9d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1209851399,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1209851399,
+    "wof:lastmodified":1536388264,
+    "wof:name":"Roblei",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54556,
+    5.3875,
+    44.54556,
+    5.3875
+],
+  "geometry": {"coordinates":[44.54556,5.3875],"type":"Point"}
+}

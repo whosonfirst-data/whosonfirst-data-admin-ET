@@ -1,0 +1,73 @@
+{
+  "id": 421204415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"38.220062,13.469763,38.220062,13.469763",
+    "geom:latitude":13.469763,
+    "geom:longitude":38.220062,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mirabawi",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Tigray",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":201,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1307291,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017425,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017425,
+        "qs:id":1307291
+    },
+    "wof:country":"ET",
+    "wof:created":1459010185,
+    "wof:geomhash":"a4bf120d944c032fc35e63acd957696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204415,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421204415,
+    "wof:lastmodified":1474500851,
+    "wof:name":"Mirabawi",
+    "wof:parent_id":85671121,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.220062,
+    13.469763,
+    38.220062,
+    13.469763
+],
+  "geometry": {"coordinates":[38.220062,13.469763],"type":"Point"}
+}

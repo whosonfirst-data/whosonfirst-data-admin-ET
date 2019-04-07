@@ -1,0 +1,74 @@
+{
+  "id": 1344091355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05279,3.54092,39.05279,3.54092",
+    "geom:latitude":3.54092,
+    "geom:longitude":39.05279,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Moyale",
+    "gn:country_code":"ET",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330415,
+    "gn:latitude":3.54092,
+    "gn:longitude":39.05279,
+    "gn:modification_date":"2014-05-28",
+    "gn:name":"Moyale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyal\u0113"
+    ],
+    "name:und_x_variant":[
+        "Moiale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330415,
+        "wk:page":"Moyale"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f551b1441d2f2b001a164dd1389de8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1344091355,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1344091355,
+    "wof:lastmodified":1537621937,
+    "wof:name":"Moyale",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05279,
+    3.54092,
+    39.05279,
+    3.54092
+],
+  "geometry": {"coordinates":[39.05279,3.54092],"type":"Point"}
+}

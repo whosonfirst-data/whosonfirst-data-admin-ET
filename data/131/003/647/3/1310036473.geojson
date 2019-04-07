@@ -1,0 +1,67 @@
+{
+  "id": 1310036473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78333,11.43333,39.78333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":39.78333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gelana",
+    "gn:country_code":"ET",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337043,
+    "gn:latitude":11.43333,
+    "gn:longitude":39.78333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Gelana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337043
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"606d863967952d135c38c715daacb8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1310036473,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310036473,
+    "wof:lastmodified":1537092886,
+    "wof:name":"Gelana",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78333,
+    11.43333,
+    39.78333,
+    11.43333
+],
+  "geometry": {"coordinates":[39.78333,11.43333],"type":"Point"}
+}

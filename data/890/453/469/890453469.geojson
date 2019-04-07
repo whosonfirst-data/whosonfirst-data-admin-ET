@@ -1,0 +1,78 @@
+{
+  "id": 890453469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1,9.21667,41.1,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":41.1,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":12295,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hirna"
+    ],
+    "name:eng_x_preferred":[
+        "Hirna"
+    ],
+    "name:swe_x_preferred":[
+        "H\u012brna"
+    ],
+    "qs:name":"H\u012brna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":376,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334700,
+        "gp:id":1317206,
+        "qs:id":124212,
+        "wd:id":"Q5769883",
+        "wk:page":"Hirna"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052855,
+    "wof:geomhash":"3275e36d29b8fd740626621471bff5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":890453469,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890453469,
+    "wof:lastmodified":1527736643,
+    "wof:name":"H\u012brna",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:population":12295,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1,
+    9.21667,
+    41.1,
+    9.21667
+],
+  "geometry": {"coordinates":[41.1,9.21667],"type":"Point"}
+}

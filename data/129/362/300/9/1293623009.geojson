@@ -1,0 +1,76 @@
+{
+  "id": 1293623009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34083,6.97444,45.34083,6.97444",
+    "geom:latitude":6.97444,
+    "geom:longitude":45.34083,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Warder",
+    "gn:country_code":"ET",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326282,
+    "gn:latitude":6.97444,
+    "gn:longitude":45.34083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Warder",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wardair",
+        "Wadere",
+        "Uardere",
+        "Werd\u0113r",
+        "Uorder",
+        "Warder"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326282,
+        "wk:page":"Werder%2C_Ethiopia"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6fe0253f8e0697a87360284198c20e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1293623009,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293623009,
+    "wof:lastmodified":1537621893,
+    "wof:name":"Warder",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34083,
+    6.97444,
+    45.34083,
+    6.97444
+],
+  "geometry": {"coordinates":[45.34083,6.97444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326564067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,8.56667,39.33333,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":39.33333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gedo",
+    "gn:country_code":"ET",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337084,
+    "gn:latitude":8.56667,
+    "gn:longitude":39.33333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"G\u0113do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337084
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a35f7873ce36560acb88c10db5df3d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1326564067,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326564067,
+    "wof:lastmodified":1536938859,
+    "wof:name":"Gedo",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    8.56667,
+    39.33333,
+    8.56667
+],
+  "geometry": {"coordinates":[39.33333,8.56667],"type":"Point"}
+}

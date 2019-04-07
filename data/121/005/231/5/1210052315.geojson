@@ -1,0 +1,71 @@
+{
+  "id": 1210052315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54139,6.05389,42.54139,6.05389",
+    "geom:latitude":6.05389,
+    "geom:longitude":42.54139,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Digibu",
+    "gn:country_code":"ET",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339042,
+    "gn:latitude":6.05389,
+    "gn:longitude":42.54139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Digibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Didzhibu",
+        "Digibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339042
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3e872093b14a0a44a368786af2da5855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1210052315,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1210052315,
+    "wof:lastmodified":1537622038,
+    "wof:name":"Digibu",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54139,
+    6.05389,
+    42.54139,
+    6.05389
+],
+  "geometry": {"coordinates":[42.54139,6.05389],"type":"Point"}
+}

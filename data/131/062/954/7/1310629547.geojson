@@ -1,0 +1,67 @@
+{
+  "id": 1310629547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48333,6.6,40.48333,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":40.48333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Haro Dibe",
+    "gn:country_code":"ET",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334945,
+    "gn:latitude":6.6,
+    "gn:longitude":40.48333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"H\u0101ro D\u012bb\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334945
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b3066b92e97c7bbba163310c65c00cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1310629547,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310629547,
+    "wof:lastmodified":1536738048,
+    "wof:name":"Haro Dibe",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48333,
+    6.6,
+    40.48333,
+    6.6
+],
+  "geometry": {"coordinates":[40.48333,6.6],"type":"Point"}
+}

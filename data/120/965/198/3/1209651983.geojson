@@ -1,0 +1,61 @@
+{
+  "id": 1209651983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21667,6.98333,37.21667,6.98333",
+    "geom:latitude":6.98333,
+    "geom:longitude":37.21667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Wishaye",
+    "gn:country_code":"ET",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326080,
+    "gn:latitude":6.98333,
+    "gn:longitude":37.21667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wishaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326080
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2f2ad5a740e7e432de6381d46da13407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209651983
+        }
+    ],
+    "wof:id":1209651983,
+    "wof:lastmodified":1536280550,
+    "wof:name":"Wishaye",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21667,
+    6.9833300000000005,
+    37.21667,
+    6.9833300000000005
+],
+  "geometry": {"coordinates":[37.21667,6.98333],"type":"Point"}
+}

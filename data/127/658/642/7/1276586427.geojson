@@ -1,0 +1,71 @@
+{
+  "id": 1276586427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,7.78333,37.2,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Cegalo Afata",
+    "gn:country_code":"ET",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341132,
+    "gn:latitude":7.78333,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cegalo Afata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afata",
+        "Cegalo Afata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341132
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4cba0529ae34c93c9194c2697359c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276586427,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276586427,
+    "wof:lastmodified":1537622063,
+    "wof:name":"Cegalo Afata",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    7.78333,
+    37.2,
+    7.78333
+],
+  "geometry": {"coordinates":[37.2,7.78333],"type":"Point"}
+}

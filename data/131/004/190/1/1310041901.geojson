@@ -1,0 +1,72 @@
+{
+  "id": 1310041901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36307,13.29486,39.36307,13.29486",
+    "geom:latitude":13.29486,
+    "geom:longitude":39.36307,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bets'wa`i",
+    "gn:country_code":"ET",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342213,
+    "gn:latitude":13.29486,
+    "gn:longitude":39.36307,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bets\u2019wa\u2018i",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bets\u2019wa\u2019l",
+        "Betsuoi",
+        "Bets\u2019wa\u2018i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342213
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1ea7058102136202a58fdb7bfb9cd0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1310041901,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1310041901,
+    "wof:lastmodified":1537622075,
+    "wof:name":"Bets'wa`i",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36307,
+    13.29486,
+    39.36307,
+    13.29486
+],
+  "geometry": {"coordinates":[39.36307,13.29486],"type":"Point"}
+}

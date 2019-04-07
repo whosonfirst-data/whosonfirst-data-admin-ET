@@ -1,0 +1,67 @@
+{
+  "id": 1276581785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35,7.35,40.35,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":40.35,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Accuba",
+    "gn:country_code":"ET",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345608,
+    "gn:latitude":7.35,
+    "gn:longitude":40.35,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Accuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345608
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"032233d58b3b8a127b5b23fc7696d212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1276581785,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276581785,
+    "wof:lastmodified":1536943975,
+    "wof:name":"Accuba",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35,
+    7.35,
+    40.35,
+    7.35
+],
+  "geometry": {"coordinates":[40.35,7.35],"type":"Point"}
+}

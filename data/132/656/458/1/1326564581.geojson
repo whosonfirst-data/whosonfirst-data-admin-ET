@@ -1,0 +1,71 @@
+{
+  "id": 1326564581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4,7.53333,34.4,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":34.4,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Garri",
+    "gn:country_code":"ET",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337258,
+    "gn:latitude":7.53333,
+    "gn:longitude":34.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gherri",
+        "Garri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421200427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337258
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"296018949aabb06ebddb43fbb2193644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200427,
+            "locality_id":1326564581,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1326564581,
+    "wof:lastmodified":1537622020,
+    "wof:name":"Garri",
+    "wof:parent_id":421200427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4,
+    7.53333,
+    34.4,
+    7.53333
+],
+  "geometry": {"coordinates":[34.4,7.53333],"type":"Point"}
+}

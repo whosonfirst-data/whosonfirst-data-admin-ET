@@ -1,0 +1,67 @@
+{
+  "id": 1310535277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.92183,10.46439,39.92183,10.46439",
+    "geom:latitude":10.46439,
+    "geom:longitude":39.92183,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Birbira",
+    "gn:country_code":"ET",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342054,
+    "gn:latitude":10.46439,
+    "gn:longitude":39.92183,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Birbira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342054
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fc5c67cb5d038a4ad866fb82cf03b918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695203,
+            "locality_id":1310535277,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310535277,
+    "wof:lastmodified":1536873002,
+    "wof:name":"Birbira",
+    "wof:parent_id":1108695203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.92183,
+    10.46439,
+    39.92183,
+    10.46439
+],
+  "geometry": {"coordinates":[39.92183,10.46439],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327167641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.8,9.75,38.8,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":38.8,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Shinkurt",
+    "gn:country_code":"ET",
+    "gn:dem":2593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328533,
+    "gn:latitude":9.75,
+    "gn:longitude":38.8,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Shinkurt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328533
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"45665f2c6c2c3e843dc47cad71df559b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1327167641,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327167641,
+    "wof:lastmodified":1537060509,
+    "wof:name":"Shinkurt",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.8,
+    9.75,
+    38.8,
+    9.75
+],
+  "geometry": {"coordinates":[38.8,9.75],"type":"Point"}
+}

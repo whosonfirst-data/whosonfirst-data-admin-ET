@@ -1,0 +1,67 @@
+{
+  "id": 1293035023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,4.68333,37.55,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Carraiu",
+    "gn:country_code":"ET",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341168,
+    "gn:latitude":4.68333,
+    "gn:longitude":37.55,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Carraiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341168
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"45477126a74f90ecba47a3c606c4b6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1293035023,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293035023,
+    "wof:lastmodified":1536942996,
+    "wof:name":"Carraiu",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    4.68333,
+    37.55,
+    4.68333
+],
+  "geometry": {"coordinates":[37.55,4.68333],"type":"Point"}
+}

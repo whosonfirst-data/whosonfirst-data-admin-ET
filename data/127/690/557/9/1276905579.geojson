@@ -1,0 +1,67 @@
+{
+  "id": 1276905579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38333,9.9,38.38333,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":38.38333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'efe Dadi",
+    "gn:country_code":"ET",
+    "gn:dem":2395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340994,
+    "gn:latitude":9.9,
+    "gn:longitude":38.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ch\u2019ef\u0113 Dad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340994
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ba703f5e0f705aa7a084e27614e98ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1276905579,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276905579,
+    "wof:lastmodified":1537006206,
+    "wof:name":"Ch'efe Dadi",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38333,
+    9.9,
+    38.38333,
+    9.9
+],
+  "geometry": {"coordinates":[38.38333,9.9],"type":"Point"}
+}

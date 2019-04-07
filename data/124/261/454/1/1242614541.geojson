@@ -1,0 +1,67 @@
+{
+  "id": 1242614541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.93333,7.65,36.93333,7.65",
+    "geom:latitude":7.65,
+    "geom:longitude":36.93333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Camo",
+    "gn:country_code":"ET",
+    "gn:dem":1798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341207,
+    "gn:latitude":7.65,
+    "gn:longitude":36.93333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Camo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341207
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0d6b679e58e896e377fa5ec16f5f5a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1242614541,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242614541,
+    "wof:lastmodified":1537009664,
+    "wof:name":"Camo",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.93333,
+    7.65,
+    36.93333,
+    7.65
+],
+  "geometry": {"coordinates":[36.93333,7.65],"type":"Point"}
+}

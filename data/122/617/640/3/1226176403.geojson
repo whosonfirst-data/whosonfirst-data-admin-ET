@@ -1,0 +1,67 @@
+{
+  "id": 1226176403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65763,8.22879,33.65763,8.22879",
+    "geom:latitude":8.22879,
+    "geom:longitude":33.65763,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Uoat",
+    "gn:country_code":"ET",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392153,
+    "gn:latitude":8.22879,
+    "gn:longitude":33.65763,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Uoat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392153
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"727175a9dc13e5028c0e199051abc993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1226176403,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1226176403,
+    "wof:lastmodified":1537032126,
+    "wof:name":"Uoat",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65763,
+    8.22879,
+    33.65763,
+    8.22879
+],
+  "geometry": {"coordinates":[33.65763,8.22879],"type":"Point"}
+}

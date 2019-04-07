@@ -1,0 +1,67 @@
+{
+  "id": 1226273677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46154,10.98086,39.46154,10.98086",
+    "geom:latitude":10.98086,
+    "geom:longitude":39.46154,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Side Ager",
+    "gn:country_code":"ET",
+    "gn:dem":3560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328430,
+    "gn:latitude":10.98086,
+    "gn:longitude":39.46154,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"S\u012bd\u0113 \u0100ger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328430
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"da6f7dac1f9e3e3a6b05eb3a41fd9f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1226273677,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226273677,
+    "wof:lastmodified":1536893150,
+    "wof:name":"Side Ager",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46154,
+    10.98086,
+    39.46154,
+    10.98086
+],
+  "geometry": {"coordinates":[39.46154,10.98086],"type":"Point"}
+}

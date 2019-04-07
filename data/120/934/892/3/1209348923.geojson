@@ -1,0 +1,61 @@
+{
+  "id": 1209348923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01864,13.2495,40.01864,13.2495",
+    "geom:latitude":13.2495,
+    "geom:longitude":40.01864,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Sasso-Dakha",
+    "gn:country_code":"ET",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8333371,
+    "gn:latitude":13.2495,
+    "gn:longitude":40.01864,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sasso-Dakha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333371
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ba5de7ca117857822c9fc11a5ff04fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209348923
+        }
+    ],
+    "wof:id":1209348923,
+    "wof:lastmodified":1536289813,
+    "wof:name":"Sasso-Dakha",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01864000000001,
+    13.2495,
+    40.01864000000001,
+    13.2495
+],
+  "geometry": {"coordinates":[40.01864000000001,13.2495],"type":"Point"}
+}

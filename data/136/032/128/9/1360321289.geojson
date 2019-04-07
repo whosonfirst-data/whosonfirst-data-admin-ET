@@ -1,0 +1,71 @@
+{
+  "id": 1360321289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19768,8.1841,33.19768,8.1841",
+    "geom:latitude":8.1841,
+    "geom:longitude":33.19768,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mading",
+    "gn:country_code":"ET",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331803,
+    "gn:latitude":8.1841,
+    "gn:longitude":33.19768,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mading",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madaino",
+        "Mading"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331803
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7bf9ec015d8f0e63cb0c3e33f40f911e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1360321289,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1360321289,
+    "wof:lastmodified":1537621954,
+    "wof:name":"Mading",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19768,
+    8.1841,
+    33.19768,
+    8.1841
+],
+  "geometry": {"coordinates":[33.19768,8.1841],"type":"Point"}
+}

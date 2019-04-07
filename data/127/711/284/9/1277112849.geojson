@@ -1,0 +1,67 @@
+{
+  "id": 1277112849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25,13.88333,37.25,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":37.25,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ad Aguori",
+    "gn:country_code":"ET",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345526,
+    "gn:latitude":13.88333,
+    "gn:longitude":37.25,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ad Aguori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345526
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76c4a1191c7c24c3708f06c09752ec5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1277112849,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1277112849,
+    "wof:lastmodified":1536724538,
+    "wof:name":"Ad Aguori",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25,
+    13.88333,
+    37.25,
+    13.88333
+],
+  "geometry": {"coordinates":[37.25,13.88333],"type":"Point"}
+}

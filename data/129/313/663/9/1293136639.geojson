@@ -1,0 +1,67 @@
+{
+  "id": 1293136639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,9.4,35.23333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":35.23333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Giru",
+    "gn:country_code":"ET",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336389,
+    "gn:latitude":9.4,
+    "gn:longitude":35.23333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"G\u012bru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336389
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"53237cbfaaefb8c01e23d04242f3df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1293136639,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293136639,
+    "wof:lastmodified":1536796086,
+    "wof:name":"Giru",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    9.4,
+    35.23333,
+    9.4
+],
+  "geometry": {"coordinates":[35.23333,9.4],"type":"Point"}
+}

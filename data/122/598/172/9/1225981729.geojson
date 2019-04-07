@@ -1,0 +1,72 @@
+{
+  "id": 1225981729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,6.9,37.86667,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":37.86667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Delbu",
+    "gn:country_code":"ET",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339513,
+    "gn:latitude":6.9,
+    "gn:longitude":37.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Delbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalbo",
+        "Dalbu",
+        "Delbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339513
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"63bd55c8e763ef8832698be71d9a83ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695237,
+            "locality_id":1225981729,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1225981729,
+    "wof:lastmodified":1537622044,
+    "wof:name":"Delbu",
+    "wof:parent_id":1108695237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    6.9,
+    37.86667,
+    6.9
+],
+  "geometry": {"coordinates":[37.86667,6.9],"type":"Point"}
+}

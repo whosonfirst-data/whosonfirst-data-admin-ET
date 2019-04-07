@@ -1,0 +1,75 @@
+{
+  "id": 421184739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.207702,10.05067,38.207702,10.05067",
+    "geom:latitude":10.05067,
+    "geom:longitude":38.207702,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Golje Giyorgis Bete Kiristyan",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Oromia",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1006028,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1316636,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1316636,
+        "qs:id":1006028
+    },
+    "wof:country":"ET",
+    "wof:created":1459009421,
+    "wof:geomhash":"7cd76087a286f5e0ba248045df16df21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":421184739,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":421184739,
+    "wof:lastmodified":1499977592,
+    "wof:name":"Golje Giyorgis Bete Kiristyan",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.207702,
+    10.05067,
+    38.207702,
+    10.05067
+],
+  "geometry": {"coordinates":[38.207702,10.05067],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242613423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.27715,9.17307,41.27715,9.17307",
+    "geom:latitude":9.17307,
+    "geom:longitude":41.27715,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ahmed Abdule",
+    "gn:country_code":"ET",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344539,
+    "gn:latitude":9.17307,
+    "gn:longitude":41.27715,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"\u0100hmed \u0100bdul\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344539
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"737f746e865473e2e6cec479bc2035b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1242613423,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242613423,
+    "wof:lastmodified":1537011324,
+    "wof:name":"Ahmed Abdule",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.27715,
+    9.17307,
+    41.27715,
+    9.17307
+],
+  "geometry": {"coordinates":[41.27715,9.17307],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327167943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,8.2,35.33333,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":35.33333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Abiyu",
+    "gn:country_code":"ET",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345726,
+    "gn:latitude":8.2,
+    "gn:longitude":35.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100b\u012byu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abiu",
+        "\u0100b\u012byu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345726
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0092b8a9f968860b79a4b03ea408617c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1327167943,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327167943,
+    "wof:lastmodified":1537622119,
+    "wof:name":"Abiyu",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    8.2,
+    35.33333,
+    8.2
+],
+  "geometry": {"coordinates":[35.33333,8.2],"type":"Point"}
+}

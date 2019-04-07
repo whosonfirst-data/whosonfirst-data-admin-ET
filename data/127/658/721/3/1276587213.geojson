@@ -1,0 +1,71 @@
+{
+  "id": 1276587213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16667,8.56667,39.16667,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":39.16667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"T'ede",
+    "gn:country_code":"ET",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327854,
+    "gn:latitude":8.56667,
+    "gn:longitude":39.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019ede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadde Mariam",
+        "T\u2019ede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327854
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"711e7128d386e7d95f7aff4027083621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1276587213,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276587213,
+    "wof:lastmodified":1537621910,
+    "wof:name":"T'ede",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16667,
+    8.56667,
+    39.16667,
+    8.56667
+],
+  "geometry": {"coordinates":[39.16667,8.56667],"type":"Point"}
+}

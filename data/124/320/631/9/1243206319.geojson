@@ -1,0 +1,67 @@
+{
+  "id": 1243206319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55,9.86667,38.55,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":38.55,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ejere Bonja",
+    "gn:country_code":"ET",
+    "gn:dem":2794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338293,
+    "gn:latitude":9.86667,
+    "gn:longitude":38.55,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0112j\u0113r\u0113 Bonja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338293
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ff3642b8dbe6c9ceb1fe88ce3c7968a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1243206319,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243206319,
+    "wof:lastmodified":1536654843,
+    "wof:name":"Ejere Bonja",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55,
+    9.86667,
+    38.55,
+    9.86667
+],
+  "geometry": {"coordinates":[38.55,9.86667],"type":"Point"}
+}

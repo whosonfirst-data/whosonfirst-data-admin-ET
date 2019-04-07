@@ -1,0 +1,102 @@
+{
+  "id": 890431135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.54222,12.7875,39.54222,12.7875",
+    "geom:latitude":12.7875,
+    "geom:longitude":39.54222,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":27186,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u121b\u12ed\u1328\u12cd"
+    ],
+    "name:dut_x_preferred":[
+        "Maychew"
+    ],
+    "name:eng_x_preferred":[
+        "Maychew"
+    ],
+    "name:fre_x_preferred":[
+        "Maychew"
+    ],
+    "name:ita_x_preferred":[
+        "Mai Ceu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a4\u30c1\u30e5\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Majczeu"
+    ],
+    "name:rum_x_preferred":[
+        "Maychew"
+    ],
+    "name:spa_x_preferred":[
+        "Mai Ceu"
+    ],
+    "name:swe_x_preferred":[
+        "Maych'ew"
+    ],
+    "name:unk_x_variant":[
+        "Maych\u2019awu"
+    ],
+    "qs:name":"Maych\u2019ew",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331416,
+        "gp:id":1318649,
+        "qs:id":124196,
+        "wd:id":"Q3111786",
+        "wk:page":"Maychew"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051879,
+    "wof:geomhash":"8b51ff1367160fb325a9985c249aceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":890431135,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":890431135,
+    "wof:lastmodified":1527735407,
+    "wof:name":"Maych\u2019ew",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:population":27186,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.54222,
+    12.7875,
+    39.54222,
+    12.7875
+],
+  "geometry": {"coordinates":[39.54222,12.7875],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310141707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67222,14.30389,38.67222,14.30389",
+    "geom:latitude":14.30389,
+    "geom:longitude":38.67222,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Alele",
+    "gn:country_code":"ET",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345299,
+    "gn:latitude":14.30389,
+    "gn:longitude":38.67222,
+    "gn:modification_date":"2008-03-25",
+    "gn:name":"Adi Alele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345299
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3efa1335511364df5250114e8df905e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1310141707,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1310141707,
+    "wof:lastmodified":1536944752,
+    "wof:name":"Adi Alele",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67222,
+    14.30389,
+    38.67222,
+    14.30389
+],
+  "geometry": {"coordinates":[38.67222,14.30389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310339527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,10.01667,36.9,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Daru",
+    "gn:country_code":"ET",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339889,
+    "gn:latitude":10.01667,
+    "gn:longitude":36.9,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Daru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339889
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65bd24ff60b36f8d3762ac73e074a9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1310339527,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310339527,
+    "wof:lastmodified":1536658981,
+    "wof:name":"Daru",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    10.01667,
+    36.9,
+    10.01667
+],
+  "geometry": {"coordinates":[36.9,10.01667],"type":"Point"}
+}

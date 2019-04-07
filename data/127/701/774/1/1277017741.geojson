@@ -1,0 +1,71 @@
+{
+  "id": 1277017741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.44534,9.6806,41.44534,9.6806",
+    "geom:latitude":9.6806,
+    "geom:longitude":41.44534,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Ocfale",
+    "gn:country_code":"ET",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329995,
+    "gn:latitude":9.6806,
+    "gn:longitude":41.44534,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ocfale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okfale",
+        "Ocfale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329995
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dbb3ac46bb23f185f5498832f0e59c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1277017741,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1277017741,
+    "wof:lastmodified":1537621932,
+    "wof:name":"Ocfale",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.44534,
+    9.6806,
+    41.44534,
+    9.6806
+],
+  "geometry": {"coordinates":[41.44534,9.6806],"type":"Point"}
+}

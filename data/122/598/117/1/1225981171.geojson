@@ -1,0 +1,67 @@
+{
+  "id": 1225981171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.755,14.299,39.755,14.299",
+    "geom:latitude":14.299,
+    "geom:longitude":39.755,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Maaw",
+    "gn:country_code":"ET",
+    "gn:dem":2389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6533838,
+    "gn:latitude":14.299,
+    "gn:longitude":39.755,
+    "gn:modification_date":"2007-05-04",
+    "gn:name":"Maaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6533838
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"52607d8d1b7bbbca4a78fa51adb28b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1225981171,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1225981171,
+    "wof:lastmodified":1536817276,
+    "wof:name":"Maaw",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.755,
+    14.299,
+    39.755,
+    14.299
+],
+  "geometry": {"coordinates":[39.755,14.299],"type":"Point"}
+}

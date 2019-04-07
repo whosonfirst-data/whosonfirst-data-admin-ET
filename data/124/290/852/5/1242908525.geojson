@@ -1,0 +1,67 @@
+{
+  "id": 1242908525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,13.33333,39.51667,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ma'ajeraro",
+    "gn:country_code":"ET",
+    "gn:dem":2334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331859,
+    "gn:latitude":13.33333,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Ma\u2019\u0101jeraro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331859
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c23dd11c986d875a01c608e27b1abd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1242908525,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1242908525,
+    "wof:lastmodified":1537080893,
+    "wof:name":"Ma'ajeraro",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    13.33333,
+    39.51667,
+    13.33333
+],
+  "geometry": {"coordinates":[39.51667,13.33333],"type":"Point"}
+}

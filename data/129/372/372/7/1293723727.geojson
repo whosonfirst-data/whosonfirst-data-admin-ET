@@ -1,0 +1,67 @@
+{
+  "id": 1293723727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7,11.4,37.7,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":37.7,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mech'o",
+    "gn:country_code":"ET",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331321,
+    "gn:latitude":11.4,
+    "gn:longitude":37.7,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"M\u0113ch\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331321
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a7dbb8d293a228a3bb0b4ed305f3d4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1293723727,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1293723727,
+    "wof:lastmodified":1536944365,
+    "wof:name":"Mech'o",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7,
+    11.4,
+    37.7,
+    11.4
+],
+  "geometry": {"coordinates":[37.7,11.4],"type":"Point"}
+}

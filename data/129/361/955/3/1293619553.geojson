@@ -1,0 +1,67 @@
+{
+  "id": 1293619553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80464,14.15156,38.80464,14.15156",
+    "geom:latitude":14.15156,
+    "geom:longitude":38.80464,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Enda Iyesus",
+    "gn:country_code":"ET",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743008,
+    "gn:latitude":14.15156,
+    "gn:longitude":38.80464,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Enda Iyesus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743008
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"316e43db90c5c3242dbf7c8224182769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1293619553,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293619553,
+    "wof:lastmodified":1537090747,
+    "wof:name":"Enda Iyesus",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80464,
+    14.15156,
+    38.80464,
+    14.15156
+],
+  "geometry": {"coordinates":[38.80464,14.15156],"type":"Point"}
+}

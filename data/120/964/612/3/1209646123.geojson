@@ -1,0 +1,65 @@
+{
+  "id": 1209646123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.83333,5.21667,39.83333,5.21667",
+    "geom:latitude":5.21667,
+    "geom:longitude":39.83333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kersa Dek",
+    "gn:country_code":"ET",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333224,
+    "gn:latitude":5.21667,
+    "gn:longitude":39.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kersa Dek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carsa Dek",
+        "Kersa Dek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333224
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d3fb188aab55e0fa8a0b22a073c223db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209646123
+        }
+    ],
+    "wof:id":1209646123,
+    "wof:lastmodified":1537621968,
+    "wof:name":"Kersa Dek",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.83333,
+    5.21667,
+    39.83333,
+    5.21667
+],
+  "geometry": {"coordinates":[39.83333,5.21667],"type":"Point"}
+}

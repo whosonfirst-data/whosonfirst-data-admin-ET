@@ -1,0 +1,71 @@
+{
+  "id": 1276589725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1444,10.35856,39.1444,10.35856",
+    "geom:latitude":10.35856,
+    "geom:longitude":39.1444,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Beha",
+    "gn:country_code":"ET",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342525,
+    "gn:latitude":10.35856,
+    "gn:longitude":39.1444,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Beha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bena",
+        "Beha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342525
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"10507b1239b5953fbf3d1375eeed60e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1276589725,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276589725,
+    "wof:lastmodified":1537622080,
+    "wof:name":"Beha",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1444,
+    10.35856,
+    39.1444,
+    10.35856
+],
+  "geometry": {"coordinates":[39.1444,10.35856],"type":"Point"}
+}

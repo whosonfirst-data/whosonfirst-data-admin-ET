@@ -1,0 +1,67 @@
+{
+  "id": 1259702329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76303,9.00221,38.76303,9.00221",
+    "geom:latitude":9.00221,
+    "geom:longitude":38.76303,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kirkos",
+    "gn:country_code":"ET",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237571,
+    "gn:latitude":9.00221,
+    "gn:longitude":38.76303,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kirkos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149,
+        1108695113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237571
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fc56280c25eb72170193e26fca6d8570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695113,
+            "locality_id":1259702329,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1259702329,
+    "wof:lastmodified":1537038253,
+    "wof:name":"Kirkos",
+    "wof:parent_id":1108695113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76303,
+    9.00221,
+    38.76303,
+    9.00221
+],
+  "geometry": {"coordinates":[38.76303,9.00221],"type":"Point"}
+}

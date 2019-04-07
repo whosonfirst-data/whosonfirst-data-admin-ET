@@ -1,0 +1,71 @@
+{
+  "id": 1210047191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48402,13.68299,39.48402,13.68299",
+    "geom:latitude":13.68299,
+    "geom:longitude":39.48402,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Kuhila",
+    "gn:country_code":"ET",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332570,
+    "gn:latitude":13.68299,
+    "gn:longitude":39.48402,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuhila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukhila",
+        "Kuhila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332570
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b2d8cff4013ea20fae0b731b347afbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1210047191,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1210047191,
+    "wof:lastmodified":1537621962,
+    "wof:name":"Kuhila",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48402,
+    13.68299,
+    39.48402,
+    13.68299
+],
+  "geometry": {"coordinates":[39.48402,13.68299],"type":"Point"}
+}

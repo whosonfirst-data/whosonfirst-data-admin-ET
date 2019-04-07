@@ -1,0 +1,75 @@
+{
+  "id": 421178035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.376617,8.116079,38.376617,8.116079",
+    "geom:latitude":8.116079,
+    "geom:longitude":38.376617,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Butajera",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":34415,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1314560,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1314560,
+        "qs:id":34415
+    },
+    "wof:country":"ET",
+    "wof:created":1459009168,
+    "wof:geomhash":"079765bd46655f08a739851336d4b851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":421178035,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421178035,
+    "wof:lastmodified":1499977577,
+    "wof:name":"Butajera",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.376617,
+    8.116079,
+    38.376617,
+    8.116079
+],
+  "geometry": {"coordinates":[38.376617,8.116079],"type":"Point"}
+}

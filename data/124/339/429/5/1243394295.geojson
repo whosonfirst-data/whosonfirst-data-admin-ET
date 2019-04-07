@@ -1,0 +1,72 @@
+{
+  "id": 1243394295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5,9.53333,37.5,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":37.5,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kembolcha",
+    "gn:country_code":"ET",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333375,
+    "gn:latitude":9.53333,
+    "gn:longitude":37.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kembolcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Combolcia",
+        "Kombolcha",
+        "Kembolcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333375
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ab914eccc27720fe444161dd213b888f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1243394295,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243394295,
+    "wof:lastmodified":1537621969,
+    "wof:name":"Kembolcha",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5,
+    9.53333,
+    37.5,
+    9.53333
+],
+  "geometry": {"coordinates":[37.5,9.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193168545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.49613,14.10597,38.49613,14.10597",
+    "geom:latitude":14.10597,
+    "geom:longitude":38.49613,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ak'abi Se'at",
+    "gn:country_code":"ET",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344475,
+    "gn:latitude":14.10597,
+    "gn:longitude":38.49613,
+    "gn:modification_date":"2008-03-26",
+    "gn:name":"\u0100k\u2019ab\u012b Se\u2019\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344475
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"683af910c5d5e6a4014e4b09c64f810e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1193168545,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1193168545,
+    "wof:lastmodified":1536383009,
+    "wof:name":"Ak'abi Se'at",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.49613,
+    14.10597,
+    38.49613,
+    14.10597
+],
+  "geometry": {"coordinates":[38.49613,14.10597],"type":"Point"}
+}

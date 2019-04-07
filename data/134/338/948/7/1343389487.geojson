@@ -1,0 +1,67 @@
+{
+  "id": 1343389487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.38333,5.58333,40.38333,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":40.38333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Boi",
+    "gn:country_code":"ET",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341847,
+    "gn:latitude":5.58333,
+    "gn:longitude":40.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Boi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341847
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f20df47cdd4c072802ebac496db4db54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1343389487,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343389487,
+    "wof:lastmodified":1536847685,
+    "wof:name":"Boi",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.38333,
+    5.58333,
+    40.38333,
+    5.58333
+],
+  "geometry": {"coordinates":[40.38333,5.58333],"type":"Point"}
+}

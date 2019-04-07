@@ -1,0 +1,65 @@
+{
+  "id": 1209036171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21462,13.54901,39.21462,13.54901",
+    "geom:latitude":13.54901,
+    "geom:longitude":39.21462,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Da`irey Ch'alak'uy",
+    "gn:country_code":"ET",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340204,
+    "gn:latitude":13.54901,
+    "gn:longitude":39.21462,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Da\u2018ir\u0113y Ch\u2019alak\u2019uy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dairey Chalaliuy",
+        "Da\u2018ir\u0113y Ch\u2019alak\u2019uy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340204
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"abb3d9a8c66061cb32fee738cfa067b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209036171
+        }
+    ],
+    "wof:id":1209036171,
+    "wof:lastmodified":1537622052,
+    "wof:name":"Da`irey Ch'alak'uy",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21462,
+    13.54901,
+    39.21462,
+    13.54901
+],
+  "geometry": {"coordinates":[39.21462,13.54901],"type":"Point"}
+}

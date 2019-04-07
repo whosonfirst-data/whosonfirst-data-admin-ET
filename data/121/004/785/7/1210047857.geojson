@@ -1,0 +1,67 @@
+{
+  "id": 1210047857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65552,8.42901,33.65552,8.42901",
+    "geom:latitude":8.42901,
+    "geom:longitude":33.65552,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Daklek",
+    "gn:country_code":"ET",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392436,
+    "gn:latitude":8.42901,
+    "gn:longitude":33.65552,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Daklek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392436
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"352bc5c862a5023bdae5c9e31a1d37aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1210047857,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1210047857,
+    "wof:lastmodified":1536376936,
+    "wof:name":"Daklek",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65552,
+    8.42901,
+    33.65552,
+    8.42901
+],
+  "geometry": {"coordinates":[33.65552,8.42901],"type":"Point"}
+}

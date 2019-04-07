@@ -1,0 +1,67 @@
+{
+  "id": 1327165143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75,5.68333,37.75,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":37.75,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bonneia",
+    "gn:country_code":"ET",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341730,
+    "gn:latitude":5.68333,
+    "gn:longitude":37.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bonneia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341730
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d8f465547cf8edb6f70d604d0a09ecfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695129,
+            "locality_id":1327165143,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1327165143,
+    "wof:lastmodified":1537063963,
+    "wof:name":"Bonneia",
+    "wof:parent_id":1108695129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75,
+    5.68333,
+    37.75,
+    5.68333
+],
+  "geometry": {"coordinates":[37.75,5.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277113191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03333,8.66667,38.03333,8.66667",
+    "geom:latitude":8.66667,
+    "geom:longitude":38.03333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bebeli Kube",
+    "gn:country_code":"ET",
+    "gn:dem":2514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342611,
+    "gn:latitude":8.66667,
+    "gn:longitude":38.03333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bebel\u012b Kub\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342611
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"54a0c6202b4ad40460b1f2dd1a62879f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1277113191,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1277113191,
+    "wof:lastmodified":1536724020,
+    "wof:name":"Bebeli Kube",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03333,
+    8.66667,
+    38.03333,
+    8.66667
+],
+  "geometry": {"coordinates":[38.03333,8.66667],"type":"Point"}
+}

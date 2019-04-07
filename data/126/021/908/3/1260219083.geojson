@@ -1,0 +1,67 @@
+{
+  "id": 1260219083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43333,13.88333,38.43333,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":38.43333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Tocule",
+    "gn:country_code":"ET",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327445,
+    "gn:latitude":13.88333,
+    "gn:longitude":38.43333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Tocule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327445
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d395d6f970ce0da37b6a160bdc0100f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1260219083,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260219083,
+    "wof:lastmodified":1536799415,
+    "wof:name":"Tocule",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43333,
+    13.88333,
+    38.43333,
+    13.88333
+],
+  "geometry": {"coordinates":[38.43333,13.88333],"type":"Point"}
+}

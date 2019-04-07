@@ -1,0 +1,73 @@
+{
+  "id": 421172367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.293117,14.203151,39.293117,14.203151",
+    "geom:latitude":14.203151,
+    "geom:longitude":39.293117,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Misrakawi",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Tigray",
+    "qs:photos":471,
+    "qs:photos_1k":95,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":762,
+    "qs:photos_sr":7,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1307294,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017423,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017423,
+        "qs:id":1307294
+    },
+    "wof:country":"ET",
+    "wof:created":1459008937,
+    "wof:geomhash":"82dad42975d8b79022f6ab45220307a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421172367,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":421172367,
+    "wof:lastmodified":1474500845,
+    "wof:name":"Misrakawi",
+    "wof:parent_id":85671125,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.293117,
+    14.203151,
+    39.293117,
+    14.203151
+],
+  "geometry": {"coordinates":[39.293117,14.203151],"type":"Point"}
+}

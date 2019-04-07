@@ -1,0 +1,71 @@
+{
+  "id": 1343597955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,11.51667,39.23333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Babok'al",
+    "gn:country_code":"ET",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342959,
+    "gn:latitude":11.51667,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Babok\u2019al",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alebamba",
+        "Babok\u2019al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342959
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7bbb6541a491148a31dd785714d0aa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1343597955,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343597955,
+    "wof:lastmodified":1537622085,
+    "wof:name":"Babok'al",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    11.51667,
+    39.23333,
+    11.51667
+],
+  "geometry": {"coordinates":[39.23333,11.51667],"type":"Point"}
+}

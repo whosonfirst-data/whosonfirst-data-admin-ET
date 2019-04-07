@@ -1,0 +1,67 @@
+{
+  "id": 1293913857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17913,8.28936,33.17913,8.28936",
+    "geom:latitude":8.28936,
+    "geom:longitude":33.17913,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mangjang",
+    "gn:country_code":"ET",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331592,
+    "gn:latitude":8.28936,
+    "gn:longitude":33.17913,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mangjang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331592
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"27d77094024d3ecba68002760ebffe81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1293913857,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1293913857,
+    "wof:lastmodified":1536669660,
+    "wof:name":"Mangjang",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17913,
+    8.28936,
+    33.17913,
+    8.28936
+],
+  "geometry": {"coordinates":[33.17913,8.28936],"type":"Point"}
+}

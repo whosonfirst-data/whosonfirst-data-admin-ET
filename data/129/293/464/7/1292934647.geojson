@@ -1,0 +1,70 @@
+{
+  "id": 1292934647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63508,9.71214,39.63508,9.71214",
+    "geom:latitude":9.71214,
+    "geom:longitude":39.63508,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dinbar",
+    "gn:country_code":"ET",
+    "gn:dem":2875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338908,
+    "gn:latitude":9.71214,
+    "gn:longitude":39.63508,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Dinbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinbaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338908
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aabdb6510e47435fa92ee14ebbaa6795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1292934647,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1292934647,
+    "wof:lastmodified":1537622036,
+    "wof:name":"Dinbar",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63508,
+    9.71214,
+    39.63508,
+    9.71214
+],
+  "geometry": {"coordinates":[39.63508,9.71214],"type":"Point"}
+}

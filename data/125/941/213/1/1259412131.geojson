@@ -1,0 +1,71 @@
+{
+  "id": 1259412131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,10.96667,37.0,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Bezzena",
+    "gn:country_code":"ET",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342201,
+    "gn:latitude":10.96667,
+    "gn:longitude":37.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bezzena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazana",
+        "Bezzena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342201
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"910117223b5fbe69180a45f731cac7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695125,
+            "locality_id":1259412131,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259412131,
+    "wof:lastmodified":1537622075,
+    "wof:name":"Bezzena",
+    "wof:parent_id":1108695125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    10.96667,
+    37.0,
+    10.96667
+],
+  "geometry": {"coordinates":[37.0,10.96667],"type":"Point"}
+}

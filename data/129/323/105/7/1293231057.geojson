@@ -1,0 +1,67 @@
+{
+  "id": 1293231057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.63953,10.74317,42.63953,10.74317",
+    "geom:latitude":10.74317,
+    "geom:longitude":42.63953,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Mordale",
+    "gn:country_code":"ET",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330445,
+    "gn:latitude":10.74317,
+    "gn:longitude":42.63953,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Mordale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330445
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ca79a23178d64ebb30a6492480d512b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1293231057,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293231057,
+    "wof:lastmodified":1536659928,
+    "wof:name":"Mordale",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.63953,
+    10.74317,
+    42.63953,
+    10.74317
+],
+  "geometry": {"coordinates":[42.63953,10.74317],"type":"Point"}
+}

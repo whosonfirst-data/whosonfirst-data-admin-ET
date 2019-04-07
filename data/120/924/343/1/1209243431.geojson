@@ -1,0 +1,65 @@
+{
+  "id": 1209243431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18333,9.91667,36.18333,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":36.18333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Genji",
+    "gn:country_code":"ET",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336905,
+    "gn:latitude":9.91667,
+    "gn:longitude":36.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Genj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gootu",
+        "Genj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336905
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"00fb0b64135fac7ceb1366bc9c4f1d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209243431
+        }
+    ],
+    "wof:id":1209243431,
+    "wof:lastmodified":1537622016,
+    "wof:name":"Genji",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18333,
+    9.91667,
+    36.18333,
+    9.91667
+],
+  "geometry": {"coordinates":[36.18333,9.91667],"type":"Point"}
+}

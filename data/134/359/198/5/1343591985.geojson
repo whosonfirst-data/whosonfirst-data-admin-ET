@@ -1,0 +1,67 @@
+{
+  "id": 1343591985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12253,10.28838,39.12253,10.28838",
+    "geom:latitude":10.28838,
+    "geom:longitude":39.12253,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kerkere",
+    "gn:country_code":"ET",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333251,
+    "gn:latitude":10.28838,
+    "gn:longitude":39.12253,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Kerker\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333251
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"838469ce5462a9dfc841c40291a58cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1343591985,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343591985,
+    "wof:lastmodified":1537051820,
+    "wof:name":"Kerkere",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12253,
+    10.28838,
+    39.12253,
+    10.28838
+],
+  "geometry": {"coordinates":[39.12253,10.28838],"type":"Point"}
+}

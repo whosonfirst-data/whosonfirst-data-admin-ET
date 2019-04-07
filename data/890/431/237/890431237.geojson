@@ -1,0 +1,81 @@
+{
+  "id": 890431237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45,9.31667,41.45,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":41.45,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":8884,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Deder"
+    ],
+    "name:eng_x_preferred":[
+        "Deder"
+    ],
+    "name:swe_x_preferred":[
+        "Deder"
+    ],
+    "name:unk_x_variant":[
+        "Dadar"
+    ],
+    "qs:name":"Deder",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":207,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339629,
+        "gp:id":1315200,
+        "qs:id":274896,
+        "wd:id":"Q5249768",
+        "wk:page":"Deder"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051883,
+    "wof:geomhash":"539b89a9590055860ba46dc26ba937f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":890431237,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890431237,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Deder",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:population":8884,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45,
+    9.31667,
+    41.45,
+    9.31667
+],
+  "geometry": {"coordinates":[41.45,9.31667],"type":"Point"}
+}

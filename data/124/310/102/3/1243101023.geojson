@@ -1,0 +1,67 @@
+{
+  "id": 1243101023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3,6.13333,38.3,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":38.3,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Adido",
+    "gn:country_code":"ET",
+    "gn:dem":2744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345214,
+    "gn:latitude":6.13333,
+    "gn:longitude":38.3,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100d\u012bdo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345214
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"24b0de38c4f17c32f0738458184ccc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204107,
+            "locality_id":1243101023,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1243101023,
+    "wof:lastmodified":1536806248,
+    "wof:name":"Adido",
+    "wof:parent_id":421204107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3,
+    6.13333,
+    38.3,
+    6.13333
+],
+  "geometry": {"coordinates":[38.3,6.13333],"type":"Point"}
+}

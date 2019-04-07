@@ -1,0 +1,74 @@
+{
+  "id": 1259913885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,11.5,39.6,11.5",
+    "geom:latitude":11.5,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Wich'ale",
+    "gn:country_code":"ET",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326128,
+    "gn:latitude":11.5,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wich\u2019al\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuchale",
+        "Uccialli",
+        "Uchialli",
+        "Wich\u2019al\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326128,
+        "wk:page":"Wuchale"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7cfedea26025835ef21b1ae11cb4cf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1259913885,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259913885,
+    "wof:lastmodified":1537621892,
+    "wof:name":"Wich'ale",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    11.5,
+    39.6,
+    11.5
+],
+  "geometry": {"coordinates":[39.6,11.5],"type":"Point"}
+}

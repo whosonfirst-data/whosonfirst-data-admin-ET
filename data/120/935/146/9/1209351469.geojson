@@ -1,0 +1,61 @@
+{
+  "id": 1209351469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1,9.33333,37.1,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":37.1,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Beshe",
+    "gn:country_code":"ET",
+    "gn:dem":2522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342262,
+    "gn:latitude":9.33333,
+    "gn:longitude":37.1,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Besh\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342262
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0dc52b9750c1ffc4d2b0473a9f66adeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209351469
+        }
+    ],
+    "wof:id":1209351469,
+    "wof:lastmodified":1536289727,
+    "wof:name":"Beshe",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1,
+    9.33333,
+    37.1,
+    9.33333
+],
+  "geometry": {"coordinates":[37.1,9.33333],"type":"Point"}
+}

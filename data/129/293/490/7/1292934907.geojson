@@ -1,0 +1,72 @@
+{
+  "id": 1292934907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27467,13.46936,39.27467,13.46936",
+    "geom:latitude":13.46936,
+    "geom:longitude":39.27467,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi T'an",
+    "gn:country_code":"ET",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344919,
+    "gn:latitude":13.46936,
+    "gn:longitude":39.27467,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b T\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012b T\u2019ar",
+        "Addi Tar",
+        "\u0100d\u012b T\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344919
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"99c5f21154e0d63fd61ff5aebf199b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1292934907,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1292934907,
+    "wof:lastmodified":1537622107,
+    "wof:name":"Adi T'an",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27467,
+    13.46936,
+    39.27467,
+    13.46936
+],
+  "geometry": {"coordinates":[39.27467,13.46936],"type":"Point"}
+}

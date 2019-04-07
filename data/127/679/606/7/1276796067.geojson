@@ -1,0 +1,71 @@
+{
+  "id": 1276796067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53787,10.3014,39.53787,10.3014",
+    "geom:latitude":10.3014,
+    "geom:longitude":39.53787,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Tsekhay Guya",
+    "gn:country_code":"ET",
+    "gn:dem":2922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621435,
+    "gn:latitude":10.3014,
+    "gn:longitude":39.53787,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Tsekhay Guya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ts\u2019eh\u0101y Guya",
+        "Tsekhay Guya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621435
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fbdea7e9a4597bae33f8dcbce6087616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276796067,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276796067,
+    "wof:lastmodified":1537622127,
+    "wof:name":"Tsekhay Guya",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53787,
+    10.3014,
+    39.53787,
+    10.3014
+],
+  "geometry": {"coordinates":[39.53787,10.3014],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225978345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.60807,13.00788,39.60807,13.00788",
+    "geom:latitude":13.00788,
+    "geom:longitude":39.60807,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Debub",
+    "gn:country_code":"ET",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339654,
+    "gn:latitude":13.00788,
+    "gn:longitude":39.60807,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Debub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339654
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"986768323da89075a0786e94d8d01eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1225978345,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1225978345,
+    "wof:lastmodified":1536821448,
+    "wof:name":"Debub",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.60807,
+    13.00788,
+    39.60807,
+    13.00788
+],
+  "geometry": {"coordinates":[39.60807,13.00788],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193167685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17343,14.49721,39.17343,14.49721",
+    "geom:latitude":14.49721,
+    "geom:longitude":39.17343,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi K'elk'el",
+    "gn:country_code":"ET",
+    "gn:dem":2009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345057,
+    "gn:latitude":14.49721,
+    "gn:longitude":39.17343,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b K\u2019elk\u2019el",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012b K\u2019elk\u2019el (1)",
+        "Addi Kel'kel'",
+        "\u0100d\u012b K\u2019elk\u2019el"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345057
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4118615a485a39028d36af6c1b329dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1193167685,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1193167685,
+    "wof:lastmodified":1537622110,
+    "wof:name":"Adi K'elk'el",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17343,
+    14.49721,
+    39.17343,
+    14.49721
+],
+  "geometry": {"coordinates":[39.17343,14.49721],"type":"Point"}
+}

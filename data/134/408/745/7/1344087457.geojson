@@ -1,0 +1,71 @@
+{
+  "id": 1344087457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31667,9.98333,35.31667,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":35.31667,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Ionghi Superiore",
+    "gn:country_code":"ET",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334113,
+    "gn:latitude":9.98333,
+    "gn:longitude":35.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ionghi Superiore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upper Ionghi",
+        "Ionghi Superiore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334113
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4b651c4a5c803811d81d284672e799e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695179,
+            "locality_id":1344087457,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1344087457,
+    "wof:lastmodified":1537621980,
+    "wof:name":"Ionghi Superiore",
+    "wof:parent_id":1108695179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31667,
+    9.98333,
+    35.31667,
+    9.98333
+],
+  "geometry": {"coordinates":[35.31667,9.98333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209546087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.1,7.36667,37.1,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":37.1,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Diddibo",
+    "gn:country_code":"ET",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339095,
+    "gn:latitude":7.36667,
+    "gn:longitude":37.1,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Diddibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339095
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e4c6717ed174e9694753fb283ae088f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209546087
+        }
+    ],
+    "wof:id":1209546087,
+    "wof:lastmodified":1536283838,
+    "wof:name":"Diddibo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.1,
+    7.36667,
+    37.1,
+    7.36667
+],
+  "geometry": {"coordinates":[37.1,7.36667],"type":"Point"}
+}

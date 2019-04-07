@@ -1,0 +1,71 @@
+{
+  "id": 1260010865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85,8.75,39.85,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":39.85,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Goragussa",
+    "gn:country_code":"ET",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335967,
+    "gn:latitude":8.75,
+    "gn:longitude":39.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goragussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korogassa",
+        "Goragussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335967
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7da59ca7536cb3ebbe91bf55c9e7ed66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1260010865,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260010865,
+    "wof:lastmodified":1537622004,
+    "wof:name":"Goragussa",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85,
+    8.75,
+    39.85,
+    8.75
+],
+  "geometry": {"coordinates":[39.85,8.75],"type":"Point"}
+}

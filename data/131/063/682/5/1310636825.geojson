@@ -1,0 +1,73 @@
+{
+  "id": 1310636825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71667,6.68333,38.71667,6.68333",
+    "geom:latitude":6.68333,
+    "geom:longitude":38.71667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Arbe Gona",
+    "gn:country_code":"ET",
+    "gn:dem":2575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343651,
+    "gn:latitude":6.68333,
+    "gn:longitude":38.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100rb\u0113 Gona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iei",
+        "Arbagoma",
+        "Arbagona",
+        "\u0100rb\u0113 Gona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343651
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6a0c44857c368737e5b418e4ae841d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204421,
+            "locality_id":1310636825,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1310636825,
+    "wof:lastmodified":1537622093,
+    "wof:name":"Arbe Gona",
+    "wof:parent_id":421204421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71667,
+    6.68333,
+    38.71667,
+    6.68333
+],
+  "geometry": {"coordinates":[38.71667,6.68333],"type":"Point"}
+}

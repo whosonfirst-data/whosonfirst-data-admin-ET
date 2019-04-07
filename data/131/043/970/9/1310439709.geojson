@@ -1,0 +1,67 @@
+{
+  "id": 1310439709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.44115,9.87022,39.44115,9.87022",
+    "geom:latitude":9.87022,
+    "geom:longitude":39.44115,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Chestomas",
+    "gn:country_code":"ET",
+    "gn:dem":2223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621162,
+    "gn:latitude":9.87022,
+    "gn:longitude":39.44115,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Chestomas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621162
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5115e0f104674b286213b3d1cbc1cda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1310439709,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310439709,
+    "wof:lastmodified":1537011206,
+    "wof:name":"Chestomas",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.44115,
+    9.87022,
+    39.44115,
+    9.87022
+],
+  "geometry": {"coordinates":[39.44115,9.87022],"type":"Point"}
+}

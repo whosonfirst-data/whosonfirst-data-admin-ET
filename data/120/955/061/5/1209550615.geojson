@@ -1,0 +1,61 @@
+{
+  "id": 1209550615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05,12.58333,39.05,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":39.05,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Olic",
+    "gn:country_code":"ET",
+    "gn:dem":2427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329903,
+    "gn:latitude":12.58333,
+    "gn:longitude":39.05,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Olic",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329903
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1fce97c687594c06ccb6e03cadfc345c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209550615
+        }
+    ],
+    "wof:id":1209550615,
+    "wof:lastmodified":1536283707,
+    "wof:name":"Olic",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05,
+    12.58333,
+    39.05,
+    12.58333
+],
+  "geometry": {"coordinates":[39.05,12.58333],"type":"Point"}
+}

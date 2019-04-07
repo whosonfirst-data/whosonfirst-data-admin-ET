@@ -1,0 +1,67 @@
+{
+  "id": 1310635093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.40466,11.61404,41.40466,11.61404",
+    "geom:latitude":11.61404,
+    "geom:longitude":41.40466,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Assamadun",
+    "gn:country_code":"ET",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8399032,
+    "gn:latitude":11.61404,
+    "gn:longitude":41.40466,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Assamadun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8399032
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5fdf691053a2580c5a579d29536af294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1310635093,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1310635093,
+    "wof:lastmodified":1536730319,
+    "wof:name":"Assamadun",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.40466,
+    11.61404,
+    41.40466,
+    11.61404
+],
+  "geometry": {"coordinates":[41.40466,11.61404],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260090239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.735,9.63861,42.735,9.63861",
+    "geom:latitude":9.63861,
+    "geom:longitude":42.735,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kulula",
+    "gn:country_code":"ET",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282840,
+    "gn:latitude":9.63861,
+    "gn:longitude":42.735,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Kulula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282840
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b2084d235a8a7f70c4eeabaa1a6cf02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1260090239,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1260090239,
+    "wof:lastmodified":1536977614,
+    "wof:name":"Kulula",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.735,
+    9.63861,
+    42.735,
+    9.63861
+],
+  "geometry": {"coordinates":[42.735,9.63861],"type":"Point"}
+}

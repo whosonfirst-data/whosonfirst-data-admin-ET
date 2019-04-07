@@ -1,0 +1,71 @@
+{
+  "id": 1260114703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53215,10.41851,39.53215,10.41851",
+    "geom:latitude":10.41851,
+    "geom:longitude":39.53215,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gedoye",
+    "gn:country_code":"ET",
+    "gn:dem":2862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337082,
+    "gn:latitude":10.41851,
+    "gn:longitude":39.53215,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gedoy\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uin",
+        "Gedoy\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337082
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"199f8607b215b4f2d3eb41f0be05102e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1260114703,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1260114703,
+    "wof:lastmodified":1537622018,
+    "wof:name":"Gedoye",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53215,
+    10.41851,
+    39.53215,
+    10.41851
+],
+  "geometry": {"coordinates":[39.53215,10.41851],"type":"Point"}
+}

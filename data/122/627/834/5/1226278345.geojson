@@ -1,0 +1,67 @@
+{
+  "id": 1226278345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75,7.66667,33.75,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":33.75,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Aferwang",
+    "gn:country_code":"ET",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344740,
+    "gn:latitude":7.66667,
+    "gn:longitude":33.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Aferwang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421200427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344740
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e52b8b4f22c3c1c041a75e1cc24c001a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200427,
+            "locality_id":1226278345,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1226278345,
+    "wof:lastmodified":1536886141,
+    "wof:name":"Aferwang",
+    "wof:parent_id":421200427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75,
+    7.66667,
+    33.75,
+    7.66667
+],
+  "geometry": {"coordinates":[33.75,7.66667],"type":"Point"}
+}

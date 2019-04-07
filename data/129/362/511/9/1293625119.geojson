@@ -1,0 +1,67 @@
+{
+  "id": 1293625119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88333,8.58333,35.88333,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":35.88333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sachi",
+    "gn:country_code":"ET",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329471,
+    "gn:latitude":8.58333,
+    "gn:longitude":35.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Sachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329471
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"47fe0515e589152d4cc1c848143ffcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1293625119,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293625119,
+    "wof:lastmodified":1537082569,
+    "wof:name":"Sachi",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88333,
+    8.58333,
+    35.88333,
+    8.58333
+],
+  "geometry": {"coordinates":[35.88333,8.58333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293031833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06111,9.38917,43.06111,9.38917",
+    "geom:latitude":9.38917,
+    "geom:longitude":43.06111,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Debel Weyne",
+    "gn:country_code":"ET",
+    "gn:dem":1827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339794,
+    "gn:latitude":9.38917,
+    "gn:longitude":43.06111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Debel Weyn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debel\u2019-Uoyne",
+        "Debel Weyn\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339794
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e1159e7fbc5e490f8ac00bebd6aab0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1293031833,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293031833,
+    "wof:lastmodified":1537622048,
+    "wof:name":"Debel Weyne",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06111,
+    9.38917,
+    43.06111,
+    9.38917
+],
+  "geometry": {"coordinates":[43.06111,9.38917],"type":"Point"}
+}

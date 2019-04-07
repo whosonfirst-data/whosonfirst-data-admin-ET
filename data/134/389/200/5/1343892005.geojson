@@ -1,0 +1,67 @@
+{
+  "id": 1343892005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68333,9.86667,38.68333,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":38.68333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Haro",
+    "gn:country_code":"ET",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334962,
+    "gn:latitude":9.86667,
+    "gn:longitude":38.68333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"H\u0101ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334962
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d4caf34a2db319a4f769f0bd4062bc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1343892005,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343892005,
+    "wof:lastmodified":1536618955,
+    "wof:name":"Haro",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68333,
+    9.86667,
+    38.68333,
+    9.86667
+],
+  "geometry": {"coordinates":[38.68333,9.86667],"type":"Point"}
+}

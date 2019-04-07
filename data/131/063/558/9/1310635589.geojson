@@ -1,0 +1,71 @@
+{
+  "id": 1310635589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,8.98333,39.33333,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":39.33333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"K'utere",
+    "gn:country_code":"ET",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332386,
+    "gn:latitude":8.98333,
+    "gn:longitude":39.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019uter\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019utr\u0113",
+        "K\u2019uter\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332386
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3f860ddf3f58738aa4b6ac9713b19c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1310635589,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310635589,
+    "wof:lastmodified":1537621960,
+    "wof:name":"K'utere",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    8.98333,
+    39.33333,
+    8.98333
+],
+  "geometry": {"coordinates":[39.33333,8.98333],"type":"Point"}
+}

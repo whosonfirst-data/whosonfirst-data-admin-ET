@@ -1,0 +1,61 @@
+{
+  "id": 1209137065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.52796,6.85727,34.52796,6.85727",
+    "geom:latitude":6.85727,
+    "geom:longitude":34.52796,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Abuli",
+    "gn:country_code":"ET",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595488,
+    "gn:latitude":6.85727,
+    "gn:longitude":34.52796,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Abuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595488
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5c12c9de4934074f7131254a3adeafaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209137065
+        }
+    ],
+    "wof:id":1209137065,
+    "wof:lastmodified":1536296626,
+    "wof:name":"Abuli",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.52796,
+    6.85727,
+    34.52796,
+    6.85727
+],
+  "geometry": {"coordinates":[34.52796,6.85727],"type":"Point"}
+}

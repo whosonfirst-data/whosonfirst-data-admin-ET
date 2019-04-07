@@ -1,0 +1,99 @@
+{
+  "id": 421169369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,10.66667,38.16667,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":38.16667,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u12f0\u1265\u1228 \u12c8\u122d\u1245"
+    ],
+    "name:dut_x_preferred":[
+        "Debre Werq"
+    ],
+    "name:eng_x_preferred":[
+        "Debre Work"
+    ],
+    "name:fra_x_preferred":[
+        "Debre Werq"
+    ],
+    "name:fre_x_preferred":[
+        "Debre Werq"
+    ],
+    "name:unk_x_variant":[
+        "Dabra-Warq"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":339671,
+    "qs:gn_pop":10579,
+    "qs:name":"Debre Werk'",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1297291,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1315184,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339671,
+        "gp:id":1315184,
+        "qs:id":1297291,
+        "wd:id":"Q3020936"
+    },
+    "wof:country":"ET",
+    "wof:created":1459008807,
+    "wof:geomhash":"232c38411c41db4ae377c86af68d5d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":421169369,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421169369,
+    "wof:lastmodified":1527716171,
+    "wof:name":"Debre Werk'",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:population":10579,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    10.66667,
+    38.16667,
+    10.66667
+],
+  "geometry": {"coordinates":[38.16667,10.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242613767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95833,9.27333,41.95833,9.27333",
+    "geom:latitude":9.27333,
+    "geom:longitude":41.95833,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sole",
+    "gn:country_code":"ET",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328213,
+    "gn:latitude":9.27333,
+    "gn:longitude":41.95833,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Sol\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328213
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f254519013f1e4ce676ab077dc71b8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1242613767,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242613767,
+    "wof:lastmodified":1537010824,
+    "wof:name":"Sole",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95833,
+    9.27333,
+    41.95833,
+    9.27333
+],
+  "geometry": {"coordinates":[41.95833,9.27333],"type":"Point"}
+}

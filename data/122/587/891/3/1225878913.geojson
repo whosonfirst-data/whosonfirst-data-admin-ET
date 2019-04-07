@@ -1,0 +1,68 @@
+{
+  "id": 1225878913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76667,11.6,39.76667,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":39.76667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Habru",
+    "gn:country_code":"ET",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335342,
+    "gn:latitude":11.6,
+    "gn:longitude":39.76667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Habru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335342,
+        "wk:page":"Habru"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1e24402073b2147b5c8c1a057c704424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1225878913,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1225878913,
+    "wof:lastmodified":1537562759,
+    "wof:name":"Habru",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76667,
+    11.6,
+    39.76667,
+    11.6
+],
+  "geometry": {"coordinates":[39.76667,11.6],"type":"Point"}
+}

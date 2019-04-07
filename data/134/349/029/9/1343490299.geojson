@@ -1,0 +1,67 @@
+{
+  "id": 1343490299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93333,8.35,37.93333,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":37.93333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Dembi",
+    "gn:country_code":"ET",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339457,
+    "gn:latitude":8.35,
+    "gn:longitude":37.93333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Demb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339457
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bff31c89facf4f143f5b265cb10d5ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1343490299,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343490299,
+    "wof:lastmodified":1536703496,
+    "wof:name":"Dembi",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93333,
+    8.35,
+    37.93333,
+    8.35
+],
+  "geometry": {"coordinates":[37.93333,8.35],"type":"Point"}
+}

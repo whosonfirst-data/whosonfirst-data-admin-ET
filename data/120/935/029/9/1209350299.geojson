@@ -1,0 +1,65 @@
+{
+  "id": 1209350299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,6.4,39.6,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'iri",
+    "gn:country_code":"ET",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340715,
+    "gn:latitude":6.4,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019ir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cirri",
+        "Ch\u2019ir\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340715
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ae32d0348ae68fd5ebc901f87443d74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209350299
+        }
+    ],
+    "wof:id":1209350299,
+    "wof:lastmodified":1537622057,
+    "wof:name":"Ch'iri",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    6.4,
+    39.6,
+    6.4
+],
+  "geometry": {"coordinates":[39.6,6.4],"type":"Point"}
+}

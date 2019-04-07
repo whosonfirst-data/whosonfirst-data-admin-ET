@@ -1,0 +1,67 @@
+{
+  "id": 1242612353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13,6.68611,44.13,6.68611",
+    "geom:latitude":6.68611,
+    "geom:longitude":44.13,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Darderio",
+    "gn:country_code":"ET",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311017,
+    "gn:latitude":6.68611,
+    "gn:longitude":44.13,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Darderio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311017
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fd039f8fb04f8200fa559508bcfa9674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1242612353,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1242612353,
+    "wof:lastmodified":1537012901,
+    "wof:name":"Darderio",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13,
+    6.68611,
+    44.13,
+    6.68611
+],
+  "geometry": {"coordinates":[44.13,6.68611],"type":"Point"}
+}

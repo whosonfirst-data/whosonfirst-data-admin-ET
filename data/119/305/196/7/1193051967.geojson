@@ -1,0 +1,81 @@
+{
+  "id": 1193051967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,5.23333,35.83333,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kibish Wells",
+    "gn:country_code":"ET",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333107,
+    "gn:latitude":5.23333,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kibish Wells",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kidish wells",
+        "Kibish Wells"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914791,
+        85632257,
+        85671133,
+        1108695219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333107
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"663c5a94f41433e525ad5d5a47be4c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":1193051967,
+            "region_id":85676975
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695219,
+            "locality_id":1193051967,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1193051967,
+    "wof:lastmodified":1537621967,
+    "wof:name":"Kibish Wells",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    5.23333,
+    35.83333,
+    5.23333
+],
+  "geometry": {"coordinates":[35.83333,5.23333],"type":"Point"}
+}

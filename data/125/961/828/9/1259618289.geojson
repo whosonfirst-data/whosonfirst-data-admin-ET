@@ -1,0 +1,67 @@
+{
+  "id": 1259618289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11351,9.7917,39.11351,9.7917",
+    "geom:latitude":9.7917,
+    "geom:longitude":39.11351,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Daleti",
+    "gn:country_code":"ET",
+    "gn:dem":2625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340144,
+    "gn:latitude":9.7917,
+    "gn:longitude":39.11351,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Dalet\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340144
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9938aaaa807bcfe92ee020347ad01808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1259618289,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259618289,
+    "wof:lastmodified":1536664615,
+    "wof:name":"Daleti",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11351,
+    9.7917,
+    39.11351,
+    9.7917
+],
+  "geometry": {"coordinates":[39.11351,9.7917],"type":"Point"}
+}

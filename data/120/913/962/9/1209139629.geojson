@@ -1,0 +1,61 @@
+{
+  "id": 1209139629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.31068,9.97402,41.31068,9.97402",
+    "geom:latitude":9.97402,
+    "geom:longitude":41.31068,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Aerolaf",
+    "gn:country_code":"ET",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8581441,
+    "gn:latitude":9.97402,
+    "gn:longitude":41.31068,
+    "gn:modification_date":"2013-07-09",
+    "gn:name":"Aerolaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581441
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"702c3f74e6969afcb48a3c6f7a24b650",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209139629
+        }
+    ],
+    "wof:id":1209139629,
+    "wof:lastmodified":1536296547,
+    "wof:name":"Aerolaf",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.31068,
+    9.97402,
+    41.31068,
+    9.97402
+],
+  "geometry": {"coordinates":[41.31068,9.97402],"type":"Point"}
+}

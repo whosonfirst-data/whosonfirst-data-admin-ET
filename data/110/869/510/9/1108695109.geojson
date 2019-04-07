@@ -1,0 +1,89 @@
+{
+  "id": 1108695109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000635,
+    "geom:area_square_m":7757491.113034,
+    "geom:bbox":"38.719097,9.008665,38.755924,9.032926",
+    "geom:latitude":9.021863,
+    "geom:longitude":38.736667,
+    "iso:country":"ET",
+    "lbl:latitude":9.021474,
+    "lbl:longitude":38.737018,
+    "meso:admin_1":"Addis Ababa",
+    "meso:gadm_admin":"Addis Abeba",
+    "meso:gaul_admin":"Region 14",
+    "meso:hasc_id":"ET.AA.ON",
+    "meso:mps_x":38.737018,
+    "meso:mps_y":9.021474,
+    "meso:name_local":"AA Zone1",
+    "meso:source":"USAID",
+    "mps:latitude":9.021474,
+    "mps:longitude":38.737018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Addis Ababa Zone 1"
+    ],
+    "name:eng_x_variant":[
+        "Region 14",
+        "Addis Abeba"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-07-01",
+    "statoids:area_km":"8",
+    "statoids:as_of_date":"2008-07-01",
+    "statoids:capital":"Addis Ababa",
+    "statoids:country":"ET",
+    "statoids:hasc":"ET.AA",
+    "statoids:name":"Addis Ababa Zone 1",
+    "statoids:population":"474808",
+    "statoids:statoid":"ET.AA.ON",
+    "statoids:timezone":"3",
+    "statoids:type":"zone",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ET.AA.ON"
+    },
+    "wof:country":"ET",
+    "wof:created":1474493449,
+    "wof:geomhash":"2ed7078d9715c9d4b40a4d97f42de84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695109,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1108695109,
+    "wof:lastmodified":1536615370,
+    "wof:name":"AA Zone1",
+    "wof:parent_id":85671149,
+    "wof:placetype":"county",
+    "wof:placetype_local":"zone",
+    "wof:population":474808,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"ON",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.719097,
+    9.008665,
+    38.755924,
+    9.032926
+],
+  "geometry": {"coordinates":[[[38.720207,9.032926],[38.733006,9.032901],[38.743969,9.032858],[38.746475,9.029328],[38.750366,9.026275],[38.755924,9.016181],[38.752914,9.015496],[38.745117,9.008665],[38.741081,9.009577],[38.72884,9.011038],[38.726936,9.016786],[38.722706,9.019885],[38.720501,9.019718],[38.719746,9.021463],[38.719097,9.027004],[38.720207,9.032926]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243293065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16667,13.83333,39.16667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":39.16667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Chetzin Calat",
+    "gn:country_code":"ET",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340834,
+    "gn:latitude":13.83333,
+    "gn:longitude":39.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chetzin Calat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tetzin Calat",
+        "Chetzin Calat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340834
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"63032b6de12d406ec2d101864185543a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1243293065,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243293065,
+    "wof:lastmodified":1537622059,
+    "wof:name":"Chetzin Calat",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16667,
+    13.83333,
+    39.16667,
+    13.83333
+],
+  "geometry": {"coordinates":[39.16667,13.83333],"type":"Point"}
+}

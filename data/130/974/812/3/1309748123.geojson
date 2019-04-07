@@ -1,0 +1,72 @@
+{
+  "id": 1309748123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,10.43333,38.41667,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":38.41667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ayk'olba",
+    "gn:country_code":"ET",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343048,
+    "gn:latitude":10.43333,
+    "gn:longitude":38.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100yk\u2019olba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shita",
+        "Scita",
+        "\u0100yk\u2019olba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343048
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ddb5f51fad1e0c25b964de77f11e094c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1309748123,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309748123,
+    "wof:lastmodified":1537622087,
+    "wof:name":"Ayk'olba",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    10.43333,
+    38.41667,
+    10.43333
+],
+  "geometry": {"coordinates":[38.41667,10.43333],"type":"Point"}
+}

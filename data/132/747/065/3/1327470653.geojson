@@ -1,0 +1,63 @@
+{
+  "id": 1327470653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29144,8.4381,33.29144,8.4381",
+    "geom:latitude":8.4381,
+    "geom:longitude":33.29144,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Uat Duk",
+    "gn:country_code":"ET",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402285,
+    "gn:latitude":8.4381,
+    "gn:longitude":33.29144,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Uat Duk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402285
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f04bd649fddb7f443d819361e2599665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327470653,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327470653,
+    "wof:lastmodified":1536623439,
+    "wof:name":"Uat Duk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29144,
+    8.4381,
+    33.29144,
+    8.4381
+],
+  "geometry": {"coordinates":[33.29144,8.4381],"type":"Point"}
+}

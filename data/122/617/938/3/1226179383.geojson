@@ -1,0 +1,71 @@
+{
+  "id": 1226179383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6801,13.57656,39.6801,13.57656",
+    "geom:latitude":13.57656,
+    "geom:longitude":39.6801,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Inda Micha'al",
+    "gn:country_code":"ET",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334235,
+    "gn:latitude":13.57656,
+    "gn:longitude":39.6801,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inda Micha\u2019\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inda Micha\u2019\u0101l",
+        "Ynda Michaal'"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334235
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eb9af8705fd897c987ce6571480d7e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1226179383,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226179383,
+    "wof:lastmodified":1537621982,
+    "wof:name":"Inda Micha'al",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6801,
+    13.57656,
+    39.6801,
+    13.57656
+],
+  "geometry": {"coordinates":[39.6801,13.57656],"type":"Point"}
+}

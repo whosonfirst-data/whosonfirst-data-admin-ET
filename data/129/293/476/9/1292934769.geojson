@@ -1,0 +1,67 @@
+{
+  "id": 1292934769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39596,9.38692,39.39596,9.38692",
+    "geom:latitude":9.38692,
+    "geom:longitude":39.39596,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kotu Gebeya",
+    "gn:country_code":"ET",
+    "gn:dem":2842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332619,
+    "gn:latitude":9.38692,
+    "gn:longitude":39.39596,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Kotu Gebeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332619
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"98910223438e4fbdb90744f9f5c96e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1292934769,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1292934769,
+    "wof:lastmodified":1537083887,
+    "wof:name":"Kotu Gebeya",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39596,
+    9.38692,
+    39.39596,
+    9.38692
+],
+  "geometry": {"coordinates":[39.39596,9.38692],"type":"Point"}
+}

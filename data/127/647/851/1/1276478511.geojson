@@ -1,0 +1,71 @@
+{
+  "id": 1276478511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89361,9.28694,41.89361,9.28694",
+    "geom:latitude":9.28694,
+    "geom:longitude":41.89361,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ahmed Gerada",
+    "gn:country_code":"ET",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344536,
+    "gn:latitude":9.28694,
+    "gn:longitude":41.89361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100hmed Gerada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhmed-Gerada",
+        "\u0100hmed Gerada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344536
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5803a06942bbb291c5ffb252cd255467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1276478511,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276478511,
+    "wof:lastmodified":1537622102,
+    "wof:name":"Ahmed Gerada",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89361,
+    9.28694,
+    41.89361,
+    9.28694
+],
+  "geometry": {"coordinates":[41.89361,9.28694],"type":"Point"}
+}

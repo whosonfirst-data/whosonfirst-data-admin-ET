@@ -1,0 +1,67 @@
+{
+  "id": 890446967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97335,8.14699,33.97335,8.14699",
+    "geom:latitude":8.14699,
+    "geom:longitude":33.97335,
+    "gn:country":"ET",
+    "gn:fcode":"ADM2",
+    "gn:pop":67042,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Zone 1"
+    ],
+    "qs:name":"Administrative Zone 1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732967,
+        "qs:id":698149
+    },
+    "wof:country":"ET",
+    "wof:created":1469052574,
+    "wof:geomhash":"c7af51e3757e70a2e479d073d135d1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446967,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":890446967,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Administrative Zone 1",
+    "wof:parent_id":85671137,
+    "wof:placetype":"county",
+    "wof:population":67042,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97335,
+    8.14699,
+    33.97335,
+    8.14699
+],
+  "geometry": {"coordinates":[33.97335,8.14699],"type":"Point"}
+}

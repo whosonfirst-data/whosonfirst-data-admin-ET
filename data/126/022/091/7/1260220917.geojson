@@ -1,0 +1,67 @@
+{
+  "id": 1260220917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1,8.65,39.1,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":39.1,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Albeno",
+    "gn:country_code":"ET",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344336,
+    "gn:latitude":8.65,
+    "gn:longitude":39.1,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100lb\u0113no",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344336
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f283c618eaac3f1ef9702c28cd483aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1260220917,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260220917,
+    "wof:lastmodified":1536797044,
+    "wof:name":"Albeno",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1,
+    8.65,
+    39.1,
+    8.65
+],
+  "geometry": {"coordinates":[39.1,8.65],"type":"Point"}
+}

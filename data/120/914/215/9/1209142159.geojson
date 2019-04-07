@@ -1,0 +1,65 @@
+{
+  "id": 1209142159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09917,9.04722,43.09917,9.04722",
+    "geom:latitude":9.04722,
+    "geom:longitude":43.09917,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Awben",
+    "gn:country_code":"ET",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343117,
+    "gn:latitude":9.04722,
+    "gn:longitude":43.09917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100wben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auben",
+        "\u0100wben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343117
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5f80b13c91e444c1ad0a75146eccc597",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209142159
+        }
+    ],
+    "wof:id":1209142159,
+    "wof:lastmodified":1537622088,
+    "wof:name":"Awben",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09917,
+    9.04722,
+    43.09917,
+    9.04722
+],
+  "geometry": {"coordinates":[43.09917,9.04722],"type":"Point"}
+}

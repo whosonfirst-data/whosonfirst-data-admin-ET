@@ -1,0 +1,65 @@
+{
+  "id": 1209041509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95,11.93333,37.95,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":37.95,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Taigur",
+    "gn:country_code":"ET",
+    "gn:dem":2353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327980,
+    "gn:latitude":11.93333,
+    "gn:longitude":37.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taigur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taygur",
+        "Taigur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327980
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a436e30bd446f2abaac142b7d47018fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209041509
+        }
+    ],
+    "wof:id":1209041509,
+    "wof:lastmodified":1537621911,
+    "wof:name":"Taigur",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95,
+    11.93333,
+    37.95,
+    11.93333
+],
+  "geometry": {"coordinates":[37.95,11.93333],"type":"Point"}
+}

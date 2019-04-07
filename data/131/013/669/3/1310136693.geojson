@@ -1,0 +1,70 @@
+{
+  "id": 1310136693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33768,6.17049,35.33768,6.17049",
+    "geom:latitude":6.17049,
+    "geom:longitude":35.33768,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Colu",
+    "gn:country_code":"ET",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340526,
+    "gn:latitude":6.17049,
+    "gn:longitude":35.33768,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Colu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340526
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3bd19e01a455173226c35479271954f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1310136693,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1310136693,
+    "wof:lastmodified":1537622055,
+    "wof:name":"Colu",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33768,
+    6.17049,
+    35.33768,
+    6.17049
+],
+  "geometry": {"coordinates":[35.33768,6.17049],"type":"Point"}
+}

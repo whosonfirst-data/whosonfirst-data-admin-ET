@@ -1,0 +1,61 @@
+{
+  "id": 1209249667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.57278,9.89806,41.57278,9.89806",
+    "geom:latitude":9.89806,
+    "geom:longitude":41.57278,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Werdi",
+    "gn:country_code":"ET",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326280,
+    "gn:latitude":9.89806,
+    "gn:longitude":41.57278,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Werd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326280
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7fb2614b155ec8a656d04384a912da9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209249667
+        }
+    ],
+    "wof:id":1209249667,
+    "wof:lastmodified":1536293046,
+    "wof:name":"Werdi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.57278,
+    9.89806,
+    41.57278,
+    9.89806
+],
+  "geometry": {"coordinates":[41.57278,9.89806],"type":"Point"}
+}

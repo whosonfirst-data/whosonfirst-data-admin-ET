@@ -1,0 +1,67 @@
+{
+  "id": 1276160483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00833,9.30794,42.00833,9.30794",
+    "geom:latitude":9.30794,
+    "geom:longitude":42.00833,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ugaz Lencha",
+    "gn:country_code":"ET",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8416229,
+    "gn:latitude":9.30794,
+    "gn:longitude":42.00833,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ugaz Lencha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8416229
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"06f006c79429c04032ff6fc44496b736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1276160483,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276160483,
+    "wof:lastmodified":1537009656,
+    "wof:name":"Ugaz Lencha",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00833,
+    9.30794,
+    42.00833,
+    9.30794
+],
+  "geometry": {"coordinates":[42.00833,9.30794],"type":"Point"}
+}

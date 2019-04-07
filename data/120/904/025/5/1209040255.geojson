@@ -1,0 +1,61 @@
+{
+  "id": 1209040255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,9.11667,37.66667,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Boji",
+    "gn:country_code":"ET",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341844,
+    "gn:latitude":9.11667,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Boj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341844
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6b393618b599418f23f19a8408910265",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040255
+        }
+    ],
+    "wof:id":1209040255,
+    "wof:lastmodified":1536299568,
+    "wof:name":"Boji",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    9.11667,
+    37.66667,
+    9.11667
+],
+  "geometry": {"coordinates":[37.66667,9.11667],"type":"Point"}
+}

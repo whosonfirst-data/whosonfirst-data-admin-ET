@@ -1,0 +1,67 @@
+{
+  "id": 1276480877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38333,13.66667,37.38333,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":37.38333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Endabo",
+    "gn:country_code":"ET",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338096,
+    "gn:latitude":13.66667,
+    "gn:longitude":37.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Endabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338096
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d22f9187aa9b8c06917d2a56e2c325fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1276480877,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276480877,
+    "wof:lastmodified":1537075140,
+    "wof:name":"Endabo",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38333,
+    13.66667,
+    37.38333,
+    13.66667
+],
+  "geometry": {"coordinates":[37.38333,13.66667],"type":"Point"}
+}

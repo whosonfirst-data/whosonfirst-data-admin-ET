@@ -1,0 +1,61 @@
+{
+  "id": 1209348205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,11.25,36.9,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dangera",
+    "gn:country_code":"ET",
+    "gn:dem":2106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340011,
+    "gn:latitude":11.25,
+    "gn:longitude":36.9,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dangera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340011
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2bc0cc0b8ca277b59806f03a0ae9be1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209348205
+        }
+    ],
+    "wof:id":1209348205,
+    "wof:lastmodified":1536289837,
+    "wof:name":"Dangera",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    11.25,
+    36.9,
+    11.25
+],
+  "geometry": {"coordinates":[36.9,11.25],"type":"Point"}
+}

@@ -1,0 +1,216 @@
+{
+  "id": 421201463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,6.75,38.41667,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":38.41667,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u12ed\u122d\u130b\u1208\u121d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u0631\u063a\u0627\u0644\u0645"
+    ],
+    "name:dut_x_preferred":[
+        "Irgalem"
+    ],
+    "name:eng_x_preferred":[
+        "Irgalem"
+    ],
+    "name:fre_x_preferred":[
+        "Yirgalem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e8\u05d2\u05e2\u05dc\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Irgalem"
+    ],
+    "name:ita_x_preferred":[
+        "Irgalem"
+    ],
+    "name:pol_x_preferred":[
+        "Irgalem"
+    ],
+    "name:por_x_preferred":[
+        "Irgalem"
+    ],
+    "name:rum_x_preferred":[
+        "Irgalem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u0438\u0440\u0433\u0430-\u0410\u043b\u0435\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Yirga \u2018Alem"
+    ],
+    "name:unk_x_variant":[
+        "Irgalem"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Ethiopia",
+    "ne:ADM0_A3":"ETH",
+    "ne:ADM1NAME":"Southern Nations, Nationalities and Peoples",
+    "ne:ADMIN1_COD":11,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":325780,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Yirga `Alem",
+    "ne:GN_POP":36292,
+    "ne:GTOPO30":1777.0,
+    "ne:ISO_A2":"ET",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":6.750426,
+    "ne:LONGITUDE":38.409996,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Yirga Alem",
+    "ne:MAX_AREAKM":2071.0,
+    "ne:MAX_AREAMI":800.0,
+    "ne:MAX_BBXMAX":38.925,
+    "ne:MAX_BBXMIN":38.108333,
+    "ne:MAX_BBYMAX":7.091718,
+    "ne:MAX_BBYMIN":6.435915,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":1620.0,
+    "ne:MAX_PERMI":1006.0,
+    "ne:MAX_POP10":885197,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":38.470086,
+    "ne:MEAN_BBYC":6.752625,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":2071.0,
+    "ne:MIN_AREAMI":800.0,
+    "ne:MIN_BBXMAX":38.925,
+    "ne:MIN_BBXMIN":38.108333,
+    "ne:MIN_BBYMAX":7.091718,
+    "ne:MIN_BBYMIN":6.435915,
+    "ne:MIN_PERKM":1620.0,
+    "ne:MIN_PERMI":1006.0,
+    "ne:NAME":"Yirga Alem",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Yirga Alem",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":36292,
+    "ne:POP_MIN":36292,
+    "ne:POP_OTHER":897589,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Ethiopia",
+    "ne:SOV_A3":"ETH",
+    "ne:TIMEZONE":"Africa/Addis_Ababa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":325780,
+    "qs:gn_pop":36292,
+    "qs:name":"Yirga Alem",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":211596,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1320946,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325780,
+        "gp:id":1320946,
+        "qs:id":211596,
+        "wd:id":"Q2189137",
+        "wk:page":"Irgalem"
+    },
+    "wof:country":"ET",
+    "wof:created":1459010073,
+    "wof:geomhash":"1b753a63ad504587f08ae1dd51919df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204421,
+            "locality_id":421201463,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421201463,
+    "wof:lastmodified":1514422065,
+    "wof:name":"Yirga Alem",
+    "wof:parent_id":421204421,
+    "wof:placetype":"locality",
+    "wof:population":36292,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    6.75,
+    38.41667,
+    6.75
+],
+  "geometry": {"coordinates":[38.41667,6.75],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276152071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98333,13.9,38.98333,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":38.98333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Momena",
+    "gn:country_code":"ET",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345009,
+    "gn:latitude":13.9,
+    "gn:longitude":38.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Momena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enda Medanie Alein",
+        "\u0100d\u012b Momena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345009
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1201e9506667a0f9ba6588bd9a40dfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1276152071,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276152071,
+    "wof:lastmodified":1537622109,
+    "wof:name":"Adi Momena",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98333,
+    13.9,
+    38.98333,
+    13.9
+],
+  "geometry": {"coordinates":[38.98333,13.9],"type":"Point"}
+}

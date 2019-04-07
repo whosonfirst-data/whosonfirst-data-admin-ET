@@ -1,0 +1,74 @@
+{
+  "id": 1343298569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83333,5.33333,41.83333,5.33333",
+    "geom:latitude":5.33333,
+    "geom:longitude":41.83333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Melka Chireti",
+    "gn:country_code":"ET",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331106,
+    "gn:latitude":5.33333,
+    "gn:longitude":41.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Melka Chireti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chireti",
+        "Malka Ciratti",
+        "Chereti",
+        "Malca Ciratti",
+        "Melka Chireti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331106
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d05ada2f4c20e22b9e48330e9aec3e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1343298569,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343298569,
+    "wof:lastmodified":1537621946,
+    "wof:name":"Melka Chireti",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83333,
+    5.33333,
+    41.83333,
+    5.33333
+],
+  "geometry": {"coordinates":[41.83333,5.33333],"type":"Point"}
+}

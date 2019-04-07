@@ -1,0 +1,67 @@
+{
+  "id": 1193046395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4,12.33333,39.4,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":39.4,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"May Mihimaz",
+    "gn:country_code":"ET",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331374,
+    "gn:latitude":12.33333,
+    "gn:longitude":39.4,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"May Mihimaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331374
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f903036e29cccdb2061f2d7ab3558055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1193046395,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1193046395,
+    "wof:lastmodified":1536370501,
+    "wof:name":"May Mihimaz",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4,
+    12.33333,
+    39.4,
+    12.33333
+],
+  "geometry": {"coordinates":[39.4,12.33333],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421173889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3,4.05,38.3,4.05",
+    "geom:latitude":4.05,
+    "geom:longitude":38.3,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "M\u0113ga"
+    ],
+    "name:chi_x_preferred":[
+        "\u6885\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "Mega"
+    ],
+    "name:eng_x_preferred":[
+        "Mega"
+    ],
+    "name:fra_x_preferred":[
+        "Mega"
+    ],
+    "name:fre_x_preferred":[
+        "Mega"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0113ga"
+    ],
+    "name:unk_x_variant":[
+        "Megga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u52a0"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":331259,
+    "qs:gn_pop":6884,
+    "qs:name":"Mega",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Oromia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":559878,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1318689,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1470.0,
+    "wd:latitude":4.01667,
+    "wd:longitude":38.25,
+    "wd:wordcount":419,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331259,
+        "gp:id":1318689,
+        "qs:id":559878,
+        "wd:id":"Q3304215",
+        "wk:page":"Mega, Ethiopia"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009009,
+    "wof:geomhash":"c5e5ce645f76884c142ac785da083d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":421173889,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":421173889,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Mega",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:population":6884,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3,
+    4.05,
+    38.3,
+    4.05
+],
+  "geometry": {"coordinates":[38.3,4.05],"type":"Point"}
+}

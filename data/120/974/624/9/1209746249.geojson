@@ -1,0 +1,71 @@
+{
+  "id": 1209746249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,13.01667,38.16667,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":38.16667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gasha Jagre",
+    "gn:country_code":"ET",
+    "gn:dem":2959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337236,
+    "gn:latitude":13.01667,
+    "gn:longitude":38.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gasha Jagr\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasha Jagr\u0113 (2)",
+        "Gasha Jagr\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337236
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3ec2862da16276ebece14bbe5218382d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1209746249,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1209746249,
+    "wof:lastmodified":1537622020,
+    "wof:name":"Gasha Jagre",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    13.01667,
+    38.16667,
+    13.01667
+],
+  "geometry": {"coordinates":[38.16667,13.01667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276802169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46667,5.88333,39.46667,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":39.46667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Cogobbe",
+    "gn:country_code":"ET",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340544,
+    "gn:latitude":5.88333,
+    "gn:longitude":39.46667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cogobbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malca Cogobbe",
+        "Cogobbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340544
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b686c6e29f7f01ddb3107f8c6570e277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1276802169,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276802169,
+    "wof:lastmodified":1537622055,
+    "wof:name":"Cogobbe",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46667,
+    5.88333,
+    39.46667,
+    5.88333
+],
+  "geometry": {"coordinates":[39.46667,5.88333],"type":"Point"}
+}

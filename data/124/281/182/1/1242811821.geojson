@@ -1,0 +1,67 @@
+{
+  "id": 1242811821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16058,9.22546,41.16058,9.22546",
+    "geom:latitude":9.22546,
+    "geom:longitude":41.16058,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'erch'er",
+    "gn:country_code":"ET",
+    "gn:dem":1992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340869,
+    "gn:latitude":9.22546,
+    "gn:longitude":41.16058,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Ch\u2019erch\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340869
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"114aaa689249ca4049f23facd6d901bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1242811821,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242811821,
+    "wof:lastmodified":1536726793,
+    "wof:name":"Ch'erch'er",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16058,
+    9.22546,
+    41.16058,
+    9.22546
+],
+  "geometry": {"coordinates":[41.16058,9.22546],"type":"Point"}
+}

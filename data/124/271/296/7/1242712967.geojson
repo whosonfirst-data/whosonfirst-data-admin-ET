@@ -1,0 +1,67 @@
+{
+  "id": 1242712967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,9.31667,38.41667,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":38.41667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'anch'o",
+    "gn:country_code":"ET",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341075,
+    "gn:latitude":9.31667,
+    "gn:longitude":38.41667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ch\u2019anch\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341075
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"055c52f3623847589c879184fb0ee597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1242712967,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242712967,
+    "wof:lastmodified":1536867524,
+    "wof:name":"Ch'anch'o",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    9.31667,
+    38.41667,
+    9.31667
+],
+  "geometry": {"coordinates":[38.41667,9.31667],"type":"Point"}
+}

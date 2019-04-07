@@ -1,0 +1,67 @@
+{
+  "id": 1242714425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73333,9.53333,41.73333,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":41.73333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"K'orench'ati",
+    "gn:country_code":"ET",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332738,
+    "gn:latitude":9.53333,
+    "gn:longitude":41.73333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019orench\u2019at\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332738
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ef3d21940f75ff7ee6776db0e32796a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1242714425,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1242714425,
+    "wof:lastmodified":1536865289,
+    "wof:name":"K'orench'ati",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73333,
+    9.53333,
+    41.73333,
+    9.53333
+],
+  "geometry": {"coordinates":[41.73333,9.53333],"type":"Point"}
+}

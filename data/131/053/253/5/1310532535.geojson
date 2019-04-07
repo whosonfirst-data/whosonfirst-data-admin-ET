@@ -1,0 +1,71 @@
+{
+  "id": 1310532535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03258,8.48874,36.03258,8.48874",
+    "geom:latitude":8.48874,
+    "geom:longitude":36.03258,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Buno",
+    "gn:country_code":"ET",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341436,
+    "gn:latitude":8.48874,
+    "gn:longitude":36.03258,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buno (2)",
+        "Buno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341436
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"550a9dd99af4aec1e65bdcfcca0b0e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1310532535,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310532535,
+    "wof:lastmodified":1537622066,
+    "wof:name":"Buno",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03258,
+    8.48874,
+    36.03258,
+    8.48874
+],
+  "geometry": {"coordinates":[36.03258,8.48874],"type":"Point"}
+}

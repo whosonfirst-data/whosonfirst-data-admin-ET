@@ -1,0 +1,72 @@
+{
+  "id": 1243490249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21667,10.6,35.21667,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":35.21667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Abatimbo el Gumas",
+    "gn:country_code":"ET",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345854,
+    "gn:latitude":10.6,
+    "gn:longitude":35.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abatimbo el Gumas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abba Timb\u00f2 el-Gumas",
+        "Abatimbo",
+        "Abatimbo el Gumas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345854
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"408bbd267d5d8c6ad4dcb8b05aadf968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695191,
+            "locality_id":1243490249,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1243490249,
+    "wof:lastmodified":1537622121,
+    "wof:name":"Abatimbo el Gumas",
+    "wof:parent_id":1108695191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21667,
+    10.6,
+    35.21667,
+    10.6
+],
+  "geometry": {"coordinates":[35.21667,10.6],"type":"Point"}
+}

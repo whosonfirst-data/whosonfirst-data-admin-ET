@@ -1,0 +1,67 @@
+{
+  "id": 1242907745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06752,9.01151,39.06752,9.01151",
+    "geom:latitude":9.01151,
+    "geom:longitude":39.06752,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Oda Menjigso",
+    "gn:country_code":"ET",
+    "gn:dem":2494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329967,
+    "gn:latitude":9.01151,
+    "gn:longitude":39.06752,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Oda Menj\u012bgso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329967
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"16abbb449b6ad92535787af1e7a2efa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1242907745,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242907745,
+    "wof:lastmodified":1537082029,
+    "wof:name":"Oda Menjigso",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06752,
+    9.01151,
+    39.06752,
+    9.01151
+],
+  "geometry": {"coordinates":[39.06752,9.01151],"type":"Point"}
+}

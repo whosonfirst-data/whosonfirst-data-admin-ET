@@ -1,0 +1,61 @@
+{
+  "id": 1209549793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,8.5,39.6,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Tere Robele",
+    "gn:country_code":"ET",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327666,
+    "gn:latitude":8.5,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ter\u0113 Robel\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327666
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3331bf9f7f852fc689b154688e325f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209549793
+        }
+    ],
+    "wof:id":1209549793,
+    "wof:lastmodified":1536283730,
+    "wof:name":"Tere Robele",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    8.5,
+    39.6,
+    8.5
+],
+  "geometry": {"coordinates":[39.6,8.5],"type":"Point"}
+}

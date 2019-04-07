@@ -1,0 +1,71 @@
+{
+  "id": 1276260559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3,8.48333,38.3,8.48333",
+    "geom:latitude":8.48333,
+    "geom:longitude":38.3,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Tole",
+    "gn:country_code":"ET",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327427,
+    "gn:latitude":8.48333,
+    "gn:longitude":38.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tol\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tole (2)",
+        "Tol\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327427
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"62a7b576b1bf8a0fd0464db4a8226505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1276260559,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276260559,
+    "wof:lastmodified":1537621906,
+    "wof:name":"Tole",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3,
+    8.48333,
+    38.3,
+    8.48333
+],
+  "geometry": {"coordinates":[38.3,8.48333],"type":"Point"}
+}

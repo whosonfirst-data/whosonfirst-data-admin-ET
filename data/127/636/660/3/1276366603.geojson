@@ -1,0 +1,67 @@
+{
+  "id": 1276366603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94278,9.54778,41.94278,9.54778",
+    "geom:latitude":9.54778,
+    "geom:longitude":41.94278,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Ware Roble",
+    "gn:country_code":"ET",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326618,
+    "gn:latitude":9.54778,
+    "gn:longitude":41.94278,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"War\u0113 Roble",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326618
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"210d072e6f70acb44c9264d8ef342b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "locality_id":1276366603,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":1276366603,
+    "wof:lastmodified":1536734217,
+    "wof:name":"Ware Roble",
+    "wof:parent_id":421190257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94278,
+    9.54778,
+    41.94278,
+    9.54778
+],
+  "geometry": {"coordinates":[41.94278,9.54778],"type":"Point"}
+}

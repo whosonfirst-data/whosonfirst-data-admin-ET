@@ -1,0 +1,72 @@
+{
+  "id": 1259617855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75662,13.80315,39.75662,13.80315",
+    "geom:latitude":13.80315,
+    "geom:longitude":39.75662,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ime Behole",
+    "gn:country_code":"ET",
+    "gn:dem":2516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334301,
+    "gn:latitude":13.80315,
+    "gn:longitude":39.75662,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ime Behol\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohale",
+        "Ime Behol\u0113",
+        "Ymme Bekhole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334301
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d33c4cfdfa475d359b7cf5384a0e60a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1259617855,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259617855,
+    "wof:lastmodified":1537621984,
+    "wof:name":"Ime Behole",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75662,
+    13.80315,
+    39.75662,
+    13.80315
+],
+  "geometry": {"coordinates":[39.75662,13.80315],"type":"Point"}
+}

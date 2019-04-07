@@ -1,0 +1,67 @@
+{
+  "id": 1326959345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85,8.93333,37.85,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":37.85,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Teltele",
+    "gn:country_code":"ET",
+    "gn:dem":2284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327749,
+    "gn:latitude":8.93333,
+    "gn:longitude":37.85,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Teltel\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327749
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bf93fb6c67feb2c3916d66fe48f08745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1326959345,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326959345,
+    "wof:lastmodified":1536864545,
+    "wof:name":"Teltele",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85,
+    8.93333,
+    37.85,
+    8.93333
+],
+  "geometry": {"coordinates":[37.85,8.93333],"type":"Point"}
+}

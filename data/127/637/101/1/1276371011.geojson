@@ -1,0 +1,71 @@
+{
+  "id": 1276371011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02389,5.28139,45.02389,5.28139",
+    "geom:latitude":5.28139,
+    "geom:longitude":45.02389,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Balbalaiar",
+    "gn:country_code":"ET",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342834,
+    "gn:latitude":5.28139,
+    "gn:longitude":45.02389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Balbalaiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balbalyar",
+        "Balbalaiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342834
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9eadaaad821bded9c750cdaf9fd98fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1276371011,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276371011,
+    "wof:lastmodified":1537622084,
+    "wof:name":"Balbalaiar",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02389,
+    5.28139,
+    45.02389,
+    5.28139
+],
+  "geometry": {"coordinates":[45.02389,5.28139],"type":"Point"}
+}

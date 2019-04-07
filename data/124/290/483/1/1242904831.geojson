@@ -1,0 +1,67 @@
+{
+  "id": 1242904831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.24139,9.03056,42.24139,9.03056",
+    "geom:latitude":9.03056,
+    "geom:longitude":42.24139,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gutuyu",
+    "gn:country_code":"ET",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335385,
+    "gn:latitude":9.03056,
+    "gn:longitude":42.24139,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gutuyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335385
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"63fc36fa20b7a55cc69d09805ef1505e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1242904831,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242904831,
+    "wof:lastmodified":1537086250,
+    "wof:name":"Gutuyu",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.24139,
+    9.03056,
+    42.24139,
+    9.03056
+],
+  "geometry": {"coordinates":[42.24139,9.03056],"type":"Point"}
+}

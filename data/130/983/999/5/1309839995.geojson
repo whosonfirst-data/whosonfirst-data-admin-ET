@@ -1,0 +1,72 @@
+{
+  "id": 1309839995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.22965,9.49126,42.22965,9.49126",
+    "geom:latitude":9.49126,
+    "geom:longitude":42.22965,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ejersa Goro",
+    "gn:country_code":"ET",
+    "gn:dem":2553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338279,
+    "gn:latitude":9.49126,
+    "gn:longitude":42.22965,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u0112jersa Goro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edzhersa-Goro",
+        "\u0112jersa Goro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338279,
+        "wk:page":"Ejersa_Goro"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"89caba21d939d8a091256f7084f2007b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1309839995,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309839995,
+    "wof:lastmodified":1537622031,
+    "wof:name":"Ejersa Goro",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.22965,
+    9.49126,
+    42.22965,
+    9.49126
+],
+  "geometry": {"coordinates":[42.22965,9.49126],"type":"Point"}
+}

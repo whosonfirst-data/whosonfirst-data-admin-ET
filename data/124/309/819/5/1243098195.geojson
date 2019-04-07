@@ -1,0 +1,67 @@
+{
+  "id": 1243098195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01823,11.4739,40.01823,11.4739",
+    "geom:latitude":11.4739,
+    "geom:longitude":40.01823,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Delay Mele",
+    "gn:country_code":"ET",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339515,
+    "gn:latitude":11.4739,
+    "gn:longitude":40.01823,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Delay Mel\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339515
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1d229c6cf4161047d9cd3363f43defea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1243098195,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243098195,
+    "wof:lastmodified":1536810114,
+    "wof:name":"Delay Mele",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01823,
+    11.4739,
+    40.01823,
+    11.4739
+],
+  "geometry": {"coordinates":[40.01823,11.4739],"type":"Point"}
+}

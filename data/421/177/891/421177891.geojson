@@ -1,0 +1,124 @@
+{
+  "id": 421177891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26667,10.7,37.26667,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":37.26667,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u134d\u1296\u1270 \u1230\u120b\u121d"
+    ],
+    "name:ceb_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:chi_x_preferred":[
+        "\u8cbb\u8afe\u7279\u585e\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:eng_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:fra_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:fre_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:ger_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:ita_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:pol_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:swe_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:unk_x_variant":[
+        "Fenote Selam"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u8afe\u7279\u585e\u862d"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":337712,
+    "qs:gn_pop":23463,
+    "qs:name":"Finote Selam",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":274893,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1315975,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1917.0,
+    "wd:latitude":10.7,
+    "wd:longitude":37.2667,
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337712,
+        "gp:id":1315975,
+        "qs:id":274893,
+        "wd:id":"Q2354276",
+        "wk:page":"Finote Selam"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009163,
+    "wof:geomhash":"3359d708b3ae0d48b9f052f253a77698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":421177891,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421177891,
+    "wof:lastmodified":1527716484,
+    "wof:name":"Finote Selam",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:population":23463,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26667,
+    10.7,
+    37.26667,
+    10.7
+],
+  "geometry": {"coordinates":[37.26667,10.7],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226579459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78944,6.22,42.78944,6.22",
+    "geom:latitude":6.22,
+    "geom:longitude":42.78944,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"K'emarmere",
+    "gn:country_code":"ET",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333388,
+    "gn:latitude":6.22,
+    "gn:longitude":42.78944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019emarmer\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camar Marie",
+        "K\u2019emarmer\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333388
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"098479a2e33371defafffa8a1cb30675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1226579459,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1226579459,
+    "wof:lastmodified":1537621970,
+    "wof:name":"K'emarmere",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78944,
+    6.22,
+    42.78944,
+    6.22
+],
+  "geometry": {"coordinates":[42.78944,6.22],"type":"Point"}
+}

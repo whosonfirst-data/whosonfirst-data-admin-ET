@@ -1,0 +1,67 @@
+{
+  "id": 1293423659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.20387,8.33737,41.20387,8.33737",
+    "geom:latitude":8.33737,
+    "geom:longitude":41.20387,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Megala",
+    "gn:country_code":"ET",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331257,
+    "gn:latitude":8.33737,
+    "gn:longitude":41.20387,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Megala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331257
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"278fa5ac1418fe2b208bb18cf9fd28b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1293423659,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293423659,
+    "wof:lastmodified":1536878314,
+    "wof:name":"Megala",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.20387,
+    8.33737,
+    41.20387,
+    8.33737
+],
+  "geometry": {"coordinates":[41.20387,8.33737],"type":"Point"}
+}

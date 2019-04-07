@@ -1,0 +1,90 @@
+{
+  "id": 890433313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5,9.06667,38.5,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":38.5,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":23753,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Holeta Genet"
+    ],
+    "name:eng_x_preferred":[
+        "Holeta Genet"
+    ],
+    "name:fre_x_preferred":[
+        "Holeta Genet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043d\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Genet"
+    ],
+    "name:unk_x_variant":[
+        "Oletta"
+    ],
+    "qs:name":"Genet",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336931,
+        "gp:id":1317222,
+        "qs:id":124223,
+        "wd:id":"Q3139315",
+        "wk:page":"Genet"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051976,
+    "wof:geomhash":"8e19b3f7aac9580972213bc88309c662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":890433313,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890433313,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Genet",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:population":23753,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5,
+    9.06667,
+    38.5,
+    9.06667
+],
+  "geometry": {"coordinates":[38.5,9.06667],"type":"Point"}
+}

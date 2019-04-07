@@ -1,0 +1,67 @@
+{
+  "id": 1343799231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2,8.75,36.2,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":36.2,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Darge",
+    "gn:country_code":"ET",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339935,
+    "gn:latitude":8.75,
+    "gn:longitude":36.2,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Darg\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339935
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"747f2aa0b0a1b30e8eb3e8590f348e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1343799231,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343799231,
+    "wof:lastmodified":1536754986,
+    "wof:name":"Darge",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2,
+    8.75,
+    36.2,
+    8.75
+],
+  "geometry": {"coordinates":[36.2,8.75],"type":"Point"}
+}

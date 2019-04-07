@@ -1,0 +1,67 @@
+{
+  "id": 1226473583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76667,9.45,37.76667,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":37.76667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Siri",
+    "gn:country_code":"ET",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328303,
+    "gn:latitude":9.45,
+    "gn:longitude":37.76667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"S\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328303
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9068513e37a622c17563f08560fe4c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1226473583,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226473583,
+    "wof:lastmodified":1536602273,
+    "wof:name":"Siri",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76667,
+    9.45,
+    37.76667,
+    9.45
+],
+  "geometry": {"coordinates":[37.76667,9.45],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209649345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78333,9.3,41.78333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":41.78333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'elo",
+    "gn:country_code":"ET",
+    "gn:dem":2402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340915,
+    "gn:latitude":9.3,
+    "gn:longitude":41.78333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ch\u2019elo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340915
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"531f5074718cf2157ee683cc0d9b1951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209649345
+        }
+    ],
+    "wof:id":1209649345,
+    "wof:lastmodified":1536280630,
+    "wof:name":"Ch'elo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78333,
+    9.3,
+    41.78333,
+    9.3
+],
+  "geometry": {"coordinates":[41.78333,9.3],"type":"Point"}
+}

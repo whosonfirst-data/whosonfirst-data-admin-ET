@@ -1,0 +1,61 @@
+{
+  "id": 1209552637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.40583,9.48222,42.40583,9.48222",
+    "geom:latitude":9.48222,
+    "geom:longitude":42.40583,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gideya",
+    "gn:country_code":"ET",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336536,
+    "gn:latitude":9.48222,
+    "gn:longitude":42.40583,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"G\u012bdeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336536
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6182fcc058ec43f3a6e185d837fbd59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209552637
+        }
+    ],
+    "wof:id":1209552637,
+    "wof:lastmodified":1536283644,
+    "wof:name":"Gideya",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.40583,
+    9.48222,
+    42.40583,
+    9.48222
+],
+  "geometry": {"coordinates":[42.40583,9.48222],"type":"Point"}
+}

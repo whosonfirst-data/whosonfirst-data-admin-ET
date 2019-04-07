@@ -1,0 +1,73 @@
+{
+  "id": 1209136215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21667,10.98333,37.21667,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":37.21667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gishe Abay",
+    "gn:country_code":"ET",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336384,
+    "gn:latitude":10.98333,
+    "gn:longitude":37.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gishe \u0100bay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekela",
+        "Sekela Gish \u0100bay",
+        "Gshe Abay",
+        "Gesh Abai Michael",
+        "Abai",
+        "Gish Abay",
+        "Abbai",
+        "Ghisc Abbai",
+        "Gishe \u0100bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336384,
+        "wk:page":"Gish_Abay"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1f05bf57c8ca814e44539e3d9f1f31d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209136215
+        }
+    ],
+    "wof:id":1209136215,
+    "wof:lastmodified":1537622009,
+    "wof:name":"Gishe Abay",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21667,
+    10.98333,
+    37.21667,
+    10.98333
+],
+  "geometry": {"coordinates":[37.21667,10.98333],"type":"Point"}
+}

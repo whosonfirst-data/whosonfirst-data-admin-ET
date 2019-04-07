@@ -1,0 +1,74 @@
+{
+  "id": 1309741385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48333,10.55,37.48333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":37.48333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dembech'a",
+    "gn:country_code":"ET",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339473,
+    "gn:latitude":10.55,
+    "gn:longitude":37.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dembech\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dambach\u2019\u0101",
+        "Denbecha",
+        "Dembeccia",
+        "Dembechia",
+        "Dembech\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339473
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"485f6a01d0ee21cac2b6816d2689d573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1309741385,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309741385,
+    "wof:lastmodified":1537622043,
+    "wof:name":"Dembech'a",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48333,
+    10.55,
+    37.48333,
+    10.55
+],
+  "geometry": {"coordinates":[37.48333,10.55],"type":"Point"}
+}

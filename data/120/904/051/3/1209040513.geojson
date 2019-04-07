@@ -1,0 +1,61 @@
+{
+  "id": 1209040513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36667,11.66667,39.36667,11.66667",
+    "geom:latitude":11.66667,
+    "geom:longitude":39.36667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lomi Wiha",
+    "gn:country_code":"ET",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331918,
+    "gn:latitude":11.66667,
+    "gn:longitude":39.36667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Lom\u012b Wiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331918
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9b1051c959925653926abab55afbcd27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040513
+        }
+    ],
+    "wof:id":1209040513,
+    "wof:lastmodified":1536299560,
+    "wof:name":"Lomi Wiha",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36667,
+    11.66667,
+    39.36667,
+    11.66667
+],
+  "geometry": {"coordinates":[39.36667,11.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226786255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15091,13.59598,39.15091,13.59598",
+    "geom:latitude":13.59598,
+    "geom:longitude":39.15091,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"`Aynu",
+    "gn:country_code":"ET",
+    "gn:dem":2631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343028,
+    "gn:latitude":13.59598,
+    "gn:longitude":39.15091,
+    "gn:modification_date":"2008-01-02",
+    "gn:name":"\u2018Aynu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343028
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4a241cfe75da7dc83145e87ff98d487c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1226786255,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226786255,
+    "wof:lastmodified":1536657225,
+    "wof:name":"`Aynu",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15091,
+    13.59598,
+    39.15091,
+    13.59598
+],
+  "geometry": {"coordinates":[39.15091,13.59598],"type":"Point"}
+}

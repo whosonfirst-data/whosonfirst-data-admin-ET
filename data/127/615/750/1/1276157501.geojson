@@ -1,0 +1,67 @@
+{
+  "id": 1276157501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46667,8.13333,38.46667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":38.46667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Marek'o",
+    "gn:country_code":"ET",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331535,
+    "gn:latitude":8.13333,
+    "gn:longitude":38.46667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Marek\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331535
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8e90a539ae2beaee43bed2257003ce86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1276157501,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1276157501,
+    "wof:lastmodified":1537013707,
+    "wof:name":"Marek'o",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46667,
+    8.13333,
+    38.46667,
+    8.13333
+],
+  "geometry": {"coordinates":[38.46667,8.13333],"type":"Point"}
+}

@@ -1,0 +1,371 @@
+{
+  "id": 85671163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.030501,
+    "geom:area_square_m":372204540.858463,
+    "geom:bbox":"42.062099,9.189271,42.275394,9.392007",
+    "geom:latitude":9.292987,
+    "geom:longitude":42.1758,
+    "gn:population":183415,
+    "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Harari People State"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "state"
+    ],
+    "lbl:latitude":9.291204,
+    "lbl:longitude":42.1758,
+    "meso:name_local":"Harari People",
+    "mps:latitude":9.291479,
+    "mps:longitude":42.175858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":6.6,
+    "name:amh_x_preferred":[
+        "\u1210\u1228\u122a \u1215\u12dd\u1265 \u12ad\u120d\u120d"
+    ],
+    "name:amh_x_variant":[
+        "H\u0101rer\u012b Hizb Kilil"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u0631\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Harari"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09b0\u09be\u09b0\u09bf \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "Stad-rannvro Harar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Harari"
+    ],
+    "name:ces_x_preferred":[
+        "Harari"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u52d2\u723e\u5dde"
+    ],
+    "name:cze_x_preferred":[
+        "Harari"
+    ],
+    "name:dan_x_preferred":[
+        "Harari Region"
+    ],
+    "name:deu_x_preferred":[
+        "Harar"
+    ],
+    "name:dut_x_preferred":[
+        "Harari"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Harari"
+    ],
+    "name:eng_x_variant":[
+        "Harari People",
+        "Harari People Region",
+        "Harari Regional State",
+        "The State of Harari People",
+        "Harari Region"
+    ],
+    "name:epo_x_preferred":[
+        "Harario"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0631\u0627\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Harari"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9gion Harar"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion Harar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Harar"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03ac\u03c1\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ab0\u0abe\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hbs_x_preferred":[
+        "Regija Harari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0930\u093e\u0930\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Harar"
+    ],
+    "name:ind_x_preferred":[
+        "Region Harari"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Harar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30ea\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cb0\u0cbe\u0cb0\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub77c\ub9ac \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Harari kiliks"
+    ],
+    "name:lit_x_preferred":[
+        "Harari\u0173 regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0930\u093e\u0930\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Harari Region"
+    ],
+    "name:nld_x_preferred":[
+        "Harari"
+    ],
+    "name:nno_x_preferred":[
+        "Harariregionen"
+    ],
+    "name:nob_x_preferred":[
+        "Harar"
+    ],
+    "name:nor_x_preferred":[
+        "Harar"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0631\u0627\u0631\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06c1\u0631\u0627\u0631\u06cc \u0635\u0648\u0628\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Region Ludu Hareri"
+    ],
+    "name:por_x_preferred":[
+        "Harari"
+    ],
+    "name:ron_x_preferred":[
+        "Statul Oromia"
+    ],
+    "name:rum_x_preferred":[
+        "Statul Oromia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0440\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dbb\u0dcf\u0dbb\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n Harar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0433\u0438\u043e\u043d \u0425\u0430\u0440\u0430\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo la Harar"
+    ],
+    "name:swe_x_preferred":[
+        "Harari"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bb0\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c30\u0c3e\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e23\u0e32\u0e23\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Harari B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "H\u0101rer\u012b Hizb"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0631\u0627\u0631\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Harari"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u52d2\u723e\u5dde"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"ETH",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"ETH-3136",
+    "ne:adm1_code":"ETH-3136",
+    "ne:admin":"Ethiopia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"ET.HA",
+    "ne:code_local":"",
+    "ne:datarank":"3",
+    "ne:diss_me":"3136",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"ET50",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Ethiopia",
+    "ne:gn_a1_code":"ET.50",
+    "ne:gn_id":"444184",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Harari Region",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"ET50",
+    "ne:gns_id":"9087448",
+    "ne:gns_lang":"amh",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Hareri Hizb",
+    "ne:gns_region":"",
+    "ne:gu_a3":"ETH",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"ET-",
+    "ne:iso_a2":"ET",
+    "ne:labelrank":"3",
+    "ne:latitude":"9.29063000000",
+    "ne:longitude":"42.16760000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":1,
+    "ne:name":"Harari People",
+    "ne:name_alt":"Harari|Harer|Hareri Hizb",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HA",
+    "ne:provnum_ne":"20001",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"3",
+    "ne:sov_a3":"ETH",
+    "ne:sub_code":"",
+    "ne:type":"Kilil",
+    "ne:type_en":"Administrative State",
+    "ne:wikipedia":"",
+    "ne:woe_id":56013544,
+    "ne:woe_label":"Harari, ET, Ethiopia",
+    "ne:woe_name":"Harari People",
+    "qs:a0":"Ethiopia",
+    "qs:a0_lc":"ET",
+    "qs:a1":"Harari People",
+    "qs:a1_lc":"ETH-3136",
+    "qs:adm0":"Ethiopia",
+    "qs:adm0_a3":"ETH",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Administrative State",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2007-05-28",
+    "statoids:area_km":"311",
+    "statoids:area_mi":"120",
+    "statoids:as_of_date":"2007-05-28",
+    "statoids:capital":"",
+    "statoids:country":"ET",
+    "statoids:gec":"ET50",
+    "statoids:hasc":"ET.HA",
+    "statoids:iso":"HA",
+    "statoids:name":"Harari People",
+    "statoids:population":"183415",
+    "statoids:timezone":"+3",
+    "statoids:type":"state",
+    "wd:wordcount":752,
+    "wof:belongsto":[
+        102191573,
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"ET50",
+        "gn:id":444184,
+        "gp:id":56013544,
+        "hasc:id":"ET.HA",
+        "iso:id":"ET-HA",
+        "qs:id":1086829,
+        "wd:id":"Q1033855",
+        "wk:page":"Harari Region"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5b730a838fa4fb6a11e6eff9cfd8e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":85671163,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "amh"
+    ],
+    "wof:lang_x_spoken":[
+        "amh"
+    ],
+    "wof:lastmodified":1553814770,
+    "wof:name":"Harari People",
+    "wof:parent_id":85632257,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"state",
+    "wof:population":183415,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"HA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.062099,
+    9.189271,
+    42.275394,
+    9.392007
+],
+  "geometry": {"coordinates":[[[42.065041,9.230614],[42.062099,9.252784],[42.063736,9.269226],[42.067898,9.288245],[42.073689,9.307286],[42.088478,9.332461],[42.111927,9.367467],[42.117455,9.375856],[42.13237,9.392007],[42.149841,9.390849],[42.171807,9.366169],[42.190666,9.365029],[42.225105,9.382814],[42.241302,9.388279],[42.256225,9.387144],[42.2645,9.37685],[42.269363,9.369327],[42.272804,9.364013],[42.261742,9.337754],[42.268193,9.324664],[42.269272,9.313122],[42.263134,9.302179],[42.253536,9.28888],[42.252579,9.273382],[42.256874,9.264886],[42.259552,9.255907],[42.265484,9.246972],[42.271942,9.232959],[42.275394,9.218213],[42.269089,9.202644],[42.262672,9.195626],[42.25613,9.193059],[42.249256,9.190361],[42.236946,9.189271],[42.224018,9.19973],[42.211716,9.215284],[42.20068,9.223224],[42.185368,9.220245],[42.168942,9.213781],[42.151787,9.209617],[42.140492,9.219175],[42.130577,9.229905],[42.115631,9.234093],[42.076916,9.224314],[42.064236,9.229275],[42.065041,9.230614]]],"type":"Polygon"}
+}

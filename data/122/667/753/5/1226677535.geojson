@@ -1,0 +1,71 @@
+{
+  "id": 1226677535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91667,7.36667,43.91667,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":43.91667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Shekosh",
+    "gn:country_code":"ET",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328629,
+    "gn:latitude":7.36667,
+    "gn:longitude":43.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shekosh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheikosh",
+        "Shekosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328629
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7418e8e74b84734c28246ac5a33ab5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1226677535,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1226677535,
+    "wof:lastmodified":1537621918,
+    "wof:name":"Shekosh",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91667,
+    7.36667,
+    43.91667,
+    7.36667
+],
+  "geometry": {"coordinates":[43.91667,7.36667],"type":"Point"}
+}

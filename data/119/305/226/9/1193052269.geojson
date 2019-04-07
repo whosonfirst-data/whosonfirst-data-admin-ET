@@ -1,0 +1,67 @@
+{
+  "id": 1193052269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36667,6.86667,37.36667,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":37.36667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Loma",
+    "gn:country_code":"ET",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331934,
+    "gn:latitude":6.86667,
+    "gn:longitude":37.36667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Loma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331934
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"78d0d773c8979b652a9d5d3859d13438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695147,
+            "locality_id":1193052269,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1193052269,
+    "wof:lastmodified":1536365219,
+    "wof:name":"Loma",
+    "wof:parent_id":1108695147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36667,
+    6.86667,
+    37.36667,
+    6.86667
+],
+  "geometry": {"coordinates":[37.36667,6.86667],"type":"Point"}
+}

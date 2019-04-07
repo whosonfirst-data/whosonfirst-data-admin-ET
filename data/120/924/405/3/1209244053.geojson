@@ -1,0 +1,61 @@
+{
+  "id": 1209244053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,9.08333,38.2,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":38.2,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lafa",
+    "gn:country_code":"ET",
+    "gn:dem":2641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332330,
+    "gn:latitude":9.08333,
+    "gn:longitude":38.2,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Lafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332330
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b7128e679dc31af70a20182083dc2b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209244053
+        }
+    ],
+    "wof:id":1209244053,
+    "wof:lastmodified":1536293226,
+    "wof:name":"Lafa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    9.08333,
+    38.2,
+    9.08333
+],
+  "geometry": {"coordinates":[38.2,9.08333],"type":"Point"}
+}

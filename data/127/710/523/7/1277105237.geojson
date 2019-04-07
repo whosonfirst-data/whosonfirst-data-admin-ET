@@ -1,0 +1,67 @@
+{
+  "id": 1277105237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9,7.33333,37.9,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":37.9,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Funt'o",
+    "gn:country_code":"ET",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337615,
+    "gn:latitude":7.33333,
+    "gn:longitude":37.9,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Funt\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337615
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c29d3d33008b054cf4aeea13390dd589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695175,
+            "locality_id":1277105237,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1277105237,
+    "wof:lastmodified":1536735443,
+    "wof:name":"Funt'o",
+    "wof:parent_id":1108695175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9,
+    7.33333,
+    37.9,
+    7.33333
+],
+  "geometry": {"coordinates":[37.9,7.33333],"type":"Point"}
+}

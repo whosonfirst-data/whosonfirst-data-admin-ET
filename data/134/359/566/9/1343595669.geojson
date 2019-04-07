@@ -1,0 +1,67 @@
+{
+  "id": 1343595669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88333,8.6,43.88333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":43.88333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Daua Aleh",
+    "gn:country_code":"ET",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339880,
+    "gn:latitude":8.6,
+    "gn:longitude":43.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Daua Aleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339880
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6bcbb71aa44c828ac4fbda76c053bfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1343595669,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343595669,
+    "wof:lastmodified":1537046633,
+    "wof:name":"Daua Aleh",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88333,
+    8.6,
+    43.88333,
+    8.6
+],
+  "geometry": {"coordinates":[43.88333,8.6],"type":"Point"}
+}

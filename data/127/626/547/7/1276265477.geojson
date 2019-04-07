@@ -1,0 +1,71 @@
+{
+  "id": 1276265477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83667,9.55222,42.83667,9.55222",
+    "geom:latitude":9.55222,
+    "geom:longitude":42.83667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Turk'eylo",
+    "gn:country_code":"ET",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327165,
+    "gn:latitude":9.55222,
+    "gn:longitude":42.83667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Turk\u2019eylo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turchile",
+        "Turk\u2019eylo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327165
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"13c052f93620035f81f1a269d11a2e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1276265477,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276265477,
+    "wof:lastmodified":1537621904,
+    "wof:name":"Turk'eylo",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83667,
+    9.55222,
+    42.83667,
+    9.55222
+],
+  "geometry": {"coordinates":[42.83667,9.55222],"type":"Point"}
+}

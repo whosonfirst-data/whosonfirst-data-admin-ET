@@ -1,0 +1,70 @@
+{
+  "id": 1209448853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5,10.95,36.5,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":36.5,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Chagne",
+    "gn:country_code":"ET",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341103,
+    "gn:latitude":10.95,
+    "gn:longitude":36.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chagne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metekel",
+        "Kedamawi H.S. Ber",
+        "Meteke",
+        "Kedamawi Haile Selassie Ber",
+        "K.H. Selassie Ber",
+        "K.H.S. Ber",
+        "Chagne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341103
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7016ae30922581b562b37da7d37d11f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209448853
+        }
+    ],
+    "wof:id":1209448853,
+    "wof:lastmodified":1537622062,
+    "wof:name":"Chagne",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5,
+    10.95,
+    36.5,
+    10.95
+],
+  "geometry": {"coordinates":[36.5,10.95],"type":"Point"}
+}

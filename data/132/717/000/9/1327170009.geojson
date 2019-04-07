@@ -1,0 +1,67 @@
+{
+  "id": 1327170009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39578,10.90471,39.39578,10.90471",
+    "geom:latitude":10.90471,
+    "geom:longitude":39.39578,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Derk'a",
+    "gn:country_code":"ET",
+    "gn:dem":3128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339239,
+    "gn:latitude":10.90471,
+    "gn:longitude":39.39578,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Derk\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339239
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7b4b09cdc6c726de879ccbb88aea2a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1327170009,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1327170009,
+    "wof:lastmodified":1537057180,
+    "wof:name":"Derk'a",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39578,
+    10.90471,
+    39.39578,
+    10.90471
+],
+  "geometry": {"coordinates":[39.39578,10.90471],"type":"Point"}
+}

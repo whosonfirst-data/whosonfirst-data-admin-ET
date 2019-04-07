@@ -1,0 +1,67 @@
+{
+  "id": 1327170911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11694,9.46222,42.11694,9.46222",
+    "geom:latitude":9.46222,
+    "geom:longitude":42.11694,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Umer Roba",
+    "gn:country_code":"ET",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326893,
+    "gn:latitude":9.46222,
+    "gn:longitude":42.11694,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Umer Roba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326893
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"64a2bfde566900d1afcfe766d97d6d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327170911,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327170911,
+    "wof:lastmodified":1537055874,
+    "wof:name":"Umer Roba",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11694,
+    9.46222,
+    42.11694,
+    9.46222
+],
+  "geometry": {"coordinates":[42.11694,9.46222],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259814761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4,5.55,39.4,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":39.4,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wadera",
+    "gn:country_code":"ET",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326707,
+    "gn:latitude":5.55,
+    "gn:longitude":39.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wadera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uaddara",
+        "Zenbaba Wuha",
+        "Wadera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326707
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"922dc0a01ff297dbd1306ad18e3905e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695171,
+            "locality_id":1259814761,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259814761,
+    "wof:lastmodified":1537621899,
+    "wof:name":"Wadera",
+    "wof:parent_id":1108695171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4,
+    5.55,
+    39.4,
+    5.55
+],
+  "geometry": {"coordinates":[39.4,5.55],"type":"Point"}
+}

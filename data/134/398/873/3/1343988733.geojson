@@ -1,0 +1,67 @@
+{
+  "id": 1343988733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66667,8.18333,39.66667,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":39.66667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Uofaica",
+    "gn:country_code":"ET",
+    "gn:dem":2667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326851,
+    "gn:latitude":8.18333,
+    "gn:longitude":39.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Uofaica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326851
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3ba23ee64e3b8f22e805f53d9ab188cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1343988733,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343988733,
+    "wof:lastmodified":1536978678,
+    "wof:name":"Uofaica",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66667,
+    8.18333,
+    39.66667,
+    8.18333
+],
+  "geometry": {"coordinates":[39.66667,8.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276911897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59893,10.54739,39.59893,10.54739",
+    "geom:latitude":10.54739,
+    "geom:longitude":39.59893,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Rabel",
+    "gn:country_code":"ET",
+    "gn:dem":3062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329762,
+    "gn:latitude":10.54739,
+    "gn:longitude":39.59893,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Rab\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329762
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7cf6e57a5ddcb2c6c73eb41d71e6ea22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276911897,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276911897,
+    "wof:lastmodified":1536997412,
+    "wof:name":"Rabel",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59893,
+    10.54739,
+    39.59893,
+    10.54739
+],
+  "geometry": {"coordinates":[39.59893,10.54739],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309942195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45,8.95,35.45,8.95",
+    "geom:latitude":8.95,
+    "geom:longitude":35.45,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Yubdo",
+    "gn:country_code":"ET",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325765,
+    "gn:latitude":8.95,
+    "gn:longitude":35.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yubdo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jubdo",
+        "Iubdo",
+        "Yubdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325765,
+        "wk:page":"Yubdo_%28woreda%29"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76f1835c9e0f53a2128449f95f6a74a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1309942195,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309942195,
+    "wof:lastmodified":1537621887,
+    "wof:name":"Yubdo",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45,
+    8.95,
+    35.45,
+    8.95
+],
+  "geometry": {"coordinates":[35.45,8.95],"type":"Point"}
+}

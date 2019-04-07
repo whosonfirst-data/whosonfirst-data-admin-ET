@@ -1,0 +1,67 @@
+{
+  "id": 1326966771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49155,6.84274,35.49155,6.84274",
+    "geom:latitude":6.84274,
+    "geom:longitude":35.49155,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Zozo",
+    "gn:country_code":"ET",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325560,
+    "gn:latitude":6.84274,
+    "gn:longitude":35.49155,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Zozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325560
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d1408e7fa14030f7f7ca9e4c009c8f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1326966771,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1326966771,
+    "wof:lastmodified":1536853880,
+    "wof:name":"Zozo",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49155,
+    6.84274,
+    35.49155,
+    6.84274
+],
+  "geometry": {"coordinates":[35.49155,6.84274],"type":"Point"}
+}

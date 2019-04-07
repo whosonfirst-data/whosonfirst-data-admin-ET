@@ -1,0 +1,67 @@
+{
+  "id": 1327369673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.84638,9.81654,39.84638,9.81654",
+    "geom:latitude":9.81654,
+    "geom:longitude":39.84638,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ayalfush",
+    "gn:country_code":"ET",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560682,
+    "gn:latitude":9.81654,
+    "gn:longitude":39.84638,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ayalfush",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560682
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"822b39edd8bb089c7b4c3655d4de8fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1327369673,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1327369673,
+    "wof:lastmodified":1536771952,
+    "wof:name":"Ayalfush",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.84638,
+    9.81654,
+    39.84638,
+    9.81654
+],
+  "geometry": {"coordinates":[39.84638,9.81654],"type":"Point"}
+}

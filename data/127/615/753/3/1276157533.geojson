@@ -1,0 +1,71 @@
+{
+  "id": 1276157533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07583,9.25278,42.07583,9.25278",
+    "geom:latitude":9.25278,
+    "geom:longitude":42.07583,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Abonyo",
+    "gn:country_code":"ET",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345699,
+    "gn:latitude":9.25278,
+    "gn:longitude":42.07583,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u0100bonyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abon\u2019",
+        "\u0100bonyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671163,
+        1108695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345699
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3c027ed841056baeb5b9546b46b2ba87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695173,
+            "locality_id":1276157533,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":1276157533,
+    "wof:lastmodified":1537622119,
+    "wof:name":"Abonyo",
+    "wof:parent_id":1108695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07583,
+    9.25278,
+    42.07583,
+    9.25278
+],
+  "geometry": {"coordinates":[42.07583,9.25278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310516633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5833,8.5,38.5833,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":38.5833,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kersana Kondaltiti",
+    "gn:country_code":"ET",
+    "gn:dem":2404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643701,
+    "gn:latitude":8.5,
+    "gn:longitude":38.5833,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Kersana Kondaltiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643701
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5d8c7edcf166e8834085f08bc775cbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1310516633,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310516633,
+    "wof:lastmodified":1536900815,
+    "wof:name":"Kersana Kondaltiti",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5833,
+    8.5,
+    38.5833,
+    8.5
+],
+  "geometry": {"coordinates":[38.5833,8.5],"type":"Point"}
+}

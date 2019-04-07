@@ -1,0 +1,67 @@
+{
+  "id": 1327470371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03333,9.25,37.03333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":37.03333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Hagelo",
+    "gn:country_code":"ET",
+    "gn:dem":1883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335289,
+    "gn:latitude":9.25,
+    "gn:longitude":37.03333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Hagelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335289
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"776dff1ff13d3babcc539a600a1eaa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1327470371,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327470371,
+    "wof:lastmodified":1536623863,
+    "wof:name":"Hagelo",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03333,
+    9.25,
+    37.03333,
+    9.25
+],
+  "geometry": {"coordinates":[37.03333,9.25],"type":"Point"}
+}

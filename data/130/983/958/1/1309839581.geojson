@@ -1,0 +1,72 @@
+{
+  "id": 1309839581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73333,12.41667,37.73333,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":37.73333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Beleza",
+    "gn:country_code":"ET",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342415,
+    "gn:latitude":12.41667,
+    "gn:longitude":37.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beleza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balaz\u0101",
+        "Belesa",
+        "Beleza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342415
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4b53cea14264b42983a9fa0f6a83447c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1309839581,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309839581,
+    "wof:lastmodified":1537622078,
+    "wof:name":"Beleza",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73333,
+    12.41667,
+    37.73333,
+    12.41667
+],
+  "geometry": {"coordinates":[37.73333,12.41667],"type":"Point"}
+}

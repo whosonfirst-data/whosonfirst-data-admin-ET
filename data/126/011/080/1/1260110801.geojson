@@ -1,0 +1,71 @@
+{
+  "id": 1260110801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.86806,9.40806,41.86806,9.40806",
+    "geom:latitude":9.40806,
+    "geom:longitude":41.86806,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bululo",
+    "gn:country_code":"ET",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341454,
+    "gn:latitude":9.40806,
+    "gn:longitude":41.86806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bululo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bululo (1)",
+        "Bululo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341454
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fefad8fe26f7d2ec7b6c975c7dcd141b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1260110801,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260110801,
+    "wof:lastmodified":1537622066,
+    "wof:name":"Bululo",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.86806,
+    9.40806,
+    41.86806,
+    9.40806
+],
+  "geometry": {"coordinates":[41.86806,9.40806],"type":"Point"}
+}

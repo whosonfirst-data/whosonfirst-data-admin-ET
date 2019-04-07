@@ -1,0 +1,71 @@
+{
+  "id": 1327268131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21667,3.77833,39.21667,3.77833",
+    "geom:latitude":3.77833,
+    "geom:longitude":39.21667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"El Leh",
+    "gn:country_code":"ET",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338139,
+    "gn:latitude":3.77833,
+    "gn:longitude":39.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0112l L\u0113h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Le",
+        "\u0112l L\u0113h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338139
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c945d32295cb03297ddce61a87999868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1327268131,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327268131,
+    "wof:lastmodified":1537622029,
+    "wof:name":"El Leh",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21667,
+    3.77833,
+    39.21667,
+    3.77833
+],
+  "geometry": {"coordinates":[39.21667,3.77833],"type":"Point"}
+}

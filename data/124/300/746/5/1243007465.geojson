@@ -1,0 +1,72 @@
+{
+  "id": 1243007465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78333,11.05,39.78333,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":39.78333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ancharo",
+    "gn:country_code":"ET",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343929,
+    "gn:latitude":11.05,
+    "gn:longitude":39.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100ncharo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curcureta",
+        "\u0100ncharo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343929,
+        "wk:page":"Ancharo"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3f8e2a5c4a61eb0f3b0d9f51d71eb01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1243007465,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243007465,
+    "wof:lastmodified":1537622097,
+    "wof:name":"Ancharo",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78333,
+    11.05,
+    39.78333,
+    11.05
+],
+  "geometry": {"coordinates":[39.78333,11.05],"type":"Point"}
+}

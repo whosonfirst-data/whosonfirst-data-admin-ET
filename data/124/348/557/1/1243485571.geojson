@@ -1,0 +1,67 @@
+{
+  "id": 1243485571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9,8.61667,35.9,8.61667",
+    "geom:latitude":8.61667,
+    "geom:longitude":35.9,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"K'osha",
+    "gn:country_code":"ET",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332667,
+    "gn:latitude":8.61667,
+    "gn:longitude":35.9,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019osha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332667
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a9d7b2167dee408b34941dd6db776ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1243485571,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243485571,
+    "wof:lastmodified":1536749021,
+    "wof:name":"K'osha",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9,
+    8.61667,
+    35.9,
+    8.61667
+],
+  "geometry": {"coordinates":[35.9,8.61667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209141915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.06667,6.88333,41.06667,6.88333",
+    "geom:latitude":6.88333,
+    "geom:longitude":41.06667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Aldie",
+    "gn:country_code":"ET",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344327,
+    "gn:latitude":6.88333,
+    "gn:longitude":41.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haloie",
+        "Aldie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344327
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5ccb089b6fd933498e4238e5f249491b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209141915
+        }
+    ],
+    "wof:id":1209141915,
+    "wof:lastmodified":1537622100,
+    "wof:name":"Aldie",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.06667,
+    6.88333,
+    41.06667,
+    6.88333
+],
+  "geometry": {"coordinates":[41.06667,6.88333],"type":"Point"}
+}

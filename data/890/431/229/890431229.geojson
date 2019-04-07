@@ -1,0 +1,90 @@
+{
+  "id": 890431229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.86667,10.71667,39.86667,10.71667",
+    "geom:latitude":10.71667,
+    "geom:longitude":39.86667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":23861,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u51f1\u7c73\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Kemise"
+    ],
+    "name:eng_x_preferred":[
+        "Kemise"
+    ],
+    "name:fre_x_preferred":[
+        "Kemise"
+    ],
+    "name:pol_x_preferred":[
+        "Kemise"
+    ],
+    "name:unk_x_variant":[
+        "Cascim"
+    ],
+    "qs:name":"Kemis\u0113",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":1424.0,
+    "wd:latitude":"10.7167",
+    "wd:longitude":"39.8667",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333356,
+        "gp:id":1317523,
+        "qs:id":274889,
+        "wd:id":"Q3194987",
+        "wk:page":"Kemise"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051882,
+    "wof:geomhash":"b636ed972031606f3ba4065e0c3f56d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695203,
+            "locality_id":890431229,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":890431229,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Kemis\u0113",
+    "wof:parent_id":1108695203,
+    "wof:placetype":"locality",
+    "wof:population":23861,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.86667,
+    10.71667,
+    39.86667,
+    10.71667
+],
+  "geometry": {"coordinates":[39.86667,10.71667],"type":"Point"}
+}

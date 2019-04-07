@@ -1,0 +1,67 @@
+{
+  "id": 1343297075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.38333,4.53333,40.38333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":40.38333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Aiamaccio",
+    "gn:country_code":"ET",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344526,
+    "gn:latitude":4.53333,
+    "gn:longitude":40.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Aiamaccio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344526
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"79fd9b68bfc85b8dfe207ceebf9fa8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1343297075,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343297075,
+    "wof:lastmodified":1536981327,
+    "wof:name":"Aiamaccio",
+    "wof:parent_id":1108695187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.38333,
+    4.53333,
+    40.38333,
+    4.53333
+],
+  "geometry": {"coordinates":[40.38333,4.53333],"type":"Point"}
+}

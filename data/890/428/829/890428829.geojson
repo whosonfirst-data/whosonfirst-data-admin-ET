@@ -1,0 +1,71 @@
+{
+  "id": 890428829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,6.6,38.41667,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":38.41667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":12945,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Uondo"
+    ],
+    "qs:name":"Wendo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326321,
+        "gp:id":1320684,
+        "qs:id":80151,
+        "wk:page":"Wendo"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051774,
+    "wof:geomhash":"44ef479c314d8960e93a19ca9bcd95b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204421,
+            "locality_id":890428829,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890428829,
+    "wof:lastmodified":1527782115,
+    "wof:name":"Wendo",
+    "wof:parent_id":421204421,
+    "wof:placetype":"locality",
+    "wof:population":12945,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    6.6,
+    38.41667,
+    6.6
+],
+  "geometry": {"coordinates":[38.41667,6.6],"type":"Point"}
+}

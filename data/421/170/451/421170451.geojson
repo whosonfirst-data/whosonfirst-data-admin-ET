@@ -1,0 +1,73 @@
+{
+  "id": 421170451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"36.486968,5.400007,36.486968,5.400007",
+    "geom:latitude":5.400007,
+    "geom:longitude":36.486968,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Debub Omo",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":2384,
+    "qs:photos_1k":483,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3214,
+    "qs:photos_sr":17,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":481851,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017434,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017434,
+        "qs:id":481851
+    },
+    "wof:country":"ET",
+    "wof:created":1459008854,
+    "wof:geomhash":"dcd68638042ab93ced8b83ff1ace1f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421170451,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421170451,
+    "wof:lastmodified":1474500843,
+    "wof:name":"Debub Omo",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.486968,
+    5.400007,
+    36.486968,
+    5.400007
+],
+  "geometry": {"coordinates":[36.486968,5.400007],"type":"Point"}
+}

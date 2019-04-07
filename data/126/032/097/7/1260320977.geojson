@@ -1,0 +1,71 @@
+{
+  "id": 1260320977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98333,6.91667,41.98333,6.91667",
+    "geom:latitude":6.91667,
+    "geom:longitude":41.98333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Manchaf",
+    "gn:country_code":"ET",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331612,
+    "gn:latitude":6.91667,
+    "gn:longitude":41.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manchaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mancifa",
+        "Manchaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331612
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fe1161ff0b2c58028599c7c3f3dc98d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1260320977,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260320977,
+    "wof:lastmodified":1537621952,
+    "wof:name":"Manchaf",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98333,
+    6.91667,
+    41.98333,
+    6.91667
+],
+  "geometry": {"coordinates":[41.98333,6.91667],"type":"Point"}
+}

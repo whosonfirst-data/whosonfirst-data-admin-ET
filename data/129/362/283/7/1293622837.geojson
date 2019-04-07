@@ -1,0 +1,71 @@
+{
+  "id": 1293622837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.20667,9.13417,42.20667,9.13417",
+    "geom:latitude":9.13417,
+    "geom:longitude":42.20667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dige",
+    "gn:country_code":"ET",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339051,
+    "gn:latitude":9.13417,
+    "gn:longitude":42.20667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u012bg\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dug\u0113",
+        "D\u012bg\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339051
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d9352396130f4ca9c127e266f8be4d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1293622837,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293622837,
+    "wof:lastmodified":1537622038,
+    "wof:name":"Dige",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.20667,
+    9.13417,
+    42.20667,
+    9.13417
+],
+  "geometry": {"coordinates":[42.20667,9.13417],"type":"Point"}
+}

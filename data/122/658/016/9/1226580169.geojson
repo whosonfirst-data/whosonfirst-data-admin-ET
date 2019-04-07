@@ -1,0 +1,71 @@
+{
+  "id": 1226580169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51667,9.08333,38.51667,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":38.51667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Welmera Adis",
+    "gn:country_code":"ET",
+    "gn:dem":2395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326352,
+    "gn:latitude":9.08333,
+    "gn:longitude":38.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Welmera \u0100d\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Welmera",
+        "Welmera \u0100d\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326352
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c2a19f94d836bdd6bbc0916b72726507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1226580169,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226580169,
+    "wof:lastmodified":1537621894,
+    "wof:name":"Welmera Adis",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51667,
+    9.08333,
+    38.51667,
+    9.08333
+],
+  "geometry": {"coordinates":[38.51667,9.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276581201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55668,9.45423,39.55668,9.45423",
+    "geom:latitude":9.45423,
+    "geom:longitude":39.55668,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zenbar",
+    "gn:country_code":"ET",
+    "gn:dem":2536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325655,
+    "gn:latitude":9.45423,
+    "gn:longitude":39.55668,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Zenbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325655
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8a1756c12efbf953088b5c4764940b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276581201,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276581201,
+    "wof:lastmodified":1536944776,
+    "wof:name":"Zenbar",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55668,
+    9.45423,
+    39.55668,
+    9.45423
+],
+  "geometry": {"coordinates":[39.55668,9.45423],"type":"Point"}
+}

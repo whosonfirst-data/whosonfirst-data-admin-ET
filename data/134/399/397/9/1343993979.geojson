@@ -1,0 +1,67 @@
+{
+  "id": 1343993979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95,11.01667,36.95,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":36.95,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"K'ilajita",
+    "gn:country_code":"ET",
+    "gn:dem":2648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333075,
+    "gn:latitude":11.01667,
+    "gn:longitude":36.95,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019ilajita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333075
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"05f59a491951cfd6e064ae9a9b9b0cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695125,
+            "locality_id":1343993979,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343993979,
+    "wof:lastmodified":1536971181,
+    "wof:name":"K'ilajita",
+    "wof:parent_id":1108695125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95,
+    11.01667,
+    36.95,
+    11.01667
+],
+  "geometry": {"coordinates":[36.95,11.01667],"type":"Point"}
+}

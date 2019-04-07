@@ -1,0 +1,67 @@
+{
+  "id": 1344194025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89147,7.20429,42.89147,7.20429",
+    "geom:latitude":7.20429,
+    "geom:longitude":42.89147,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Durhi",
+    "gn:country_code":"ET",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338394,
+    "gn:latitude":7.20429,
+    "gn:longitude":42.89147,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Durhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338394
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c1a29d9ac5411d02a3aff94302d93d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695165,
+            "locality_id":1344194025,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1344194025,
+    "wof:lastmodified":1536682749,
+    "wof:name":"Durhi",
+    "wof:parent_id":1108695165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89147,
+    7.20429,
+    42.89147,
+    7.20429
+],
+  "geometry": {"coordinates":[42.89147,7.20429],"type":"Point"}
+}

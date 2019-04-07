@@ -1,0 +1,67 @@
+{
+  "id": 1243585133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43345,13.4548,39.43345,13.4548",
+    "geom:latitude":13.4548,
+    "geom:longitude":39.43345,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Debir",
+    "gn:country_code":"ET",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339773,
+    "gn:latitude":13.4548,
+    "gn:longitude":39.43345,
+    "gn:modification_date":"2008-02-26",
+    "gn:name":"Debir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339773
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1fe14597e516ca76135c38caf1232ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1243585133,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243585133,
+    "wof:lastmodified":1536602687,
+    "wof:name":"Debir",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43345,
+    13.4548,
+    39.43345,
+    13.4548
+],
+  "geometry": {"coordinates":[39.43345,13.4548],"type":"Point"}
+}

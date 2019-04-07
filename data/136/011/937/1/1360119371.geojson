@@ -1,0 +1,71 @@
+{
+  "id": 1360119371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86667,9.13333,36.86667,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":36.86667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"T'alo",
+    "gn:country_code":"ET",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327951,
+    "gn:latitude":9.13333,
+    "gn:longitude":36.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019alo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019alo (1)",
+        "T\u2019alo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327951
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"80a20095cddc899f8136a93b453e3714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1360119371,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1360119371,
+    "wof:lastmodified":1537621911,
+    "wof:name":"T'alo",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86667,
+    9.13333,
+    36.86667,
+    9.13333
+],
+  "geometry": {"coordinates":[36.86667,9.13333],"type":"Point"}
+}

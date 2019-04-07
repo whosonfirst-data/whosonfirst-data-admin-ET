@@ -1,0 +1,61 @@
+{
+  "id": 1209549443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5477,10.28596,39.5477,10.28596",
+    "geom:latitude":10.28596,
+    "geom:longitude":39.5477,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ambersha",
+    "gn:country_code":"ET",
+    "gn:dem":2898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344063,
+    "gn:latitude":10.28596,
+    "gn:longitude":39.5477,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u0100mbersha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344063
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"688526cf2fc601a42725d829e2012ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209549443
+        }
+    ],
+    "wof:id":1209549443,
+    "wof:lastmodified":1536283740,
+    "wof:name":"Ambersha",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5477,
+    10.28596,
+    39.5477,
+    10.28596
+],
+  "geometry": {"coordinates":[39.5477,10.28596],"type":"Point"}
+}

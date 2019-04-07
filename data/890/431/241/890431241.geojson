@@ -1,0 +1,102 @@
+{
+  "id": 890431241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.78333,8.9,40.78333,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":40.78333,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":17526,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u5fb7\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Bedessa"
+    ],
+    "name:eng_x_preferred":[
+        "Bedessa"
+    ],
+    "name:fre_x_preferred":[
+        "Bedessa"
+    ],
+    "name:ita_x_preferred":[
+        "Bedessa"
+    ],
+    "name:por_x_preferred":[
+        "Bedessa"
+    ],
+    "name:spa_x_preferred":[
+        "Bedessa"
+    ],
+    "name:srp_x_preferred":[
+        "Badessa"
+    ],
+    "name:swe_x_preferred":[
+        "Bed\u0113sa"
+    ],
+    "name:unk_x_variant":[
+        "Bedessa"
+    ],
+    "qs:name":"Bed\u0113sa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:elevation":1761.0,
+    "wd:latitude":"8.9",
+    "wd:longitude":"40.7833",
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342559,
+        "gp:id":1314031,
+        "qs:id":274901,
+        "wd:id":"Q2893571",
+        "wk:page":"Badessa"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051884,
+    "wof:geomhash":"23e373d01d6bc6537683f952b746662c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":890431241,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890431241,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Bed\u0113sa",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:population":17526,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.78333,
+    8.9,
+    40.78333,
+    8.9
+],
+  "geometry": {"coordinates":[40.78333,8.9],"type":"Point"}
+}

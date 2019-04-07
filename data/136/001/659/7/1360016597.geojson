@@ -1,0 +1,70 @@
+{
+  "id": 1360016597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68583,6.88785,35.68583,6.88785",
+    "geom:latitude":6.88785,
+    "geom:longitude":35.68583,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Gulusci",
+    "gn:country_code":"ET",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335631,
+    "gn:latitude":6.88785,
+    "gn:longitude":35.68583,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Gulusci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gulushi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335631
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b8fe1c9b0228b2648f530a9dbdfbffcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1360016597,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1360016597,
+    "wof:lastmodified":1537622001,
+    "wof:name":"Gulusci",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68583,
+    6.88785,
+    35.68583,
+    6.88785
+],
+  "geometry": {"coordinates":[35.68583,6.88785],"type":"Point"}
+}

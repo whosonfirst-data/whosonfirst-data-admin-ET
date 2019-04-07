@@ -1,0 +1,67 @@
+{
+  "id": 1292940187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82667,6.57833,42.82667,6.57833",
+    "geom:latitude":6.57833,
+    "geom:longitude":42.82667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Guasasali",
+    "gn:country_code":"ET",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335799,
+    "gn:latitude":6.57833,
+    "gn:longitude":42.82667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Guasasali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335799
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3d08a102ab78df00d383e8583054bb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1292940187,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1292940187,
+    "wof:lastmodified":1537075996,
+    "wof:name":"Guasasali",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82667,
+    6.57833,
+    42.82667,
+    6.57833
+],
+  "geometry": {"coordinates":[42.82667,6.57833],"type":"Point"}
+}

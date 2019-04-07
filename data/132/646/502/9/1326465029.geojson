@@ -1,0 +1,67 @@
+{
+  "id": 1326465029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25,7.41667,39.25,7.41667",
+    "geom:latitude":7.41667,
+    "geom:longitude":39.25,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Meraro",
+    "gn:country_code":"ET",
+    "gn:dem":2987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330947,
+    "gn:latitude":7.41667,
+    "gn:longitude":39.25,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Meraro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330947
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"86bc2a618cb3d7b66b11a67875a17bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1326465029,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326465029,
+    "wof:lastmodified":1537077657,
+    "wof:name":"Meraro",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25,
+    7.41667,
+    39.25,
+    7.41667
+],
+  "geometry": {"coordinates":[39.25,7.41667],"type":"Point"}
+}

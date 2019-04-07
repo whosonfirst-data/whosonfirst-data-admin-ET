@@ -1,0 +1,67 @@
+{
+  "id": 1243292537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88333,7.16667,39.88333,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":39.88333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Manso",
+    "gn:country_code":"ET",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331578,
+    "gn:latitude":7.16667,
+    "gn:longitude":39.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Manso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331578
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b9b93bdb358126ac1933b78a1b7ae78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1243292537,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243292537,
+    "wof:lastmodified":1537026328,
+    "wof:name":"Manso",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88333,
+    7.16667,
+    39.88333,
+    7.16667
+],
+  "geometry": {"coordinates":[39.88333,7.16667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209124801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.62032,7.19389,40.62032,7.19389",
+    "geom:latitude":7.19389,
+    "geom:longitude":40.62032,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hakasha or Haqaasha",
+    "gn:country_code":"ET",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11001326,
+    "gn:latitude":7.19389,
+    "gn:longitude":40.62032,
+    "gn:modification_date":"2015-12-14",
+    "gn:name":"Hakasha or Haqaasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11001326
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0ad59214d4c0182f9479db66824775ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209124801
+        }
+    ],
+    "wof:id":1209124801,
+    "wof:lastmodified":1536296987,
+    "wof:name":"Hakasha or Haqaasha",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.62032,
+    7.19389,
+    40.62032,
+    7.19389
+],
+  "geometry": {"coordinates":[40.62032,7.19389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243585263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76667,9.8,37.76667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":37.76667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mene Busa",
+    "gn:country_code":"ET",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331026,
+    "gn:latitude":9.8,
+    "gn:longitude":37.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mene Busa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kintu Resa",
+        "Chintu Resa",
+        "Mene Busa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331026
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"54325c6fe1e91425bdf4e158d2e34a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1243585263,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243585263,
+    "wof:lastmodified":1537621944,
+    "wof:name":"Mene Busa",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76667,
+    9.8,
+    37.76667,
+    9.8
+],
+  "geometry": {"coordinates":[37.76667,9.8],"type":"Point"}
+}

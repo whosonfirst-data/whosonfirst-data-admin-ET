@@ -1,0 +1,73 @@
+{
+  "id": 1293031281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69111,6.86583,44.69111,6.86583",
+    "geom:latitude":6.86583,
+    "geom:longitude":44.69111,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Giaffaie",
+    "gn:country_code":"ET",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336603,
+    "gn:latitude":6.86583,
+    "gn:longitude":44.69111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Giaffaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giaffageh",
+        "Giaffagiel",
+        "Dzhaffaye",
+        "Giaffaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336603
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cd593da1a73ca89252b03e6494c2bd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1293031281,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293031281,
+    "wof:lastmodified":1537622012,
+    "wof:name":"Giaffaie",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69111,
+    6.86583,
+    44.69111,
+    6.86583
+],
+  "geometry": {"coordinates":[44.69111,6.86583],"type":"Point"}
+}

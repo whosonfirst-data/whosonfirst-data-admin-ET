@@ -1,0 +1,70 @@
+{
+  "id": 1310037049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6462,10.87657,39.6462,10.87657",
+    "geom:latitude":10.87657,
+    "geom:longitude":39.6462,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Senyo Gebeya",
+    "gn:country_code":"ET",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339606,
+    "gn:latitude":10.87657,
+    "gn:longitude":39.6462,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Senyo Gebeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339606
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"04f0b493eed6415e8b36b501dcd5952d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1310037049,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310037049,
+    "wof:lastmodified":1537622045,
+    "wof:name":"Senyo Gebeya",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6462,
+    10.87657,
+    39.6462,
+    10.87657
+],
+  "geometry": {"coordinates":[39.6462,10.87657],"type":"Point"}
+}

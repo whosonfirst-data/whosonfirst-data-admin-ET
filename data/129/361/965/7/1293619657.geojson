@@ -1,0 +1,71 @@
+{
+  "id": 1293619657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76667,5.28333,36.76667,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":36.76667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Jinka",
+    "gn:country_code":"ET",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333751,
+    "gn:latitude":5.28333,
+    "gn:longitude":36.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jinka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bako",
+        "Jinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333751
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a3c1815c57d6579602e026f46ffabc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695219,
+            "locality_id":1293619657,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1293619657,
+    "wof:lastmodified":1537621974,
+    "wof:name":"Jinka",
+    "wof:parent_id":1108695219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76667,
+    5.28333,
+    36.76667,
+    5.28333
+],
+  "geometry": {"coordinates":[36.76667,5.28333],"type":"Point"}
+}

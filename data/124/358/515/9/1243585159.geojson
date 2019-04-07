@@ -1,0 +1,67 @@
+{
+  "id": 1243585159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23333,9.56667,38.23333,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":38.23333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lilu",
+    "gn:country_code":"ET",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331996,
+    "gn:latitude":9.56667,
+    "gn:longitude":38.23333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"L\u012blu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331996
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9592e02c6ac9e5d9cdc313b345a9b710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1243585159,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243585159,
+    "wof:lastmodified":1536602644,
+    "wof:name":"Lilu",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23333,
+    9.56667,
+    38.23333,
+    9.56667
+],
+  "geometry": {"coordinates":[38.23333,9.56667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242608579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,12.83333,39.81667,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Bidera",
+    "gn:country_code":"ET",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345242,
+    "gn:latitude":12.83333,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Bidera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addi Abdera",
+        "\u0100d\u012b Bidera (2)",
+        "\u0100d\u012b Bidera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345242
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0d647733d070d3388ddd6d6d9922d93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1242608579,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1242608579,
+    "wof:lastmodified":1537622114,
+    "wof:name":"Adi Bidera",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    12.83333,
+    39.81667,
+    12.83333
+],
+  "geometry": {"coordinates":[39.81667,12.83333],"type":"Point"}
+}

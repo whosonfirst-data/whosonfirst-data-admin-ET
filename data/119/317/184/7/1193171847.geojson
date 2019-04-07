@@ -1,0 +1,63 @@
+{
+  "id": 1193171847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32472,8.22194,46.32472,8.22194",
+    "geom:latitude":8.22194,
+    "geom:longitude":46.32472,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Serer Wein",
+    "gn:country_code":"ET",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6608455,
+    "gn:latitude":8.22194,
+    "gn:longitude":46.32472,
+    "gn:modification_date":"2007-07-25",
+    "gn:name":"Serer Wein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6608455
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f3114ffdea6ee083101bb6bb834bd0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193171847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193171847,
+    "wof:lastmodified":1536379568,
+    "wof:name":"Serer Wein",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32472,
+    8.22194,
+    46.32472,
+    8.22194
+],
+  "geometry": {"coordinates":[46.32472,8.22194],"type":"Point"}
+}

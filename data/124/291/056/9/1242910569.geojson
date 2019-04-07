@@ -1,0 +1,67 @@
+{
+  "id": 1242910569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0825,14.6375,38.0825,14.6375",
+    "geom:latitude":14.6375,
+    "geom:longitude":38.0825,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Kaukat",
+    "gn:country_code":"ET",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6415929,
+    "gn:latitude":14.6375,
+    "gn:longitude":38.0825,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Adi Kaukat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6415929
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d13b53bbd19a212d8e0d32e1a7dcebbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1242910569,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1242910569,
+    "wof:lastmodified":1537077878,
+    "wof:name":"Adi Kaukat",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0825,
+    14.6375,
+    38.0825,
+    14.6375
+],
+  "geometry": {"coordinates":[38.0825,14.6375],"type":"Point"}
+}

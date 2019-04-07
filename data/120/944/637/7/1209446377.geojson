@@ -1,0 +1,66 @@
+{
+  "id": 1209446377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56667,9.25,34.56667,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":34.56667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Shashi",
+    "gn:country_code":"ET",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328687,
+    "gn:latitude":9.25,
+    "gn:longitude":34.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sciaso",
+        "Siasi",
+        "Shash\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328687
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3e9e8d129da4bf47142fdfbd2426fc8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209446377
+        }
+    ],
+    "wof:id":1209446377,
+    "wof:lastmodified":1537621920,
+    "wof:name":"Shashi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56667,
+    9.25,
+    34.56667,
+    9.25
+],
+  "geometry": {"coordinates":[34.56667,9.25],"type":"Point"}
+}

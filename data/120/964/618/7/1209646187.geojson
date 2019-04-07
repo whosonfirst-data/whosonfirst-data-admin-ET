@@ -1,0 +1,61 @@
+{
+  "id": 1209646187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74276,9.65421,39.74276,9.65421",
+    "geom:latitude":9.65421,
+    "geom:longitude":39.74276,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Islamba",
+    "gn:country_code":"ET",
+    "gn:dem":3262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334065,
+    "gn:latitude":9.65421,
+    "gn:longitude":39.74276,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Islamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334065
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c62e3085ea00fdb1135ca70eab5b3a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209646187
+        }
+    ],
+    "wof:id":1209646187,
+    "wof:lastmodified":1536280728,
+    "wof:name":"Islamba",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74276,
+    9.65421,
+    39.74276,
+    9.65421
+],
+  "geometry": {"coordinates":[39.74276,9.65421],"type":"Point"}
+}

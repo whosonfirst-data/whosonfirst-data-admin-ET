@@ -1,0 +1,67 @@
+{
+  "id": 1277013077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16667,9.15,37.16667,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":37.16667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Guto",
+    "gn:country_code":"ET",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335394,
+    "gn:latitude":9.15,
+    "gn:longitude":37.16667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Guto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335394
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"30c0ec0586fb95a05b32167b160cd3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1277013077,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1277013077,
+    "wof:lastmodified":1536861264,
+    "wof:name":"Guto",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16667,
+    9.15,
+    37.16667,
+    9.15
+],
+  "geometry": {"coordinates":[37.16667,9.15],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293920045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85028,9.14611,43.85028,9.14611",
+    "geom:latitude":9.14611,
+    "geom:longitude":43.85028,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Awkelef",
+    "gn:country_code":"ET",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311007,
+    "gn:latitude":9.14611,
+    "gn:longitude":43.85028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Awkelef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Au-Kalaf",
+        "Awkelef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311007
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2d1e14d4323975a1b58031644ed5147f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1293920045,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293920045,
+    "wof:lastmodified":1537622123,
+    "wof:name":"Awkelef",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85028,
+    9.14611,
+    43.85028,
+    9.14611
+],
+  "geometry": {"coordinates":[43.85028,9.14611],"type":"Point"}
+}

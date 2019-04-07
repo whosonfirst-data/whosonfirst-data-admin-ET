@@ -1,0 +1,67 @@
+{
+  "id": 1276693725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41667,8.23333,37.41667,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":37.41667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kobi",
+    "gn:country_code":"ET",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332961,
+    "gn:latitude":8.23333,
+    "gn:longitude":37.41667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Kob\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332961
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c1984071d3c2da38dcbacc21f1d6c29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276693725,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276693725,
+    "wof:lastmodified":1536793041,
+    "wof:name":"Kobi",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41667,
+    8.23333,
+    37.41667,
+    8.23333
+],
+  "geometry": {"coordinates":[37.41667,8.23333],"type":"Point"}
+}

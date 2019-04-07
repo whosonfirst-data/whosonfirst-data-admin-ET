@@ -1,0 +1,67 @@
+{
+  "id": 1243002819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45,8.86667,40.45,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":40.45,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mut'i Leftu",
+    "gn:country_code":"ET",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330259,
+    "gn:latitude":8.86667,
+    "gn:longitude":40.45,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Mut\u2019\u012b Leftu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330259
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"466ed60bae6aeba4f488e8e63d1b40da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1243002819,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243002819,
+    "wof:lastmodified":1536948535,
+    "wof:name":"Mut'i Leftu",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45,
+    8.86667,
+    40.45,
+    8.86667
+],
+  "geometry": {"coordinates":[40.45,8.86667],"type":"Point"}
+}

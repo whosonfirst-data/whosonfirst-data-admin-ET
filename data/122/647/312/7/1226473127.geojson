@@ -1,0 +1,67 @@
+{
+  "id": 1226473127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10758,5.8259,35.10758,5.8259",
+    "geom:latitude":5.8259,
+    "geom:longitude":35.10758,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Birdiga",
+    "gn:country_code":"ET",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342026,
+    "gn:latitude":5.8259,
+    "gn:longitude":35.10758,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Birdiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342026
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1b0548d96e5e4bad3a374155e8223ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1226473127,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1226473127,
+    "wof:lastmodified":1536602998,
+    "wof:name":"Birdiga",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10758,
+    5.8259,
+    35.10758,
+    5.8259
+],
+  "geometry": {"coordinates":[35.10758,5.8259],"type":"Point"}
+}

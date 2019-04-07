@@ -1,0 +1,67 @@
+{
+  "id": 1327170701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83229,9.03141,38.83229,9.03141",
+    "geom:latitude":9.03141,
+    "geom:longitude":38.83229,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kotobe",
+    "gn:country_code":"ET",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051201,
+    "gn:latitude":9.03141,
+    "gn:longitude":38.83229,
+    "gn:modification_date":"2013-02-21",
+    "gn:name":"Kotobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149,
+        1108695113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051201
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9d29ea9f7130b0eeb16409993cf17220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695113,
+            "locality_id":1327170701,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1327170701,
+    "wof:lastmodified":1537056191,
+    "wof:name":"Kotobe",
+    "wof:parent_id":1108695113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83229,
+    9.03141,
+    38.83229,
+    9.03141
+],
+  "geometry": {"coordinates":[38.83229,9.03141],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243490185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1,12.85,39.1,12.85",
+    "geom:latitude":12.85,
+    "geom:longitude":39.1,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dagibi",
+    "gn:country_code":"ET",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340235,
+    "gn:latitude":12.85,
+    "gn:longitude":39.1,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dagibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340235
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fa423b48394fd764b4a3f5add119252c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695225,
+            "locality_id":1243490185,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243490185,
+    "wof:lastmodified":1536742169,
+    "wof:name":"Dagibi",
+    "wof:parent_id":1108695225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1,
+    12.85,
+    39.1,
+    12.85
+],
+  "geometry": {"coordinates":[39.1,12.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226178229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,11.25,37.08333,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Daghi",
+    "gn:country_code":"ET",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340240,
+    "gn:latitude":11.25,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Daghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340240
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"26ffc00956465717e4c74f813cbe2622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1226178229,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226178229,
+    "wof:lastmodified":1537029560,
+    "wof:name":"Daghi",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    11.25,
+    37.08333,
+    11.25
+],
+  "geometry": {"coordinates":[37.08333,11.25],"type":"Point"}
+}

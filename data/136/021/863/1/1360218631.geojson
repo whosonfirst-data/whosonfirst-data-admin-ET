@@ -1,0 +1,67 @@
+{
+  "id": 1360218631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73611,7.39028,43.73611,7.39028",
+    "geom:latitude":7.39028,
+    "geom:longitude":43.73611,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ado",
+    "gn:country_code":"ET",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344854,
+    "gn:latitude":7.39028,
+    "gn:longitude":43.73611,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344854
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"61ccc7ed29998fae2a971f94889c51f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1360218631,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1360218631,
+    "wof:lastmodified":1536752986,
+    "wof:name":"Ado",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73611,
+    7.39028,
+    43.73611,
+    7.39028
+],
+  "geometry": {"coordinates":[43.73611,7.39028],"type":"Point"}
+}

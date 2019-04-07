@@ -1,0 +1,67 @@
+{
+  "id": 1225863579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02661,12.51578,37.02661,12.51578",
+    "geom:latitude":12.51578,
+    "geom:longitude":37.02661,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Seraba",
+    "gn:country_code":"ET",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9782488,
+    "gn:latitude":12.51578,
+    "gn:longitude":37.02661,
+    "gn:modification_date":"2014-10-27",
+    "gn:name":"Seraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9782488
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e0c918df9016d07abf042cbc366323a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1225863579,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1225863579,
+    "wof:lastmodified":1536987163,
+    "wof:name":"Seraba",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02661,
+    12.51578,
+    37.02661,
+    12.51578
+],
+  "geometry": {"coordinates":[37.02661,12.51578],"type":"Point"}
+}

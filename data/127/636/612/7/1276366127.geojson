@@ -1,0 +1,67 @@
+{
+  "id": 1276366127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36411,9.52572,39.36411,9.52572",
+    "geom:latitude":9.52572,
+    "geom:longitude":39.36411,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Terami",
+    "gn:country_code":"ET",
+    "gn:dem":2815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327683,
+    "gn:latitude":9.52572,
+    "gn:longitude":39.36411,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Teram\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327683
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fd0e705eb179c64c5588880b8cd79983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276366127,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276366127,
+    "wof:lastmodified":1536734837,
+    "wof:name":"Terami",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36411,
+    9.52572,
+    39.36411,
+    9.52572
+],
+  "geometry": {"coordinates":[39.36411,9.52572],"type":"Point"}
+}

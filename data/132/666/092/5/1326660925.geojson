@@ -1,0 +1,67 @@
+{
+  "id": 1326660925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.5625,9.05056,41.5625,9.05056",
+    "geom:latitude":9.05056,
+    "geom:longitude":41.5625,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ademe",
+    "gn:country_code":"ET",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345394,
+    "gn:latitude":9.05056,
+    "gn:longitude":41.5625,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100dem\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345394
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a92bd31991c33c886c025c2cd9dc948d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1326660925,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326660925,
+    "wof:lastmodified":1536798656,
+    "wof:name":"Ademe",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.5625,
+    9.05056,
+    41.5625,
+    9.05056
+],
+  "geometry": {"coordinates":[41.5625,9.05056],"type":"Point"}
+}

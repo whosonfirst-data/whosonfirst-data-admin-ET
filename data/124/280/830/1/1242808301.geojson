@@ -1,0 +1,67 @@
+{
+  "id": 1242808301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85,9.2,36.85,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":36.85,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Aleltu",
+    "gn:country_code":"ET",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344305,
+    "gn:latitude":9.2,
+    "gn:longitude":36.85,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100leltu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344305
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bcd048c894d67c606d16c6b43a7b0001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1242808301,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242808301,
+    "wof:lastmodified":1536731763,
+    "wof:name":"Aleltu",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85,
+    9.2,
+    36.85,
+    9.2
+],
+  "geometry": {"coordinates":[36.85,9.2],"type":"Point"}
+}

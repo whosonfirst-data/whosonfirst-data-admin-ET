@@ -1,0 +1,71 @@
+{
+  "id": 1293525185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46277,13.55415,39.46277,13.55415",
+    "geom:latitude":13.55415,
+    "geom:longitude":39.46277,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Dehan",
+    "gn:country_code":"ET",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339562,
+    "gn:latitude":13.55415,
+    "gn:longitude":39.46277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dehan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhan",
+        "Dehan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339562
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ec5e9cec8961591248b4d3dcb7088ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1293525185,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293525185,
+    "wof:lastmodified":1537622044,
+    "wof:name":"Dehan",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46277,
+    13.55415,
+    39.46277,
+    13.55415
+],
+  "geometry": {"coordinates":[39.46277,13.55415],"type":"Point"}
+}

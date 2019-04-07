@@ -1,0 +1,75 @@
+{
+  "id": 1327367947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26667,10.83333,38.26667,10.83333",
+    "geom:latitude":10.83333,
+    "geom:longitude":38.26667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mertule Maryam",
+    "gn:country_code":"ET",
+    "gn:dem":2133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330874,
+    "gn:latitude":10.83333,
+    "gn:longitude":38.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mertule Maryam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Martula Mariam",
+        "Mertule Mariam",
+        "Martula",
+        "Mertale Mariam",
+        "Merto Lemariam",
+        "Mertule Maryam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330874
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"37af24667c801c56a8c70935eab04da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1327367947,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1327367947,
+    "wof:lastmodified":1537621943,
+    "wof:name":"Mertule Maryam",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26667,
+    10.83333,
+    38.26667,
+    10.83333
+],
+  "geometry": {"coordinates":[38.26667,10.83333],"type":"Point"}
+}

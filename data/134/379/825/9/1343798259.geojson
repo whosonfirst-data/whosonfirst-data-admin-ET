@@ -1,0 +1,71 @@
+{
+  "id": 1343798259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01667,11.51667,37.01667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":37.01667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Deleket",
+    "gn:country_code":"ET",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339509,
+    "gn:latitude":11.51667,
+    "gn:longitude":37.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deleket",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delache",
+        "Deleket"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339509
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a94bafa5e1298d564ba65df9466905cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1343798259,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343798259,
+    "wof:lastmodified":1537622044,
+    "wof:name":"Deleket",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01667,
+    11.51667,
+    37.01667,
+    11.51667
+],
+  "geometry": {"coordinates":[37.01667,11.51667],"type":"Point"}
+}

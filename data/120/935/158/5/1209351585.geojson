@@ -1,0 +1,66 @@
+{
+  "id": 1209351585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66667,13.75,39.66667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":39.66667,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Sellasi Adgu",
+    "gn:cc2":"ET",
+    "gn:country_code":"ET",
+    "gn:dem":2471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328917,
+    "gn:latitude":13.75,
+    "gn:longitude":39.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sellasi Adgu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sellasi",
+        "Sellasi Adgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328917
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b597fb76258b425e5db9b3cf7862e5a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209351585
+        }
+    ],
+    "wof:id":1209351585,
+    "wof:lastmodified":1537621922,
+    "wof:name":"Sellasi Adgu",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66667,
+    13.75,
+    39.66667,
+    13.75
+],
+  "geometry": {"coordinates":[39.66667,13.75],"type":"Point"}
+}

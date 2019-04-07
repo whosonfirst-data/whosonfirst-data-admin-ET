@@ -1,0 +1,67 @@
+{
+  "id": 1276265953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.93917,9.66139,41.93917,9.66139",
+    "geom:latitude":9.66139,
+    "geom:longitude":41.93917,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Hidenu",
+    "gn:country_code":"ET",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":334741,
+    "gn:latitude":9.66139,
+    "gn:longitude":41.93917,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"H\u012bdenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334741
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0e7d87c5a29afc2f7e9b27277a060328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "locality_id":1276265953,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":1276265953,
+    "wof:lastmodified":1536867651,
+    "wof:name":"Hidenu",
+    "wof:parent_id":421190257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.93917,
+    9.66139,
+    41.93917,
+    9.66139
+],
+  "geometry": {"coordinates":[41.93917,9.66139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310236095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95194,9.88361,42.95194,9.88361",
+    "geom:latitude":9.88361,
+    "geom:longitude":42.95194,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Harewe",
+    "gn:country_code":"ET",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335016,
+    "gn:latitude":9.88361,
+    "gn:longitude":42.95194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Harew\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harew\u0113 (1)",
+        "Kharoue-1",
+        "Harew\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335016
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"12faa53d4cd0c77b495c177689c39b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1310236095,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310236095,
+    "wof:lastmodified":1537621993,
+    "wof:name":"Harewe",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95194,
+    9.88361,
+    42.95194,
+    9.88361
+],
+  "geometry": {"coordinates":[42.95194,9.88361],"type":"Point"}
+}

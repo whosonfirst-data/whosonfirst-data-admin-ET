@@ -1,0 +1,81 @@
+{
+  "id": 421190907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.68403,11.47704,41.68403,11.47704",
+    "geom:latitude":11.47704,
+    "geom:longitude":41.68403,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Afembo"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":344770,
+    "qs:gn_pop":0,
+    "qs:name":"Afambo",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Afar",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":58810,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1313128,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344770,
+        "gp:id":1313128,
+        "qs:id":58810,
+        "wd:id":"Q2825704",
+        "wk:page":"Afambo (woreda)"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009673,
+    "wof:geomhash":"401e24f94a0655c3224fcc82983a428d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":421190907,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":421190907,
+    "wof:lastmodified":1501214121,
+    "wof:name":"Afambo",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.68403,
+    11.47704,
+    41.68403,
+    11.47704
+],
+  "geometry": {"coordinates":[41.68403,11.47704],"type":"Point"}
+}

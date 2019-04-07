@@ -1,0 +1,71 @@
+{
+  "id": 1310036071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3,12.06667,38.3,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":38.3,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Abarche",
+    "gn:country_code":"ET",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345879,
+    "gn:latitude":12.06667,
+    "gn:longitude":38.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abarche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abarctie",
+        "Abarche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345879
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"007ebb8c278684977a01cee485e97c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1310036071,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310036071,
+    "wof:lastmodified":1537622122,
+    "wof:name":"Abarche",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3,
+    12.06667,
+    38.3,
+    12.06667
+],
+  "geometry": {"coordinates":[38.3,12.06667],"type":"Point"}
+}

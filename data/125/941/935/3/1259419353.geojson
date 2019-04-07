@@ -1,0 +1,67 @@
+{
+  "id": 1259419353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27156,14.33934,39.27156,14.33934",
+    "geom:latitude":14.33934,
+    "geom:longitude":39.27156,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Gorada'iti",
+    "gn:country_code":"ET",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345155,
+    "gn:latitude":14.33934,
+    "gn:longitude":39.27156,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"\u0100d\u012b Gorada\u2019it\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345155
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a66972a29a21e507d092bba89a282c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1259419353,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259419353,
+    "wof:lastmodified":1536951043,
+    "wof:name":"Adi Gorada'iti",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27156,
+    14.33934,
+    39.27156,
+    14.33934
+],
+  "geometry": {"coordinates":[39.27156,14.33934],"type":"Point"}
+}

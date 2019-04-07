@@ -1,0 +1,67 @@
+{
+  "id": 1326965995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.6,8.4,37.6,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":37.6,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ilala",
+    "gn:country_code":"ET",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334397,
+    "gn:latitude":8.4,
+    "gn:longitude":37.6,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u012alala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334397
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a5b244f182a6141e7696148fec09e380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1326965995,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326965995,
+    "wof:lastmodified":1536854992,
+    "wof:name":"Ilala",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.6,
+    8.4,
+    37.6,
+    8.4
+],
+  "geometry": {"coordinates":[37.6,8.4],"type":"Point"}
+}

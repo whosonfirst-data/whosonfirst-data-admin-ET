@@ -1,0 +1,72 @@
+{
+  "id": 1259814763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01667,10.46667,38.01667,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":38.01667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Angach'a",
+    "gn:country_code":"ET",
+    "gn:dem":2553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343868,
+    "gn:latitude":10.46667,
+    "gn:longitude":38.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100ngach\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100ngecha",
+        "Anghec",
+        "\u0100ngach\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343868
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5ab7ccc3c77bb8310a50203771f9116e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1259814763,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259814763,
+    "wof:lastmodified":1537622096,
+    "wof:name":"Angach'a",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01667,
+    10.46667,
+    38.01667,
+    10.46667
+],
+  "geometry": {"coordinates":[38.01667,10.46667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343390411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3,7.7,35.3,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":35.3,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Barada",
+    "gn:country_code":"ET",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342745,
+    "gn:latitude":7.7,
+    "gn:longitude":35.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perada",
+        "Barada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342745
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"791ceb110565f54607df9561e53636c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695217,
+            "locality_id":1343390411,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343390411,
+    "wof:lastmodified":1537622083,
+    "wof:name":"Barada",
+    "wof:parent_id":1108695217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3,
+    7.7,
+    35.3,
+    7.7
+],
+  "geometry": {"coordinates":[35.3,7.7],"type":"Point"}
+}

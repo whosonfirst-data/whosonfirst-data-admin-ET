@@ -1,0 +1,67 @@
+{
+  "id": 1209450023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63723,13.49923,39.63723,13.49923",
+    "geom:latitude":13.49923,
+    "geom:longitude":39.63723,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Dolo",
+    "gn:country_code":"ET",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338670,
+    "gn:latitude":13.49923,
+    "gn:longitude":39.63723,
+    "gn:modification_date":"2017-10-08",
+    "gn:name":"Dolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_historical":[
+        "Dol\u00f2"
+    ],
+    "name:ita_x_preferred":[
+        "Dol\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338670
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c53c6a31482bb1be27f5f7ea3b4ddc70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209450023
+        }
+    ],
+    "wof:id":1209450023,
+    "wof:lastmodified":1537622034,
+    "wof:name":"Dolo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63723,
+    13.49923,
+    39.63723,
+    13.49923
+],
+  "geometry": {"coordinates":[39.63723,13.49923],"type":"Point"}
+}

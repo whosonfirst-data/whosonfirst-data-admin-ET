@@ -1,0 +1,78 @@
+{
+  "id": 890441625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76667,9.85,39.76667,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":39.76667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":9409,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Debre Sina"
+    ],
+    "name:eng_x_preferred":[
+        "Debre Sina"
+    ],
+    "name:unk_x_variant":[
+        "Debra Sina"
+    ],
+    "qs:name":"Debre S\u012bna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339692,
+        "gp:id":1315156,
+        "qs:id":124252,
+        "wd:id":"Q18350861",
+        "wk:page":"Debre Sina"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052331,
+    "wof:geomhash":"03173706ffaa5eb4afe19fa072620957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":890441625,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":890441625,
+    "wof:lastmodified":1527727232,
+    "wof:name":"Debre S\u012bna",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:population":9409,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76667,
+    9.85,
+    39.76667,
+    9.85
+],
+  "geometry": {"coordinates":[39.76667,9.85],"type":"Point"}
+}

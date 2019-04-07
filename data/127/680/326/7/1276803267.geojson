@@ -1,0 +1,72 @@
+{
+  "id": 1276803267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61667,7.71667,36.61667,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":36.61667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sentama",
+    "gn:country_code":"ET",
+    "gn:dem":2509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328849,
+    "gn:latitude":7.71667,
+    "gn:longitude":36.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sentama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senyo Gebeya",
+        "Santamma",
+        "Sentama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328849
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9d0d160e6e72253b2805aa76d73d81de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276803267,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276803267,
+    "wof:lastmodified":1537621922,
+    "wof:name":"Sentama",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61667,
+    7.71667,
+    36.61667,
+    7.71667
+],
+  "geometry": {"coordinates":[36.61667,7.71667],"type":"Point"}
+}

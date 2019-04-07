@@ -1,0 +1,67 @@
+{
+  "id": 1243299801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.33645,9.45797,41.33645,9.45797",
+    "geom:latitude":9.45797,
+    "geom:longitude":41.33645,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Usman Wariye",
+    "gn:country_code":"ET",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326771,
+    "gn:latitude":9.45797,
+    "gn:longitude":41.33645,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Usman War\u012by\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326771
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"25d6aadc2e43437d5b134263e645cade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1243299801,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243299801,
+    "wof:lastmodified":1537016135,
+    "wof:name":"Usman Wariye",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.33645,
+    9.45797,
+    41.33645,
+    9.45797
+],
+  "geometry": {"coordinates":[41.33645,9.45797],"type":"Point"}
+}

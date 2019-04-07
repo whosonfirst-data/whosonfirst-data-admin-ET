@@ -1,0 +1,67 @@
+{
+  "id": 1225878773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81667,10.8,41.81667,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":41.81667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Korandadda",
+    "gn:country_code":"ET",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332791,
+    "gn:latitude":10.8,
+    "gn:longitude":41.81667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Korandadda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332791
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"93128609651a6b3bd351afcb875ec27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1225878773,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1225878773,
+    "wof:lastmodified":1536965848,
+    "wof:name":"Korandadda",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81667,
+    10.8,
+    41.81667,
+    10.8
+],
+  "geometry": {"coordinates":[41.81667,10.8],"type":"Point"}
+}

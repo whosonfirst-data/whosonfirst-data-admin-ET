@@ -1,0 +1,71 @@
+{
+  "id": 1259416865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.52776,13.21825,40.52776,13.21825",
+    "geom:latitude":13.21825,
+    "geom:longitude":40.52776,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Serba",
+    "gn:country_code":"ET",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328826,
+    "gn:latitude":13.21825,
+    "gn:longitude":40.52776,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Serba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sereba",
+        "Serba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328826
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4e490bf8db73e52e7e7f8cc3b82fc8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1259416865,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1259416865,
+    "wof:lastmodified":1537621921,
+    "wof:name":"Serba",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.52776,
+    13.21825,
+    40.52776,
+    13.21825
+],
+  "geometry": {"coordinates":[40.52776,13.21825],"type":"Point"}
+}

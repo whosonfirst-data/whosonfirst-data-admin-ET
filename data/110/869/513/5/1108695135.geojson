@@ -1,0 +1,89 @@
+{
+  "id": 1108695135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000558,
+    "geom:area_square_m":6762023.200182,
+    "geom:bbox":"37.377319,11.574529,37.405266,11.603682",
+    "geom:latitude":11.587917,
+    "geom:longitude":37.392702,
+    "iso:country":"ET",
+    "lbl:latitude":11.585324,
+    "lbl:longitude":37.392436,
+    "meso:admin_1":"Amhara",
+    "meso:gadm_admin":"Bahir Dar Special Zone",
+    "meso:gaul_admin":"No Name",
+    "meso:hasc_id":"ET.AM.BD",
+    "meso:mps_x":37.392436,
+    "meso:mps_y":11.585324,
+    "meso:name_local":"Bahir Dar",
+    "meso:source":"USAID",
+    "mps:latitude":11.585324,
+    "mps:longitude":37.392436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bahir Dar Special Zone"
+    ],
+    "name:eng_x_variant":[
+        "No Name",
+        "Bahir Dar Special Zone"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-07-01",
+    "statoids:area_km":"28",
+    "statoids:as_of_date":"2008-07-01",
+    "statoids:capital":"",
+    "statoids:country":"ET",
+    "statoids:hasc":"ET.AM",
+    "statoids:name":"Bahir Dar Special Zone",
+    "statoids:population":"183489",
+    "statoids:statoid":"ET.AM.BD",
+    "statoids:timezone":"3",
+    "statoids:type":"zone",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ET.AM.BD"
+    },
+    "wof:country":"ET",
+    "wof:created":1474493467,
+    "wof:geomhash":"87171947eebe1a266917d1dffc7dd657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695135,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1108695135,
+    "wof:lastmodified":1536615370,
+    "wof:name":"Bahir Dar",
+    "wof:parent_id":85671121,
+    "wof:placetype":"county",
+    "wof:placetype_local":"zone",
+    "wof:population":183489,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"BD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.377319,
+    11.574529,
+    37.405266,
+    11.603682
+],
+  "geometry": {"coordinates":[[[37.383755,11.598312],[37.385834,11.595325],[37.388985,11.595298],[37.392677,11.597786],[37.393421,11.601329],[37.39872,11.603682],[37.403729,11.602227],[37.405266,11.596315],[37.403313,11.587923],[37.402862,11.579034],[37.399883,11.575066],[37.390877,11.574529],[37.383354,11.577443],[37.377319,11.582842],[37.381252,11.594698],[37.383755,11.598312]]],"type":"Polygon"}
+}

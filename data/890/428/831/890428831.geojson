@@ -1,0 +1,76 @@
+{
+  "id": 890428831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70051,6.84312,37.70051,6.84312",
+    "geom:latitude":6.84312,
+    "geom:longitude":37.70051,
+    "gn:country":"ET",
+    "gn:fcode":"ADM2",
+    "gn:pop":1501112,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Wolayita"
+    ],
+    "name:eng_x_variant":[
+        "Wolayita Zone"
+    ],
+    "name:unk_x_variant":[
+        "Ualeita"
+    ],
+    "qs:name":"Wolayita Zone",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":1381,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326423,
+        "qs:id":80161,
+        "wd:id":"Q8029709",
+        "wk:page":"Wolayita Zone"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051774,
+    "wof:geomhash":"6aea964bd5b4c9153c6b160b0b8252ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890428831,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890428831,
+    "wof:lastmodified":1527782118,
+    "wof:name":"Wolayita Zone",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:population":1501112,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70051,
+    6.84312,
+    37.70051,
+    6.84312
+],
+  "geometry": {"coordinates":[37.70051,6.84312],"type":"Point"}
+}

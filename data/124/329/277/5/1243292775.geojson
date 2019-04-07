@@ -1,0 +1,67 @@
+{
+  "id": 1243292775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54083,14.39444,38.54083,14.39444",
+    "geom:latitude":14.39444,
+    "geom:longitude":38.54083,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Meda K'imts'ay",
+    "gn:country_code":"ET",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331316,
+    "gn:latitude":14.39444,
+    "gn:longitude":38.54083,
+    "gn:modification_date":"2008-03-27",
+    "gn:name":"Meda K\u2019imts\u2019ay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331316
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4b2f6afe025bf9f533cf882737dd4e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1243292775,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243292775,
+    "wof:lastmodified":1537025978,
+    "wof:name":"Meda K'imts'ay",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54083,
+    14.39444,
+    38.54083,
+    14.39444
+],
+  "geometry": {"coordinates":[38.54083,14.39444],"type":"Point"}
+}

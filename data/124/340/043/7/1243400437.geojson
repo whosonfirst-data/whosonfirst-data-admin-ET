@@ -1,0 +1,67 @@
+{
+  "id": 1243400437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,11.96667,39.26667,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mek'idela",
+    "gn:country_code":"ET",
+    "gn:dem":2497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331158,
+    "gn:latitude":11.96667,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Mek\u2019idela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331158
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b9d046001f5bc27c293051694dfb8a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1243400437,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243400437,
+    "wof:lastmodified":1536870772,
+    "wof:name":"Mek'idela",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    11.96667,
+    39.26667,
+    11.96667
+],
+  "geometry": {"coordinates":[39.26667,11.96667],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 421167079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36667,5.65,37.36667,5.65",
+    "geom:latitude":5.65,
+    "geom:longitude":37.36667,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "G\u012bdol\u0113"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u591a\u840a"
+    ],
+    "name:dut_x_preferred":[
+        "Gidole"
+    ],
+    "name:eng_x_preferred":[
+        "Gidole"
+    ],
+    "name:fra_x_preferred":[
+        "Gidole"
+    ],
+    "name:fre_x_preferred":[
+        "Gidole"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d3\u05d5\u05dc\u05d4"
+    ],
+    "name:swe_x_preferred":[
+        "G\u012bdol\u0113"
+    ],
+    "name:unk_x_variant":[
+        "Ghidole"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u591a\u840a"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":336526,
+    "qs:gn_pop":10736,
+    "qs:name":"Gidole",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":124220,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1316436,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336526,
+        "gp:id":1316436,
+        "qs:id":124220,
+        "wd:id":"Q3105416",
+        "wk:page":"Gidole"
+    },
+    "wof:country":"ET",
+    "wof:created":1459008718,
+    "wof:geomhash":"63418ab6b8560bf54f42b64042c5d32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695151,
+            "locality_id":421167079,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421167079,
+    "wof:lastmodified":1527716154,
+    "wof:name":"Gidole",
+    "wof:parent_id":1108695151,
+    "wof:placetype":"locality",
+    "wof:population":10736,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36667,
+    5.65,
+    37.36667,
+    5.65
+],
+  "geometry": {"coordinates":[37.36667,5.65],"type":"Point"}
+}

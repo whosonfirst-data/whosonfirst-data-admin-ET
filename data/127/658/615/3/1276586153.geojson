@@ -1,0 +1,67 @@
+{
+  "id": 1276586153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4119,9.885,39.4119,9.885",
+    "geom:latitude":9.885,
+    "geom:longitude":39.4119,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"K'es Tomas",
+    "gn:country_code":"ET",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333173,
+    "gn:latitude":9.885,
+    "gn:longitude":39.4119,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u2019\u0113s Tomas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333173
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c3e985563a725ed0c551e961972cdeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1276586153,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276586153,
+    "wof:lastmodified":1536938300,
+    "wof:name":"K'es Tomas",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4119,
+    9.885,
+    39.4119,
+    9.885
+],
+  "geometry": {"coordinates":[39.4119,9.885],"type":"Point"}
+}

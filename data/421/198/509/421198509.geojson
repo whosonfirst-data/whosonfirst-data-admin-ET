@@ -1,0 +1,103 @@
+{
+  "id": 421198509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35302,8.456,36.35302,8.456",
+    "geom:latitude":8.456,
+    "geom:longitude":36.35302,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bedel\u0113"
+    ],
+    "name:dut_x_preferred":[
+        "Bedele"
+    ],
+    "name:eng_x_preferred":[
+        "Bedele"
+    ],
+    "name:fra_x_preferred":[
+        "Bedele"
+    ],
+    "name:fre_x_preferred":[
+        "Bedele"
+    ],
+    "name:swe_x_preferred":[
+        "Bedel\u0113"
+    ],
+    "name:unk_x_variant":[
+        "Beddele"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":342567,
+    "qs:gn_pop":20293,
+    "qs:name":"Bedele",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Oromia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183327,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1314026,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":448,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342567,
+        "gp:id":1314026,
+        "qs:id":183327,
+        "wd:id":"Q2893561",
+        "wk:page":"Bedele"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009950,
+    "wof:geomhash":"1e0fdae3ac4a723eb346ee308169872f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":421198509,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":421198509,
+    "wof:lastmodified":1527716354,
+    "wof:name":"Bedele",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:population":20293,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35302,
+    8.456,
+    36.35302,
+    8.456
+],
+  "geometry": {"coordinates":[36.35302,8.456],"type":"Point"}
+}

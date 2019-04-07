@@ -1,0 +1,67 @@
+{
+  "id": 1243292605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41667,7.03333,40.41667,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":40.41667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Burca",
+    "gn:country_code":"ET",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341414,
+    "gn:latitude":7.03333,
+    "gn:longitude":40.41667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Burca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341414
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"493ffc297e7a6db5503b3411db6cb05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1243292605,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243292605,
+    "wof:lastmodified":1537026227,
+    "wof:name":"Burca",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41667,
+    7.03333,
+    40.41667,
+    7.03333
+],
+  "geometry": {"coordinates":[40.41667,7.03333],"type":"Point"}
+}

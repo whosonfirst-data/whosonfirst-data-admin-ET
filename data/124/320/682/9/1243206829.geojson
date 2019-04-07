@@ -1,0 +1,72 @@
+{
+  "id": 1243206829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16707,9.37169,41.16707,9.37169",
+    "geom:latitude":9.37169,
+    "geom:longitude":41.16707,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Biyo Karaba",
+    "gn:country_code":"ET",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341926,
+    "gn:latitude":9.37169,
+    "gn:longitude":41.16707,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"B\u012byo Karaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bio Carabba",
+        "Bio Caraba",
+        "B\u012byo Karaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341926
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6946110a3938d09e5a2b6229860e7cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1243206829,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243206829,
+    "wof:lastmodified":1537622072,
+    "wof:name":"Biyo Karaba",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16707,
+    9.37169,
+    41.16707,
+    9.37169
+],
+  "geometry": {"coordinates":[41.16707,9.37169],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276373555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18333,7.58333,36.18333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":36.18333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Uobba",
+    "gn:country_code":"ET",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326860,
+    "gn:latitude":7.58333,
+    "gn:longitude":36.18333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Uobba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326860
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d1e5f0fe587cb88e2fb9c5451527e292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276373555,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276373555,
+    "wof:lastmodified":1536724956,
+    "wof:name":"Uobba",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18333,
+    7.58333,
+    36.18333,
+    7.58333
+],
+  "geometry": {"coordinates":[36.18333,7.58333],"type":"Point"}
+}

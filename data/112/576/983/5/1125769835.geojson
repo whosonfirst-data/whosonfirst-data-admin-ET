@@ -1,0 +1,97 @@
+{
+  "id": 1125769835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35,8.15,39.35,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":39.35,
+    "gn:gn_country":"ET",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12442,
+    "gn:population":12442,
+    "iso:country":"ET",
+    "lbl:latitude":8.15,
+    "lbl:longitude":39.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0440\u0443\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Huruta"
+    ],
+    "name:eng_x_preferred":[
+        "Huruta"
+    ],
+    "name:fre_x_preferred":[
+        "Huruta"
+    ],
+    "name:swe_x_preferred":[
+        "Huruta"
+    ],
+    "name:unk_x_variant":[
+        "Uruta Mariam"
+    ],
+    "qs_pg:aaroncc":"ET",
+    "qs_pg:gn_country":"ET",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":334529,
+    "qs_pg:gn_pop":12442,
+    "qs_pg:name":"Huruta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":124211,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334529,
+        "qs_pg:id":124211,
+        "wd:id":"Q3143438"
+    },
+    "wof:country":"ET",
+    "wof:created":1497290021,
+    "wof:geomhash":"c1148a130b703807d788144123c37695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1125769835,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1125769835,
+    "wof:lastmodified":1514422023,
+    "wof:name":"Huruta",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:population":12442,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35,
+    8.15,
+    39.35,
+    8.15
+],
+  "geometry": {"coordinates":[39.35,8.15],"type":"Point"}
+}

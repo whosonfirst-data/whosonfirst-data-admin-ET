@@ -1,0 +1,67 @@
+{
+  "id": 1343798369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16667,12.21667,39.16667,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":39.16667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shemzemo",
+    "gn:country_code":"ET",
+    "gn:dem":3189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328614,
+    "gn:latitude":12.21667,
+    "gn:longitude":39.16667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Shemzemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328614
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dfd26f457a391858ad640eff58ee5753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1343798369,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343798369,
+    "wof:lastmodified":1536756302,
+    "wof:name":"Shemzemo",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16667,
+    12.21667,
+    39.16667,
+    12.21667
+],
+  "geometry": {"coordinates":[39.16667,12.21667],"type":"Point"}
+}

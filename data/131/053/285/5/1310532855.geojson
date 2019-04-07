@@ -1,0 +1,67 @@
+{
+  "id": 1310532855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28333,9.61667,34.28333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":34.28333,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Tinsis",
+    "gn:country_code":"ET",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327511,
+    "gn:latitude":9.61667,
+    "gn:longitude":34.28333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Tinsis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327511
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4f78d9cd25de8d63521ab723f5a848af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695221,
+            "locality_id":1310532855,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1310532855,
+    "wof:lastmodified":1536876652,
+    "wof:name":"Tinsis",
+    "wof:parent_id":1108695221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28333,
+    9.61667,
+    34.28333,
+    9.61667
+],
+  "geometry": {"coordinates":[34.28333,9.61667],"type":"Point"}
+}

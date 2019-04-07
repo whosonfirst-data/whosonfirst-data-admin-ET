@@ -1,0 +1,61 @@
+{
+  "id": 1209137025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95,9.33333,37.95,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":37.95,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ch'obi",
+    "gn:country_code":"ET",
+    "gn:dem":2631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340682,
+    "gn:latitude":9.33333,
+    "gn:longitude":37.95,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ch\u2019ob\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340682
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fe91c933ad661ad2c15b618c8df823c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209137025
+        }
+    ],
+    "wof:id":1209137025,
+    "wof:lastmodified":1536296628,
+    "wof:name":"Ch'obi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95,
+    9.33333,
+    37.95,
+    9.33333
+],
+  "geometry": {"coordinates":[37.95,9.33333],"type":"Point"}
+}

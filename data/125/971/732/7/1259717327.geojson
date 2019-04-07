@@ -1,0 +1,67 @@
+{
+  "id": 1259717327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,13.91667,39.23333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Nadir",
+    "gn:country_code":"ET",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330233,
+    "gn:latitude":13.91667,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2008-01-02",
+    "gn:name":"Nadir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330233
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8ad1f32e23531730ee003bff5a86f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1259717327,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259717327,
+    "wof:lastmodified":1537017659,
+    "wof:name":"Nadir",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    13.91667,
+    39.23333,
+    13.91667
+],
+  "geometry": {"coordinates":[39.23333,13.91667],"type":"Point"}
+}

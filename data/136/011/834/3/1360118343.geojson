@@ -1,0 +1,67 @@
+{
+  "id": 1360118343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.09133,9.2667,42.09133,9.2667",
+    "geom:latitude":9.2667,
+    "geom:longitude":42.09133,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Awber Kele",
+    "gn:country_code":"ET",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8416330,
+    "gn:latitude":9.2667,
+    "gn:longitude":42.09133,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Awber Kele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671163,
+        1108695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8416330
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e2e28cf505144907fad7664356ae1494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695173,
+            "locality_id":1360118343,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":1360118343,
+    "wof:lastmodified":1536897641,
+    "wof:name":"Awber Kele",
+    "wof:parent_id":1108695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.09133,
+    9.2667,
+    42.09133,
+    9.2667
+],
+  "geometry": {"coordinates":[42.09133,9.2667],"type":"Point"}
+}

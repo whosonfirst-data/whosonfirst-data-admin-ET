@@ -1,0 +1,82 @@
+{
+  "id": 1326459907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15,14.27889,39.15,14.27889",
+    "geom:latitude":14.27889,
+    "geom:longitude":39.15,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Intich'o",
+    "gn:country_code":"ET",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334124,
+    "gn:latitude":14.27889,
+    "gn:longitude":39.15,
+    "gn:modification_date":"2017-10-08",
+    "gn:name":"Intich\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_historical":[
+        "Entisci\u00f2"
+    ],
+    "name:ita_x_preferred":[
+        "Entisci\u00f2"
+    ],
+    "name:und_x_variant":[
+        "Int\u012bch\u2019ew",
+        "Enticcio",
+        "Ent\u2019ech\u2019o",
+        "Entichew",
+        "Enticho",
+        "Intich\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334124,
+        "wk:page":"Enticho"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e17f3e8924617b4d9eae69ae0273dc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1326459907,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1326459907,
+    "wof:lastmodified":1537621980,
+    "wof:name":"Intich'o",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15,
+    14.27889,
+    39.15,
+    14.27889
+],
+  "geometry": {"coordinates":[39.15,14.27889],"type":"Point"}
+}

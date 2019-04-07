@@ -1,0 +1,67 @@
+{
+  "id": 1326761035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75615,10.90671,39.75615,10.90671",
+    "geom:latitude":10.90671,
+    "geom:longitude":39.75615,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"T'ekake",
+    "gn:country_code":"ET",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327802,
+    "gn:latitude":10.90671,
+    "gn:longitude":39.75615,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"T\u2019ekak\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327802
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f83809704f8b47c4b22913e9a57bef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1326761035,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326761035,
+    "wof:lastmodified":1536654262,
+    "wof:name":"T'ekake",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75615,
+    10.90671,
+    39.75615,
+    10.90671
+],
+  "geometry": {"coordinates":[39.75615,10.90671],"type":"Point"}
+}

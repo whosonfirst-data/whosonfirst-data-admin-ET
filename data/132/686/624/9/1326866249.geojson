@@ -1,0 +1,67 @@
+{
+  "id": 1326866249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,12.35,39.53333,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Gira'amba Lanch'a",
+    "gn:country_code":"ET",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336439,
+    "gn:latitude":12.35,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Gira\u2019\u0101mba Lanch\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336439
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"86848cd25716946364b9c49f30b705fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1326866249,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1326866249,
+    "wof:lastmodified":1536998942,
+    "wof:name":"Gira'amba Lanch'a",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    12.35,
+    39.53333,
+    12.35
+],
+  "geometry": {"coordinates":[39.53333,12.35],"type":"Point"}
+}

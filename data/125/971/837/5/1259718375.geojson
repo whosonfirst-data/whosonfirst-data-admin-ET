@@ -1,0 +1,67 @@
+{
+  "id": 1259718375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6062,9.8946,39.6062,9.8946",
+    "geom:latitude":9.8946,
+    "geom:longitude":39.6062,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shola Amba",
+    "gn:country_code":"ET",
+    "gn:dem":2896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328502,
+    "gn:latitude":9.8946,
+    "gn:longitude":39.6062,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Shola \u0100mba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328502
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"de4cef0fb19a2087c43058d863d1f01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1259718375,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259718375,
+    "wof:lastmodified":1537016085,
+    "wof:name":"Shola Amba",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6062,
+    9.8946,
+    39.6062,
+    9.8946
+],
+  "geometry": {"coordinates":[39.6062,9.8946],"type":"Point"}
+}

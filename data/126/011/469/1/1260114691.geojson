@@ -1,0 +1,67 @@
+{
+  "id": 1260114691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13333,9.11667,43.13333,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":43.13333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Calega",
+    "gn:country_code":"ET",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341222,
+    "gn:latitude":9.11667,
+    "gn:longitude":43.13333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Calega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341222
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"04ff4520230650094d0ae10cca467b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1260114691,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1260114691,
+    "wof:lastmodified":1536943670,
+    "wof:name":"Calega",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13333,
+    9.11667,
+    43.13333,
+    9.11667
+],
+  "geometry": {"coordinates":[43.13333,9.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343597795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25,7.48333,36.25,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":36.25,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Dadibano",
+    "gn:country_code":"ET",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340281,
+    "gn:latitude":7.48333,
+    "gn:longitude":36.25,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dadibano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340281
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7337ff573ea946e81dfdea90deb8852a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1343597795,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343597795,
+    "wof:lastmodified":1537043557,
+    "wof:name":"Dadibano",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25,
+    7.48333,
+    36.25,
+    7.48333
+],
+  "geometry": {"coordinates":[36.25,7.48333],"type":"Point"}
+}

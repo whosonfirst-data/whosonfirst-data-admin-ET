@@ -1,0 +1,67 @@
+{
+  "id": 1343892011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.522,10.34381,39.522,10.34381",
+    "geom:latitude":10.34381,
+    "geom:longitude":39.522,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dewes",
+    "gn:country_code":"ET",
+    "gn:dem":2868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339190,
+    "gn:latitude":10.34381,
+    "gn:longitude":39.522,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Dewes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339190
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"195890c40e199735b3179b39940b3115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1343892011,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343892011,
+    "wof:lastmodified":1536618946,
+    "wof:name":"Dewes",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.522,
+    10.34381,
+    39.522,
+    10.34381
+],
+  "geometry": {"coordinates":[39.522,10.34381],"type":"Point"}
+}

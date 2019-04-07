@@ -1,0 +1,71 @@
+{
+  "id": 1343595163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1091,13.31986,39.1091,13.31986",
+    "geom:latitude":13.31986,
+    "geom:longitude":39.1091,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Mahaweri'a",
+    "gn:country_code":"ET",
+    "gn:dem":1798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331758,
+    "gn:latitude":13.31986,
+    "gn:longitude":39.1091,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mahaweri\u2019\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makhauoria",
+        "Mahaweri\u2019\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331758
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"658c5f7e72eb1bb95a48cc6350cef810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1343595163,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1343595163,
+    "wof:lastmodified":1537621954,
+    "wof:name":"Mahaweri'a",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1091,
+    13.31986,
+    39.1091,
+    13.31986
+],
+  "geometry": {"coordinates":[39.1091,13.31986],"type":"Point"}
+}

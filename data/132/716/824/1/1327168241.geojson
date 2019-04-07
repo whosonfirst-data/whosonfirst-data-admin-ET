@@ -1,0 +1,72 @@
+{
+  "id": 1327168241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89417,9.13667,42.89417,9.13667",
+    "geom:latitude":9.13667,
+    "geom:longitude":42.89417,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Hare Gudi",
+    "gn:country_code":"ET",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335043,
+    "gn:latitude":9.13667,
+    "gn:longitude":42.89417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hare Gud\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hare Gudu",
+        "Khare-Gudu",
+        "Hare Gud\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335043
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b4e04f8dd1762c1960c498cbcad40d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1327168241,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1327168241,
+    "wof:lastmodified":1537621994,
+    "wof:name":"Hare Gudi",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89417,
+    9.13667,
+    42.89417,
+    9.13667
+],
+  "geometry": {"coordinates":[42.89417,9.13667],"type":"Point"}
+}

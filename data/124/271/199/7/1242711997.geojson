@@ -1,0 +1,67 @@
+{
+  "id": 1242711997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88333,7.16667,42.88333,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":42.88333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gabadilli",
+    "gn:country_code":"ET",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337573,
+    "gn:latitude":7.16667,
+    "gn:longitude":42.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gabadilli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337573
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"36357f0c8c5e550bdf88c12a1a528485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695165,
+            "locality_id":1242711997,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1242711997,
+    "wof:lastmodified":1536869061,
+    "wof:name":"Gabadilli",
+    "wof:parent_id":1108695165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88333,
+    7.16667,
+    42.88333,
+    7.16667
+],
+  "geometry": {"coordinates":[42.88333,7.16667],"type":"Point"}
+}

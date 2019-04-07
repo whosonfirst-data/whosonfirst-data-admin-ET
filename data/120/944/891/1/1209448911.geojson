@@ -1,0 +1,66 @@
+{
+  "id": 1209448911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,13.8,38.1,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":38.1,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Aitechab",
+    "gn:country_code":"ET",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345304,
+    "gn:latitude":13.8,
+    "gn:longitude":38.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adi Aitechab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Aitecheb",
+        "Addi Aitecheb",
+        "Adi Aitechab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345304
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"05e85b7379ff1e23d36897f0da65449f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209448911
+        }
+    ],
+    "wof:id":1209448911,
+    "wof:lastmodified":1537622115,
+    "wof:name":"Adi Aitechab",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    13.8,
+    38.1,
+    13.8
+],
+  "geometry": {"coordinates":[38.1,13.8],"type":"Point"}
+}

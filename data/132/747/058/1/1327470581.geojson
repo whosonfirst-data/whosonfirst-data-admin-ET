@@ -1,0 +1,71 @@
+{
+  "id": 1327470581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56667,12.88333,39.56667,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":39.56667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ayba",
+    "gn:country_code":"ET",
+    "gn:dem":3027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343077,
+    "gn:latitude":12.88333,
+    "gn:longitude":39.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100yba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiba",
+        "\u0100yba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343077
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"19afaeb19a60bce5fbc27406c5f7f0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1327470581,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1327470581,
+    "wof:lastmodified":1537622087,
+    "wof:name":"Ayba",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56667,
+    12.88333,
+    39.56667,
+    12.88333
+],
+  "geometry": {"coordinates":[39.56667,12.88333],"type":"Point"}
+}

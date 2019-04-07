@@ -1,0 +1,67 @@
+{
+  "id": 1327370357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65,6.05,36.65,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":36.65,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Delk'insa",
+    "gn:country_code":"ET",
+    "gn:dem":2953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339492,
+    "gn:latitude":6.05,
+    "gn:longitude":36.65,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Delk\u2019\u012bnsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339492
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e52641f9c0acf0c18863cb99a7b6a46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695219,
+            "locality_id":1327370357,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1327370357,
+    "wof:lastmodified":1536770838,
+    "wof:name":"Delk'insa",
+    "wof:parent_id":1108695219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65,
+    6.05,
+    36.65,
+    6.05
+],
+  "geometry": {"coordinates":[36.65,6.05],"type":"Point"}
+}

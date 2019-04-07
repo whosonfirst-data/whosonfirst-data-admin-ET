@@ -1,0 +1,121 @@
+{
+  "id": 421200235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.78333,12.11667,37.78333,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":37.78333,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u12a0\u12f2\u1235 \u12d8\u1218\u1295"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100d\u012bs Zemen"
+    ],
+    "name:dut_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:eng_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u06cc\u0633 \u0632\u0645\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:fre_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:ita_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u062f\u06cc\u0633 \u0632\u0645\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Addis Zemen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0417\u044d\u043c\u044d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100d\u012bs Zemen"
+    ],
+    "name:unk_x_variant":[
+        "Addis Zaman"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":344923,
+    "qs:gn_pop":22522,
+    "qs:name":"Adis Zemen",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1295471,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1313099,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344923,
+        "gp:id":1313099,
+        "qs:id":1295471,
+        "wd:id":"Q2472273",
+        "wk:page":"Addis Zemen"
+    },
+    "wof:country":"ET",
+    "wof:created":1459010016,
+    "wof:geomhash":"f9bcad19aa31cc0bfa5be34a978a5e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":421200235,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421200235,
+    "wof:lastmodified":1527716423,
+    "wof:name":"Adis Zemen",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:population":22522,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.78333,
+    12.11667,
+    37.78333,
+    12.11667
+],
+  "geometry": {"coordinates":[37.78333,12.11667],"type":"Point"}
+}

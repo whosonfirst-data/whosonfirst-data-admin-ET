@@ -1,0 +1,73 @@
+{
+  "id": 1226073391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.08083,6.76083,42.08083,6.76083",
+    "geom:latitude":6.76083,
+    "geom:longitude":42.08083,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Melka Bafeta",
+    "gn:country_code":"ET",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331107,
+    "gn:latitude":6.76083,
+    "gn:longitude":42.08083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Melka Bafeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malka Bafata",
+        "Malca Bafata",
+        "Mel\u2019ka Bateta",
+        "Melka Bafeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331107
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c3daec65699369137131c474f480d0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1226073391,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1226073391,
+    "wof:lastmodified":1537621946,
+    "wof:name":"Melka Bafeta",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.08083,
+    6.76083,
+    42.08083,
+    6.76083
+],
+  "geometry": {"coordinates":[42.08083,6.76083],"type":"Point"}
+}

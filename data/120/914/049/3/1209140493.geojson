@@ -1,0 +1,61 @@
+{
+  "id": 1209140493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,9.71667,38.93333,9.71667",
+    "geom:latitude":9.71667,
+    "geom:longitude":38.93333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Arasho",
+    "gn:country_code":"ET",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343692,
+    "gn:latitude":9.71667,
+    "gn:longitude":38.93333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100rasho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343692
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ce54c96a5720888ae924c67e7564622d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209140493
+        }
+    ],
+    "wof:id":1209140493,
+    "wof:lastmodified":1536296520,
+    "wof:name":"Arasho",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    9.71667,
+    38.93333,
+    9.71667
+],
+  "geometry": {"coordinates":[38.93333,9.71667],"type":"Point"}
+}

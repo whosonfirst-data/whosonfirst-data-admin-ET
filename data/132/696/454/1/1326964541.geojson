@@ -1,0 +1,72 @@
+{
+  "id": 1326964541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.49182,13.9088,39.49182,13.9088",
+    "geom:latitude":13.9088,
+    "geom:longitude":39.49182,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adesta",
+    "gn:country_code":"ET",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345355,
+    "gn:latitude":13.9088,
+    "gn:longitude":39.49182,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100desta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Gul Biscia Gundi",
+        "Adi Gul Biscia",
+        "\u0100desta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345355
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ba58ee17be563dc244da553360a0c799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1326964541,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1326964541,
+    "wof:lastmodified":1537622116,
+    "wof:name":"Adesta",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.49182,
+    13.9088,
+    39.49182,
+    13.9088
+],
+  "geometry": {"coordinates":[39.49182,13.9088],"type":"Point"}
+}

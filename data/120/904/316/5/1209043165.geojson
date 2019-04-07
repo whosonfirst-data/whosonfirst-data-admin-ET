@@ -1,0 +1,61 @@
+{
+  "id": 1209043165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69762,8.35796,33.69762,8.35796",
+    "geom:latitude":8.35796,
+    "geom:longitude":33.69762,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Marial'",
+    "gn:country_code":"ET",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392187,
+    "gn:latitude":8.35796,
+    "gn:longitude":33.69762,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Marial\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392187
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c682174183a9a05e755666156abc3921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209043165
+        }
+    ],
+    "wof:id":1209043165,
+    "wof:lastmodified":1536299480,
+    "wof:name":"Marial'",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69762,
+    8.35796,
+    33.69762,
+    8.35796
+],
+  "geometry": {"coordinates":[33.69762,8.35796],"type":"Point"}
+}

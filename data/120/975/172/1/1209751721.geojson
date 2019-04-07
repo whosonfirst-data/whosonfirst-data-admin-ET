@@ -1,0 +1,71 @@
+{
+  "id": 1209751721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06667,4.36667,38.06667,4.36667",
+    "geom:latitude":4.36667,
+    "geom:longitude":38.06667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Darrita",
+    "gn:country_code":"ET",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339895,
+    "gn:latitude":4.36667,
+    "gn:longitude":38.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Darrita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darritu",
+        "Darrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339895
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"714ef6dd9fb7a3f8ae1d7eb7eaef7813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1209751721,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1209751721,
+    "wof:lastmodified":1537622049,
+    "wof:name":"Darrita",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06667,
+    4.36667,
+    38.06667,
+    4.36667
+],
+  "geometry": {"coordinates":[38.06667,4.36667],"type":"Point"}
+}

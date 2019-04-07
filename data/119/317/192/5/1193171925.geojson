@@ -1,0 +1,71 @@
+{
+  "id": 1193171925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7,7.16667,44.7,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":44.7,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Hul Cugir",
+    "gn:country_code":"ET",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334574,
+    "gn:latitude":7.16667,
+    "gn:longitude":44.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hul Cugir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hul Cugiir",
+        "Hul Cugir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334574
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"11c0cc37d30b813598e4561e71e6a67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1193171925,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1193171925,
+    "wof:lastmodified":1537621987,
+    "wof:name":"Hul Cugir",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7,
+    7.16667,
+    44.7,
+    7.16667
+],
+  "geometry": {"coordinates":[44.7,7.16667],"type":"Point"}
+}

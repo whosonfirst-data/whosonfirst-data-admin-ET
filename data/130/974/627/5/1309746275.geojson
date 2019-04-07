@@ -1,0 +1,67 @@
+{
+  "id": 1309746275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06642,10.50307,39.06642,10.50307",
+    "geom:latitude":10.50307,
+    "geom:longitude":39.06642,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"K'enina Let",
+    "gn:country_code":"ET",
+    "gn:dem":2270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333341,
+    "gn:latitude":10.50307,
+    "gn:longitude":39.06642,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"K\u2019enina L\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333341
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"62fe8a3f9a18a3da25bdfeafcba120e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1309746275,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309746275,
+    "wof:lastmodified":1537016282,
+    "wof:name":"K'enina Let",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06642,
+    10.50307,
+    39.06642,
+    10.50307
+],
+  "geometry": {"coordinates":[39.06642,10.50307],"type":"Point"}
+}

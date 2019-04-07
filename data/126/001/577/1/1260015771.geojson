@@ -1,0 +1,73 @@
+{
+  "id": 1260015771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11667,13.9,37.11667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":37.11667,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"K'eftya",
+    "gn:country_code":"ET",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333460,
+    "gn:latitude":13.9,
+    "gn:longitude":37.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019eftya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cafta",
+        "K\u2019abty\u0101",
+        "Qabty\u0101",
+        "K\u2019eftya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333460
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c3ffad88203088c16a97fe1aaae0cfb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1260015771,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260015771,
+    "wof:lastmodified":1537621971,
+    "wof:name":"K'eftya",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11667,
+    13.9,
+    37.11667,
+    13.9
+],
+  "geometry": {"coordinates":[37.11667,13.9],"type":"Point"}
+}

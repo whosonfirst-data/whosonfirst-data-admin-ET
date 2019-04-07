@@ -1,0 +1,61 @@
+{
+  "id": 1209448833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84719,6.96232,35.84719,6.96232",
+    "geom:latitude":6.96232,
+    "geom:longitude":35.84719,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Wata",
+    "gn:country_code":"ET",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8598650,
+    "gn:latitude":6.96232,
+    "gn:longitude":35.84719,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Wata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8598650
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"69fe5e848cbddb5619e97ccaa34ba17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209448833
+        }
+    ],
+    "wof:id":1209448833,
+    "wof:lastmodified":1536286734,
+    "wof:name":"Wata",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84719000000001,
+    6.96232,
+    35.84719000000001,
+    6.96232
+],
+  "geometry": {"coordinates":[35.84719000000001,6.96232],"type":"Point"}
+}

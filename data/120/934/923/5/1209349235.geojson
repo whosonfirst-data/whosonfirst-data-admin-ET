@@ -1,0 +1,65 @@
+{
+  "id": 1209349235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.3,9.11667,42.3,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":42.3,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bek'elen",
+    "gn:country_code":"ET",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342488,
+    "gn:latitude":9.11667,
+    "gn:longitude":42.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bek\u2019elen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bek\u2019elen Sefer",
+        "Bek\u2019elen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342488
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b94917e613ed935b806ae72121750ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209349235
+        }
+    ],
+    "wof:id":1209349235,
+    "wof:lastmodified":1537622079,
+    "wof:name":"Bek'elen",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.3,
+    9.11667,
+    42.3,
+    9.11667
+],
+  "geometry": {"coordinates":[42.3,9.11667],"type":"Point"}
+}

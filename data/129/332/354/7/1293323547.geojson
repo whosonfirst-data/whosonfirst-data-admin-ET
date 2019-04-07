@@ -1,0 +1,67 @@
+{
+  "id": 1293323547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11281,9.96283,39.11281,9.96283",
+    "geom:latitude":9.96283,
+    "geom:longitude":39.11281,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lam Washa",
+    "gn:country_code":"ET",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332270,
+    "gn:latitude":9.96283,
+    "gn:longitude":39.11281,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Lam Washa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332270
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cea1e1f9415b97b81ede7242ac16a8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1293323547,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1293323547,
+    "wof:lastmodified":1537022496,
+    "wof:name":"Lam Washa",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11281,
+    9.96283,
+    39.11281,
+    9.96283
+],
+  "geometry": {"coordinates":[39.11281,9.96283],"type":"Point"}
+}

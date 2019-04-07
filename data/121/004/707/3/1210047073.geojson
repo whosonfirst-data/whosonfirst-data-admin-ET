@@ -1,0 +1,67 @@
+{
+  "id": 1210047073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.32639,14.10889,39.32639,14.10889",
+    "geom:latitude":14.10889,
+    "geom:longitude":39.32639,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Mereto",
+    "gn:country_code":"ET",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330923,
+    "gn:latitude":14.10889,
+    "gn:longitude":39.32639,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Mer\u0113to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330923
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aabe41cf013dd01418acd5fbd700db1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1210047073,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1210047073,
+    "wof:lastmodified":1536377818,
+    "wof:name":"Mereto",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.32639,
+    14.10889,
+    39.32639,
+    14.10889
+],
+  "geometry": {"coordinates":[39.32639,14.10889],"type":"Point"}
+}

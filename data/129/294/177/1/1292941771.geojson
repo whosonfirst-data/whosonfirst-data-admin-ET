@@ -1,0 +1,67 @@
+{
+  "id": 1292941771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98333,8.25,36.98333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":36.98333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wech'e",
+    "gn:country_code":"ET",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326552,
+    "gn:latitude":8.25,
+    "gn:longitude":36.98333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wech\u2019\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326552
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"67619b1f072d0506229868ce146edbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1292941771,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1292941771,
+    "wof:lastmodified":1537073676,
+    "wof:name":"Wech'e",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98333,
+    8.25,
+    36.98333,
+    8.25
+],
+  "geometry": {"coordinates":[36.98333,8.25],"type":"Point"}
+}

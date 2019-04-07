@@ -1,0 +1,67 @@
+{
+  "id": 1260114001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,8.2,37.86667,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":37.86667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Yagwach T'erek'",
+    "gn:country_code":"ET",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326024,
+    "gn:latitude":8.2,
+    "gn:longitude":37.86667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Yagwach T\u2019erek\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326024
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"96e35399acf89e81df21c3f1eda6448d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1260114001,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1260114001,
+    "wof:lastmodified":1536944636,
+    "wof:name":"Yagwach T'erek'",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    8.2,
+    37.86667,
+    8.2
+],
+  "geometry": {"coordinates":[37.86667,8.2],"type":"Point"}
+}

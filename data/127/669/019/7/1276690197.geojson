@@ -1,0 +1,67 @@
+{
+  "id": 1276690197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17139,14.23056,39.17139,14.23056",
+    "geom:latitude":14.23056,
+    "geom:longitude":39.17139,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Hinfilo",
+    "gn:country_code":"ET",
+    "gn:dem":2387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334708,
+    "gn:latitude":14.23056,
+    "gn:longitude":39.17139,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Hinfilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334708
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2d94ca6019990e3f8a1b5bf999c37954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1276690197,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276690197,
+    "wof:lastmodified":1536797706,
+    "wof:name":"Hinfilo",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17139,
+    14.23056,
+    39.17139,
+    14.23056
+],
+  "geometry": {"coordinates":[39.17139,14.23056],"type":"Point"}
+}

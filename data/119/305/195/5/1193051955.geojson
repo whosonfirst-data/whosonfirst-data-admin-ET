@@ -1,0 +1,75 @@
+{
+  "id": 1193051955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.64722,12.80417,39.64722,12.80417",
+    "geom:latitude":12.80417,
+    "geom:longitude":39.64722,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"K'orbeta",
+    "gn:country_code":"ET",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332775,
+    "gn:latitude":12.80417,
+    "gn:longitude":39.64722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019orbeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corbetta",
+        "K\u2019orbat\u0101",
+        "Corbet\u00e1",
+        "Qorbat\u0101",
+        "Marsa",
+        "K\u2019orbeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332775
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cb100d9bf5b8f87c101c9ad57ac15f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1193051955,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1193051955,
+    "wof:lastmodified":1537621964,
+    "wof:name":"K'orbeta",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64722,
+    12.80417,
+    39.64722,
+    12.80417
+],
+  "geometry": {"coordinates":[39.64722,12.80417],"type":"Point"}
+}

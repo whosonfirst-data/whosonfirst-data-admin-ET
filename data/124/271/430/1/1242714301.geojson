@@ -1,0 +1,67 @@
+{
+  "id": 1242714301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4,9.2,36.4,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":36.4,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wereseyo",
+    "gn:country_code":"ET",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326241,
+    "gn:latitude":9.2,
+    "gn:longitude":36.4,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wereseyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326241
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"22dfb22577ec1092607e69a25fab58b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1242714301,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242714301,
+    "wof:lastmodified":1536865490,
+    "wof:name":"Wereseyo",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4,
+    9.2,
+    36.4,
+    9.2
+],
+  "geometry": {"coordinates":[36.4,9.2],"type":"Point"}
+}

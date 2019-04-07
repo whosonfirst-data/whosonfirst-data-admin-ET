@@ -1,0 +1,67 @@
+{
+  "id": 1242808827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77917,9.27556,41.77917,9.27556",
+    "geom:latitude":9.27556,
+    "geom:longitude":41.77917,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Derme Shek",
+    "gn:country_code":"ET",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339235,
+    "gn:latitude":9.27556,
+    "gn:longitude":41.77917,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Derm\u0113 Sh\u0113k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339235
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2ccf9b83dde3ea69b0ab03afa86b80af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1242808827,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242808827,
+    "wof:lastmodified":1536731042,
+    "wof:name":"Derme Shek",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77917,
+    9.27556,
+    41.77917,
+    9.27556
+],
+  "geometry": {"coordinates":[41.77917,9.27556],"type":"Point"}
+}

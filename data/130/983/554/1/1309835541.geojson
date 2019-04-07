@@ -1,0 +1,67 @@
+{
+  "id": 1309835541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.78333,7.71667,37.78333,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":37.78333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kasha",
+    "gn:country_code":"ET",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333577,
+    "gn:latitude":7.71667,
+    "gn:longitude":37.78333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Kasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890421359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333577
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"26ba04a2370dce862f53cb6c5015f6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890421359,
+            "locality_id":1309835541,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1309835541,
+    "wof:lastmodified":1536887888,
+    "wof:name":"Kasha",
+    "wof:parent_id":890421359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.78333,
+    7.71667,
+    37.78333,
+    7.71667
+],
+  "geometry": {"coordinates":[37.78333,7.71667],"type":"Point"}
+}

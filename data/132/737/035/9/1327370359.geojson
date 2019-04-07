@@ -1,0 +1,71 @@
+{
+  "id": 1327370359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.17944,9.04028,42.17944,9.04028",
+    "geom:latitude":9.04028,
+    "geom:longitude":42.17944,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ije Gohe",
+    "gn:country_code":"ET",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334416,
+    "gn:latitude":9.04028,
+    "gn:longitude":42.17944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u012aje Goh\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idzhe-Gokhe",
+        "\u012aje Goh\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334416
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"033937b92da32b1da26dd08e11c55ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327370359,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327370359,
+    "wof:lastmodified":1537621984,
+    "wof:name":"Ije Gohe",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.17944,
+    9.04028,
+    42.17944,
+    9.04028
+],
+  "geometry": {"coordinates":[42.17944,9.04028],"type":"Point"}
+}

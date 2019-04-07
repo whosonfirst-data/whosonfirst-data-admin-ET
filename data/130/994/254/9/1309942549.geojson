@@ -1,0 +1,67 @@
+{
+  "id": 1309942549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42141,9.49711,39.42141,9.49711",
+    "geom:latitude":9.49711,
+    "geom:longitude":39.42141,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Seriti",
+    "gn:country_code":"ET",
+    "gn:dem":2844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328793,
+    "gn:latitude":9.49711,
+    "gn:longitude":39.42141,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Ser\u012bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328793
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"302b19a8337cca52f073a89262d117ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1309942549,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309942549,
+    "wof:lastmodified":1536734179,
+    "wof:name":"Seriti",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42141,
+    9.49711,
+    39.42141,
+    9.49711
+],
+  "geometry": {"coordinates":[39.42141,9.49711],"type":"Point"}
+}

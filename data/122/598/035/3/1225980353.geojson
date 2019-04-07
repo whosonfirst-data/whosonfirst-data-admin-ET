@@ -1,0 +1,73 @@
+{
+  "id": 1225980353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96863,4.63527,42.96863,4.63527",
+    "geom:latitude":4.63527,
+    "geom:longitude":42.96863,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bur Hoos",
+    "gn:country_code":"ET",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671884,
+    "gn:latitude":4.63527,
+    "gn:longitude":42.96863,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bur Hoos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bur Khose",
+        "Bur Hosc",
+        "Bur Hose",
+        "Bur Hoos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671884
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ccf0e832d801494c5cb5aba93d821d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1225980353,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1225980353,
+    "wof:lastmodified":1537622125,
+    "wof:name":"Bur Hoos",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96863,
+    4.63527,
+    42.96863,
+    4.63527
+],
+  "geometry": {"coordinates":[42.96863,4.63527],"type":"Point"}
+}

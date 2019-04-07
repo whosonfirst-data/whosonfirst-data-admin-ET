@@ -1,0 +1,67 @@
+{
+  "id": 1343497093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00964,9.49059,42.00964,9.49059",
+    "geom:latitude":9.49059,
+    "geom:longitude":42.00964,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Hubeta",
+    "gn:country_code":"ET",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8416244,
+    "gn:latitude":9.49059,
+    "gn:longitude":42.00964,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Hubeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8416244
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"11c3508cc5f2f9bc1dc8e489dd0b5792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1343497093,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343497093,
+    "wof:lastmodified":1536693471,
+    "wof:name":"Hubeta",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00964000000001,
+    9.49059,
+    42.00964000000001,
+    9.49059
+],
+  "geometry": {"coordinates":[42.00964000000001,9.49059],"type":"Point"}
+}

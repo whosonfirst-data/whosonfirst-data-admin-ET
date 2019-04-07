@@ -1,0 +1,61 @@
+{
+  "id": 1209649475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38333,9.1,38.38333,9.1",
+    "geom:latitude":9.1,
+    "geom:longitude":38.38333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"`Arb Gebeya",
+    "gn:country_code":"ET",
+    "gn:dem":2690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343644,
+    "gn:latitude":9.1,
+    "gn:longitude":38.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u2018Arb Gebeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343644
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eb43957c3f7d3608827f3b27cfc057eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209649475
+        }
+    ],
+    "wof:id":1209649475,
+    "wof:lastmodified":1536280626,
+    "wof:name":"`Arb Gebeya",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38333,
+    9.1,
+    38.38333,
+    9.1
+],
+  "geometry": {"coordinates":[38.38333,9.1],"type":"Point"}
+}

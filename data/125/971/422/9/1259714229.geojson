@@ -1,0 +1,72 @@
+{
+  "id": 1259714229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.38551,9.55814,41.38551,9.55814",
+    "geom:latitude":9.55814,
+    "geom:longitude":41.38551,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Erer",
+    "gn:country_code":"ET",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338037,
+    "gn:latitude":9.55814,
+    "gn:longitude":41.38551,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u0112rer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0112rer",
+        "Errer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338037,
+        "wk:page":"Erer"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"30227a67157a6222ffcfefde7087437c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1259714229,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259714229,
+    "wof:lastmodified":1537622028,
+    "wof:name":"Erer",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.38551,
+    9.55814,
+    41.38551,
+    9.55814
+],
+  "geometry": {"coordinates":[41.38551,9.55814],"type":"Point"}
+}

@@ -1,0 +1,331 @@
+{
+  "id": 890442393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39077,11.59364,37.39077,11.59364",
+    "geom:latitude":11.59364,
+    "geom:longitude":37.39077,
+    "gn:country":"ET",
+    "gn:fcode":"PPLA",
+    "gn:pop":168899,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":5.6,
+    "name:afr_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:amh_x_preferred":[
+        "\u1263\u1215\u122d-\u12f3\u122d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0631 \u062f\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b9\u09bf\u09b0\u09a6\u09be\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u8d6b\u9054\u723e"
+    ],
+    "name:dan_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:deu_x_preferred":[
+        "Bahar Dar"
+    ],
+    "name:dut_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c7\u03c1-\u039d\u03c4\u03b1\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:epo_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:fin_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:fra_x_preferred":[
+        "Baher Dar"
+    ],
+    "name:fre_x_preferred":[
+        "Baher Dar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10f0\u10e0-\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c7\u03c1-\u039d\u03c4\u03b1\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ab9\u0abf\u0ab0 \u0aa6\u0abe\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d4\u05e8 \u05d3\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0939\u093f\u0930 \u0926\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:hun_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:ind_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:ita_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30cf\u30eb\u30c0\u30fc\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0cb9\u0cbf\u0cb0\u0ccd \u0ca6\u0cbe\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10f0\u10e0-\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud788\ub974\ub2e4\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:lav_x_preferred":[
+        "Bahirdara"
+    ],
+    "name:lit_x_preferred":[
+        "Bahir Daras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0939\u093f\u0930 \u0926\u093e\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:nob_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:pol_x_preferred":[
+        "Bahyr Dar"
+    ],
+    "name:por_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:rum_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0440-\u0414\u0430\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dc4\u0dd2\u0dbb\u0dca \u0da9\u0dbb\u0dca"
+    ],
+    "name:sna_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:spa_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0445\u0438\u0440 \u0414\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb9\u0bbf\u0bb0\u0bcd \u0b9f\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c39\u0c3f\u0c30\u0c4d \u0c26\u0c3e\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e44\u0e2e\u0e23\u0e4c\u0e14\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0445\u0440-\u0414\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Babardur Georgis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u062d\u0631 \u062f\u0627\u0631"
+    ],
+    "name:vep_x_preferred":[
+        "Bahr Dar"
+    ],
+    "name:vie_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:war_x_preferred":[
+        "Bahir Dar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8d6b\u9054\u723e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Ethiopia",
+    "ne:ADM0_A3":"ETH",
+    "ne:ADM1NAME":"Amhara",
+    "ne:ADMIN1_COD":6,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Location adjusted.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":342884,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Bahir Dar",
+    "ne:GN_POP":168899,
+    "ne:GTOPO30":1784.0,
+    "ne:ISO_A2":"ET",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":11.600053,
+    "ne:LONGITUDE":37.383289,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bahir Dar",
+    "ne:MAX_AREAKM":51.0,
+    "ne:MAX_AREAMI":20.0,
+    "ne:MAX_BBXMAX":37.525,
+    "ne:MAX_BBXMIN":37.358333,
+    "ne:MAX_BBYMAX":11.608333,
+    "ne:MAX_BBYMIN":11.491667,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":73.0,
+    "ne:MAX_PERMI":46.0,
+    "ne:MAX_POP10":206748,
+    "ne:MAX_POP20":206748,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":206748,
+    "ne:MEAN_BBXC":37.427254,
+    "ne:MEAN_BBYC":11.542555,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":51.0,
+    "ne:MIN_AREAMI":20.0,
+    "ne:MIN_BBXMAX":37.525,
+    "ne:MIN_BBXMIN":37.358333,
+    "ne:MIN_BBYMAX":11.608333,
+    "ne:MIN_BBYMIN":11.491667,
+    "ne:MIN_PERKM":73.0,
+    "ne:MIN_PERMI":46.0,
+    "ne:NAME":"Bahir Dar",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bahir Dar",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":206748,
+    "ne:POP_MIN":168899,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Ethiopia",
+    "ne:SOV_A3":"ETH",
+    "ne:TIMEZONE":"Africa/Addis_Ababa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Bahir Dar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":1645,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342884,
+        "gp:id":90874444,
+        "qs:id":547793,
+        "wd:id":"Q464699",
+        "wk:page":"Bahir Dar"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052361,
+    "wof:geomhash":"a5a47d43c7c02b7f401c160a014235e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695135,
+            "locality_id":890442393,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":890442393,
+    "wof:lastmodified":1534379297,
+    "wof:name":"Bahir Dar",
+    "wof:parent_id":1108695135,
+    "wof:placetype":"locality",
+    "wof:population":168899,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[
+        421189651
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39077,
+    11.59364,
+    37.39077,
+    11.59364
+],
+  "geometry": {"coordinates":[37.39077,11.59364],"type":"Point"}
+}

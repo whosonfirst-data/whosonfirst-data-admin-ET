@@ -1,0 +1,67 @@
+{
+  "id": 1243001725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.652,14.231,39.652,14.231",
+    "geom:latitude":14.231,
+    "geom:longitude":39.652,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Wollo Alo",
+    "gn:country_code":"ET",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6533840,
+    "gn:latitude":14.231,
+    "gn:longitude":39.652,
+    "gn:modification_date":"2007-05-04",
+    "gn:name":"Wollo Alo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6533840
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f3f8d3ee6c5360ff703830a326091bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1243001725,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243001725,
+    "wof:lastmodified":1536950133,
+    "wof:name":"Wollo Alo",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.652,
+    14.231,
+    39.652,
+    14.231
+],
+  "geometry": {"coordinates":[39.652,14.231],"type":"Point"}
+}

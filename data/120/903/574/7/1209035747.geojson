@@ -1,0 +1,61 @@
+{
+  "id": 1209035747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75,11.33333,37.75,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":37.75,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Afeyi",
+    "gn:country_code":"ET",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344737,
+    "gn:latitude":11.33333,
+    "gn:longitude":37.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100fey\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344737
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3cc678ad91da999353122da042e5b17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209035747
+        }
+    ],
+    "wof:id":1209035747,
+    "wof:lastmodified":1536299706,
+    "wof:name":"Afeyi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75,
+    11.33333,
+    37.75,
+    11.33333
+],
+  "geometry": {"coordinates":[37.75,11.33333],"type":"Point"}
+}

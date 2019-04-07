@@ -1,0 +1,67 @@
+{
+  "id": 1276371181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9297,7.57091,42.9297,7.57091",
+    "geom:latitude":7.57091,
+    "geom:longitude":42.9297,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Balemballeh",
+    "gn:country_code":"ET",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342815,
+    "gn:latitude":7.57091,
+    "gn:longitude":42.9297,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Balemballeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342815
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fbb3a8080d1d29675f70d6a172fe36e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695165,
+            "locality_id":1276371181,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276371181,
+    "wof:lastmodified":1536728273,
+    "wof:name":"Balemballeh",
+    "wof:parent_id":1108695165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9297,
+    7.57091,
+    42.9297,
+    7.57091
+],
+  "geometry": {"coordinates":[42.9297,7.57091],"type":"Point"}
+}

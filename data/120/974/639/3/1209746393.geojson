@@ -1,0 +1,67 @@
+{
+  "id": 1209746393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5,7.25,36.5,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":36.5,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bolla",
+    "gn:country_code":"ET",
+    "gn:dem":2590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341786,
+    "gn:latitude":7.25,
+    "gn:longitude":36.5,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bolla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341786
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bc0402614a93cd424ac5f20df94dfa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695181,
+            "locality_id":1209746393,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1209746393,
+    "wof:lastmodified":1536394788,
+    "wof:name":"Bolla",
+    "wof:parent_id":1108695181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5,
+    7.25,
+    36.5,
+    7.25
+],
+  "geometry": {"coordinates":[36.5,7.25],"type":"Point"}
+}

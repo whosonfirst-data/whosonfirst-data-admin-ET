@@ -1,0 +1,75 @@
+{
+  "id": 1310136747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05,8.93333,35.05,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":35.05,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kake",
+    "gn:country_code":"ET",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333661,
+    "gn:latitude":8.93333,
+    "gn:longitude":35.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clache",
+        "Kakie",
+        "Cachi",
+        "K\u2019at\u2019\u0113",
+        "Clach",
+        "Kake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333661
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5c7e2c99994ea894aa59d3bfa02d22ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1310136747,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310136747,
+    "wof:lastmodified":1537621973,
+    "wof:name":"Kake",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05,
+    8.93333,
+    35.05,
+    8.93333
+],
+  "geometry": {"coordinates":[35.05,8.93333],"type":"Point"}
+}

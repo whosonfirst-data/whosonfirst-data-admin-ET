@@ -1,0 +1,67 @@
+{
+  "id": 1327066143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35,7.08333,39.35,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":39.35,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Denfo",
+    "gn:country_code":"ET",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339382,
+    "gn:latitude":7.08333,
+    "gn:longitude":39.35,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Denfo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339382
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"764b79f9f89d6826c54169a996c366c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1327066143,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327066143,
+    "wof:lastmodified":1536712012,
+    "wof:name":"Denfo",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35,
+    7.08333,
+    39.35,
+    7.08333
+],
+  "geometry": {"coordinates":[39.35,7.08333],"type":"Point"}
+}

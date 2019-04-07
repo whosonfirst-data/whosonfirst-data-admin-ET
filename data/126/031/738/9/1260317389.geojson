@@ -1,0 +1,71 @@
+{
+  "id": 1260317389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85,11.1,39.85,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":39.85,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sukaye",
+    "gn:country_code":"ET",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328094,
+    "gn:latitude":11.1,
+    "gn:longitude":39.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sukay\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sukoy\u0113",
+        "Sukay\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328094
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"63fe4d2d9a58b75c2c701d1ae25d7876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1260317389,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1260317389,
+    "wof:lastmodified":1537621912,
+    "wof:name":"Sukaye",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85,
+    11.1,
+    39.85,
+    11.1
+],
+  "geometry": {"coordinates":[39.85,11.1],"type":"Point"}
+}

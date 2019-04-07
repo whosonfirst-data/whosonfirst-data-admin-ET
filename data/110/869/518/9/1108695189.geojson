@@ -1,0 +1,87 @@
+{
+  "id": 1108695189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002033,
+    "geom:area_square_m":24437788.387745,
+    "geom:bbox":"39.444668,13.475578,39.511376,13.53225",
+    "geom:latitude":13.50389,
+    "geom:longitude":39.477382,
+    "iso:country":"ET",
+    "lbl:latitude":13.501508,
+    "lbl:longitude":39.471318,
+    "meso:admin_1":"Tigray",
+    "meso:gadm_admin":"Debubawi",
+    "meso:gaul_admin":"Southern",
+    "meso:hasc_id":"ET.TI.DB",
+    "meso:mps_x":39.471318,
+    "meso:mps_y":13.501508,
+    "meso:name_local":"Mekele",
+    "meso:source":"USAID",
+    "mps:latitude":13.501508,
+    "mps:longitude":39.471318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Debubawi Zone"
+    ],
+    "name:eng_x_variant":[
+        "Southern",
+        "Debubawi"
+    ],
+    "name:fre_x_preferred":[
+        "Debubawi"
+    ],
+    "name:hrv_x_preferred":[
+        "Zona Debubaji"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d6\u30d0\u30a6\u30a3\u770c"
+    ],
+    "name:swe_x_preferred":[
+        "Southern Tigray Zone"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ET.TI.DB",
+        "wd:id":"Q3020955"
+    },
+    "wof:country":"ET",
+    "wof:created":1474493512,
+    "wof:geomhash":"e9d40c8a70fe4de234f403d4c20d93b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695189,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1108695189,
+    "wof:lastmodified":1536615371,
+    "wof:name":"Mekele",
+    "wof:parent_id":85671125,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"DB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.444668,
+    13.475578,
+    39.511376,
+    13.53225
+],
+  "geometry": {"coordinates":[[[39.448906,13.508524],[39.46513,13.522283],[39.469818,13.51938],[39.489796,13.523411],[39.496982,13.530061],[39.501159,13.53225],[39.505753,13.531626],[39.507656,13.526043],[39.510433,13.528931],[39.511376,13.526976],[39.509056,13.521285],[39.509873,13.516681],[39.507877,13.509478],[39.503044,13.50512],[39.499451,13.507334],[39.497059,13.50695],[39.489887,13.50201],[39.490623,13.500208],[39.493187,13.498919],[39.491684,13.495639],[39.488007,13.494951],[39.490341,13.488436],[39.490109,13.484395],[39.485817,13.483],[39.484985,13.480399],[39.481812,13.479501],[39.480423,13.476692],[39.477284,13.477999],[39.469208,13.47701],[39.465584,13.479632],[39.464271,13.47635],[39.462051,13.475578],[39.459679,13.476973],[39.453053,13.491653],[39.444668,13.50316],[39.448906,13.508524]]],"type":"Polygon"}
+}

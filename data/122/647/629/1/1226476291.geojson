@@ -1,0 +1,70 @@
+{
+  "id": 1226476291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.01667,8.26667,34.01667,8.26667",
+    "geom:latitude":8.26667,
+    "geom:longitude":34.01667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Caic",
+    "gn:country_code":"ET",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341231,
+    "gn:latitude":8.26667,
+    "gn:longitude":34.01667,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Caic",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341231
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"83802c1905c431a6c3d6da0501118a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1226476291,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1226476291,
+    "wof:lastmodified":1537622064,
+    "wof:name":"Caic",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01667,
+    8.26667,
+    34.01667,
+    8.26667
+],
+  "geometry": {"coordinates":[34.01667,8.26667],"type":"Point"}
+}

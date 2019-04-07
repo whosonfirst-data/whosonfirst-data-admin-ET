@@ -1,0 +1,67 @@
+{
+  "id": 1277112981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41667,12.68333,39.41667,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":39.41667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Ch'egware",
+    "gn:country_code":"ET",
+    "gn:dem":2407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345230,
+    "gn:latitude":12.68333,
+    "gn:longitude":39.41667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"\u0100d\u012b Ch\u2019egwar\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345230
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dc51e5ad39c04dc9fb1e12d44b600ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1277112981,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1277112981,
+    "wof:lastmodified":1536724338,
+    "wof:name":"Adi Ch'egware",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41667,
+    12.68333,
+    39.41667,
+    12.68333
+],
+  "geometry": {"coordinates":[39.41667,12.68333],"type":"Point"}
+}

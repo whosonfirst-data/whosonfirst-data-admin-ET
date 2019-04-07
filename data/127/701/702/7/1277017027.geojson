@@ -1,0 +1,67 @@
+{
+  "id": 1277017027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8,9.41667,37.8,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":37.8,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Digo",
+    "gn:country_code":"ET",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339036,
+    "gn:latitude":9.41667,
+    "gn:longitude":37.8,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"D\u012bgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339036
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"db87305eff55a6049b081a15aa02b785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1277017027,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1277017027,
+    "wof:lastmodified":1536856068,
+    "wof:name":"Digo",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8,
+    9.41667,
+    37.8,
+    9.41667
+],
+  "geometry": {"coordinates":[37.8,9.41667],"type":"Point"}
+}

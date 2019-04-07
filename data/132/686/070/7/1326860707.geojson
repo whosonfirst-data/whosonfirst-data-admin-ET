@@ -1,0 +1,67 @@
+{
+  "id": 1326860707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.65,12.2,37.65,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":37.65,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Fercaber",
+    "gn:country_code":"ET",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337826,
+    "gn:latitude":12.2,
+    "gn:longitude":37.65,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Fercaber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337826
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7b3beba5c650e188ede9bac7e3e0981c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1326860707,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326860707,
+    "wof:lastmodified":1537007104,
+    "wof:name":"Fercaber",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.65,
+    12.2,
+    37.65,
+    12.2
+],
+  "geometry": {"coordinates":[37.65,12.2],"type":"Point"}
+}

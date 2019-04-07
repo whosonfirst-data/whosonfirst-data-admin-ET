@@ -1,0 +1,67 @@
+{
+  "id": 1243465003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.62769,14.47723,39.62769,14.47723",
+    "geom:latitude":14.47723,
+    "geom:longitude":39.62769,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Irob",
+    "gn:country_code":"ET",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643644,
+    "gn:latitude":14.47723,
+    "gn:longitude":39.62769,
+    "gn:modification_date":"2013-12-04",
+    "gn:name":"Irob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643644
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2809a10531605674ad89c2324c60ce77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1243465003,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243465003,
+    "wof:lastmodified":1536779198,
+    "wof:name":"Irob",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.62769,
+    14.47723,
+    39.62769,
+    14.47723
+],
+  "geometry": {"coordinates":[39.62769,14.47723],"type":"Point"}
+}

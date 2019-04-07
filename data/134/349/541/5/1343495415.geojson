@@ -1,0 +1,67 @@
+{
+  "id": 1343495415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45,4.98333,37.45,4.98333",
+    "geom:latitude":4.98333,
+    "geom:longitude":37.45,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Giso",
+    "gn:country_code":"ET",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336381,
+    "gn:latitude":4.98333,
+    "gn:longitude":37.45,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Giso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336381
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f0caa964050ce67d026a83c322066b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1343495415,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343495415,
+    "wof:lastmodified":1536695928,
+    "wof:name":"Giso",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45,
+    4.98333,
+    37.45,
+    4.98333
+],
+  "geometry": {"coordinates":[37.45,4.98333],"type":"Point"}
+}

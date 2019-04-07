@@ -1,0 +1,67 @@
+{
+  "id": 1276157839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3,10.06667,35.3,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":35.3,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Melca Daboch",
+    "gn:country_code":"ET",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331132,
+    "gn:latitude":10.06667,
+    "gn:longitude":35.3,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Melca Daboch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331132
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"abc3b1e59157ea4945f038c14376c881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695179,
+            "locality_id":1276157839,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1276157839,
+    "wof:lastmodified":1537013250,
+    "wof:name":"Melca Daboch",
+    "wof:parent_id":1108695179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3,
+    10.06667,
+    35.3,
+    10.06667
+],
+  "geometry": {"coordinates":[35.3,10.06667],"type":"Point"}
+}

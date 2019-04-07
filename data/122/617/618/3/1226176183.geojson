@@ -1,0 +1,71 @@
+{
+  "id": 1226176183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,11.03333,39.81667,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Aba Golja Ager",
+    "gn:country_code":"ET",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345912,
+    "gn:latitude":11.03333,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100ba Golja \u0100ger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100bagolja \u0100ger (1)",
+        "\u0100ba Golja \u0100ger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345912
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d0b9f388a49a82b0b009b58a8af7aec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1226176183,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226176183,
+    "wof:lastmodified":1537622122,
+    "wof:name":"Aba Golja Ager",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    11.03333,
+    39.81667,
+    11.03333
+],
+  "geometry": {"coordinates":[39.81667,11.03333],"type":"Point"}
+}

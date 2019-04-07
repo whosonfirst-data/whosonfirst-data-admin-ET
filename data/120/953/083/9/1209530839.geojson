@@ -1,0 +1,61 @@
+{
+  "id": 1209530839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.25,8.8333,41.25,8.8333",
+    "geom:latitude":8.8333,
+    "geom:longitude":41.25,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Malka Balo",
+    "gn:country_code":"ET",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643799,
+    "gn:latitude":8.8333,
+    "gn:longitude":41.25,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Malka Balo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643799
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5f5f980d4216dcafdf93677b1a2e6787",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209530839
+        }
+    ],
+    "wof:id":1209530839,
+    "wof:lastmodified":1536284285,
+    "wof:name":"Malka Balo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.25,
+    8.8333,
+    41.25,
+    8.8333
+],
+  "geometry": {"coordinates":[41.25,8.8333],"type":"Point"}
+}

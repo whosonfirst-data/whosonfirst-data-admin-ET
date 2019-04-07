@@ -1,0 +1,74 @@
+{
+  "id": 1326465527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11972,9.71389,42.11972,9.71389",
+    "geom:latitude":9.71389,
+    "geom:longitude":42.11972,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Jeldesa",
+    "gn:country_code":"ET",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333928,
+    "gn:latitude":9.71389,
+    "gn:longitude":42.11972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jeld\u0113sa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gildessa",
+        "Jaldessa",
+        "Dzhel\u2019dessa",
+        "Jeld\u0113sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333928,
+        "wk:page":"Jaldessa"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ace80cda37dea3b443f68a205d4510d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1326465527,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1326465527,
+    "wof:lastmodified":1537621976,
+    "wof:name":"Jeldesa",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11972,
+    9.71389,
+    42.11972,
+    9.71389
+],
+  "geometry": {"coordinates":[42.11972,9.71389],"type":"Point"}
+}

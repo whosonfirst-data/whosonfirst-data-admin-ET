@@ -1,0 +1,65 @@
+{
+  "id": 1209136729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26667,8.2,34.26667,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":34.26667,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Itang",
+    "gn:country_code":"ET",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334050,
+    "gn:latitude":8.2,
+    "gn:longitude":34.26667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u012atang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012atang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334050,
+        "wk:page":"Itang"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"052fd12ee65f5ead167aef324f5f65fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209136729
+        }
+    ],
+    "wof:id":1209136729,
+    "wof:lastmodified":1537621979,
+    "wof:name":"Itang",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26667,
+    8.2,
+    34.26667,
+    8.2
+],
+  "geometry": {"coordinates":[34.26667,8.2],"type":"Point"}
+}

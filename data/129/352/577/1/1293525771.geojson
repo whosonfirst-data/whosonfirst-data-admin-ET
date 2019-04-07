@@ -1,0 +1,72 @@
+{
+  "id": 1293525771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.54694,8.94361,41.54694,8.94361",
+    "geom:latitude":8.94361,
+    "geom:longitude":41.54694,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Genemi",
+    "gn:country_code":"ET",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336933,
+    "gn:latitude":8.94361,
+    "gn:longitude":41.54694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Genem\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100niya Genem\u0113",
+        "Ganami",
+        "Genem\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336933
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"11014286d0d615a25581a618bd7461fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1293525771,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293525771,
+    "wof:lastmodified":1537622016,
+    "wof:name":"Genemi",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.54694,
+    8.94361,
+    41.54694,
+    8.94361
+],
+  "geometry": {"coordinates":[41.54694,8.94361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276580951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04417,9.84,43.04417,9.84",
+    "geom:latitude":9.84,
+    "geom:longitude":43.04417,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Derwernache",
+    "gn:country_code":"ET",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339223,
+    "gn:latitude":9.84,
+    "gn:longitude":43.04417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u0113rw\u0113rnach\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douernache",
+        "D\u0113rw\u0113rnach\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339223
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4810e7525ddee9204af4bbb17c9ecdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1276580951,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276580951,
+    "wof:lastmodified":1537622040,
+    "wof:name":"Derwernache",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04417,
+    9.84,
+    43.04417,
+    9.84
+],
+  "geometry": {"coordinates":[43.04417,9.84],"type":"Point"}
+}

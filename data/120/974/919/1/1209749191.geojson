@@ -1,0 +1,71 @@
+{
+  "id": 1209749191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.22056,9.20889,42.22056,9.20889",
+    "geom:latitude":9.20889,
+    "geom:longitude":42.22056,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bisidimo",
+    "gn:country_code":"ET",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341976,
+    "gn:latitude":9.20889,
+    "gn:longitude":42.22056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u012bs\u012bd\u012bmo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u012bs\u012bd\u012bmo (1)",
+        "B\u012bs\u012bd\u012bmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671163,
+        1108695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341976
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1be41c72a3c16294ed74c3ef38b2b122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695173,
+            "locality_id":1209749191,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":1209749191,
+    "wof:lastmodified":1537622073,
+    "wof:name":"Bisidimo",
+    "wof:parent_id":1108695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.22056,
+    9.20889,
+    42.22056,
+    9.20889
+],
+  "geometry": {"coordinates":[42.22056,9.20889],"type":"Point"}
+}

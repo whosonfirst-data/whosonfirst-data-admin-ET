@@ -1,0 +1,67 @@
+{
+  "id": 1293031387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6183,14.17506,39.6183,14.17506",
+    "geom:latitude":14.17506,
+    "geom:longitude":39.6183,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ru'usu Dur",
+    "gn:country_code":"ET",
+    "gn:dem":2748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329507,
+    "gn:latitude":14.17506,
+    "gn:longitude":39.6183,
+    "gn:modification_date":"2008-03-24",
+    "gn:name":"Ru\u2019usu Dur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329507
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"94e13a2f0d4fc87983c667872419c41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1293031387,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293031387,
+    "wof:lastmodified":1536948063,
+    "wof:name":"Ru'usu Dur",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6183,
+    14.17506,
+    39.6183,
+    14.17506
+],
+  "geometry": {"coordinates":[39.6183,14.17506],"type":"Point"}
+}

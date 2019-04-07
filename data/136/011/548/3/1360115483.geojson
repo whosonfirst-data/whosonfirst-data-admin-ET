@@ -1,0 +1,71 @@
+{
+  "id": 1360115483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51667,10.0,34.51667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":34.51667,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Hadej",
+    "gn:country_code":"ET",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335322,
+    "gn:latitude":10.0,
+    "gn:longitude":34.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u0101dej",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadaj",
+        "H\u0101dej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335322
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"473e2103ea339c7e78cae70777b78c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695133,
+            "locality_id":1360115483,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1360115483,
+    "wof:lastmodified":1537621997,
+    "wof:name":"Hadej",
+    "wof:parent_id":1108695133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51667,
+    10.0,
+    34.51667,
+    10.0
+],
+  "geometry": {"coordinates":[34.51667,10.0],"type":"Point"}
+}

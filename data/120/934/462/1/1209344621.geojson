@@ -1,0 +1,61 @@
+{
+  "id": 1209344621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43333,9.06667,38.43333,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":38.43333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dok'etu",
+    "gn:country_code":"ET",
+    "gn:dem":2430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338688,
+    "gn:latitude":9.06667,
+    "gn:longitude":38.43333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dok\u2019etu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338688
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"49e197ad022bbc54aaa5ecad99c4889d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209344621
+        }
+    ],
+    "wof:id":1209344621,
+    "wof:lastmodified":1536289953,
+    "wof:name":"Dok'etu",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43333,
+    9.06667,
+    38.43333,
+    9.06667
+],
+  "geometry": {"coordinates":[38.43333,9.06667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890446957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0,11.0,39.0,11.0",
+    "geom:latitude":11.0,
+    "geom:longitude":39.0,
+    "gn:country":"ET",
+    "gn:fcode":"ADM3",
+    "gn:pop":165026,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Legambo"
+    ],
+    "name:eng_x_variant":[
+        "Legambo Woreda"
+    ],
+    "qs:name":"Legambo Woreda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732960,
+        "qs:id":698143
+    },
+    "wof:country":"ET",
+    "wof:created":1469052574,
+    "wof:geomhash":"e9674ed531665147254d2105048b7eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "localadmin_id":890446957,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":890446957,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Legambo Woreda",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"localadmin",
+    "wof:population":165026,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0,
+    11.0,
+    39.0,
+    11.0
+],
+  "geometry": {"coordinates":[39.0,11.0],"type":"Point"}
+}

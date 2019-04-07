@@ -1,0 +1,67 @@
+{
+  "id": 1309834633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6623,10.36796,39.6623,10.36796",
+    "geom:latitude":10.36796,
+    "geom:longitude":39.6623,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Kure",
+    "gn:country_code":"ET",
+    "gn:dem":3104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620938,
+    "gn:latitude":10.36796,
+    "gn:longitude":39.6623,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Kure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620938
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0c397e23e9e4fa5a780b0c22b9f9bd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1309834633,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309834633,
+    "wof:lastmodified":1536889294,
+    "wof:name":"Kure",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6623,
+    10.36796,
+    39.6623,
+    10.36796
+],
+  "geometry": {"coordinates":[39.6623,10.36796],"type":"Point"}
+}

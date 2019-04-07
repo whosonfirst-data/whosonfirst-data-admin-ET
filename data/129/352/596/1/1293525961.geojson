@@ -1,0 +1,67 @@
+{
+  "id": 1293525961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.30867,9.91804,39.30867,9.91804",
+    "geom:latitude":9.91804,
+    "geom:longitude":39.30867,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gemameda",
+    "gn:country_code":"ET",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336981,
+    "gn:latitude":9.91804,
+    "gn:longitude":39.30867,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gemam\u0113da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336981
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aec68c07513f3ceeabc194cd6d990b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1293525961,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1293525961,
+    "wof:lastmodified":1536731800,
+    "wof:name":"Gemameda",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.30867,
+    9.91804,
+    39.30867,
+    9.91804
+],
+  "geometry": {"coordinates":[39.30867,9.91804],"type":"Point"}
+}

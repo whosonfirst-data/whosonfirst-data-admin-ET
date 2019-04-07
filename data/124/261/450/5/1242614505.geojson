@@ -1,0 +1,67 @@
+{
+  "id": 1242614505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46667,6.08333,37.46667,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":37.46667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Azho",
+    "gn:country_code":"ET",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342988,
+    "gn:latitude":6.08333,
+    "gn:longitude":37.46667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100zho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342988
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9b4bd05a96a590a6bb305abbe7d5d448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695167,
+            "locality_id":1242614505,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1242614505,
+    "wof:lastmodified":1537009718,
+    "wof:name":"Azho",
+    "wof:parent_id":1108695167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46667,
+    6.08333,
+    37.46667,
+    6.08333
+],
+  "geometry": {"coordinates":[37.46667,6.08333],"type":"Point"}
+}

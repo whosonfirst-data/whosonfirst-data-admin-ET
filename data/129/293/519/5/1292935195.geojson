@@ -1,0 +1,70 @@
+{
+  "id": 1292935195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67861,14.0625,38.67861,14.0625",
+    "geom:latitude":14.0625,
+    "geom:longitude":38.67861,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Addi Gui",
+    "gn:country_code":"ET",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345139,
+    "gn:latitude":14.0625,
+    "gn:longitude":38.67861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Addi Gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012b Gu\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345139
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3c2cc5071dbca68bd9bb533253bdddc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1292935195,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1292935195,
+    "wof:lastmodified":1537622112,
+    "wof:name":"Addi Gui",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67861,
+    14.0625,
+    38.67861,
+    14.0625
+],
+  "geometry": {"coordinates":[38.67861,14.0625],"type":"Point"}
+}

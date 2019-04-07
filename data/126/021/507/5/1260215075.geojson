@@ -1,0 +1,67 @@
+{
+  "id": 1260215075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56812,14.41467,38.56812,14.41467",
+    "geom:latitude":14.41467,
+    "geom:longitude":38.56812,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Meda Kanza",
+    "gn:country_code":"ET",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6742596,
+    "gn:latitude":14.41467,
+    "gn:longitude":38.56812,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Meda Kanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6742596
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4795bf55a3b9fba333aac7e0f585a1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1260215075,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260215075,
+    "wof:lastmodified":1536804708,
+    "wof:name":"Meda Kanza",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56812,
+    14.41467,
+    38.56812,
+    14.41467
+],
+  "geometry": {"coordinates":[38.56812,14.41467],"type":"Point"}
+}

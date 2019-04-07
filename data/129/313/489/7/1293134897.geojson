@@ -1,0 +1,67 @@
+{
+  "id": 1293134897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,9.3,38.73333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":38.73333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Nugude",
+    "gn:country_code":"ET",
+    "gn:dem":2541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330045,
+    "gn:latitude":9.3,
+    "gn:longitude":38.73333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Nugud\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330045
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"afe88f3f5b9d17d4678e5f913493c19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1293134897,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293134897,
+    "wof:lastmodified":1536798530,
+    "wof:name":"Nugude",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    9.3,
+    38.73333,
+    9.3
+],
+  "geometry": {"coordinates":[38.73333,9.3],"type":"Point"}
+}

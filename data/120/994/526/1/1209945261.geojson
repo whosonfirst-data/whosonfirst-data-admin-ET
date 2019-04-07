@@ -1,0 +1,67 @@
+{
+  "id": 1209945261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.98333,13.86667,37.98333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":37.98333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Debra Abbai",
+    "gn:country_code":"ET",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339750,
+    "gn:latitude":13.86667,
+    "gn:longitude":37.98333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Debra Abbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339750
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4f447c7635f5cd4102bb719e48c31947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1209945261,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1209945261,
+    "wof:lastmodified":1536386689,
+    "wof:name":"Debra Abbai",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.98333,
+    13.86667,
+    37.98333,
+    13.86667
+],
+  "geometry": {"coordinates":[37.98333,13.86667],"type":"Point"}
+}

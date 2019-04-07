@@ -1,0 +1,73 @@
+{
+  "id": 1343497627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76667,7.75,36.76667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":36.76667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Yebu",
+    "gn:country_code":"ET",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325971,
+    "gn:latitude":7.75,
+    "gn:longitude":36.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabo",
+        "Yebo",
+        "Yebbu",
+        "Yebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325971
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a47b49d52cdd2d9b931b7636279abd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1343497627,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343497627,
+    "wof:lastmodified":1537621889,
+    "wof:name":"Yebu",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76667,
+    7.75,
+    36.76667,
+    7.75
+],
+  "geometry": {"coordinates":[36.76667,7.75],"type":"Point"}
+}

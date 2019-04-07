@@ -1,0 +1,71 @@
+{
+  "id": 1327364457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02364,14.12668,39.02364,14.12668",
+    "geom:latitude":14.12668,
+    "geom:longitude":39.02364,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"May Ch'ew",
+    "gn:country_code":"ET",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331417,
+    "gn:latitude":14.12668,
+    "gn:longitude":39.02364,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"May Ch\u2019ew",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May Chou",
+        "May Ch\u2019ew"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331417
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ce23c865820ec32c48c808d5c6ae7d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1327364457,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1327364457,
+    "wof:lastmodified":1537621950,
+    "wof:name":"May Ch'ew",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02364,
+    14.12668,
+    39.02364,
+    14.12668
+],
+  "geometry": {"coordinates":[39.02364,14.12668],"type":"Point"}
+}

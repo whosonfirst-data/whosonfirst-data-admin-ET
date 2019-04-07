@@ -1,0 +1,67 @@
+{
+  "id": 1343894597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0382,10.3371,39.0382,10.3371",
+    "geom:latitude":10.3371,
+    "geom:longitude":39.0382,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gobabit",
+    "gn:country_code":"ET",
+    "gn:dem":1827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336344,
+    "gn:latitude":10.3371,
+    "gn:longitude":39.0382,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Gobab\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336344
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b97aec3cc0ebe9b09715bd692bfcb2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1343894597,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343894597,
+    "wof:lastmodified":1536614902,
+    "wof:name":"Gobabit",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0382,
+    10.3371,
+    39.0382,
+    10.3371
+],
+  "geometry": {"coordinates":[39.0382,10.3371],"type":"Point"}
+}

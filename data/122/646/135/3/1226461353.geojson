@@ -1,0 +1,68 @@
+{
+  "id": 1226461353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.94684,10.64061,36.94684,10.64061",
+    "geom:latitude":10.64061,
+    "geom:longitude":36.94684,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Shendi",
+    "gn:country_code":"ET",
+    "gn:dem":2105,
+    "gn:elevation":"2063.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11048861,
+    "gn:latitude":10.64061,
+    "gn:longitude":36.94684,
+    "gn:modification_date":"2016-01-19",
+    "gn:name":"Shendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048861
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d55283f5e0ea011c13eac1a122a7458d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1226461353,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226461353,
+    "wof:lastmodified":1536620915,
+    "wof:name":"Shendi",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.94684,
+    10.64061,
+    36.94684,
+    10.64061
+],
+  "geometry": {"coordinates":[36.94684,10.64061],"type":"Point"}
+}

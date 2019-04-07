@@ -1,0 +1,88 @@
+{
+  "id": 1108695173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.030501,
+    "geom:area_square_m":372204540.858443,
+    "geom:bbox":"42.062099,9.189271,42.275394,9.392007",
+    "geom:latitude":9.292987,
+    "geom:longitude":42.1758,
+    "iso:country":"ET",
+    "lbl:latitude":9.291204,
+    "lbl:longitude":42.1758,
+    "meso:admin_1":"Harari",
+    "meso:gadm_admin":"Hareri",
+    "meso:gaul_admin":"Hareri",
+    "meso:hasc_id":"ET.HA.HA",
+    "meso:mps_x":42.1758,
+    "meso:mps_y":9.291204,
+    "meso:name_local":"Harar/Hundene",
+    "meso:source":"USAID",
+    "mps:latitude":9.291204,
+    "mps:longitude":42.1758,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Harari"
+    ],
+    "name:eng_x_variant":[
+        "Hareri"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-07-01",
+    "statoids:area_km":"311",
+    "statoids:as_of_date":"2008-07-01",
+    "statoids:capital":"",
+    "statoids:country":"ET",
+    "statoids:hasc":"ET.HA",
+    "statoids:name":"Harari",
+    "statoids:population":"209000",
+    "statoids:statoid":"ET.HA.HA",
+    "statoids:timezone":"3",
+    "statoids:type":"zone",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ET.HA.HA"
+    },
+    "wof:country":"ET",
+    "wof:created":1474493498,
+    "wof:geomhash":"5b730a838fa4fb6a11e6eff9cfd8e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695173,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":1108695173,
+    "wof:lastmodified":1536615371,
+    "wof:name":"Harar/Hundene",
+    "wof:parent_id":85671163,
+    "wof:placetype":"county",
+    "wof:placetype_local":"zone",
+    "wof:population":209000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"HA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.062099,
+    9.189271,
+    42.275394,
+    9.392007
+],
+  "geometry": {"coordinates":[[[42.065041,9.230614],[42.062099,9.252784],[42.063736,9.269226],[42.067898,9.288245],[42.073689,9.307286],[42.088478,9.332461],[42.111927,9.367467],[42.117455,9.375856],[42.13237,9.392007],[42.149841,9.390849],[42.171807,9.366169],[42.190666,9.365029],[42.225105,9.382814],[42.241302,9.388279],[42.256225,9.387144],[42.2645,9.37685],[42.269363,9.369327],[42.272804,9.364013],[42.261742,9.337754],[42.268193,9.324664],[42.269272,9.313122],[42.263134,9.302179],[42.253536,9.28888],[42.252579,9.273382],[42.256874,9.264886],[42.259552,9.255907],[42.265484,9.246972],[42.271942,9.232959],[42.275394,9.218213],[42.269089,9.202644],[42.262672,9.195626],[42.25613,9.193059],[42.249256,9.190361],[42.236946,9.189271],[42.224018,9.19973],[42.211716,9.215284],[42.20068,9.223224],[42.185368,9.220245],[42.168942,9.213781],[42.151787,9.209617],[42.140492,9.219175],[42.130577,9.229905],[42.115631,9.234093],[42.076916,9.224314],[42.064236,9.229275],[42.065041,9.230614]]],"type":"Polygon"}
+}

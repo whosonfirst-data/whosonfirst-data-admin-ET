@@ -1,0 +1,73 @@
+{
+  "id": 421170455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.349395,11.687203,37.349395,11.687203",
+    "geom:latitude":11.687203,
+    "geom:longitude":37.349395,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mirab Gojam",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":960,
+    "qs:photos_1k":195,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2005,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":481852,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017436,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017436,
+        "qs:id":481852
+    },
+    "wof:country":"ET",
+    "wof:created":1459008854,
+    "wof:geomhash":"a62a5e9edc4dad8d841d063fa72a8a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421170455,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421170455,
+    "wof:lastmodified":1474500844,
+    "wof:name":"Mirab Gojam",
+    "wof:parent_id":85671121,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.349395,
+    11.687203,
+    37.349395,
+    11.687203
+],
+  "geometry": {"coordinates":[37.349395,11.687203],"type":"Point"}
+}

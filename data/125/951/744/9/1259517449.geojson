@@ -1,0 +1,67 @@
+{
+  "id": 1259517449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23888,10.77296,39.23888,10.77296",
+    "geom:latitude":10.77296,
+    "geom:longitude":39.23888,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yek'ura",
+    "gn:country_code":"ET",
+    "gn:dem":3078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325901,
+    "gn:latitude":10.77296,
+    "gn:longitude":39.23888,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Yek\u2019ura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325901
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cb900cbd4fb9b8668b3b3ea37366ebee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1259517449,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259517449,
+    "wof:lastmodified":1536809615,
+    "wof:name":"Yek'ura",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23888,
+    10.77296,
+    39.23888,
+    10.77296
+],
+  "geometry": {"coordinates":[39.23888,10.77296],"type":"Point"}
+}

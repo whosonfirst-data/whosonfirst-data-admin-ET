@@ -1,0 +1,67 @@
+{
+  "id": 1243006979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,6.71667,37.08333,6.71667",
+    "geom:latitude":6.71667,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Sehki",
+    "gn:country_code":"ET",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329014,
+    "gn:latitude":6.71667,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"S\u0113hk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329014
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1906a7cd6a8a0fc9e58162d7026bfae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695147,
+            "locality_id":1243006979,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1243006979,
+    "wof:lastmodified":1536942742,
+    "wof:name":"Sehki",
+    "wof:parent_id":1108695147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    6.71667,
+    37.08333,
+    6.71667
+],
+  "geometry": {"coordinates":[37.08333,6.71667],"type":"Point"}
+}

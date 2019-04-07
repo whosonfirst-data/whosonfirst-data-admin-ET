@@ -1,0 +1,61 @@
+{
+  "id": 1209040979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21667,9.48333,37.21667,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":37.21667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Guba Dodota",
+    "gn:country_code":"ET",
+    "gn:dem":2336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335793,
+    "gn:latitude":9.48333,
+    "gn:longitude":37.21667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Guba Dodota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335793
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7ac526a23158456d9ae5423c7b356c04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040979
+        }
+    ],
+    "wof:id":1209040979,
+    "wof:lastmodified":1536299547,
+    "wof:name":"Guba Dodota",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21667,
+    9.48333,
+    37.21667,
+    9.48333
+],
+  "geometry": {"coordinates":[37.21667,9.48333],"type":"Point"}
+}

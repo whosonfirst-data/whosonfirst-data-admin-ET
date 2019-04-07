@@ -1,0 +1,67 @@
+{
+  "id": 1276581055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7,11.45,37.7,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":37.7,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Melgib",
+    "gn:country_code":"ET",
+    "gn:dem":2229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331117,
+    "gn:latitude":11.45,
+    "gn:longitude":37.7,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Melgib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331117
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"90a8fc0b8e86fd2d67815552c6ee71c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1276581055,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276581055,
+    "wof:lastmodified":1536944965,
+    "wof:name":"Melgib",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7,
+    11.45,
+    37.7,
+    11.45
+],
+  "geometry": {"coordinates":[37.7,11.45],"type":"Point"}
+}

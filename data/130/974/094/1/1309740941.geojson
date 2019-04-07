@@ -1,0 +1,71 @@
+{
+  "id": 1309740941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66667,9.2,36.66667,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":36.66667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gorba",
+    "gn:country_code":"ET",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335953,
+    "gn:latitude":9.2,
+    "gn:longitude":36.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gorba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorbo",
+        "Gorba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335953
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fc2c4e9f6dccfefa2a19dc46b59ae932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1309740941,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309740941,
+    "wof:lastmodified":1537622004,
+    "wof:name":"Gorba",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66667,
+    9.2,
+    36.66667,
+    9.2
+],
+  "geometry": {"coordinates":[36.66667,9.2],"type":"Point"}
+}

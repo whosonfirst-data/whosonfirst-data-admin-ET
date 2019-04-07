@@ -1,0 +1,67 @@
+{
+  "id": 1309842239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18333,12.5,39.18333,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":39.18333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"K'arza",
+    "gn:country_code":"ET",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333582,
+    "gn:latitude":12.5,
+    "gn:longitude":39.18333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"K\u2019arza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333582
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dc5c35b5760f78f3269ee45db225b1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695225,
+            "locality_id":1309842239,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309842239,
+    "wof:lastmodified":1536877658,
+    "wof:name":"K'arza",
+    "wof:parent_id":1108695225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18333,
+    12.5,
+    39.18333,
+    12.5
+],
+  "geometry": {"coordinates":[39.18333,12.5],"type":"Point"}
+}

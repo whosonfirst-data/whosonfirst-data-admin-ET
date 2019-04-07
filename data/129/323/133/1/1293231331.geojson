@@ -1,0 +1,71 @@
+{
+  "id": 1293231331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65833,8.92972,41.65833,8.92972",
+    "geom:latitude":8.92972,
+    "geom:longitude":41.65833,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Deneba",
+    "gn:country_code":"ET",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339397,
+    "gn:latitude":8.92972,
+    "gn:longitude":41.65833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deneba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deneba (1)",
+        "Deneba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339397
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9ce05741877a6787e2a9d33fa4de4ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1293231331,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293231331,
+    "wof:lastmodified":1537622042,
+    "wof:name":"Deneba",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65833,
+    8.92972,
+    41.65833,
+    8.92972
+],
+  "geometry": {"coordinates":[41.65833,8.92972],"type":"Point"}
+}

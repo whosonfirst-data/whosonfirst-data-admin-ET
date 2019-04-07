@@ -1,0 +1,71 @@
+{
+  "id": 1209746159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15,8.41667,37.15,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":37.15,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Agelo",
+    "gn:country_code":"ET",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344638,
+    "gn:latitude":8.41667,
+    "gn:longitude":37.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100gelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100gelo (1)",
+        "\u0100gelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344638
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4bab91c8a670b44f7005e55c02153ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1209746159,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1209746159,
+    "wof:lastmodified":1537622104,
+    "wof:name":"Agelo",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15,
+    8.41667,
+    37.15,
+    8.41667
+],
+  "geometry": {"coordinates":[37.15,8.41667],"type":"Point"}
+}

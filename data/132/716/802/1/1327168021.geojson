@@ -1,0 +1,73 @@
+{
+  "id": 1327168021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.68306,9.42694,41.68306,9.42694",
+    "geom:latitude":9.42694,
+    "geom:longitude":41.68306,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"K'ulubi",
+    "gn:country_code":"ET",
+    "gn:dem":2418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332534,
+    "gn:latitude":9.42694,
+    "gn:longitude":41.68306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019ulub\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Collubi",
+        "Qulubi",
+        "Kolubi",
+        "K\u2019ulub\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332534
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bbe17af4ba8f8f8e50757ae19f0d3479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327168021,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327168021,
+    "wof:lastmodified":1537621961,
+    "wof:name":"K'ulubi",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.68306,
+    9.42694,
+    41.68306,
+    9.42694
+],
+  "geometry": {"coordinates":[41.68306,9.42694],"type":"Point"}
+}

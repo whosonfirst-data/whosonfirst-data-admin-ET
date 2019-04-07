@@ -1,0 +1,61 @@
+{
+  "id": 1209652007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.47692,11.59556,41.47692,11.59556",
+    "geom:latitude":11.59556,
+    "geom:longitude":41.47692,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Gayale",
+    "gn:country_code":"ET",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8399034,
+    "gn:latitude":11.59556,
+    "gn:longitude":41.47692,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Gayale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8399034
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fd5d42cf702ea2558a752b2ee7167331",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209652007
+        }
+    ],
+    "wof:id":1209652007,
+    "wof:lastmodified":1536280550,
+    "wof:name":"Gayale",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.47692,
+    11.59556,
+    41.47692,
+    11.59556
+],
+  "geometry": {"coordinates":[41.47692,11.59556],"type":"Point"}
+}

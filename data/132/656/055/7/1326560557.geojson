@@ -1,0 +1,71 @@
+{
+  "id": 1326560557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46709,13.63067,39.46709,13.63067",
+    "geom:latitude":13.63067,
+    "geom:longitude":39.46709,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ts'ahlo",
+    "gn:country_code":"ET",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327368,
+    "gn:latitude":13.63067,
+    "gn:longitude":39.46709,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ts\u2019ahlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsakhlo",
+        "Ts\u2019ahlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327368
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"47ae8dfae17b27e42703951e95415017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1326560557,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1326560557,
+    "wof:lastmodified":1537621906,
+    "wof:name":"Ts'ahlo",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46709,
+    13.63067,
+    39.46709,
+    13.63067
+],
+  "geometry": {"coordinates":[39.46709,13.63067],"type":"Point"}
+}

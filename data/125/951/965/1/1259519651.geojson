@@ -1,0 +1,67 @@
+{
+  "id": 1259519651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56667,9.15,37.56667,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":37.56667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Haro Alunko",
+    "gn:country_code":"ET",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334956,
+    "gn:latitude":9.15,
+    "gn:longitude":37.56667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Haro \u0100lunko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334956
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1ea905d46d74226dc37fabbaeaf5635f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1259519651,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259519651,
+    "wof:lastmodified":1536806538,
+    "wof:name":"Haro Alunko",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56667,
+    9.15,
+    37.56667,
+    9.15
+],
+  "geometry": {"coordinates":[37.56667,9.15],"type":"Point"}
+}

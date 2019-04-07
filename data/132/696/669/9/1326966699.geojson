@@ -1,0 +1,67 @@
+{
+  "id": 1326966699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68333,8.18333,39.68333,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":39.68333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gusa",
+    "gn:country_code":"ET",
+    "gn:dem":2654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335420,
+    "gn:latitude":8.18333,
+    "gn:longitude":39.68333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335420
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"129b7d04265db1e977d6aa1b428b1535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1326966699,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326966699,
+    "wof:lastmodified":1536853978,
+    "wof:name":"Gusa",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68333,
+    8.18333,
+    39.68333,
+    8.18333
+],
+  "geometry": {"coordinates":[39.68333,8.18333],"type":"Point"}
+}

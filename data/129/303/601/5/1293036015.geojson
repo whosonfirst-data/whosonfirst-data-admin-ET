@@ -1,0 +1,67 @@
+{
+  "id": 1293036015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58333,14.08333,39.58333,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":39.58333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Tetama",
+    "gn:country_code":"ET",
+    "gn:dem":2661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327636,
+    "gn:latitude":14.08333,
+    "gn:longitude":39.58333,
+    "gn:modification_date":"2008-03-24",
+    "gn:name":"Tetama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327636
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0283ece21c51c18becba8303e9a22949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1293036015,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293036015,
+    "wof:lastmodified":1536941571,
+    "wof:name":"Tetama",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58333,
+    14.08333,
+    39.58333,
+    14.08333
+],
+  "geometry": {"coordinates":[39.58333,14.08333],"type":"Point"}
+}

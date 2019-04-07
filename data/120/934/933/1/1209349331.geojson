@@ -1,0 +1,61 @@
+{
+  "id": 1209349331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.385,14.13972,39.385,14.13972",
+    "geom:latitude":14.13972,
+    "geom:longitude":39.385,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Meshat",
+    "gn:country_code":"ET",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330855,
+    "gn:latitude":14.13972,
+    "gn:longitude":39.385,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Meshat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330855
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65af46b696c7ee4de86124146cd1215f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209349331
+        }
+    ],
+    "wof:id":1209349331,
+    "wof:lastmodified":1536289799,
+    "wof:name":"Meshat",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.385,
+    14.13972,
+    39.385,
+    14.13972
+],
+  "geometry": {"coordinates":[39.385,14.13972],"type":"Point"}
+}

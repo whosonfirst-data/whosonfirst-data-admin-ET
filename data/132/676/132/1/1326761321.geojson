@@ -1,0 +1,71 @@
+{
+  "id": 1326761321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,7.31667,35.33333,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":35.33333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Manta Bacci",
+    "gn:country_code":"ET",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331575,
+    "gn:latitude":7.31667,
+    "gn:longitude":35.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manta Bacci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menta Bechi",
+        "Manta Bacci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        1108695169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331575
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c71920197cd6aec70f6d01f69d0f7b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695169,
+            "locality_id":1326761321,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1326761321,
+    "wof:lastmodified":1537621952,
+    "wof:name":"Manta Bacci",
+    "wof:parent_id":1108695169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    7.31667,
+    35.33333,
+    7.31667
+],
+  "geometry": {"coordinates":[35.33333,7.31667],"type":"Point"}
+}

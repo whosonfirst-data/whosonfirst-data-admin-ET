@@ -1,0 +1,66 @@
+{
+  "id": 1209646537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46039,13.82597,39.46039,13.82597",
+    "geom:latitude":13.82597,
+    "geom:longitude":39.46039,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"May Da'iro",
+    "gn:country_code":"ET",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331413,
+    "gn:latitude":13.82597,
+    "gn:longitude":39.46039,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"May Da\u2019iro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u2019iro",
+        "Dauro",
+        "May Da\u2019iro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331413
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6204c75bab3e0b6281f2dbdc9e4821c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209646537
+        }
+    ],
+    "wof:id":1209646537,
+    "wof:lastmodified":1537621950,
+    "wof:name":"May Da'iro",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46039,
+    13.82597,
+    39.46039,
+    13.82597
+],
+  "geometry": {"coordinates":[39.46039,13.82597],"type":"Point"}
+}

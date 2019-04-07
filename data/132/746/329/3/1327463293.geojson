@@ -1,0 +1,75 @@
+{
+  "id": 1327463293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88365,6.62255,35.88365,6.62255",
+    "geom:latitude":6.62255,
+    "geom:longitude":35.88365,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Umbeiro",
+    "gn:country_code":"ET",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326900,
+    "gn:latitude":6.62255,
+    "gn:longitude":35.88365,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Umbeiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wumbaro"
+    ],
+    "name:und_x_variant":[
+        "Uumbeiro",
+        "Vumbaro",
+        "Umbeiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326900
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"846aa90d104744e63e43483939a0bcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1327463293,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1327463293,
+    "wof:lastmodified":1537621901,
+    "wof:name":"Umbeiro",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88365,
+    6.62255,
+    35.88365,
+    6.62255
+],
+  "geometry": {"coordinates":[35.88365,6.62255],"type":"Point"}
+}

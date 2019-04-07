@@ -1,0 +1,67 @@
+{
+  "id": 1360116005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53333,11.48333,37.53333,11.48333",
+    "geom:latitude":11.48333,
+    "geom:longitude":37.53333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Koreta",
+    "gn:country_code":"ET",
+    "gn:dem":1688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332733,
+    "gn:latitude":11.48333,
+    "gn:longitude":37.53333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Koreta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332733
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"271591fbc82523b7b2db0028949ef65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1360116005,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1360116005,
+    "wof:lastmodified":1536901182,
+    "wof:name":"Koreta",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53333,
+    11.48333,
+    37.53333,
+    11.48333
+],
+  "geometry": {"coordinates":[37.53333,11.48333],"type":"Point"}
+}

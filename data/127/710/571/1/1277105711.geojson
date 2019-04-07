@@ -1,0 +1,67 @@
+{
+  "id": 1277105711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96667,9.31667,37.96667,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":37.96667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bili'i",
+    "gn:country_code":"ET",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342098,
+    "gn:latitude":9.31667,
+    "gn:longitude":37.96667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"B\u012bli\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342098
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"01d35536208ae623bbc9414abd85d9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1277105711,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1277105711,
+    "wof:lastmodified":1536734765,
+    "wof:name":"Bili'i",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96667,
+    9.31667,
+    37.96667,
+    9.31667
+],
+  "geometry": {"coordinates":[37.96667,9.31667],"type":"Point"}
+}

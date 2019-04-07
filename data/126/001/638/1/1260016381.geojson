@@ -1,0 +1,71 @@
+{
+  "id": 1260016381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68412,13.6158,39.68412,13.6158",
+    "geom:latitude":13.6158,
+    "geom:longitude":39.68412,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adengwar",
+    "gn:country_code":"ET",
+    "gn:dem":2257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345383,
+    "gn:latitude":13.6158,
+    "gn:longitude":39.68412,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100dengwar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100dengwar",
+        "Adenguor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345383
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ff87acc1d6b7dc33b777ec70cfe0e327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1260016381,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260016381,
+    "wof:lastmodified":1537622116,
+    "wof:name":"Adengwar",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68412,
+    13.6158,
+    39.68412,
+    13.6158
+],
+  "geometry": {"coordinates":[39.68412,13.6158],"type":"Point"}
+}

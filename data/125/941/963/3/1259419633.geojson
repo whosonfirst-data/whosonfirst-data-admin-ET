@@ -1,0 +1,67 @@
+{
+  "id": 1259419633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.96667,9.8,38.96667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":38.96667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Wik'ir",
+    "gn:country_code":"ET",
+    "gn:dem":2248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326120,
+    "gn:latitude":9.8,
+    "gn:longitude":38.96667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wik\u2019ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326120
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6924f8101b10907b9d8f9bdd305b47e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1259419633,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259419633,
+    "wof:lastmodified":1536950625,
+    "wof:name":"Wik'ir",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.96667,
+    9.8,
+    38.96667,
+    9.8
+],
+  "geometry": {"coordinates":[38.96667,9.8],"type":"Point"}
+}

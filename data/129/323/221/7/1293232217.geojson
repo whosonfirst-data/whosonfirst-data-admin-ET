@@ -1,0 +1,67 @@
+{
+  "id": 1293232217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33917,9.61306,42.33917,9.61306",
+    "geom:latitude":9.61306,
+    "geom:longitude":42.33917,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"`Usman Roble",
+    "gn:country_code":"ET",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326772,
+    "gn:latitude":9.61306,
+    "gn:longitude":42.33917,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u2018Usman Robl\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326772
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"15d67fa4e018a9c78d871f5d59539fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1293232217,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293232217,
+    "wof:lastmodified":1536658261,
+    "wof:name":"`Usman Roble",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33917,
+    9.61306,
+    42.33917,
+    9.61306
+],
+  "geometry": {"coordinates":[42.33917,9.61306],"type":"Point"}
+}

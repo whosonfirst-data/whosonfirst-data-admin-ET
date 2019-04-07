@@ -1,0 +1,71 @@
+{
+  "id": 1276157357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33333,8.11667,37.33333,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":37.33333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bahu",
+    "gn:country_code":"ET",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342872,
+    "gn:latitude":8.11667,
+    "gn:longitude":37.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bahu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahur",
+        "Bahu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342872
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8c74d58219db86d182c09040a600857a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276157357,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276157357,
+    "wof:lastmodified":1537622084,
+    "wof:name":"Bahu",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33333,
+    8.11667,
+    37.33333,
+    8.11667
+],
+  "geometry": {"coordinates":[37.33333,8.11667],"type":"Point"}
+}

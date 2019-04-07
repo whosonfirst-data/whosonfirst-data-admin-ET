@@ -1,0 +1,72 @@
+{
+  "id": 1243203319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61667,8.61667,34.61667,8.61667",
+    "geom:latitude":8.61667,
+    "geom:longitude":34.61667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Shola",
+    "gn:country_code":"ET",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328505,
+    "gn:latitude":8.61667,
+    "gn:longitude":34.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baha",
+        "Beca",
+        "Shola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328505
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"308a9d73e8e759959ab34cca28397650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1243203319,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243203319,
+    "wof:lastmodified":1537621916,
+    "wof:name":"Shola",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61667,
+    8.61667,
+    34.61667,
+    8.61667
+],
+  "geometry": {"coordinates":[34.61667,8.61667],"type":"Point"}
+}

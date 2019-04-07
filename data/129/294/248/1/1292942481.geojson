@@ -1,0 +1,71 @@
+{
+  "id": 1292942481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48333,5.21667,39.48333,5.21667",
+    "geom:latitude":5.21667,
+    "geom:longitude":39.48333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Hencio",
+    "gn:country_code":"ET",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334780,
+    "gn:latitude":5.21667,
+    "gn:longitude":39.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hencio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hencho",
+        "Hencio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334780
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2b0188a82593ed162ecc32ac1cb40295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695171,
+            "locality_id":1292942481,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1292942481,
+    "wof:lastmodified":1537621990,
+    "wof:name":"Hencio",
+    "wof:parent_id":1108695171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48333,
+    5.21667,
+    39.48333,
+    5.21667
+],
+  "geometry": {"coordinates":[39.48333,5.21667],"type":"Point"}
+}

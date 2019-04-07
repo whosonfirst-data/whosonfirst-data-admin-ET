@@ -1,0 +1,68 @@
+{
+  "id": 1343473861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92337,12.05317,41.92337,12.05317",
+    "geom:latitude":12.05317,
+    "geom:longitude":41.92337,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Elidar",
+    "gn:country_code":"ET",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643577,
+    "gn:latitude":12.05317,
+    "gn:longitude":41.92337,
+    "gn:modification_date":"2013-12-03",
+    "gn:name":"Elidar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643577,
+        "wk:page":"Elidar"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2b86557b69fe54e5d8590c3e0c3328a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1343473861,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1343473861,
+    "wof:lastmodified":1537562776,
+    "wof:name":"Elidar",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92337,
+    12.05317,
+    41.92337,
+    12.05317
+],
+  "geometry": {"coordinates":[41.92337,12.05317],"type":"Point"}
+}

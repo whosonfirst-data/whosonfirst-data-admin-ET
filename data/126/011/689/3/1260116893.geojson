@@ -1,0 +1,71 @@
+{
+  "id": 1260116893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,8.33333,35.68333,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Hurumu",
+    "gn:country_code":"ET",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334531,
+    "gn:latitude":8.33333,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hurumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urrummu",
+        "Hurumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334531
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1883add58d633aa39fd99ec01219bc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1260116893,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260116893,
+    "wof:lastmodified":1537621986,
+    "wof:name":"Hurumu",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    8.33333,
+    35.68333,
+    8.33333
+],
+  "geometry": {"coordinates":[35.68333,8.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360021445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11667,12.28333,39.11667,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":39.11667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Litaka",
+    "gn:country_code":"ET",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331974,
+    "gn:latitude":12.28333,
+    "gn:longitude":39.11667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"L\u012btaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331974
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"31954be01c4312bb4eec1c820f910079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1360021445,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1360021445,
+    "wof:lastmodified":1537035834,
+    "wof:name":"Litaka",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11667,
+    12.28333,
+    39.11667,
+    12.28333
+],
+  "geometry": {"coordinates":[39.11667,12.28333],"type":"Point"}
+}

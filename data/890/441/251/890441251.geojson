@@ -1,0 +1,105 @@
+{
+  "id": 890441251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23333,7.28333,36.23333,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":36.23333,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":18973,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u1266\u1295\u130b"
+    ],
+    "name:chi_x_preferred":[
+        "\u90a6\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "Bonga"
+    ],
+    "name:eng_x_preferred":[
+        "Bonga"
+    ],
+    "name:fre_x_preferred":[
+        "Bonga"
+    ],
+    "name:ger_x_preferred":[
+        "Bonga"
+    ],
+    "name:ita_x_preferred":[
+        "Bonga"
+    ],
+    "name:pol_x_preferred":[
+        "Bonga"
+    ],
+    "name:rum_x_preferred":[
+        "Bonga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043d\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bonga (1)"
+    ],
+    "qs:name":"Bonga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:elevation":1714.0,
+    "wd:latitude":"7.26666667",
+    "wd:longitude":"36.23333333",
+    "wd:wordcount":803,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341742,
+        "gp:id":1481527,
+        "qs:id":274899,
+        "wd:id":"Q977149",
+        "wk:page":"Bonga"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052315,
+    "wof:geomhash":"a0a14939f056c992d25e3a69fdd35428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695181,
+            "locality_id":890441251,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890441251,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Bonga",
+    "wof:parent_id":1108695181,
+    "wof:placetype":"locality",
+    "wof:population":18973,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23333,
+    7.28333,
+    36.23333,
+    7.28333
+],
+  "geometry": {"coordinates":[36.23333,7.28333],"type":"Point"}
+}

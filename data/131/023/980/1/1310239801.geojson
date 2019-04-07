@@ -1,0 +1,67 @@
+{
+  "id": 1310239801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31667,4.96667,38.31667,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":38.31667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"El Baro",
+    "gn:country_code":"ET",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338221,
+    "gn:latitude":4.96667,
+    "gn:longitude":38.31667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"El Baro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338221
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"58571a8cfe2c32e3b6222e40caa2f760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1310239801,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310239801,
+    "wof:lastmodified":1536802680,
+    "wof:name":"El Baro",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31667,
+    4.96667,
+    38.31667,
+    4.96667
+],
+  "geometry": {"coordinates":[38.31667,4.96667],"type":"Point"}
+}

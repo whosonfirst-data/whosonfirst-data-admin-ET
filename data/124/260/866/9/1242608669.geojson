@@ -1,0 +1,67 @@
+{
+  "id": 1242608669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81667,9.5,41.81667,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":41.81667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Muma",
+    "gn:country_code":"ET",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330324,
+    "gn:latitude":9.5,
+    "gn:longitude":41.81667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Muma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330324
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"486cdada157b67514f8b95a02a674f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "locality_id":1242608669,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":1242608669,
+    "wof:lastmodified":1537018198,
+    "wof:name":"Muma",
+    "wof:parent_id":421190257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81667,
+    9.5,
+    41.81667,
+    9.5
+],
+  "geometry": {"coordinates":[41.81667,9.5],"type":"Point"}
+}

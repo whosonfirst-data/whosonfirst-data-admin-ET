@@ -1,0 +1,67 @@
+{
+  "id": 1243206831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,8.56667,43.4,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gombor",
+    "gn:country_code":"ET",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336050,
+    "gn:latitude":8.56667,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gombor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336050
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"87a62b0582a972e78ee52a17a08468a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1243206831,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1243206831,
+    "wof:lastmodified":1536654036,
+    "wof:name":"Gombor",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    8.56667,
+    43.4,
+    8.56667
+],
+  "geometry": {"coordinates":[43.4,8.56667],"type":"Point"}
+}

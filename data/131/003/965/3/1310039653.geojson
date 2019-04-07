@@ -1,0 +1,71 @@
+{
+  "id": 1310039653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65,9.66667,40.65,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":40.65,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Duncaga",
+    "gn:country_code":"ET",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338429,
+    "gn:latitude":9.66667,
+    "gn:longitude":40.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Duncaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunkaga",
+        "Duncaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338429
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cd2faf6083323c736d0227bba3bb82f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695247,
+            "locality_id":1310039653,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1310039653,
+    "wof:lastmodified":1537622032,
+    "wof:name":"Duncaga",
+    "wof:parent_id":1108695247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65,
+    9.66667,
+    40.65,
+    9.66667
+],
+  "geometry": {"coordinates":[40.65,9.66667],"type":"Point"}
+}

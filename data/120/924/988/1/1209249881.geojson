@@ -1,0 +1,61 @@
+{
+  "id": 1209249881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48333,9.93333,38.48333,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":38.48333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Giranch'a",
+    "gn:country_code":"ET",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336428,
+    "gn:latitude":9.93333,
+    "gn:longitude":38.48333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Giranch\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336428
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b59ce8809f1fd3c35d89d4f0c85f15a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209249881
+        }
+    ],
+    "wof:id":1209249881,
+    "wof:lastmodified":1536293039,
+    "wof:name":"Giranch'a",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48333,
+    9.93333,
+    38.48333,
+    9.93333
+],
+  "geometry": {"coordinates":[38.48333,9.93333],"type":"Point"}
+}

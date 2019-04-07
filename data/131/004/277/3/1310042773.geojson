@@ -1,0 +1,71 @@
+{
+  "id": 1310042773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96667,8.08333,37.96667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":37.96667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Dak'une",
+    "gn:country_code":"ET",
+    "gn:dem":2265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340178,
+    "gn:latitude":8.08333,
+    "gn:longitude":37.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dak\u2019une",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dacun",
+        "Dak\u2019une"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340178
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6bc0c7591eabdf250417b5a82f6ef593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1310042773,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1310042773,
+    "wof:lastmodified":1537622052,
+    "wof:name":"Dak'une",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96667,
+    8.08333,
+    37.96667,
+    8.08333
+],
+  "geometry": {"coordinates":[37.96667,8.08333],"type":"Point"}
+}

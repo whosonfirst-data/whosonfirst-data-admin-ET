@@ -1,0 +1,67 @@
+{
+  "id": 1344188487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96262,10.11867,39.96262,10.11867",
+    "geom:latitude":10.11867,
+    "geom:longitude":39.96262,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Arefo Libe",
+    "gn:country_code":"ET",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620937,
+    "gn:latitude":10.11867,
+    "gn:longitude":39.96262,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Arefo Libe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620937
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a19f063877f29eeaf67e884da1d87556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695203,
+            "locality_id":1344188487,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1344188487,
+    "wof:lastmodified":1536691079,
+    "wof:name":"Arefo Libe",
+    "wof:parent_id":1108695203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96262,
+    10.11867,
+    39.96262,
+    10.11867
+],
+  "geometry": {"coordinates":[39.96262,10.11867],"type":"Point"}
+}

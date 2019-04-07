@@ -1,0 +1,67 @@
+{
+  "id": 1293234685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8,13.78333,39.8,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":39.8,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Nebrat",
+    "gn:country_code":"ET",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345006,
+    "gn:latitude":13.78333,
+    "gn:longitude":39.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Adi Nebrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345006
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f2a7b816857076857fee7516cf557635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1293234685,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293234685,
+    "wof:lastmodified":1536654599,
+    "wof:name":"Adi Nebrat",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8,
+    13.78333,
+    39.8,
+    13.78333
+],
+  "geometry": {"coordinates":[39.8,13.78333],"type":"Point"}
+}

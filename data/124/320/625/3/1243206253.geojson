@@ -1,0 +1,67 @@
+{
+  "id": 1243206253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74308,13.06418,39.74308,13.06418",
+    "geom:latitude":13.06418,
+    "geom:longitude":39.74308,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi T'u`at",
+    "gn:country_code":"ET",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344903,
+    "gn:latitude":13.06418,
+    "gn:longitude":39.74308,
+    "gn:modification_date":"2008-02-15",
+    "gn:name":"\u0100d\u012b T\u2019u\u2018at",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344903
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cb155da0905e9c2274dd4c1860116646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1243206253,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243206253,
+    "wof:lastmodified":1536654949,
+    "wof:name":"Adi T'u`at",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74308,
+    13.06418,
+    39.74308,
+    13.06418
+],
+  "geometry": {"coordinates":[39.74308,13.06418],"type":"Point"}
+}

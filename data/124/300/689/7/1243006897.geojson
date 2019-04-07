@@ -1,0 +1,67 @@
+{
+  "id": 1243006897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93333,5.16667,35.93333,5.16667",
+    "geom:latitude":5.16667,
+    "geom:longitude":35.93333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bume",
+    "gn:country_code":"ET",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341449,
+    "gn:latitude":5.16667,
+    "gn:longitude":35.93333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341449
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9e024c5a9cee3dee4d4b15f0705ea89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695219,
+            "locality_id":1243006897,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1243006897,
+    "wof:lastmodified":1536942874,
+    "wof:name":"Bume",
+    "wof:parent_id":1108695219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93333,
+    5.16667,
+    35.93333,
+    5.16667
+],
+  "geometry": {"coordinates":[35.93333,5.16667],"type":"Point"}
+}

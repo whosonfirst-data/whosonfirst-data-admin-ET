@@ -1,0 +1,67 @@
+{
+  "id": 1243488215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24383,13.12318,39.24383,13.12318",
+    "geom:latitude":13.12318,
+    "geom:longitude":39.24383,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ts'a`ida Sa`iri",
+    "gn:country_code":"ET",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327361,
+    "gn:latitude":13.12318,
+    "gn:longitude":39.24383,
+    "gn:modification_date":"2008-02-26",
+    "gn:name":"Ts\u2019a\u2018ida Sa\u2018ir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327361
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"684cbdd90f059ef0ec9693a65e514d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1243488215,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1243488215,
+    "wof:lastmodified":1536745015,
+    "wof:name":"Ts'a`ida Sa`iri",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24383,
+    13.12318,
+    39.24383,
+    13.12318
+],
+  "geometry": {"coordinates":[39.24383,13.12318],"type":"Point"}
+}

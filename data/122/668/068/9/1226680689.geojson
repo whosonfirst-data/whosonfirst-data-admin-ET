@@ -1,0 +1,73 @@
+{
+  "id": 1226680689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55,8.45,36.55,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":36.55,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Harota",
+    "gn:country_code":"ET",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334918,
+    "gn:latitude":8.45,
+    "gn:longitude":36.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Harota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciara",
+        "Tchara",
+        "Giara",
+        "Harota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334918
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0d667b3359c97e70bc5310b1b892e914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1226680689,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226680689,
+    "wof:lastmodified":1537621991,
+    "wof:name":"Harota",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55,
+    8.45,
+    36.55,
+    8.45
+],
+  "geometry": {"coordinates":[36.55,8.45],"type":"Point"}
+}

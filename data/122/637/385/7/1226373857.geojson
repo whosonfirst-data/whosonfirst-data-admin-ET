@@ -1,0 +1,70 @@
+{
+  "id": 1226373857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.24256,11.23882,41.24256,11.23882",
+    "geom:latitude":11.23882,
+    "geom:longitude":41.24256,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Cacombili",
+    "gn:country_code":"ET",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341249,
+    "gn:latitude":11.23882,
+    "gn:longitude":41.24256,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cacombili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakombili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341249
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"854ec602efc9f62ed04525f187ece596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1226373857,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1226373857,
+    "wof:lastmodified":1537622064,
+    "wof:name":"Cacombili",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.24256,
+    11.23882,
+    41.24256,
+    11.23882
+],
+  "geometry": {"coordinates":[41.24256,11.23882],"type":"Point"}
+}

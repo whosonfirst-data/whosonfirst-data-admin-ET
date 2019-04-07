@@ -1,0 +1,72 @@
+{
+  "id": 1260014591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85,12.15,38.85,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":38.85,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"`Ayna",
+    "gn:country_code":"ET",
+    "gn:dem":2585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343036,
+    "gn:latitude":12.15,
+    "gn:longitude":38.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ayna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aina Jesus",
+        "Aine-Jesus",
+        "\u2018Ayna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343036
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4612cf3e45c004cc837160e8aea32a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1260014591,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1260014591,
+    "wof:lastmodified":1537622086,
+    "wof:name":"`Ayna",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85,
+    12.15,
+    38.85,
+    12.15
+],
+  "geometry": {"coordinates":[38.85,12.15],"type":"Point"}
+}

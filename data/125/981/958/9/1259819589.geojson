@@ -1,0 +1,68 @@
+{
+  "id": 1259819589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82,8.72472,44.82,8.72472",
+    "geom:latitude":8.72472,
+    "geom:longitude":44.82,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Daba Gorayale",
+    "gn:country_code":"ET",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444995,
+    "gn:latitude":8.72472,
+    "gn:longitude":44.82,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Daba Gorayale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debegoriyale",
+        "Daba Gorayyale",
+        "Daba Gorayale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444995
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"932167a4066a440943890421c0db12ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259819589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259819589,
+    "wof:lastmodified":1537622123,
+    "wof:name":"Daba Gorayale",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82,
+    8.72472,
+    44.82,
+    8.72472
+],
+  "geometry": {"coordinates":[44.82,8.72472],"type":"Point"}
+}

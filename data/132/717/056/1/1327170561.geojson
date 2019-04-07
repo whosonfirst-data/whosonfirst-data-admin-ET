@@ -1,0 +1,67 @@
+{
+  "id": 1327170561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86577,14.46943,37.86577,14.46943",
+    "geom:latitude":14.46943,
+    "geom:longitude":37.86577,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Shimbelina",
+    "gn:country_code":"ET",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328544,
+    "gn:latitude":14.46943,
+    "gn:longitude":37.86577,
+    "gn:modification_date":"2008-03-11",
+    "gn:name":"Sh\u012bmbel\u012bna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328544
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5c1447fde7d1177833f755d4a6faa087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1327170561,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1327170561,
+    "wof:lastmodified":1537056380,
+    "wof:name":"Shimbelina",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86577,
+    14.46943,
+    37.86577,
+    14.46943
+],
+  "geometry": {"coordinates":[37.86577,14.46943],"type":"Point"}
+}

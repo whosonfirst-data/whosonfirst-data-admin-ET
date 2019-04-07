@@ -1,0 +1,70 @@
+{
+  "id": 1326866097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87263,9.91562,39.87263,9.91562",
+    "geom:latitude":9.91562,
+    "geom:longitude":39.87263,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shembeko",
+    "gn:country_code":"ET",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328618,
+    "gn:latitude":9.91562,
+    "gn:longitude":39.87263,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Shembeko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shembeko Ber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328618
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0296b4b368858a234bfdb39d6dc2c773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1326866097,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326866097,
+    "wof:lastmodified":1537621918,
+    "wof:name":"Shembeko",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87263,
+    9.91562,
+    39.87263,
+    9.91562
+],
+  "geometry": {"coordinates":[39.87263,9.91562],"type":"Point"}
+}

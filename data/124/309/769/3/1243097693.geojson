@@ -1,0 +1,67 @@
+{
+  "id": 1243097693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33467,9.936,39.33467,9.936",
+    "geom:latitude":9.936,
+    "geom:longitude":39.33467,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Gan",
+    "gn:country_code":"ET",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621160,
+    "gn:latitude":9.936,
+    "gn:longitude":39.33467,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Gan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621160
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1610896056911386f627c8a52629117d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1243097693,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243097693,
+    "wof:lastmodified":1536810868,
+    "wof:name":"Gan",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33467,
+    9.936,
+    39.33467,
+    9.936
+],
+  "geometry": {"coordinates":[39.33467,9.936],"type":"Point"}
+}

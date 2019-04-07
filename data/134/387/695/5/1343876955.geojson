@@ -1,0 +1,67 @@
+{
+  "id": 1343876955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80909,8.99754,38.80909,8.99754",
+    "geom:latitude":8.99754,
+    "geom:longitude":38.80909,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Goro",
+    "gn:country_code":"ET",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611135,
+    "gn:latitude":8.99754,
+    "gn:longitude":38.80909,
+    "gn:modification_date":"2017-07-20",
+    "gn:name":"Goro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149,
+        1108695113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611135
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b56167eafe6a72211525e5c2cba33088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695113,
+            "locality_id":1343876955,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1343876955,
+    "wof:lastmodified":1536642015,
+    "wof:name":"Goro",
+    "wof:parent_id":1108695113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80909000000001,
+    8.99754,
+    38.80909000000001,
+    8.99754
+],
+  "geometry": {"coordinates":[38.80909000000001,8.99754],"type":"Point"}
+}

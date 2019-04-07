@@ -1,0 +1,67 @@
+{
+  "id": 1310535879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55,9.66667,38.55,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":38.55,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Goro Sora",
+    "gn:country_code":"ET",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335873,
+    "gn:latitude":9.66667,
+    "gn:longitude":38.55,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Goro Sora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335873
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7da17c85d62264700ca71037b07dc107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1310535879,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310535879,
+    "wof:lastmodified":1536872065,
+    "wof:name":"Goro Sora",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55,
+    9.66667,
+    38.55,
+    9.66667
+],
+  "geometry": {"coordinates":[38.55,9.66667],"type":"Point"}
+}

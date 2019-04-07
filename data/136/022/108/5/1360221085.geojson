@@ -1,0 +1,71 @@
+{
+  "id": 1360221085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48518,14.24033,38.48518,14.24033",
+    "geom:latitude":14.24033,
+    "geom:longitude":38.48518,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Altiho",
+    "gn:country_code":"ET",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6740301,
+    "gn:latitude":14.24033,
+    "gn:longitude":38.48518,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Altiho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altikho",
+        "Altiho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6740301
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6d1d99194b0979c962d2cd594ed0a483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1360221085,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1360221085,
+    "wof:lastmodified":1537622126,
+    "wof:name":"Altiho",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48518,
+    14.24033,
+    38.48518,
+    14.24033
+],
+  "geometry": {"coordinates":[38.48518,14.24033],"type":"Point"}
+}

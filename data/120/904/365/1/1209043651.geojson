@@ -1,0 +1,65 @@
+{
+  "id": 1209043651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45,12.53333,39.45,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":39.45,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Washo",
+    "gn:country_code":"ET",
+    "gn:dem":2771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344887,
+    "gn:latitude":12.53333,
+    "gn:longitude":39.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Washo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012b Washo (2)",
+        "\u0100d\u012b Washo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344887
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6c2a06ee72d5333d8936905f2717cd50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209043651
+        }
+    ],
+    "wof:id":1209043651,
+    "wof:lastmodified":1537622106,
+    "wof:name":"Adi Washo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45,
+    12.53333,
+    39.45,
+    12.53333
+],
+  "geometry": {"coordinates":[39.45,12.53333],"type":"Point"}
+}

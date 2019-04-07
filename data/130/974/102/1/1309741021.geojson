@@ -1,0 +1,67 @@
+{
+  "id": 1309741021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90944,5.04222,44.90944,5.04222",
+    "geom:latitude":5.04222,
+    "geom:longitude":44.90944,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bukkurale",
+    "gn:country_code":"ET",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311150,
+    "gn:latitude":5.04222,
+    "gn:longitude":44.90944,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Bukkurale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311150
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e0a580104829cfc321aee2b0b95fa5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1309741021,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1309741021,
+    "wof:lastmodified":1537023542,
+    "wof:name":"Bukkurale",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90944,
+    5.04222,
+    44.90944,
+    5.04222
+],
+  "geometry": {"coordinates":[44.90944,5.04222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360119575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31667,8.56667,39.31667,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":39.31667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Solok'e",
+    "gn:country_code":"ET",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328200,
+    "gn:latitude":8.56667,
+    "gn:longitude":39.31667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Solok\u2019\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328200
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2910314aee74d6e657f5c4be88b8be57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1360119575,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1360119575,
+    "wof:lastmodified":1536895681,
+    "wof:name":"Solok'e",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31667,
+    8.56667,
+    39.31667,
+    8.56667
+],
+  "geometry": {"coordinates":[39.31667,8.56667],"type":"Point"}
+}

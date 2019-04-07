@@ -1,0 +1,67 @@
+{
+  "id": 1327270265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.64319,14.03776,39.64319,14.03776",
+    "geom:latitude":14.03776,
+    "geom:longitude":39.64319,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Abna'o",
+    "gn:country_code":"ET",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345720,
+    "gn:latitude":14.03776,
+    "gn:longitude":39.64319,
+    "gn:modification_date":"2008-03-13",
+    "gn:name":"\u0100bna\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345720
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"62df90a1638e258455cc71dc14ff88a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1327270265,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1327270265,
+    "wof:lastmodified":1536915375,
+    "wof:name":"Abna'o",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64319,
+    14.03776,
+    39.64319,
+    14.03776
+],
+  "geometry": {"coordinates":[39.64319,14.03776],"type":"Point"}
+}

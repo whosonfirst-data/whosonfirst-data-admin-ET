@@ -1,0 +1,71 @@
+{
+  "id": 1293235619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,9.53333,38.73333,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":38.73333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gumbichu",
+    "gn:country_code":"ET",
+    "gn:dem":2454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335602,
+    "gn:latitude":9.53333,
+    "gn:longitude":38.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gumb\u012bchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aghembicciu",
+        "Gumb\u012bchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335602
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"622f49c24741202218853543e2688f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1293235619,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293235619,
+    "wof:lastmodified":1537622001,
+    "wof:name":"Gumbichu",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    9.53333,
+    38.73333,
+    9.53333
+],
+  "geometry": {"coordinates":[38.73333,9.53333],"type":"Point"}
+}

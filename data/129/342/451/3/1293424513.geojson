@@ -1,0 +1,67 @@
+{
+  "id": 1293424513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83333,4.96667,40.83333,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":40.83333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bagaga",
+    "gn:country_code":"ET",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342906,
+    "gn:latitude":4.96667,
+    "gn:longitude":40.83333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bagaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342906
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8f61cc90a683412eec6c47735112b7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1293424513,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293424513,
+    "wof:lastmodified":1536876989,
+    "wof:name":"Bagaga",
+    "wof:parent_id":1108695187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83333,
+    4.96667,
+    40.83333,
+    4.96667
+],
+  "geometry": {"coordinates":[40.83333,4.96667],"type":"Point"}
+}

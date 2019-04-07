@@ -1,0 +1,73 @@
+{
+  "id": 1260323599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75478,13.35531,39.75478,13.35531",
+    "geom:latitude":13.35531,
+    "geom:longitude":39.75478,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Shehet",
+    "gn:country_code":"ET",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328649,
+    "gn:latitude":13.35531,
+    "gn:longitude":39.75478,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sheh\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Secchet",
+        "Sechet",
+        "Shiket",
+        "Sheh\u0113t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328649
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"642dc6ca25aa13184f29666cd890a35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1260323599,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1260323599,
+    "wof:lastmodified":1537621919,
+    "wof:name":"Shehet",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75478,
+    13.35531,
+    39.75478,
+    13.35531
+],
+  "geometry": {"coordinates":[39.75478,13.35531],"type":"Point"}
+}

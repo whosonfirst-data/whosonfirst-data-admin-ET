@@ -1,0 +1,61 @@
+{
+  "id": 1209649009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,12.61667,39.65,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ch'emero",
+    "gn:country_code":"ET",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340905,
+    "gn:latitude":12.61667,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ch\u2019emero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340905
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9d559015beaf0649783a3dcd22ecdf32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209649009
+        }
+    ],
+    "wof:id":1209649009,
+    "wof:lastmodified":1536280641,
+    "wof:name":"Ch'emero",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    12.61667,
+    39.65,
+    12.61667
+],
+  "geometry": {"coordinates":[39.65,12.61667],"type":"Point"}
+}

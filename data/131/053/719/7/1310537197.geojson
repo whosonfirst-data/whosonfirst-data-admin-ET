@@ -1,0 +1,73 @@
+{
+  "id": 1310537197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.66944,9.36361,42.66944,9.36361",
+    "geom:latitude":9.36361,
+    "geom:longitude":42.66944,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Hadew",
+    "gn:country_code":"ET",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335316,
+    "gn:latitude":9.36361,
+    "gn:longitude":42.66944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hadew",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadow",
+        "Hado",
+        "Khado",
+        "Hadew"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335316
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2de135bfb358809fb6fd7a90f3809c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1310537197,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310537197,
+    "wof:lastmodified":1537621997,
+    "wof:name":"Hadew",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.66944,
+    9.36361,
+    42.66944,
+    9.36361
+],
+  "geometry": {"coordinates":[42.66944,9.36361],"type":"Point"}
+}

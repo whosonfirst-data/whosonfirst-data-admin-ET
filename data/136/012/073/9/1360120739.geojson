@@ -1,0 +1,71 @@
+{
+  "id": 1360120739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.36142,11.431,41.36142,11.431",
+    "geom:latitude":11.431,
+    "geom:longitude":41.36142,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Goma`itu",
+    "gn:country_code":"ET",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336064,
+    "gn:latitude":11.431,
+    "gn:longitude":41.36142,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Goma\u2018itu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goma\u2018itu",
+        "Gomaitu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336064
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"78400184d1f72aa6d29d9886fdd54ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1360120739,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1360120739,
+    "wof:lastmodified":1537622005,
+    "wof:name":"Goma`itu",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.36142,
+    11.431,
+    41.36142,
+    11.431
+],
+  "geometry": {"coordinates":[41.36142,11.431],"type":"Point"}
+}

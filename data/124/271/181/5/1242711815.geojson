@@ -1,0 +1,67 @@
+{
+  "id": 1242711815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34537,10.99668,39.34537,10.99668",
+    "geom:latitude":10.99668,
+    "geom:longitude":39.34537,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sada",
+    "gn:country_code":"ET",
+    "gn:dem":3187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329462,
+    "gn:latitude":10.99668,
+    "gn:longitude":39.34537,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Sada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329462
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b150df6b63e54118cb1d9b051d4da2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1242711815,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1242711815,
+    "wof:lastmodified":1536869337,
+    "wof:name":"Sada",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34537,
+    10.99668,
+    39.34537,
+    10.99668
+],
+  "geometry": {"coordinates":[39.34537,10.99668],"type":"Point"}
+}

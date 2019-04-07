@@ -1,0 +1,73 @@
+{
+  "id": 1259717469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,11.38333,37.08333,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Debre Ts'ehay",
+    "gn:country_code":"ET",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339684,
+    "gn:latitude":11.38333,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Debre Ts\u2019eh\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Devratai",
+        "Debec\u00e0m",
+        "Debrakoni",
+        "Debre Ts\u2019eh\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339684
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8b3d6bb48b55ca5a36661b8ac50fc481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1259717469,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259717469,
+    "wof:lastmodified":1537622046,
+    "wof:name":"Debre Ts'ehay",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    11.38333,
+    37.08333,
+    11.38333
+],
+  "geometry": {"coordinates":[37.08333,11.38333],"type":"Point"}
+}

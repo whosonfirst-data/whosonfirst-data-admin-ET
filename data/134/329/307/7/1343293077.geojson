@@ -1,0 +1,68 @@
+{
+  "id": 1343293077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65,7.06667,35.65,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":35.65,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Sheko",
+    "gn:country_code":"ET",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328630,
+    "gn:latitude":7.06667,
+    "gn:longitude":35.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sheko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328630,
+        "wk:page":"Sheko_%28woreda%29"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9de304a7c6db740e115ada0b7e882ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1343293077,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343293077,
+    "wof:lastmodified":1537562751,
+    "wof:name":"Sheko",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65,
+    7.06667,
+    35.65,
+    7.06667
+],
+  "geometry": {"coordinates":[35.65,7.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309748615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38333,8.16667,35.38333,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":35.38333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Uka",
+    "gn:country_code":"ET",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326943,
+    "gn:latitude":8.16667,
+    "gn:longitude":35.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Uka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326943
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b32ec55e3d9ec9ab15bd1bf1d30b4fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1309748615,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309748615,
+    "wof:lastmodified":1537012807,
+    "wof:name":"Uka",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38333,
+    8.16667,
+    35.38333,
+    8.16667
+],
+  "geometry": {"coordinates":[35.38333,8.16667],"type":"Point"}
+}

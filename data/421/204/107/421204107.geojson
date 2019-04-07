@@ -1,0 +1,134 @@
+{
+  "id": 421204107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.110856,
+    "geom:area_square_m":1362867124.586391,
+    "geom:bbox":"38.083859,5.843603,38.442562,6.425851",
+    "geom:latitude":6.147834,
+    "geom:longitude":38.276621,
+    "iso:country":"ET",
+    "lbl:latitude":6.144708,
+    "lbl:longitude":38.273904,
+    "meso:admin_1":"SNNPR",
+    "meso:gadm_admin":"Gedeo",
+    "meso:gaul_admin":"Gedio",
+    "meso:hasc_id":"ET.SN.GD",
+    "meso:mps_x":38.273904,
+    "meso:mps_y":6.144708,
+    "meso:name_local":"Gedeo",
+    "meso:source":"USAID",
+    "mps:latitude":6.144708,
+    "mps:longitude":38.273904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u84cb\u5fb7\u5967\u5730\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "Gedeo"
+    ],
+    "name:eng_x_preferred":[
+        "Gedeo"
+    ],
+    "name:eng_x_variant":[
+        "Gedio",
+        "Gedeo",
+        "Gedeo Zone"
+    ],
+    "name:fra_x_preferred":[
+        "Gedeo"
+    ],
+    "name:fre_x_preferred":[
+        "Gedeo"
+    ],
+    "name:ger_x_preferred":[
+        "Gedeo-Zone"
+    ],
+    "name:swe_x_preferred":[
+        "Gedeo Zone"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gedeo",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":229,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238118,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017414,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-07-01",
+    "statoids:area_km":"1329",
+    "statoids:as_of_date":"2008-07-01",
+    "statoids:capital":"",
+    "statoids:country":"ET",
+    "statoids:hasc":"ET.SN",
+    "statoids:name":"Gedeo",
+    "statoids:population":"869519",
+    "statoids:statoid":"ET.SN.GD",
+    "statoids:timezone":"3",
+    "statoids:type":"zone",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017414,
+        "hasc:id":"ET.SN.GD",
+        "qs:id":238118,
+        "wd:id":"Q500213"
+    },
+    "wof:country":"ET",
+    "wof:created":1459010174,
+    "wof:geomhash":"57e1e19b2497c24b482ef7fa5d5cfbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204107,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421204107,
+    "wof:lastmodified":1536616163,
+    "wof:name":"Gedeo",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:placetype_local":"zone",
+    "wof:population":869519,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"GD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.083859,
+    5.843603,
+    38.442562,
+    6.425851
+],
+  "geometry": {"coordinates":[[[38.300663,6.423081],[38.314968,6.425279],[38.329403,6.421333],[38.357861,6.425851],[38.371384,6.424205],[38.404362,6.412393],[38.408695,6.406867],[38.410709,6.393995],[38.409996,6.387104],[38.402386,6.375179],[38.416809,6.369394],[38.42461,6.370981],[38.42942,6.370318],[38.426903,6.361047],[38.425056,6.354252],[38.428512,6.310877],[38.431042,6.304451],[38.428978,6.294353],[38.436569,6.269798],[38.442562,6.221147],[38.438431,6.203015],[38.398228,6.186703],[38.380772,6.169251],[38.367687,6.144913],[38.366093,6.124485],[38.358696,6.108264],[38.355309,6.100836],[38.34103,6.079765],[38.323868,6.052379],[38.319981,6.034013],[38.283237,6.011253],[38.27499,5.989666],[38.286262,5.975674],[38.299584,5.978902],[38.307388,5.985338],[38.324856,5.979387],[38.331539,5.960341],[38.343712,5.960582],[38.359799,5.953942],[38.377262,5.949138],[38.3922,5.938364],[38.400486,5.924371],[38.38488,5.908979],[38.362144,5.90712],[38.329334,5.873802],[38.307751,5.866432],[38.294197,5.868482],[38.274437,5.873508],[38.257221,5.862697],[38.243225,5.849364],[38.227383,5.843603],[38.21199,5.845189],[38.202332,5.85344],[38.202446,5.855445],[38.203228,5.869053],[38.212856,5.883989],[38.218811,5.898231],[38.215794,5.921645],[38.20773,5.940001],[38.184975,5.946631],[38.174152,5.962],[38.163318,5.989997],[38.154335,6.005369],[38.14283,6.015227],[38.125588,6.021635],[38.120487,6.055153],[38.108974,6.070982],[38.100281,6.091324],[38.096065,6.101277],[38.083859,6.121929],[38.090244,6.165335],[38.104938,6.183032],[38.120583,6.171338],[38.128639,6.159406],[38.144962,6.158735],[38.161968,6.163803],[38.174606,6.171162],[38.191143,6.18656],[38.201923,6.211365],[38.197311,6.231105],[38.183044,6.243262],[38.175907,6.260246],[38.177734,6.271727],[38.185768,6.289182],[38.192421,6.309161],[38.201382,6.323631],[38.208984,6.328738],[38.217468,6.334432],[38.234939,6.33536],[38.253563,6.34065],[38.276089,6.352139],[38.291027,6.361787],[38.29723,6.37694],[38.29676,6.400813],[38.300663,6.423081]]],"type":"Polygon"}
+}

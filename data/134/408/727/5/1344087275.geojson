@@ -1,0 +1,67 @@
+{
+  "id": 1344087275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.58333,10.25,41.58333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":41.58333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Hassandera Kebir",
+    "gn:country_code":"ET",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334876,
+    "gn:latitude":10.25,
+    "gn:longitude":41.58333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Hassandera Kebir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334876
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ac997e6d46319a818b771ac572b79a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1344087275,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1344087275,
+    "wof:lastmodified":1536835984,
+    "wof:name":"Hassandera Kebir",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.58333,
+    10.25,
+    41.58333,
+    10.25
+],
+  "geometry": {"coordinates":[41.58333,10.25],"type":"Point"}
+}

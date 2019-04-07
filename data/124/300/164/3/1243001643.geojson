@@ -1,0 +1,71 @@
+{
+  "id": 1243001643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83581,9.29337,40.83581,9.29337",
+    "geom:latitude":9.29337,
+    "geom:longitude":40.83581,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mulu",
+    "gn:country_code":"ET",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330331,
+    "gn:latitude":9.29337,
+    "gn:longitude":40.83581,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Mulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mullu",
+        "Mulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330331
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8a66bf2a9ac99e0b397168a3261e7ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1243001643,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243001643,
+    "wof:lastmodified":1537621936,
+    "wof:name":"Mulu",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83581,
+    9.29337,
+    40.83581,
+    9.29337
+],
+  "geometry": {"coordinates":[40.83581,9.29337],"type":"Point"}
+}

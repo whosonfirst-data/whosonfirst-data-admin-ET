@@ -1,0 +1,67 @@
+{
+  "id": 1193171221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15,8.88333,39.15,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":39.15,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Tulu Dimtu",
+    "gn:country_code":"ET",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327228,
+    "gn:latitude":8.88333,
+    "gn:longitude":39.15,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Tulu D\u012bmtu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327228
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"54dc6e3d622d739912f5d528c9a1d695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1193171221,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1193171221,
+    "wof:lastmodified":1536380260,
+    "wof:name":"Tulu Dimtu",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15,
+    8.88333,
+    39.15,
+    8.88333
+],
+  "geometry": {"coordinates":[39.15,8.88333],"type":"Point"}
+}

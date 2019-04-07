@@ -1,0 +1,71 @@
+{
+  "id": 1327468903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.84568,8.28287,41.84568,8.28287",
+    "geom:latitude":8.28287,
+    "geom:longitude":41.84568,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Duncata",
+    "gn:country_code":"ET",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338427,
+    "gn:latitude":8.28287,
+    "gn:longitude":41.84568,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Duncata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dungata",
+        "Duncata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338427
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7acfd17bbf7de4dc5beaa5ccefa65bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327468903,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327468903,
+    "wof:lastmodified":1537622032,
+    "wof:name":"Duncata",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.84568,
+    8.28287,
+    41.84568,
+    8.28287
+],
+  "geometry": {"coordinates":[41.84568,8.28287],"type":"Point"}
+}

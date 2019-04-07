@@ -1,0 +1,67 @@
+{
+  "id": 1226173517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88333,8.1,40.88333,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":40.88333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gedera",
+    "gn:country_code":"ET",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337102,
+    "gn:latitude":8.1,
+    "gn:longitude":40.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gedera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337102
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dbdd944b46b82026ff7a014c2a185b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1226173517,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226173517,
+    "wof:lastmodified":1537036156,
+    "wof:name":"Gedera",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88333,
+    8.1,
+    40.88333,
+    8.1
+],
+  "geometry": {"coordinates":[40.88333,8.1],"type":"Point"}
+}

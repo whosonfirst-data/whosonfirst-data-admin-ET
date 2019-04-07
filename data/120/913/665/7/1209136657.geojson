@@ -1,0 +1,61 @@
+{
+  "id": 1209136657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1355,9.60827,39.1355,9.60827",
+    "geom:latitude":9.60827,
+    "geom:longitude":39.1355,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Robe",
+    "gn:country_code":"ET",
+    "gn:dem":2613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329605,
+    "gn:latitude":9.60827,
+    "gn:longitude":39.1355,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Rob\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329605
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9d0dd4d0d677f216b16ade2c05b191d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209136657
+        }
+    ],
+    "wof:id":1209136657,
+    "wof:lastmodified":1536296638,
+    "wof:name":"Robe",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1355,
+    9.60827,
+    39.1355,
+    9.60827
+],
+  "geometry": {"coordinates":[39.1355,9.60827],"type":"Point"}
+}

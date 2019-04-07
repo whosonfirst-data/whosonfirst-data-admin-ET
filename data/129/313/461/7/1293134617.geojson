@@ -1,0 +1,67 @@
+{
+  "id": 1293134617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76667,10.26667,42.76667,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":42.76667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"El Boldo",
+    "gn:country_code":"ET",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338213,
+    "gn:latitude":10.26667,
+    "gn:longitude":42.76667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"El Boldo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338213
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eea898ce0f5122467e56b6bfab1ed0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1293134617,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293134617,
+    "wof:lastmodified":1536798944,
+    "wof:name":"El Boldo",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76667,
+    10.26667,
+    42.76667,
+    10.26667
+],
+  "geometry": {"coordinates":[42.76667,10.26667],"type":"Point"}
+}

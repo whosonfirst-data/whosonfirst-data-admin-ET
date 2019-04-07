@@ -1,0 +1,67 @@
+{
+  "id": 1242788249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45,13.4,39.45,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":39.45,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Atsbi Wonberta",
+    "gn:country_code":"ET",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335165,
+    "gn:latitude":13.4,
+    "gn:longitude":39.45,
+    "gn:modification_date":"2012-06-19",
+    "gn:name":"Atsbi Wonberta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335165
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aa474fa0b9453dafc565dc3c174384e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1242788249,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1242788249,
+    "wof:lastmodified":1536760343,
+    "wof:name":"Atsbi Wonberta",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45,
+    13.4,
+    39.45,
+    13.4
+],
+  "geometry": {"coordinates":[39.45,13.4],"type":"Point"}
+}

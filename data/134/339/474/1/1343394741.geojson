@@ -1,0 +1,67 @@
+{
+  "id": 1343394741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,7.73333,44.43333,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Harardighet",
+    "gn:country_code":"ET",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335075,
+    "gn:latitude":7.73333,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Harardighet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335075
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ff99f378235cc183c2dadd6a5f6c8d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1343394741,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343394741,
+    "wof:lastmodified":1536840068,
+    "wof:name":"Harardighet",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    7.73333,
+    44.43333,
+    7.73333
+],
+  "geometry": {"coordinates":[44.43333,7.73333],"type":"Point"}
+}

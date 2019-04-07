@@ -1,0 +1,67 @@
+{
+  "id": 1360195103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,9.75,35.83333,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Gida Kiremu",
+    "gn:country_code":"ET",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643790,
+    "gn:latitude":9.75,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Gida Kiremu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643790
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6190720e1f640dd470165ccd1bd4f57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695179,
+            "locality_id":1360195103,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1360195103,
+    "wof:lastmodified":1536787320,
+    "wof:name":"Gida Kiremu",
+    "wof:parent_id":1108695179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    9.75,
+    35.83333,
+    9.75
+],
+  "geometry": {"coordinates":[35.83333,9.75],"type":"Point"}
+}

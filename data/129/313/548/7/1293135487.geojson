@@ -1,0 +1,67 @@
+{
+  "id": 1293135487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73333,7.23333,37.73333,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":37.73333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Mino",
+    "gn:country_code":"ET",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330614,
+    "gn:latitude":7.23333,
+    "gn:longitude":37.73333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"M\u012bno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330614
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e004fa24f5c12697c53a566f2e4b1c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695175,
+            "locality_id":1293135487,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1293135487,
+    "wof:lastmodified":1536797699,
+    "wof:name":"Mino",
+    "wof:parent_id":1108695175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73333,
+    7.23333,
+    37.73333,
+    7.23333
+],
+  "geometry": {"coordinates":[37.73333,7.23333],"type":"Point"}
+}

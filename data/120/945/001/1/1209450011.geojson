@@ -1,0 +1,66 @@
+{
+  "id": 1209450011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95791,8.24867,33.95791,8.24867",
+    "geom:latitude":8.24867,
+    "geom:longitude":33.95791,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Teylut",
+    "gn:country_code":"ET",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327623,
+    "gn:latitude":8.24867,
+    "gn:longitude":33.95791,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Teylut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telut",
+        "Tela Galu",
+        "Tetut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327623
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"825f23c4e0ab569ebd3e4423f8255770",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209450011
+        }
+    ],
+    "wof:id":1209450011,
+    "wof:lastmodified":1537621908,
+    "wof:name":"Teylut",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95791,
+    8.24867,
+    33.95791,
+    8.24867
+],
+  "geometry": {"coordinates":[33.95791,8.24867],"type":"Point"}
+}

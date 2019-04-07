@@ -1,0 +1,67 @@
+{
+  "id": 1243297385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.25891,12.91824,41.25891,12.91824",
+    "geom:latitude":12.91824,
+    "geom:longitude":41.25891,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Adbidora",
+    "gn:country_code":"ET",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345460,
+    "gn:latitude":12.91824,
+    "gn:longitude":41.25891,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Adbidora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345460
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ef5b911b3fbbb4fb05c230f099b65817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1243297385,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1243297385,
+    "wof:lastmodified":1537019571,
+    "wof:name":"Adbidora",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.25891,
+    12.91824,
+    41.25891,
+    12.91824
+],
+  "geometry": {"coordinates":[41.25891,12.91824],"type":"Point"}
+}

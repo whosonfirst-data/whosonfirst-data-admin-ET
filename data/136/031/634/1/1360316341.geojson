@@ -1,0 +1,67 @@
+{
+  "id": 1360316341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03333,7.35,35.03333,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":35.03333,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Dodi",
+    "gn:country_code":"ET",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338729,
+    "gn:latitude":7.35,
+    "gn:longitude":35.03333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        1108695169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338729
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"df30555067e791dd2706aa78bb63eb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695169,
+            "locality_id":1360316341,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1360316341,
+    "wof:lastmodified":1536609398,
+    "wof:name":"Dodi",
+    "wof:parent_id":1108695169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03333,
+    7.35,
+    35.03333,
+    7.35
+],
+  "geometry": {"coordinates":[35.03333,7.35],"type":"Point"}
+}

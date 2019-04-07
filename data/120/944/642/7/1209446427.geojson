@@ -1,0 +1,61 @@
+{
+  "id": 1209446427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09791,8.06426,41.09791,8.06426",
+    "geom:latitude":8.06426,
+    "geom:longitude":41.09791,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kutara",
+    "gn:country_code":"ET",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332391,
+    "gn:latitude":8.06426,
+    "gn:longitude":41.09791,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kutara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332391
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bf7b80a07cce407ee02f8684aa266c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209446427
+        }
+    ],
+    "wof:id":1209446427,
+    "wof:lastmodified":1536286804,
+    "wof:name":"Kutara",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09791,
+    8.06426,
+    41.09791,
+    8.06426
+],
+  "geometry": {"coordinates":[41.09791,8.06426],"type":"Point"}
+}

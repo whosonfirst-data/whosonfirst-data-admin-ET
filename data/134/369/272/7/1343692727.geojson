@@ -1,0 +1,71 @@
+{
+  "id": 1343692727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,10.13333,36.83333,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":36.83333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ducon",
+    "gn:country_code":"ET",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338544,
+    "gn:latitude":10.13333,
+    "gn:longitude":36.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ducon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dukon",
+        "Ducon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338544
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"412284a1b0cf3f8309675833a722f480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1343692727,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343692727,
+    "wof:lastmodified":1537622033,
+    "wof:name":"Ducon",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    10.13333,
+    36.83333,
+    10.13333
+],
+  "geometry": {"coordinates":[36.83333,10.13333],"type":"Point"}
+}

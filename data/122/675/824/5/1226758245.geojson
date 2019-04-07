@@ -1,0 +1,67 @@
+{
+  "id": 1226758245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,7.75,37.08333,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kersa",
+    "gn:country_code":"ET",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643773,
+    "gn:latitude":7.75,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Kersa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643773
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4f6a4a4ba9fdce2466c1a27a1b5cebdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1226758245,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226758245,
+    "wof:lastmodified":1536697697,
+    "wof:name":"Kersa",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    7.75,
+    37.08333,
+    7.75
+],
+  "geometry": {"coordinates":[37.08333,7.75],"type":"Point"}
+}

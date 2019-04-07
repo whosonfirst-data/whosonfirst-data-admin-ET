@@ -1,0 +1,61 @@
+{
+  "id": 1209040759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43333,9.2,36.43333,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":36.43333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dengale Gonke",
+    "gn:country_code":"ET",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339379,
+    "gn:latitude":9.2,
+    "gn:longitude":36.43333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dengal\u0113 Gonk\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339379
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e2e222410e1b9f3e3a4e56444bd948d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040759
+        }
+    ],
+    "wof:id":1209040759,
+    "wof:lastmodified":1536299554,
+    "wof:name":"Dengale Gonke",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43333,
+    9.2,
+    36.43333,
+    9.2
+],
+  "geometry": {"coordinates":[36.43333,9.2],"type":"Point"}
+}

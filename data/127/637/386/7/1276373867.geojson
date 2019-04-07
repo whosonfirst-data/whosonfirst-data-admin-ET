@@ -1,0 +1,67 @@
+{
+  "id": 1276373867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.95195,10.36289,39.95195,10.36289",
+    "geom:latitude":10.36289,
+    "geom:longitude":39.95195,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Arba Wayu",
+    "gn:country_code":"ET",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8620913,
+    "gn:latitude":10.36289,
+    "gn:longitude":39.95195,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Arba Wayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8620913
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7138e0f974bfc23f5e733e00ddbaa2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695203,
+            "locality_id":1276373867,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276373867,
+    "wof:lastmodified":1536724507,
+    "wof:name":"Arba Wayu",
+    "wof:parent_id":1108695203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.95195,
+    10.36289,
+    39.95195,
+    10.36289
+],
+  "geometry": {"coordinates":[39.95195,10.36289],"type":"Point"}
+}

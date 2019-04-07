@@ -1,0 +1,67 @@
+{
+  "id": 1276796359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,8.25,39.43333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Galata",
+    "gn:country_code":"ET",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337463,
+    "gn:latitude":8.25,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Galata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337463
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6af9d3e51b24eb7d8a7bf1efd53e9a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1276796359,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276796359,
+    "wof:lastmodified":1536655606,
+    "wof:name":"Galata",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    8.25,
+    39.43333,
+    8.25
+],
+  "geometry": {"coordinates":[39.43333,8.25],"type":"Point"}
+}

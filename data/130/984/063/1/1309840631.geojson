@@ -1,0 +1,75 @@
+{
+  "id": 1309840631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,8.13333,39.23333,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Iteya",
+    "gn:country_code":"ET",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334043,
+    "gn:latitude":8.13333,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u012ateya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eteya",
+        "\u012ataya",
+        "Etaya",
+        "Itiya",
+        "\u012ateya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334043,
+        "wk:page":"Iteya"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a736b2839bb71445a1c361479392d89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1309840631,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309840631,
+    "wof:lastmodified":1537621979,
+    "wof:name":"Iteya",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    8.13333,
+    39.23333,
+    8.13333
+],
+  "geometry": {"coordinates":[39.23333,8.13333],"type":"Point"}
+}

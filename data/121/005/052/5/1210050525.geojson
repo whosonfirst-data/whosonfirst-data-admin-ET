@@ -1,0 +1,67 @@
+{
+  "id": 1210050525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38333,9.13333,38.38333,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":38.38333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lemen Ch'ito",
+    "gn:country_code":"ET",
+    "gn:dem":2651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332105,
+    "gn:latitude":9.13333,
+    "gn:longitude":38.38333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"L\u0113men Ch\u2019\u012bto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332105
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"01e0be6a04e8dd4161e0f476b70ed3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1210050525,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1210050525,
+    "wof:lastmodified":1536374152,
+    "wof:name":"Lemen Ch'ito",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38333,
+    9.13333,
+    38.38333,
+    9.13333
+],
+  "geometry": {"coordinates":[38.38333,9.13333],"type":"Point"}
+}

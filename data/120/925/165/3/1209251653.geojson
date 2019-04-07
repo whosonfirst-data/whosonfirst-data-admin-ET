@@ -1,0 +1,61 @@
+{
+  "id": 1209251653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41667,7.3,39.41667,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":39.41667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lanchiccia",
+    "gn:country_code":"ET",
+    "gn:dem":2572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332268,
+    "gn:latitude":7.3,
+    "gn:longitude":39.41667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Lanchiccia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332268
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8d1cc127938bc840cc8dabf136cfd982",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209251653
+        }
+    ],
+    "wof:id":1209251653,
+    "wof:lastmodified":1536292985,
+    "wof:name":"Lanchiccia",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41667,
+    7.3,
+    39.41667,
+    7.3
+],
+  "geometry": {"coordinates":[39.41667,7.3],"type":"Point"}
+}

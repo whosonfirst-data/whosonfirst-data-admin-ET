@@ -1,0 +1,71 @@
+{
+  "id": 1309834711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41667,13.71667,40.41667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":40.41667,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Aufeitale",
+    "gn:country_code":"ET",
+    "gn:dem":-88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343166,
+    "gn:latitude":13.71667,
+    "gn:longitude":40.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aufeitale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anfeitale",
+        "Aufeitale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343166
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76c4cb2b18b69e075fe4bdf621ff1be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1309834711,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1309834711,
+    "wof:lastmodified":1537622088,
+    "wof:name":"Aufeitale",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41667,
+    13.71667,
+    40.41667,
+    13.71667
+],
+  "geometry": {"coordinates":[40.41667,13.71667],"type":"Point"}
+}

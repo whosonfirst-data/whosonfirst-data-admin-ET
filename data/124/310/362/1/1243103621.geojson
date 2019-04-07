@@ -1,0 +1,73 @@
+{
+  "id": 1243103621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65,10.55,38.65,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":38.65,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gelebe",
+    "gn:country_code":"ET",
+    "gn:dem":2414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337021,
+    "gn:latitude":10.55,
+    "gn:longitude":38.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Geleb\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uogiddi",
+        "Uogghidi",
+        "Uoghidi",
+        "Geleb\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337021
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ba61375d3960a9b14ae48ae5332268c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1243103621,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243103621,
+    "wof:lastmodified":1537622017,
+    "wof:name":"Gelebe",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65,
+    10.55,
+    38.65,
+    10.55
+],
+  "geometry": {"coordinates":[38.65,10.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360121179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22664,10.40395,39.22664,10.40395",
+    "geom:latitude":10.40395,
+    "geom:longitude":39.22664,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"T'at'iti",
+    "gn:country_code":"ET",
+    "gn:dem":2608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327888,
+    "gn:latitude":10.40395,
+    "gn:longitude":39.22664,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"T\u2019at\u2019it\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327888
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6a0f1a11966221017d267fbf262f231c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1360121179,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1360121179,
+    "wof:lastmodified":1536893213,
+    "wof:name":"T'at'iti",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22664,
+    10.40395,
+    39.22664,
+    10.40395
+],
+  "geometry": {"coordinates":[39.22664,10.40395],"type":"Point"}
+}

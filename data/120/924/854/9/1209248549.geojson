@@ -1,0 +1,61 @@
+{
+  "id": 1209248549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71667,9.68333,38.71667,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":38.71667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ita",
+    "gn:country_code":"ET",
+    "gn:dem":2585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334052,
+    "gn:latitude":9.68333,
+    "gn:longitude":38.71667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u012ata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334052
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6492c9225166d06c06312fd215f8f1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209248549
+        }
+    ],
+    "wof:id":1209248549,
+    "wof:lastmodified":1536293080,
+    "wof:name":"Ita",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71667,
+    9.68333,
+    38.71667,
+    9.68333
+],
+  "geometry": {"coordinates":[38.71667,9.68333],"type":"Point"}
+}

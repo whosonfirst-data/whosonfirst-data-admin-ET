@@ -1,0 +1,61 @@
+{
+  "id": 1209035665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,13.61667,39.33333,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":39.33333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Hasemen",
+    "gn:country_code":"ET",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334888,
+    "gn:latitude":13.61667,
+    "gn:longitude":39.33333,
+    "gn:modification_date":"2008-01-02",
+    "gn:name":"Hasemen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334888
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"137bcdc79a4a0d3d02b35216a64a8105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209035665
+        }
+    ],
+    "wof:id":1209035665,
+    "wof:lastmodified":1536299709,
+    "wof:name":"Hasemen",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    13.61667,
+    39.33333,
+    13.61667
+],
+  "geometry": {"coordinates":[39.33333,13.61667],"type":"Point"}
+}

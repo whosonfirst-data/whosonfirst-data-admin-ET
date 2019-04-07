@@ -1,0 +1,67 @@
+{
+  "id": 1310535133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56822,10.1347,39.56822,10.1347",
+    "geom:latitude":10.1347,
+    "geom:longitude":39.56822,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sewaro",
+    "gn:country_code":"ET",
+    "gn:dem":2913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328758,
+    "gn:latitude":10.1347,
+    "gn:longitude":39.56822,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Sewaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328758
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f283f86f115d49482d1c81da5b8ba52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1310535133,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310535133,
+    "wof:lastmodified":1536873226,
+    "wof:name":"Sewaro",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56822,
+    10.1347,
+    39.56822,
+    10.1347
+],
+  "geometry": {"coordinates":[39.56822,10.1347],"type":"Point"}
+}

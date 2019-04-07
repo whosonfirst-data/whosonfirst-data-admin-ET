@@ -1,0 +1,71 @@
+{
+  "id": 1259814849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06667,8.11667,40.06667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":40.06667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Weregu Misiyon Dek'e Dima",
+    "gn:country_code":"ET",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326262,
+    "gn:latitude":8.11667,
+    "gn:longitude":40.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Weregu M\u012bs\u012byon Dek\u2019e D\u012bma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weregu M\u012bsyon Dek\u2019e D\u012bma",
+        "Weregu M\u012bs\u012byon Dek\u2019e D\u012bma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326262
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6bd699d5925eadfbd11b5f455c31e28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1259814849,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259814849,
+    "wof:lastmodified":1537621893,
+    "wof:name":"Weregu Misiyon Dek'e Dima",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06667,
+    8.11667,
+    40.06667,
+    8.11667
+],
+  "geometry": {"coordinates":[40.06667,8.11667],"type":"Point"}
+}

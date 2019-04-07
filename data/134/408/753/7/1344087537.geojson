@@ -1,0 +1,67 @@
+{
+  "id": 1344087537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0048,9.55502,39.0048,9.55502",
+    "geom:latitude":9.55502,
+    "geom:longitude":39.0048,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gara Muka",
+    "gn:country_code":"ET",
+    "gn:dem":2640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337320,
+    "gn:latitude":9.55502,
+    "gn:longitude":39.0048,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gara Muka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337320
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f5f651cbb13a76ff79b372889f7970a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1344087537,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1344087537,
+    "wof:lastmodified":1536835599,
+    "wof:name":"Gara Muka",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0048,
+    9.55502,
+    39.0048,
+    9.55502
+],
+  "geometry": {"coordinates":[39.0048,9.55502],"type":"Point"}
+}

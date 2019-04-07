@@ -1,0 +1,76 @@
+{
+  "id": 1360016545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,11.26667,36.83333,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":36.83333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dangila",
+    "gn:country_code":"ET",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340008,
+    "gn:latitude":11.26667,
+    "gn:longitude":36.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dangila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dungoler",
+        "Danghila",
+        "Danghilla",
+        "Danghela",
+        "D\u0101ngl\u0101",
+        "Dangila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340008,
+        "wk:page":"Dangila"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a8bd4ce714a0b0c171520e635c193c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695125,
+            "locality_id":1360016545,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1360016545,
+    "wof:lastmodified":1537622050,
+    "wof:name":"Dangila",
+    "wof:parent_id":1108695125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    11.26667,
+    36.83333,
+    11.26667
+],
+  "geometry": {"coordinates":[36.83333,11.26667],"type":"Point"}
+}

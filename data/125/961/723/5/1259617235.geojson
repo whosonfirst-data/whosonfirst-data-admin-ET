@@ -1,0 +1,72 @@
+{
+  "id": 1259617235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77083,9.3575,41.77083,9.3575",
+    "geom:latitude":9.3575,
+    "geom:longitude":41.77083,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Weter",
+    "gn:country_code":"ET",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326176,
+    "gn:latitude":9.3575,
+    "gn:longitude":41.77083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Weter",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weter (1)",
+        "Uoter",
+        "Weter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326176
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fcc67f83230cf5f52fe6cca6cc0bbe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1259617235,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259617235,
+    "wof:lastmodified":1537621892,
+    "wof:name":"Weter",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77083,
+    9.3575,
+    41.77083,
+    9.3575
+],
+  "geometry": {"coordinates":[41.77083,9.3575],"type":"Point"}
+}

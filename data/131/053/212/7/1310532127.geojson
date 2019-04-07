@@ -1,0 +1,71 @@
+{
+  "id": 1310532127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36667,9.6,35.36667,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":35.36667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gori",
+    "gn:country_code":"ET",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335921,
+    "gn:latitude":9.6,
+    "gn:longitude":35.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gor\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gor\u012b (2)",
+        "Gor\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335921
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a03d341f9785b76827a47cbd2df3fbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1310532127,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310532127,
+    "wof:lastmodified":1537622003,
+    "wof:name":"Gori",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36667,
+    9.6,
+    35.36667,
+    9.6
+],
+  "geometry": {"coordinates":[35.36667,9.6],"type":"Point"}
+}

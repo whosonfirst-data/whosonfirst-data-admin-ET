@@ -1,0 +1,78 @@
+{
+  "id": 1310339723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,11.43333,39.28333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Amba Maryam",
+    "gn:country_code":"ET",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344094,
+    "gn:latitude":11.43333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100mba Maryam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magdala",
+        "Amba Mariam",
+        "Magdalla",
+        "Meqdela",
+        "Maqedal\u0101",
+        "Melata",
+        "Mak\u2019edal\u0101",
+        "Mekdela",
+        "\u0100mba Maryam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344094
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"69a1bd63bf76a676e85868d4d8bdd7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1310339723,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310339723,
+    "wof:lastmodified":1537622098,
+    "wof:name":"Amba Maryam",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    11.43333,
+    39.28333,
+    11.43333
+],
+  "geometry": {"coordinates":[39.28333,11.43333],"type":"Point"}
+}

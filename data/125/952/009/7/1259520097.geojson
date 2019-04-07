@@ -1,0 +1,71 @@
+{
+  "id": 1259520097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.61667,7.05,38.61667,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":38.61667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Busa",
+    "gn:country_code":"ET",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341319,
+    "gn:latitude":7.05,
+    "gn:longitude":38.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Busa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sole",
+        "Busa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341319
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d41ff6208fe56eb24206e5b0e37e833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204421,
+            "locality_id":1259520097,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1259520097,
+    "wof:lastmodified":1537622065,
+    "wof:name":"Busa",
+    "wof:parent_id":421204421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.61667,
+    7.05,
+    38.61667,
+    7.05
+],
+  "geometry": {"coordinates":[38.61667,7.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276586111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56667,11.35,37.56667,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":37.56667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yisakor",
+    "gn:country_code":"ET",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325775,
+    "gn:latitude":11.35,
+    "gn:longitude":37.56667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Yisakor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325775
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9b766d0037cdab37f1d85cc8060fe7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1276586111,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276586111,
+    "wof:lastmodified":1536938352,
+    "wof:name":"Yisakor",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56667,
+    11.35,
+    37.56667,
+    11.35
+],
+  "geometry": {"coordinates":[37.56667,11.35],"type":"Point"}
+}

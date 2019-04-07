@@ -1,0 +1,67 @@
+{
+  "id": 1293817543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55698,9.98846,39.55698,9.98846",
+    "geom:latitude":9.98846,
+    "geom:longitude":39.55698,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kese",
+    "gn:country_code":"ET",
+    "gn:dem":2391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333187,
+    "gn:latitude":9.98846,
+    "gn:longitude":39.55698,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kes\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333187
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"573d7cea4a9ca3c11685428c93887bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1293817543,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1293817543,
+    "wof:lastmodified":1536808062,
+    "wof:name":"Kese",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55698,
+    9.98846,
+    39.55698,
+    9.98846
+],
+  "geometry": {"coordinates":[39.55698,9.98846],"type":"Point"}
+}

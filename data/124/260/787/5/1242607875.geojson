@@ -1,0 +1,67 @@
+{
+  "id": 1242607875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19777,10.03518,39.19777,10.03518",
+    "geom:latitude":10.03518,
+    "geom:longitude":39.19777,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yizeny",
+    "gn:country_code":"ET",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325769,
+    "gn:latitude":10.03518,
+    "gn:longitude":39.19777,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Yizeny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325769
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"83b1b3483902ffd6e8dd574517ab2b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1242607875,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1242607875,
+    "wof:lastmodified":1537019315,
+    "wof:name":"Yizeny",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19777,
+    10.03518,
+    39.19777,
+    10.03518
+],
+  "geometry": {"coordinates":[39.19777,10.03518],"type":"Point"}
+}

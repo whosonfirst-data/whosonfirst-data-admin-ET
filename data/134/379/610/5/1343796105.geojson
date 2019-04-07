@@ -1,0 +1,67 @@
+{
+  "id": 1343796105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.0963,8.97602,41.0963,8.97602",
+    "geom:latitude":8.97602,
+    "geom:longitude":41.0963,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Amomumet",
+    "gn:country_code":"ET",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343976,
+    "gn:latitude":8.97602,
+    "gn:longitude":41.0963,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"\u0100momum\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343976
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1d875de0f412153538e005e94bfc94a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1343796105,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343796105,
+    "wof:lastmodified":1536759747,
+    "wof:name":"Amomumet",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.0963,
+    8.97602,
+    41.0963,
+    8.97602
+],
+  "geometry": {"coordinates":[41.0963,8.97602],"type":"Point"}
+}

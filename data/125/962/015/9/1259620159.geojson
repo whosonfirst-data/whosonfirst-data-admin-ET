@@ -1,0 +1,75 @@
+{
+  "id": 1259620159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1846,7.82818,42.1846,7.82818",
+    "geom:latitude":7.82818,
+    "geom:longitude":42.1846,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gandaba",
+    "gn:country_code":"ET",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337377,
+    "gn:latitude":7.82818,
+    "gn:longitude":42.1846,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Gandaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u0430\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gandabal",
+        "Gundabella",
+        "Gandaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337377
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f0f2799af72a753a0753c1c2afc5bd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695165,
+            "locality_id":1259620159,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259620159,
+    "wof:lastmodified":1537622021,
+    "wof:name":"Gandaba",
+    "wof:parent_id":1108695165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1846,
+    7.82818,
+    42.1846,
+    7.82818
+],
+  "geometry": {"coordinates":[42.1846,7.82818],"type":"Point"}
+}

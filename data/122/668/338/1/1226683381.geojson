@@ -1,0 +1,67 @@
+{
+  "id": 1226683381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19394,9.695,39.19394,9.695",
+    "geom:latitude":9.695,
+    "geom:longitude":39.19394,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Sayadebir and Wayu",
+    "gn:country_code":"ET",
+    "gn:dem":2609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621156,
+    "gn:latitude":9.695,
+    "gn:longitude":39.19394,
+    "gn:modification_date":"2016-09-11",
+    "gn:name":"Sayadebir and Wayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621156
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5d74f61c0f11470cbadac4a64fdd2c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1226683381,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226683381,
+    "wof:lastmodified":1536805050,
+    "wof:name":"Sayadebir and Wayu",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19394000000001,
+    9.695,
+    39.19394000000001,
+    9.695
+],
+  "geometry": {"coordinates":[39.19394000000001,9.695],"type":"Point"}
+}

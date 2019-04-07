@@ -1,0 +1,71 @@
+{
+  "id": 1293818133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07384,13.21681,39.07384,13.21681",
+    "geom:latitude":13.21681,
+    "geom:longitude":39.07384,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Ch'emo",
+    "gn:country_code":"ET",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345228,
+    "gn:latitude":13.21681,
+    "gn:longitude":39.07384,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Ch\u2019emo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addi Chemo",
+        "\u0100d\u012b Ch\u2019emo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345228
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"01e27f37e46fe76dedd1108030188ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1293818133,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293818133,
+    "wof:lastmodified":1537622114,
+    "wof:name":"Adi Ch'emo",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07384,
+    13.21681,
+    39.07384,
+    13.21681
+],
+  "geometry": {"coordinates":[39.07384,13.21681],"type":"Point"}
+}

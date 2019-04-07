@@ -1,0 +1,71 @@
+{
+  "id": 1226778197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10433,8.46601,36.10433,8.46601",
+    "geom:latitude":8.46601,
+    "geom:longitude":36.10433,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Humbe",
+    "gn:country_code":"ET",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334560,
+    "gn:latitude":8.46601,
+    "gn:longitude":36.10433,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Humb\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbe",
+        "Humb\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334560
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"483436cc214e55c99ae9a2677a179361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1226778197,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226778197,
+    "wof:lastmodified":1537621987,
+    "wof:name":"Humbe",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10433,
+    8.46601,
+    36.10433,
+    8.46601
+],
+  "geometry": {"coordinates":[36.10433,8.46601],"type":"Point"}
+}

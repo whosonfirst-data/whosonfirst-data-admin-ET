@@ -1,0 +1,67 @@
+{
+  "id": 1360319755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,13.7,38.16667,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":38.16667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Zahilay",
+    "gn:country_code":"ET",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344873,
+    "gn:latitude":13.7,
+    "gn:longitude":38.16667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100d\u012b Zahilay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344873
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b339e60cc97e330f61b8f1f50906ee45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1360319755,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1360319755,
+    "wof:lastmodified":1536604056,
+    "wof:name":"Adi Zahilay",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    13.7,
+    38.16667,
+    13.7
+],
+  "geometry": {"coordinates":[38.16667,13.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225875399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38333,12.0,39.38333,12.0",
+    "geom:latitude":12.0,
+    "geom:longitude":39.38333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gesta",
+    "gn:country_code":"ET",
+    "gn:dem":3586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336765,
+    "gn:latitude":12.0,
+    "gn:longitude":39.38333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"G\u0113sta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336765
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ef0f26bb96d6f3b7e937d62466ef3005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":1225875399,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1225875399,
+    "wof:lastmodified":1536970679,
+    "wof:name":"Gesta",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38333,
+    12.0,
+    39.38333,
+    12.0
+],
+  "geometry": {"coordinates":[39.38333,12.0],"type":"Point"}
+}

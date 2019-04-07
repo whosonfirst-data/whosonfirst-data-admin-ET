@@ -1,0 +1,71 @@
+{
+  "id": 1343293255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4,7.55,35.4,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":35.4,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Gech'a",
+    "gn:country_code":"ET",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337136,
+    "gn:latitude":7.55,
+    "gn:longitude":35.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gech\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gheccia",
+        "Gech\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337136
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a2056ad35b3c7d5485af4e8afdf629d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695217,
+            "locality_id":1343293255,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343293255,
+    "wof:lastmodified":1537622019,
+    "wof:name":"Gech'a",
+    "wof:parent_id":1108695217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4,
+    7.55,
+    35.4,
+    7.55
+],
+  "geometry": {"coordinates":[35.4,7.55],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209445169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61008,10.52061,39.61008,10.52061",
+    "geom:latitude":10.52061,
+    "geom:longitude":39.61008,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dasa",
+    "gn:country_code":"ET",
+    "gn:dem":2970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339884,
+    "gn:latitude":10.52061,
+    "gn:longitude":39.61008,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Dasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dair",
+        "Dasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339884
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b6df83d81f9d5a263ab2cd8b28c3e98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209445169
+        }
+    ],
+    "wof:id":1209445169,
+    "wof:lastmodified":1537622049,
+    "wof:name":"Dasa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61008,
+    10.52061,
+    39.61008,
+    10.52061
+],
+  "geometry": {"coordinates":[39.61008,10.52061],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360121815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,13.28333,38.2,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":38.2,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ami'alka",
+    "gn:country_code":"ET",
+    "gn:dem":3250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344003,
+    "gn:latitude":13.28333,
+    "gn:longitude":38.2,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100m\u012b\u2019\u0101lka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344003
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76f6e6f3d1b244aaac4b6e8bde968a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1360121815,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1360121815,
+    "wof:lastmodified":1536892242,
+    "wof:name":"Ami'alka",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    13.28333,
+    38.2,
+    13.28333
+],
+  "geometry": {"coordinates":[38.2,13.28333],"type":"Point"}
+}

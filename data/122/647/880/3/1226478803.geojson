@@ -1,0 +1,67 @@
+{
+  "id": 1226478803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71667,12.16667,37.71667,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":37.71667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gazara",
+    "gn:country_code":"ET",
+    "gn:dem":2028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337198,
+    "gn:latitude":12.16667,
+    "gn:longitude":37.71667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gazara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337198
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cb7db7659d48b3065b3f5ab8b7367749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1226478803,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226478803,
+    "wof:lastmodified":1537091178,
+    "wof:name":"Gazara",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71667,
+    12.16667,
+    37.71667,
+    12.16667
+],
+  "geometry": {"coordinates":[37.71667,12.16667],"type":"Point"}
+}

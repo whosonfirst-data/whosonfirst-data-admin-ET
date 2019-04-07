@@ -1,0 +1,67 @@
+{
+  "id": 1309924551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5,10.6667,38.5,10.6667",
+    "geom:latitude":10.6667,
+    "geom:longitude":38.5,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Wegde",
+    "gn:country_code":"ET",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643761,
+    "gn:latitude":10.6667,
+    "gn:longitude":38.5,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Wegde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643761
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"16d232b537f548f79a52ea1f9c98037c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1309924551,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1309924551,
+    "wof:lastmodified":1536760127,
+    "wof:name":"Wegde",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5,
+    10.6667,
+    38.5,
+    10.6667
+],
+  "geometry": {"coordinates":[38.5,10.6667],"type":"Point"}
+}

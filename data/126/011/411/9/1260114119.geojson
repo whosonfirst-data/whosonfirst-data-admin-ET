@@ -1,0 +1,71 @@
+{
+  "id": 1260114119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34028,6.64194,46.34028,6.64194",
+    "geom:latitude":6.64194,
+    "geom:longitude":46.34028,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Levi Abdulla Weyn",
+    "gn:country_code":"ET",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311117,
+    "gn:latitude":6.64194,
+    "gn:longitude":46.34028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Levi Abdulla Weyn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levi Abdulla Ueyn",
+        "Levi Abdulla Weyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311117
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6848561c9af1d488683b8f66b77647a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1260114119,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1260114119,
+    "wof:lastmodified":1537622124,
+    "wof:name":"Levi Abdulla Weyn",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34028,
+    6.64194,
+    46.34028,
+    6.64194
+],
+  "geometry": {"coordinates":[46.34028,6.64194],"type":"Point"}
+}

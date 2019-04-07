@@ -1,0 +1,71 @@
+{
+  "id": 1293525967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65156,14.09331,38.65156,14.09331",
+    "geom:latitude":14.09331,
+    "geom:longitude":38.65156,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Kiwadat",
+    "gn:country_code":"ET",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332977,
+    "gn:latitude":14.09331,
+    "gn:longitude":38.65156,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kiwadat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiuadat",
+        "Kiwadat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332977
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2e84788a56600e19c565fa7904129c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1293525967,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293525967,
+    "wof:lastmodified":1537621966,
+    "wof:name":"Kiwadat",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65156,
+    14.09331,
+    38.65156,
+    14.09331
+],
+  "geometry": {"coordinates":[38.65156,14.09331],"type":"Point"}
+}

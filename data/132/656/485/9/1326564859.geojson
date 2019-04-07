@@ -1,0 +1,67 @@
+{
+  "id": 1326564859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.15,9.93333,38.15,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":38.15,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sek'elo",
+    "gn:country_code":"ET",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328980,
+    "gn:latitude":9.93333,
+    "gn:longitude":38.15,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Sek\u2019elo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328980
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e028b40ea8a9c2f4527a42882b826b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1326564859,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1326564859,
+    "wof:lastmodified":1536937689,
+    "wof:name":"Sek'elo",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.15,
+    9.93333,
+    38.15,
+    9.93333
+],
+  "geometry": {"coordinates":[38.15,9.93333],"type":"Point"}
+}

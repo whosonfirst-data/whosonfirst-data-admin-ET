@@ -1,0 +1,67 @@
+{
+  "id": 1310238925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95,7.17833,43.95,7.17833",
+    "geom:latitude":7.17833,
+    "geom:longitude":43.95,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Aggare",
+    "gn:country_code":"ET",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344607,
+    "gn:latitude":7.17833,
+    "gn:longitude":43.95,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Aggare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344607
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2da4f8124eddd918fb89218735d33df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1310238925,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310238925,
+    "wof:lastmodified":1536803899,
+    "wof:name":"Aggare",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95,
+    7.17833,
+    43.95,
+    7.17833
+],
+  "geometry": {"coordinates":[43.95,7.17833],"type":"Point"}
+}

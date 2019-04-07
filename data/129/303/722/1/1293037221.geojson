@@ -1,0 +1,67 @@
+{
+  "id": 1293037221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3,9.25,36.3,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":36.3,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Leku",
+    "gn:country_code":"ET",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332128,
+    "gn:latitude":9.25,
+    "gn:longitude":36.3,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Leku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332128
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"467afc0795d7fdd9d2f435e98dbfc710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1293037221,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293037221,
+    "wof:lastmodified":1536939939,
+    "wof:name":"Leku",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3,
+    9.25,
+    36.3,
+    9.25
+],
+  "geometry": {"coordinates":[36.3,9.25],"type":"Point"}
+}

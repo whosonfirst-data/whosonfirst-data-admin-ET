@@ -1,0 +1,61 @@
+{
+  "id": 1209136343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3,8.96667,38.3,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":38.3,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Debisa",
+    "gn:country_code":"ET",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339764,
+    "gn:latitude":8.96667,
+    "gn:longitude":38.3,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"D\u0113b\u012bsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339764
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"28ad9d04283139fffa4680debd173141",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209136343
+        }
+    ],
+    "wof:id":1209136343,
+    "wof:lastmodified":1536296648,
+    "wof:name":"Debisa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3,
+    8.96667,
+    38.3,
+    8.96667
+],
+  "geometry": {"coordinates":[38.3,8.96667],"type":"Point"}
+}

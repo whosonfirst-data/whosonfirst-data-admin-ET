@@ -1,0 +1,67 @@
+{
+  "id": 1310538263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,10.11667,37.86667,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":37.86667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yemist'ina",
+    "gn:country_code":"ET",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325889,
+    "gn:latitude":10.11667,
+    "gn:longitude":37.86667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Yemist\u2019ina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325889
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"347ce2418dac92a440655c4526ca6150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1310538263,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310538263,
+    "wof:lastmodified":1536868405,
+    "wof:name":"Yemist'ina",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    10.11667,
+    37.86667,
+    10.11667
+],
+  "geometry": {"coordinates":[37.86667,10.11667],"type":"Point"}
+}

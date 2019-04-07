@@ -1,0 +1,61 @@
+{
+  "id": 1209014851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46365,14.09762,38.46365,14.09762",
+    "geom:latitude":14.09762,
+    "geom:longitude":38.46365,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Medebay Zana",
+    "gn:country_code":"ET",
+    "gn:dem":1992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643649,
+    "gn:latitude":14.09762,
+    "gn:longitude":38.46365,
+    "gn:modification_date":"2013-12-04",
+    "gn:name":"Medebay Zana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643649
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ac3b6b10e77880808571d74976575646",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209014851
+        }
+    ],
+    "wof:id":1209014851,
+    "wof:lastmodified":1536300328,
+    "wof:name":"Medebay Zana",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46365,
+    14.09762,
+    38.46365,
+    14.09762
+],
+  "geometry": {"coordinates":[38.46365,14.09762],"type":"Point"}
+}

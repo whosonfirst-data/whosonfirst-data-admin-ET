@@ -1,0 +1,67 @@
+{
+  "id": 1310334105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58333,13.23333,39.58333,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":39.58333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Maara",
+    "gn:country_code":"ET",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331851,
+    "gn:latitude":13.23333,
+    "gn:longitude":39.58333,
+    "gn:modification_date":"2008-02-07",
+    "gn:name":"Maara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331851
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"64a83c221ae26c6153f46a5c46061e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1310334105,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1310334105,
+    "wof:lastmodified":1536666872,
+    "wof:name":"Maara",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58333,
+    13.23333,
+    39.58333,
+    13.23333
+],
+  "geometry": {"coordinates":[39.58333,13.23333],"type":"Point"}
+}

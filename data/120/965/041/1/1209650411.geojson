@@ -1,0 +1,61 @@
+{
+  "id": 1209650411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.48594,9.3455,41.48594,9.3455",
+    "geom:latitude":9.3455,
+    "geom:longitude":41.48594,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ame T'isa",
+    "gn:country_code":"ET",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344014,
+    "gn:latitude":9.3455,
+    "gn:longitude":41.48594,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"\u0100me T\u2019\u012bsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344014
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d32a82bb1bed2e0ddc7bf8367198979e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209650411
+        }
+    ],
+    "wof:id":1209650411,
+    "wof:lastmodified":1536280599,
+    "wof:name":"Ame T'isa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.48594,
+    9.3455,
+    41.48594,
+    9.3455
+],
+  "geometry": {"coordinates":[41.48594,9.3455],"type":"Point"}
+}

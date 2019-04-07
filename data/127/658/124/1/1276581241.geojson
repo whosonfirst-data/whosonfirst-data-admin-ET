@@ -1,0 +1,67 @@
+{
+  "id": 1276581241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,11.15,39.23333,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Aba Bula",
+    "gn:country_code":"ET",
+    "gn:dem":3048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345932,
+    "gn:latitude":11.15,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"\u0100ba Bula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345932
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1469c131cce3aeb3d6df3bb8d0e9215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1276581241,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276581241,
+    "wof:lastmodified":1536944723,
+    "wof:name":"Aba Bula",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    11.15,
+    39.23333,
+    11.15
+],
+  "geometry": {"coordinates":[39.23333,11.15],"type":"Point"}
+}

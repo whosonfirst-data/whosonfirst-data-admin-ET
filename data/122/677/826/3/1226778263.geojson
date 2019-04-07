@@ -1,0 +1,67 @@
+{
+  "id": 1226778263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12011,9.7233,39.12011,9.7233",
+    "geom:latitude":9.7233,
+    "geom:longitude":39.12011,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Donji",
+    "gn:country_code":"ET",
+    "gn:dem":2642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338641,
+    "gn:latitude":9.7233,
+    "gn:longitude":39.12011,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Donj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338641
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ba42f1048e5ac82bb83585ee3692b94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1226778263,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226778263,
+    "wof:lastmodified":1536668851,
+    "wof:name":"Donji",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12011,
+    9.7233,
+    39.12011,
+    9.7233
+],
+  "geometry": {"coordinates":[39.12011,9.7233],"type":"Point"}
+}

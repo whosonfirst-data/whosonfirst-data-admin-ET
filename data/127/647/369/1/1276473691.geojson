@@ -1,0 +1,67 @@
+{
+  "id": 1276473691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76148,8.23079,41.76148,8.23079",
+    "geom:latitude":8.23079,
+    "geom:longitude":41.76148,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Siden Meyu",
+    "gn:country_code":"ET",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328428,
+    "gn:latitude":8.23079,
+    "gn:longitude":41.76148,
+    "gn:modification_date":"2007-07-05",
+    "gn:name":"S\u012bden Meyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328428
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4f998a175865bc9f0e5b8dbc8d535e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1276473691,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276473691,
+    "wof:lastmodified":1537084899,
+    "wof:name":"Siden Meyu",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76148,
+    8.23079,
+    41.76148,
+    8.23079
+],
+  "geometry": {"coordinates":[41.76148,8.23079],"type":"Point"}
+}

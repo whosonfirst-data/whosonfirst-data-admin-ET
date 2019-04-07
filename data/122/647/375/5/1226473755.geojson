@@ -1,0 +1,67 @@
+{
+  "id": 1226473755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46667,9.46667,38.46667,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":38.46667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gimbas",
+    "gn:country_code":"ET",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336499,
+    "gn:latitude":9.46667,
+    "gn:longitude":38.46667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gimbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336499
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ca3fe839a97c57ae7c5d35016d6d4698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1226473755,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226473755,
+    "wof:lastmodified":1536601996,
+    "wof:name":"Gimbas",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46667,
+    9.46667,
+    38.46667,
+    9.46667
+],
+  "geometry": {"coordinates":[38.46667,9.46667],"type":"Point"}
+}

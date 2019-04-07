@@ -1,0 +1,71 @@
+{
+  "id": 1242809051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23972,9.27639,42.23972,9.27639",
+    "geom:latitude":9.27639,
+    "geom:longitude":42.23972,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ali K'eno",
+    "gn:country_code":"ET",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344208,
+    "gn:latitude":9.27639,
+    "gn:longitude":42.23972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100l\u012b K\u2019eno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ali-Ken",
+        "\u0100l\u012b K\u2019eno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671163,
+        1108695173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344208
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"57786aa0b160c2adbd7e138237a6bba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695173,
+            "locality_id":1242809051,
+            "region_id":85671163
+        }
+    ],
+    "wof:id":1242809051,
+    "wof:lastmodified":1537622099,
+    "wof:name":"Ali K'eno",
+    "wof:parent_id":1108695173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23972,
+    9.27639,
+    42.23972,
+    9.27639
+],
+  "geometry": {"coordinates":[42.23972,9.27639],"type":"Point"}
+}

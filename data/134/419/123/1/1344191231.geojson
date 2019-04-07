@@ -1,0 +1,71 @@
+{
+  "id": 1344191231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59072,14.07683,38.59072,14.07683",
+    "geom:latitude":14.07683,
+    "geom:longitude":38.59072,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Gherebela",
+    "gn:country_code":"ET",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336662,
+    "gn:latitude":14.07683,
+    "gn:longitude":38.59072,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gherebela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cherebela",
+        "Gherebela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336662
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"576baeeb8c1035ff6c1bc8186679bc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1344191231,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1344191231,
+    "wof:lastmodified":1537622012,
+    "wof:name":"Gherebela",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59072000000001,
+    14.07683,
+    38.59072000000001,
+    14.07683
+],
+  "geometry": {"coordinates":[38.59072000000001,14.07683],"type":"Point"}
+}

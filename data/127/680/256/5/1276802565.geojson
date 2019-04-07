@@ -1,0 +1,67 @@
+{
+  "id": 1276802565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01694,9.42722,42.01694,9.42722",
+    "geom:latitude":9.42722,
+    "geom:longitude":42.01694,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gote",
+    "gn:country_code":"ET",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335832,
+    "gn:latitude":9.42722,
+    "gn:longitude":42.01694,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Got\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335832
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eca18493f1abb37823873745c69d38f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1276802565,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276802565,
+    "wof:lastmodified":1536646694,
+    "wof:name":"Gote",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01694000000001,
+    9.42722,
+    42.01694000000001,
+    9.42722
+],
+  "geometry": {"coordinates":[42.01694000000001,9.42722],"type":"Point"}
+}

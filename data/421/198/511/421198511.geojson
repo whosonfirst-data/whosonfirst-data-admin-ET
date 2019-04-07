@@ -1,0 +1,115 @@
+{
+  "id": 421198511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,10.45,38.2,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":38.2,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0447\u0435\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Bichena"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u5fb9\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Bichena"
+    ],
+    "name:eng_x_preferred":[
+        "Bichena"
+    ],
+    "name:fra_x_preferred":[
+        "Bichena"
+    ],
+    "name:fre_x_preferred":[
+        "Bichena"
+    ],
+    "name:swe_x_preferred":[
+        "Bichena"
+    ],
+    "name:unk_x_variant":[
+        "Bichana"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5fb9\u7d0d"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":342190,
+    "qs:gn_pop":16411,
+    "qs:name":"Bichena",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":183335,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1314195,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":2541.0,
+    "wd:latitude":10.45,
+    "wd:longitude":38.2,
+    "wd:wordcount":580,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342190,
+        "gp:id":1314195,
+        "qs:id":183335,
+        "wd:id":"Q2901625",
+        "wk:page":"Bichena"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009950,
+    "wof:geomhash":"b35296048f1d2a0ff6632a359315946b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":421198511,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421198511,
+    "wof:lastmodified":1527716353,
+    "wof:name":"Bichena",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:population":16411,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    10.45,
+    38.2,
+    10.45
+],
+  "geometry": {"coordinates":[38.2,10.45],"type":"Point"}
+}

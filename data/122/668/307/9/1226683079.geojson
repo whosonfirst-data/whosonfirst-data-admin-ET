@@ -1,0 +1,67 @@
+{
+  "id": 1226683079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.01411,9.13945,41.01411,9.13945",
+    "geom:latitude":9.13945,
+    "geom:longitude":41.01411,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Debeso",
+    "gn:country_code":"ET",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339788,
+    "gn:latitude":9.13945,
+    "gn:longitude":41.01411,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Debeso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339788
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"558ebd86371fcb427f0dfab7d52a8d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1226683079,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226683079,
+    "wof:lastmodified":1536805499,
+    "wof:name":"Debeso",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.01411,
+    9.13945,
+    41.01411,
+    9.13945
+],
+  "geometry": {"coordinates":[41.01411,9.13945],"type":"Point"}
+}

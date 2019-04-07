@@ -1,0 +1,71 @@
+{
+  "id": 1226078731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86667,3.61667,38.86667,3.61667",
+    "geom:latitude":3.61667,
+    "geom:longitude":38.86667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"O'odesi",
+    "gn:country_code":"ET",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329864,
+    "gn:latitude":3.61667,
+    "gn:longitude":38.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"O\u2019odes\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ooddessi",
+        "O\u2019odes\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329864
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1cad4fa2fb650fd3d1229c6711d85d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1226078731,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226078731,
+    "wof:lastmodified":1537621931,
+    "wof:name":"O'odesi",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86667,
+    3.61667,
+    38.86667,
+    3.61667
+],
+  "geometry": {"coordinates":[38.86667,3.61667],"type":"Point"}
+}

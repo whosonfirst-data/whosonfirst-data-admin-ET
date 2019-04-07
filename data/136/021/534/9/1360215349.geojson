@@ -1,0 +1,74 @@
+{
+  "id": 1360215349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08333,9.26667,38.08333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":38.08333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gojo",
+    "gn:country_code":"ET",
+    "gn:dem":2925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336159,
+    "gn:latitude":9.26667,
+    "gn:longitude":38.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geldu",
+        "Jeldu",
+        "Jeldu Gojo",
+        "Gojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336159,
+        "wk:page":"Jeldu"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b30fae7166c3245d46bf1c56e1541a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1360215349,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1360215349,
+    "wof:lastmodified":1537622006,
+    "wof:name":"Gojo",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08333,
+    9.26667,
+    38.08333,
+    9.26667
+],
+  "geometry": {"coordinates":[38.08333,9.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309840043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,10.25,38.73333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":38.73333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gundo Meskel",
+    "gn:country_code":"ET",
+    "gn:dem":2493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335552,
+    "gn:latitude":10.25,
+    "gn:longitude":38.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gundo Meskel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunguomeschel",
+        "Ginde Meskel",
+        "Gundo Meskel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335552
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5135ee5ad1815a90ec4901c9447dccf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1309840043,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309840043,
+    "wof:lastmodified":1537622000,
+    "wof:name":"Gundo Meskel",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    10.25,
+    38.73333,
+    10.25
+],
+  "geometry": {"coordinates":[38.73333,10.25],"type":"Point"}
+}

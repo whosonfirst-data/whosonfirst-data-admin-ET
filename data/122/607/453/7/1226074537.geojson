@@ -1,0 +1,67 @@
+{
+  "id": 1226074537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5,9.46667,37.5,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":37.5,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bushi",
+    "gn:country_code":"ET",
+    "gn:dem":2318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341309,
+    "gn:latitude":9.46667,
+    "gn:longitude":37.5,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bush\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341309
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7df0d2ca0c3d4072aac0e978ffc1878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1226074537,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226074537,
+    "wof:lastmodified":1536683730,
+    "wof:name":"Bushi",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5,
+    9.46667,
+    37.5,
+    9.46667
+],
+  "geometry": {"coordinates":[37.5,9.46667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326660587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.05056,9.90417,43.05056,9.90417",
+    "geom:latitude":9.90417,
+    "geom:longitude":43.05056,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bagiagiar",
+    "gn:country_code":"ET",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342896,
+    "gn:latitude":9.90417,
+    "gn:longitude":43.05056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bagiagiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badzhadzhar",
+        "Bagiagiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342896
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ea5050c42870eb3396bff27171c160e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1326660587,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1326660587,
+    "wof:lastmodified":1537622085,
+    "wof:name":"Bagiagiar",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.05056,
+    9.90417,
+    43.05056,
+    9.90417
+],
+  "geometry": {"coordinates":[43.05056,9.90417],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890446971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00241,8.70114,42.00241,8.70114",
+    "geom:latitude":8.70114,
+    "geom:longitude":42.00241,
+    "gn:country":"ET",
+    "gn:fcode":"ADM2",
+    "gn:pop":2723850,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "East Harerghe"
+    ],
+    "name:eng_x_variant":[
+        "East Harerghe Zone"
+    ],
+    "name:unk_x_variant":[
+        "Misraq Hararghe"
+    ],
+    "qs:name":"East Harerghe Zone",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":858,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732970,
+        "qs:id":698151,
+        "wd:id":"Q1109889",
+        "wk:page":"West Hararghe Zone"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052574,
+    "wof:geomhash":"f590c97e0da113e9e636dc2c20425386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446971,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890446971,
+    "wof:lastmodified":1527727215,
+    "wof:name":"East Harerghe Zone",
+    "wof:parent_id":85671141,
+    "wof:placetype":"county",
+    "wof:population":2723850,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00241,
+    8.70114,
+    42.00241,
+    8.70114
+],
+  "geometry": {"coordinates":[42.00241,8.70114],"type":"Point"}
+}

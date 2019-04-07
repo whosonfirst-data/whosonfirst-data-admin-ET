@@ -1,0 +1,67 @@
+{
+  "id": 1226176703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13333,7.5,45.13333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":45.13333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Guri Addo",
+    "gn:country_code":"ET",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335447,
+    "gn:latitude":7.5,
+    "gn:longitude":45.13333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Guri Addo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335447
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a34a88cee624a56d2c902cf330e85daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1226176703,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1226176703,
+    "wof:lastmodified":1537031697,
+    "wof:name":"Guri Addo",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13333,
+    7.5,
+    45.13333,
+    7.5
+],
+  "geometry": {"coordinates":[45.13333,7.5],"type":"Point"}
+}

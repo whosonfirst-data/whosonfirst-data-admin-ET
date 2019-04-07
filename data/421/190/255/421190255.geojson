@@ -1,0 +1,104 @@
+{
+  "id": 421190255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52831,12.96033,39.52831,12.96033",
+    "geom:latitude":12.96033,
+    "geom:longitude":39.52831,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Southern Tigray Zone"
+    ],
+    "name:eng_x_preferred":[
+        "Southern Tigray"
+    ],
+    "name:eng_x_variant":[
+        "South Tigray",
+        "Southern Tigray Zone",
+        "Southern"
+    ],
+    "name:fra_x_preferred":[
+        "Debubawi"
+    ],
+    "name:hrv_x_preferred":[
+        "Zona Debubaji"
+    ],
+    "name:swe_x_preferred":[
+        "Southern Tigray Zone"
+    ],
+    "name:unk_x_variant":[
+        "Debubawi Tigray"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":7667868,
+    "qs:gn_pop":1239988,
+    "qs:name":"Debubawi",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Tigray",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":451,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"12",
+    "qs:qs_id":1119138,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017424,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":632,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667868,
+        "gp:id":56017424,
+        "qs:id":1119138,
+        "wd:id":"Q3020955",
+        "wk:page":"Debubawi Zone"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009652,
+    "wof:geomhash":"0b5c7ab8699116bab04b25fb6f45f4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190255,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":421190255,
+    "wof:lastmodified":1527716397,
+    "wof:name":"Debubawi",
+    "wof:parent_id":85671125,
+    "wof:placetype":"county",
+    "wof:population":1239988,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52831,
+    12.96033,
+    39.52831,
+    12.96033
+],
+  "geometry": {"coordinates":[39.52831,12.96033],"type":"Point"}
+}

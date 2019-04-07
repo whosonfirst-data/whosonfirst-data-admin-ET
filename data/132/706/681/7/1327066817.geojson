@@ -1,0 +1,67 @@
+{
+  "id": 1327066817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63333,9.3,38.63333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":38.63333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"K'emele",
+    "gn:country_code":"ET",
+    "gn:dem":2579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333366,
+    "gn:latitude":9.3,
+    "gn:longitude":38.63333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019emel\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333366
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c72ab39c58943dcd2d209e7035b6d815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1327066817,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327066817,
+    "wof:lastmodified":1536710982,
+    "wof:name":"K'emele",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63333,
+    9.3,
+    38.63333,
+    9.3
+],
+  "geometry": {"coordinates":[38.63333,9.3],"type":"Point"}
+}

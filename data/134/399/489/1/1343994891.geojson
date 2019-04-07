@@ -1,0 +1,67 @@
+{
+  "id": 1343994891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,11.71667,37.86667,11.71667",
+    "geom:latitude":11.71667,
+    "geom:longitude":37.86667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ink'ok'o",
+    "gn:country_code":"ET",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334146,
+    "gn:latitude":11.71667,
+    "gn:longitude":37.86667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ink\u2019ok\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334146
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"38c5d7b172fa120ffc6cd3fc6468168c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1343994891,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343994891,
+    "wof:lastmodified":1536969849,
+    "wof:name":"Ink'ok'o",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    11.71667,
+    37.86667,
+    11.71667
+],
+  "geometry": {"coordinates":[37.86667,11.71667],"type":"Point"}
+}

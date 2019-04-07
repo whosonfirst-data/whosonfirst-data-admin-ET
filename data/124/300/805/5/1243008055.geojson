@@ -1,0 +1,70 @@
+{
+  "id": 1243008055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.65,8.8,37.65,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":37.65,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Incinni",
+    "gn:country_code":"ET",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334263,
+    "gn:latitude":8.8,
+    "gn:longitude":37.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Incinni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012anch\u2019\u012bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334263
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a5a690d677b170b641a5e7ba05c00595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1243008055,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243008055,
+    "wof:lastmodified":1537621983,
+    "wof:name":"Incinni",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.65,
+    8.8,
+    37.65,
+    8.8
+],
+  "geometry": {"coordinates":[37.65,8.8],"type":"Point"}
+}

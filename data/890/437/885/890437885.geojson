@@ -1,0 +1,106 @@
+{
+  "id": 890437885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4,9.03333,38.4,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":38.4,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":9859,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:eng_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:fre_x_preferred":[
+        "Addis-Alem"
+    ],
+    "name:ger_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:ita_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b8\u30b9\u30a2\u30ec\u30e0"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u062f\u06cc\u0633 \u0627\u0644\u0645\u060c \u0634\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:rum_x_preferred":[
+        "Addis Alem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u043b\u0435\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Adis Alem"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100d\u012bs \u2018Alem"
+    ],
+    "name:unk_x_variant":[
+        "Addis-\u0100lam"
+    ],
+    "qs:name":"\u0100d\u012bs \u2018Alem",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344976,
+        "gp:id":1313091,
+        "qs:id":124289,
+        "wd:id":"Q353038"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052170,
+    "wof:geomhash":"b81251317da25e3143a1fadb88b01c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":890437885,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890437885,
+    "wof:lastmodified":1553816397,
+    "wof:name":"\u0100d\u012bs \u2018Alem",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:population":9859,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4,
+    9.03333,
+    38.4,
+    9.03333
+],
+  "geometry": {"coordinates":[38.4,9.03333],"type":"Point"}
+}

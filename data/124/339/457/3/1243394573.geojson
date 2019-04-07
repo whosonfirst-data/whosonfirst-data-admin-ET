@@ -1,0 +1,67 @@
+{
+  "id": 1243394573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.65,10.4,42.65,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":42.65,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Adad",
+    "gn:country_code":"ET",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345556,
+    "gn:latitude":10.4,
+    "gn:longitude":42.65,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Adad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345556
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5a44d683fdfbdb910a8da18d2bb0fb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1243394573,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1243394573,
+    "wof:lastmodified":1536879696,
+    "wof:name":"Adad",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.65,
+    10.4,
+    42.65,
+    10.4
+],
+  "geometry": {"coordinates":[42.65,10.4],"type":"Point"}
+}

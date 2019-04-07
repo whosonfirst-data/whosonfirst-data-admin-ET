@@ -1,0 +1,67 @@
+{
+  "id": 1259817199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61879,9.527,39.61879,9.527",
+    "geom:latitude":9.527,
+    "geom:longitude":39.61879,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Adis Amba",
+    "gn:country_code":"ET",
+    "gn:dem":2656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560723,
+    "gn:latitude":9.527,
+    "gn:longitude":39.61879,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Adis Amba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560723
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"26ec9938fd7f7dcf5bb0a29f223bdc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1259817199,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259817199,
+    "wof:lastmodified":1536873801,
+    "wof:name":"Adis Amba",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61879,
+    9.527,
+    39.61879,
+    9.527
+],
+  "geometry": {"coordinates":[39.61879,9.527],"type":"Point"}
+}

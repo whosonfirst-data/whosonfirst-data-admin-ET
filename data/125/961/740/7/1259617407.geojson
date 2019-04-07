@@ -1,0 +1,67 @@
+{
+  "id": 1259617407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,5.83333,35.28333,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Tirma Tid",
+    "gn:country_code":"ET",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327488,
+    "gn:latitude":5.83333,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Tirma Tid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327488
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"166f44c9c21d3fb4a5bc06092da7ad58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1259617407,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1259617407,
+    "wof:lastmodified":1536665932,
+    "wof:name":"Tirma Tid",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    5.83333,
+    35.28333,
+    5.83333
+],
+  "geometry": {"coordinates":[35.28333,5.83333],"type":"Point"}
+}

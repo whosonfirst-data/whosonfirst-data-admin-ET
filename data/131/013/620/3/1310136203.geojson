@@ -1,0 +1,72 @@
+{
+  "id": 1310136203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11667,5.60944,44.11667,5.60944",
+    "geom:latitude":5.60944,
+    "geom:longitude":44.11667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Arka Adon",
+    "gn:country_code":"ET",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343502,
+    "gn:latitude":5.60944,
+    "gn:longitude":44.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100rka \u0100don",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arcadon",
+        "Arkadon",
+        "\u0100rka \u0100don"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343502
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e13184bf426012efc2f479d2b2c4979e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1310136203,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310136203,
+    "wof:lastmodified":1537622092,
+    "wof:name":"Arka Adon",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11667,
+    5.60944,
+    44.11667,
+    5.60944
+],
+  "geometry": {"coordinates":[44.11667,5.60944],"type":"Point"}
+}

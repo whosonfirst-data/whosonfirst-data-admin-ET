@@ -1,0 +1,61 @@
+{
+  "id": 1209139733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,6.61667,36.96667,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Zaffa",
+    "gn:country_code":"ET",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325755,
+    "gn:latitude":6.61667,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Zaffa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325755
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f760136f2165393a599d7123de761276",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209139733
+        }
+    ],
+    "wof:id":1209139733,
+    "wof:lastmodified":1536296543,
+    "wof:name":"Zaffa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    6.61667,
+    36.96667,
+    6.61667
+],
+  "geometry": {"coordinates":[36.96667,6.61667],"type":"Point"}
+}

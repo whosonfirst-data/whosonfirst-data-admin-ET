@@ -1,0 +1,67 @@
+{
+  "id": 1259412159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,8.28333,39.81667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Reribero",
+    "gn:country_code":"ET",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329636,
+    "gn:latitude":8.28333,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Rer\u012bbero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329636
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1b6489817ff763702f324eb116a6792a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1259412159,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259412159,
+    "wof:lastmodified":1536961302,
+    "wof:name":"Reribero",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    8.28333,
+    39.81667,
+    8.28333
+],
+  "geometry": {"coordinates":[39.81667,8.28333],"type":"Point"}
+}

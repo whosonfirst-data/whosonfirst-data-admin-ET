@@ -1,0 +1,61 @@
+{
+  "id": 1209142415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,11.03333,39.43333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Asgedo",
+    "gn:country_code":"ET",
+    "gn:dem":3330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343353,
+    "gn:latitude":11.03333,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"\u0100sgedo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343353
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fc1f2f5ffe367ac3ad2642df926d2e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209142415
+        }
+    ],
+    "wof:id":1209142415,
+    "wof:lastmodified":1536296461,
+    "wof:name":"Asgedo",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    11.03333,
+    39.43333,
+    11.03333
+],
+  "geometry": {"coordinates":[39.43333,11.03333],"type":"Point"}
+}

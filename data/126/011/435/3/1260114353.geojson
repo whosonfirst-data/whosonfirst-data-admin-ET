@@ -1,0 +1,67 @@
+{
+  "id": 1260114353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33944,12.89556,39.33944,12.89556",
+    "geom:latitude":12.89556,
+    "geom:longitude":39.33944,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Chelena",
+    "gn:country_code":"ET",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340940,
+    "gn:latitude":12.89556,
+    "gn:longitude":39.33944,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Chelena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340940
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bc8325906c1e41923ed64d2bfb109446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1260114353,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260114353,
+    "wof:lastmodified":1536944149,
+    "wof:name":"Chelena",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33944,
+    12.89556,
+    39.33944,
+    12.89556
+],
+  "geometry": {"coordinates":[39.33944,12.89556],"type":"Point"}
+}

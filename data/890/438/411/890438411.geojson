@@ -1,0 +1,90 @@
+{
+  "id": 890438411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,9.8,35.1,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":35.1,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":25239,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mendi"
+    ],
+    "name:eng_x_preferred":[
+        "Mendi"
+    ],
+    "name:fre_x_preferred":[
+        "Mendi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30f3\u30c7\u30a3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Mendi"
+    ],
+    "name:unk_x_variant":[
+        "Mandi"
+    ],
+    "qs:name":"Mend\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":438,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331038,
+        "gp:id":1318783,
+        "qs:id":1026764,
+        "wd:id":"Q3305771",
+        "wk:page":"Mendi, Ethiopia"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052193,
+    "wof:geomhash":"e72277394e1b34d56bda9ace6a77786d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":890438411,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890438411,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Mend\u012b",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:population":25239,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    9.8,
+    35.1,
+    9.8
+],
+  "geometry": {"coordinates":[35.1,9.8],"type":"Point"}
+}

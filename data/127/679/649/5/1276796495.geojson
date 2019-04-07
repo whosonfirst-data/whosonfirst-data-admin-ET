@@ -1,0 +1,74 @@
+{
+  "id": 1276796495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25,7.63333,37.25,7.63333",
+    "geom:latitude":7.63333,
+    "geom:longitude":37.25,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Omo Nada",
+    "gn:country_code":"ET",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329881,
+    "gn:latitude":7.63333,
+    "gn:longitude":37.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Omo Nada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ominada",
+        "Omnda",
+        "Omo",
+        "Omo Nada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329881,
+        "wk:page":"Omo_Nada"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cadcf25e17712f0b6ad82e33b802be96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1276796495,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276796495,
+    "wof:lastmodified":1537621931,
+    "wof:name":"Omo Nada",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25,
+    7.63333,
+    37.25,
+    7.63333
+],
+  "geometry": {"coordinates":[37.25,7.63333],"type":"Point"}
+}

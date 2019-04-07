@@ -1,0 +1,67 @@
+{
+  "id": 1226784319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33033,5.58723,35.33033,5.58723",
+    "geom:latitude":5.58723,
+    "geom:longitude":35.33033,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Doleti",
+    "gn:country_code":"ET",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338677,
+    "gn:latitude":5.58723,
+    "gn:longitude":35.33033,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Doleti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338677
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"da64a00cec8794feff8940b1ffc19fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1226784319,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1226784319,
+    "wof:lastmodified":1536660011,
+    "wof:name":"Doleti",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33033,
+    5.58723,
+    35.33033,
+    5.58723
+],
+  "geometry": {"coordinates":[35.33033,5.58723],"type":"Point"}
+}

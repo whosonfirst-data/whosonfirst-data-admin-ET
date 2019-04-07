@@ -1,0 +1,67 @@
+{
+  "id": 1343295885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51667,8.8,38.51667,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":38.51667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Indode",
+    "gn:country_code":"ET",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334198,
+    "gn:latitude":8.8,
+    "gn:longitude":38.51667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Indod\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334198
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4cdf89d9ed23ca2e47da0985c36fe659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1343295885,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343295885,
+    "wof:lastmodified":1536983061,
+    "wof:name":"Indode",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51667,
+    8.8,
+    38.51667,
+    8.8
+],
+  "geometry": {"coordinates":[38.51667,8.8],"type":"Point"}
+}

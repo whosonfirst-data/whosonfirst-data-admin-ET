@@ -1,0 +1,71 @@
+{
+  "id": 1259713977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78472,7.99194,45.78472,7.99194",
+    "geom:latitude":7.99194,
+    "geom:longitude":45.78472,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hudi",
+    "gn:country_code":"ET",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6641637,
+    "gn:latitude":7.99194,
+    "gn:longitude":45.78472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khudi",
+        "Hudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6641637
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9d7a3e3a673e235813fbc3e21ecfc58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1259713977,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259713977,
+    "wof:lastmodified":1537622125,
+    "wof:name":"Hudi",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78472,
+    7.99194,
+    45.78472,
+    7.99194
+],
+  "geometry": {"coordinates":[45.78472,7.99194],"type":"Point"}
+}

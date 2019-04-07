@@ -1,0 +1,67 @@
+{
+  "id": 1310037117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.51129,11.57874,41.51129,11.57874",
+    "geom:latitude":11.57874,
+    "geom:longitude":41.51129,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Fillamake",
+    "gn:country_code":"ET",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403512,
+    "gn:latitude":11.57874,
+    "gn:longitude":41.51129,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Fillamake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403512
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ad077c13f0493ecdfbe2bc1705606fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1310037117,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1310037117,
+    "wof:lastmodified":1537091928,
+    "wof:name":"Fillamake",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.51129,
+    11.57874,
+    41.51129,
+    11.57874
+],
+  "geometry": {"coordinates":[41.51129,11.57874],"type":"Point"}
+}

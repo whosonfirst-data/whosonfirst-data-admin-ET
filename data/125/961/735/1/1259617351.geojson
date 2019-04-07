@@ -1,0 +1,67 @@
+{
+  "id": 1259617351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67083,6.68028,44.67083,6.68028",
+    "geom:latitude":6.68028,
+    "geom:longitude":44.67083,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Durre",
+    "gn:country_code":"ET",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338382,
+    "gn:latitude":6.68028,
+    "gn:longitude":44.67083,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Durre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338382
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"db2f751f64163304b4d8aee9431ed475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1259617351,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259617351,
+    "wof:lastmodified":1536666021,
+    "wof:name":"Durre",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67083,
+    6.68028,
+    44.67083,
+    6.68028
+],
+  "geometry": {"coordinates":[44.67083,6.68028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259720525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1,8.7,36.1,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":36.1,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dabena",
+    "gn:country_code":"ET",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340345,
+    "gn:latitude":8.7,
+    "gn:longitude":36.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dabena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabena (2)",
+        "Dabena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340345
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d952a8e296b56e13dec2731372863bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1259720525,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259720525,
+    "wof:lastmodified":1537622053,
+    "wof:name":"Dabena",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1,
+    8.7,
+    36.1,
+    8.7
+],
+  "geometry": {"coordinates":[36.1,8.7],"type":"Point"}
+}

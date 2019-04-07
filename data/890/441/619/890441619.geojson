@@ -1,0 +1,66 @@
+{
+  "id": 890441619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63333,12.01667,39.63333,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":39.63333,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":20679,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rob\u012bt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329586,
+        "gp:id":28752594,
+        "qs:id":124185
+    },
+    "wof:country":"ET",
+    "wof:created":1469052330,
+    "wof:geomhash":"2c4d5b6a7b9747ab6e3d1dc47a879c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695201,
+            "locality_id":890441619,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":890441619,
+    "wof:lastmodified":1505343583,
+    "wof:name":"Rob\u012bt",
+    "wof:parent_id":1108695201,
+    "wof:placetype":"locality",
+    "wof:population":20679,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63333,
+    12.01667,
+    39.63333,
+    12.01667
+],
+  "geometry": {"coordinates":[39.63333,12.01667],"type":"Point"}
+}

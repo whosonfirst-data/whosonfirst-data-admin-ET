@@ -1,0 +1,67 @@
+{
+  "id": 1209952785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75,7.31667,35.75,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":35.75,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Jawra",
+    "gn:country_code":"ET",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333950,
+    "gn:latitude":7.31667,
+    "gn:longitude":35.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Jawra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333950
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"279ac322ca2638af62a4ecb0e687fbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695181,
+            "locality_id":1209952785,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1209952785,
+    "wof:lastmodified":1536381757,
+    "wof:name":"Jawra",
+    "wof:parent_id":1108695181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75,
+    7.31667,
+    35.75,
+    7.31667
+],
+  "geometry": {"coordinates":[35.75,7.31667],"type":"Point"}
+}

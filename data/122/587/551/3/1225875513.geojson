@@ -1,0 +1,71 @@
+{
+  "id": 1225875513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83333,5.71667,41.83333,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":41.83333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Shaki",
+    "gn:country_code":"ET",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328718,
+    "gn:latitude":5.71667,
+    "gn:longitude":41.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sciachissa",
+        "Shaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328718
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fdabefb0de9efd04310811e920c7b93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1225875513,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1225875513,
+    "wof:lastmodified":1537621920,
+    "wof:name":"Shaki",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83333,
+    5.71667,
+    41.83333,
+    5.71667
+],
+  "geometry": {"coordinates":[41.83333,5.71667],"type":"Point"}
+}

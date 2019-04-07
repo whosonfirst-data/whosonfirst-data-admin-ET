@@ -1,0 +1,67 @@
+{
+  "id": 1209952885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,9.41667,35.16667,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Utala",
+    "gn:country_code":"ET",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326768,
+    "gn:latitude":9.41667,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Utala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326768
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"718cc3e2c716b449e3614e7d729e5396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695233,
+            "locality_id":1209952885,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1209952885,
+    "wof:lastmodified":1536381642,
+    "wof:name":"Utala",
+    "wof:parent_id":1108695233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    9.41667,
+    35.16667,
+    9.41667
+],
+  "geometry": {"coordinates":[35.16667,9.41667],"type":"Point"}
+}

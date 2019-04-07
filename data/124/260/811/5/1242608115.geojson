@@ -1,0 +1,67 @@
+{
+  "id": 1242608115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76667,9.53333,37.76667,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":37.76667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sek'e Gura",
+    "gn:country_code":"ET",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328987,
+    "gn:latitude":9.53333,
+    "gn:longitude":37.76667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Sek\u2019e Gura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328987
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7a39e09dea42b07e52101539e42a65a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1242608115,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1242608115,
+    "wof:lastmodified":1537018975,
+    "wof:name":"Sek'e Gura",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76667,
+    9.53333,
+    37.76667,
+    9.53333
+],
+  "geometry": {"coordinates":[37.76667,9.53333],"type":"Point"}
+}

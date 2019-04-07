@@ -1,0 +1,71 @@
+{
+  "id": 1327467865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35139,6.74917,44.35139,6.74917",
+    "geom:latitude":6.74917,
+    "geom:longitude":44.35139,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Tulli",
+    "gn:country_code":"ET",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327251,
+    "gn:latitude":6.74917,
+    "gn:longitude":44.35139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guglu",
+        "Tulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327251
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cb1c2a07b3a0249fc902b3ba67e25d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1327467865,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1327467865,
+    "wof:lastmodified":1537621905,
+    "wof:name":"Tulli",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35139,
+    6.74917,
+    44.35139,
+    6.74917
+],
+  "geometry": {"coordinates":[44.35139,6.74917],"type":"Point"}
+}

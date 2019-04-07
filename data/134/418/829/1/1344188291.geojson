@@ -1,0 +1,67 @@
+{
+  "id": 1344188291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76667,12.56667,39.76667,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":39.76667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Aba Jebano",
+    "gn:country_code":"ET",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345329,
+    "gn:latitude":12.56667,
+    "gn:longitude":39.76667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100d\u012b \u0100ba Jebano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345329
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b2fd26864705685135a240875ee4d2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1344188291,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1344188291,
+    "wof:lastmodified":1536691374,
+    "wof:name":"Adi Aba Jebano",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76667,
+    12.56667,
+    39.76667,
+    12.56667
+],
+  "geometry": {"coordinates":[39.76667,12.56667],"type":"Point"}
+}

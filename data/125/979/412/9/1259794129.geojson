@@ -1,0 +1,67 @@
+{
+  "id": 1259794129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56345,14.17505,39.56345,14.17505",
+    "geom:latitude":14.17505,
+    "geom:longitude":39.56345,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Saesie-Tsaedaem",
+    "gn:country_code":"ET",
+    "gn:dem":2644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643640,
+    "gn:latitude":14.17505,
+    "gn:longitude":39.56345,
+    "gn:modification_date":"2013-12-04",
+    "gn:name":"Saesie-Tsaedaem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643640
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"73e5a5023d045c4d67853b40b45a970c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1259794129,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259794129,
+    "wof:lastmodified":1536908022,
+    "wof:name":"Saesie-Tsaedaem",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56345,
+    14.17505,
+    39.56345,
+    14.17505
+],
+  "geometry": {"coordinates":[39.56345,14.17505],"type":"Point"}
+}

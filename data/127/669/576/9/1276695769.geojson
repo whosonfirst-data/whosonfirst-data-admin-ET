@@ -1,0 +1,67 @@
+{
+  "id": 1276695769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,8.08333,35.66667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lek'a",
+    "gn:country_code":"ET",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332140,
+    "gn:latitude":8.08333,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"L\u0113k\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332140
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5386544513f1dae63c9f559c58d6e097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1276695769,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276695769,
+    "wof:lastmodified":1536790396,
+    "wof:name":"Lek'a",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    8.08333,
+    35.66667,
+    8.08333
+],
+  "geometry": {"coordinates":[35.66667,8.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293622907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7199,13.89704,39.7199,13.89704",
+    "geom:latitude":13.89704,
+    "geom:longitude":39.7199,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"K'uret",
+    "gn:country_code":"ET",
+    "gn:dem":2740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332454,
+    "gn:latitude":13.89704,
+    "gn:longitude":39.7199,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019uret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019uret (2)",
+        "K\u2019uret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332454
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3ac0a7bfaf773fe89bd9a18239c2168f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1293622907,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293622907,
+    "wof:lastmodified":1537621960,
+    "wof:name":"K'uret",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7199,
+    13.89704,
+    39.7199,
+    13.89704
+],
+  "geometry": {"coordinates":[39.7199,13.89704],"type":"Point"}
+}

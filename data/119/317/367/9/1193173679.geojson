@@ -1,0 +1,71 @@
+{
+  "id": 1193173679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7,4.28333,39.7,4.28333",
+    "geom:latitude":4.28333,
+    "geom:longitude":39.7,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dakka Dima",
+    "gn:country_code":"ET",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340180,
+    "gn:latitude":4.28333,
+    "gn:longitude":39.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dakka Dima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dacc\u00e0 Dim\u00e0",
+        "Dakka Dima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340180
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76eea0d3ef3d155c94f301a4bf9d46a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1193173679,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1193173679,
+    "wof:lastmodified":1537622052,
+    "wof:name":"Dakka Dima",
+    "wof:parent_id":1108695187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7,
+    4.28333,
+    39.7,
+    4.28333
+],
+  "geometry": {"coordinates":[39.7,4.28333],"type":"Point"}
+}

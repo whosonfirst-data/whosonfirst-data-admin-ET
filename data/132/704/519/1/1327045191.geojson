@@ -1,0 +1,67 @@
+{
+  "id": 1327045191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.57843,7.26865,40.57843,7.26865",
+    "geom:latitude":7.26865,
+    "geom:longitude":40.57843,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Weltahi Atota, Waltahii Atootta",
+    "gn:country_code":"ET",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11001331,
+    "gn:latitude":7.26865,
+    "gn:longitude":40.57843,
+    "gn:modification_date":"2015-12-15",
+    "gn:name":"Weltahi Atota, Waltahii Atootta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11001331
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d5be824f48c98497b7889f29f4a7f806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1327045191,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327045191,
+    "wof:lastmodified":1536741716,
+    "wof:name":"Weltahi Atota, Waltahii Atootta",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.57843,
+    7.26865,
+    40.57843,
+    7.26865
+],
+  "geometry": {"coordinates":[40.57843,7.26865],"type":"Point"}
+}

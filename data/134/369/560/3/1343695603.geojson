@@ -1,0 +1,67 @@
+{
+  "id": 1343695603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0,10.0,36.0,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":36.0,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Yaso",
+    "gn:country_code":"ET",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643785,
+    "gn:latitude":10.0,
+    "gn:longitude":36.0,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Yaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643785
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4cb0b3111b1aa17bcbb26c8e0a011897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695179,
+            "locality_id":1343695603,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1343695603,
+    "wof:lastmodified":1536904610,
+    "wof:name":"Yaso",
+    "wof:parent_id":1108695179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0,
+    10.0,
+    36.0,
+    10.0
+],
+  "geometry": {"coordinates":[36.0,10.0],"type":"Point"}
+}

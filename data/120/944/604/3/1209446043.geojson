@@ -1,0 +1,61 @@
+{
+  "id": 1209446043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71667,9.03333,37.71667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":37.71667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wemetu",
+    "gn:country_code":"ET",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326334,
+    "gn:latitude":9.03333,
+    "gn:longitude":37.71667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wemetu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326334
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5f298874d55743bff1a15e7daefa9d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209446043
+        }
+    ],
+    "wof:id":1209446043,
+    "wof:lastmodified":1536286815,
+    "wof:name":"Wemetu",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71667,
+    9.03333,
+    37.71667,
+    9.03333
+],
+  "geometry": {"coordinates":[37.71667,9.03333],"type":"Point"}
+}

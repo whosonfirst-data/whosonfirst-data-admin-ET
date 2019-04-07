@@ -1,0 +1,67 @@
+{
+  "id": 1242714211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78528,9.51306,41.78528,9.51306",
+    "geom:latitude":9.51306,
+    "geom:longitude":41.78528,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Halo",
+    "gn:country_code":"ET",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335203,
+    "gn:latitude":9.51306,
+    "gn:longitude":41.78528,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Halo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335203
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3d38642f758c0a7edc34838f570d3609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "locality_id":1242714211,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":1242714211,
+    "wof:lastmodified":1536865632,
+    "wof:name":"Halo",
+    "wof:parent_id":421190257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78528,
+    9.51306,
+    41.78528,
+    9.51306
+],
+  "geometry": {"coordinates":[41.78528,9.51306],"type":"Point"}
+}

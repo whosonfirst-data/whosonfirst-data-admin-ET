@@ -1,0 +1,67 @@
+{
+  "id": 1310236247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88333,9.06667,38.88333,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":38.88333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lege T'afo",
+    "gn:country_code":"ET",
+    "gn:dem":2460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332154,
+    "gn:latitude":9.06667,
+    "gn:longitude":38.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Lege T\u2019afo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149,
+        1108695113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332154
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3f602e07f779ab109a8bda55b1bc6e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695113,
+            "locality_id":1310236247,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1310236247,
+    "wof:lastmodified":1536807629,
+    "wof:name":"Lege T'afo",
+    "wof:parent_id":1108695113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88333,
+    9.06667,
+    38.88333,
+    9.06667
+],
+  "geometry": {"coordinates":[38.88333,9.06667],"type":"Point"}
+}

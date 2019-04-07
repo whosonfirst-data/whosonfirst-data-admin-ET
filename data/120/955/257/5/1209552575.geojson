@@ -1,0 +1,65 @@
+{
+  "id": 1209552575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04417,12.98417,37.04417,12.98417",
+    "geom:latitude":12.98417,
+    "geom:longitude":37.04417,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Tikil Dingay",
+    "gn:country_code":"ET",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327567,
+    "gn:latitude":12.98417,
+    "gn:longitude":37.04417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tikil Dingay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikil Dingai",
+        "Tikil Dingay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327567
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5f60a7df4f7b9a51c70c53f030f99c76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209552575
+        }
+    ],
+    "wof:id":1209552575,
+    "wof:lastmodified":1537621908,
+    "wof:name":"Tikil Dingay",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04417,
+    12.98417,
+    37.04417,
+    12.98417
+],
+  "geometry": {"coordinates":[37.04417,12.98417],"type":"Point"}
+}

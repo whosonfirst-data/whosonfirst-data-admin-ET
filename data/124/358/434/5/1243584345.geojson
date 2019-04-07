@@ -1,0 +1,71 @@
+{
+  "id": 1243584345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16667,5.98333,41.16667,5.98333",
+    "geom:latitude":5.98333,
+    "geom:longitude":41.16667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Haro Munna",
+    "gn:country_code":"ET",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334927,
+    "gn:latitude":5.98333,
+    "gn:longitude":41.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haro Munna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ara Munna",
+        "Haro Munna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334927
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"02e25ef9fdf7f8b6f4eae48cf3d3979d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1243584345,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1243584345,
+    "wof:lastmodified":1537621992,
+    "wof:name":"Haro Munna",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16667,
+    5.98333,
+    41.16667,
+    5.98333
+],
+  "geometry": {"coordinates":[41.16667,5.98333],"type":"Point"}
+}

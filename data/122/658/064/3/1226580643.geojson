@@ -1,0 +1,77 @@
+{
+  "id": 1226580643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03472,12.63056,39.03472,12.63056",
+    "geom:latitude":12.63056,
+    "geom:longitude":39.03472,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sek'ot'a",
+    "gn:country_code":"ET",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328962,
+    "gn:latitude":12.63056,
+    "gn:longitude":39.03472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sek\u2019ot\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Socata",
+        "Sacaya",
+        "Socota",
+        "Sak\u2019ot\u2019\u0101",
+        "Saqot\u2019a",
+        "Sokota",
+        "Soketa",
+        "Sek\u2019ot\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328962
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"577780d5eec08c8f083c194332ea63bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695225,
+            "locality_id":1226580643,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226580643,
+    "wof:lastmodified":1537621923,
+    "wof:name":"Sek'ot'a",
+    "wof:parent_id":1108695225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03472,
+    12.63056,
+    39.03472,
+    12.63056
+],
+  "geometry": {"coordinates":[39.03472,12.63056],"type":"Point"}
+}

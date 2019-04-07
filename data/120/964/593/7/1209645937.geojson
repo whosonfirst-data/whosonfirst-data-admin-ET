@@ -1,0 +1,65 @@
+{
+  "id": 1209645937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41667,8.88333,39.41667,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":39.41667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Wegidi",
+    "gn:country_code":"ET",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326483,
+    "gn:latitude":8.88333,
+    "gn:longitude":39.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Weg\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weg\u012bd\u012b (2)",
+        "Weg\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326483
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dfad08dd3d4d41bf0b4381ca9effebe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209645937
+        }
+    ],
+    "wof:id":1209645937,
+    "wof:lastmodified":1537621896,
+    "wof:name":"Wegidi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41667,
+    8.88333,
+    39.41667,
+    8.88333
+],
+  "geometry": {"coordinates":[39.41667,8.88333],"type":"Point"}
+}

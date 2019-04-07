@@ -1,0 +1,67 @@
+{
+  "id": 1276801521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45,13.88333,39.45,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":39.45,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bet Mika'el",
+    "gn:country_code":"ET",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342220,
+    "gn:latitude":13.88333,
+    "gn:longitude":39.45,
+    "gn:modification_date":"2008-01-02",
+    "gn:name":"Bet M\u012bka\u2019\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342220
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65989aa4008ed7421547ff3dfbe80f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1276801521,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276801521,
+    "wof:lastmodified":1536648226,
+    "wof:name":"Bet Mika'el",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45,
+    13.88333,
+    39.45,
+    13.88333
+],
+  "geometry": {"coordinates":[39.45,13.88333],"type":"Point"}
+}

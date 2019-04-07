@@ -1,0 +1,61 @@
+{
+  "id": 1209035453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26667,10.0,38.26667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":38.26667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gebeya Guba",
+    "gn:country_code":"ET",
+    "gn:dem":2505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337172,
+    "gn:latitude":10.0,
+    "gn:longitude":38.26667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gebeya Guba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337172
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"689d19ecada03064bf75f9deddce0109",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209035453
+        }
+    ],
+    "wof:id":1209035453,
+    "wof:lastmodified":1536299716,
+    "wof:name":"Gebeya Guba",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26667,
+    10.0,
+    38.26667,
+    10.0
+],
+  "geometry": {"coordinates":[38.26667,10.0],"type":"Point"}
+}

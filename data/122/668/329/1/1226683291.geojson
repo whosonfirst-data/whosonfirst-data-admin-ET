@@ -1,0 +1,71 @@
+{
+  "id": 1226683291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85194,6.90722,45.85194,6.90722",
+    "geom:latitude":6.90722,
+    "geom:longitude":45.85194,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Mirefaratag",
+    "gn:country_code":"ET",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330598,
+    "gn:latitude":6.90722,
+    "gn:longitude":45.85194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mirefaratag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirefatag",
+        "Mirefaratag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330598
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7326325d6fd3104057e3d097ff81f81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1226683291,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1226683291,
+    "wof:lastmodified":1537621939,
+    "wof:name":"Mirefaratag",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85194,
+    6.90722,
+    45.85194,
+    6.90722
+],
+  "geometry": {"coordinates":[45.85194,6.90722],"type":"Point"}
+}

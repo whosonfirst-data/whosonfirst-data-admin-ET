@@ -1,0 +1,71 @@
+{
+  "id": 1276370733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54194,9.53611,42.54194,9.53611",
+    "geom:latitude":9.53611,
+    "geom:longitude":42.54194,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Giri K'och'er",
+    "gn:country_code":"ET",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336400,
+    "gn:latitude":9.53611,
+    "gn:longitude":42.54194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"G\u012br\u012b K\u2019och\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goggiar",
+        "G\u012br\u012b K\u2019och\u2019er"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336400
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b5f4a02c756c846c1a4d18f343ab94bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1276370733,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276370733,
+    "wof:lastmodified":1537622009,
+    "wof:name":"Giri K'och'er",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54194,
+    9.53611,
+    42.54194,
+    9.53611
+],
+  "geometry": {"coordinates":[42.54194,9.53611],"type":"Point"}
+}

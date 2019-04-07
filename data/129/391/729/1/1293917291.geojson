@@ -1,0 +1,71 @@
+{
+  "id": 1293917291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.74167,9.58472,41.74167,9.58472",
+    "geom:latitude":9.58472,
+    "geom:longitude":41.74167,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dire Jara",
+    "gn:country_code":"ET",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338822,
+    "gn:latitude":9.58472,
+    "gn:longitude":41.74167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dir\u0113 Jara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u012bre Jara (2)",
+        "Dir\u0113 Jara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338822
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"efaeeff766bf87d91d2f6a4ca2029637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1293917291,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293917291,
+    "wof:lastmodified":1537622035,
+    "wof:name":"Dire Jara",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.74167,
+    9.58472,
+    41.74167,
+    9.58472
+],
+  "geometry": {"coordinates":[41.74167,9.58472],"type":"Point"}
+}

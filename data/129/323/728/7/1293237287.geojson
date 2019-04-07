@@ -1,0 +1,67 @@
+{
+  "id": 1293237287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95,8.05,38.95,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":38.95,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Golbe",
+    "gn:country_code":"ET",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336141,
+    "gn:latitude":8.05,
+    "gn:longitude":38.95,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Golb\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336141
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ab782347f0bc3b4523bf7e56a5b2f7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1293237287,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293237287,
+    "wof:lastmodified":1536650539,
+    "wof:name":"Golbe",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95,
+    8.05,
+    38.95,
+    8.05
+],
+  "geometry": {"coordinates":[38.95,8.05],"type":"Point"}
+}

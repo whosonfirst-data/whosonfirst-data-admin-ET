@@ -1,0 +1,67 @@
+{
+  "id": 1343888693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.48933,10.05439,42.48933,10.05439",
+    "geom:latitude":10.05439,
+    "geom:longitude":42.48933,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Biyo Anod",
+    "gn:country_code":"ET",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445001,
+    "gn:latitude":10.05439,
+    "gn:longitude":42.48933,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Biyo Anod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445001
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4613d37ec37d84a0582265ff43680a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1343888693,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343888693,
+    "wof:lastmodified":1536623991,
+    "wof:name":"Biyo Anod",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.48933,
+    10.05439,
+    42.48933,
+    10.05439
+],
+  "geometry": {"coordinates":[42.48933,10.05439],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226778811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23333,9.91667,38.23333,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":38.23333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Negade",
+    "gn:country_code":"ET",
+    "gn:dem":2548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330147,
+    "gn:latitude":9.91667,
+    "gn:longitude":38.23333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Negad\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330147
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0e59bfc9f32b6fe4fc658301b0c75d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1226778811,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226778811,
+    "wof:lastmodified":1536668031,
+    "wof:name":"Negade",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23333,
+    9.91667,
+    38.23333,
+    9.91667
+],
+  "geometry": {"coordinates":[38.23333,9.91667],"type":"Point"}
+}

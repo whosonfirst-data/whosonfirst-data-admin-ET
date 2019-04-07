@@ -1,0 +1,77 @@
+{
+  "id": 1276912263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59777,13.94031,39.59777,13.94031",
+    "geom:latitude":13.94031,
+    "geom:longitude":39.59777,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Abbaghie",
+    "gn:country_code":"ET",
+    "gn:dem":2408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345324,
+    "gn:latitude":13.94031,
+    "gn:longitude":39.59777,
+    "gn:modification_date":"2017-10-08",
+    "gn:name":"Adi Abbaghie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_historical":[
+        "Adi Bagh\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Adi Bagh\u00e8"
+    ],
+    "name:und_x_variant":[
+        "Addi Abbag'ye",
+        "Sinkata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345324
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4cd9017311947561b92a802eb090e5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1276912263,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276912263,
+    "wof:lastmodified":1537622116,
+    "wof:name":"Adi Abbaghie",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59777,
+    13.94031,
+    39.59777,
+    13.94031
+],
+  "geometry": {"coordinates":[39.59777,13.94031],"type":"Point"}
+}

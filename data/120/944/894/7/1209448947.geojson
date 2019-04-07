@@ -1,0 +1,61 @@
+{
+  "id": 1209448947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,12.73333,39.55,12.73333",
+    "geom:latitude":12.73333,
+    "geom:longitude":39.55,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Amshashi",
+    "gn:country_code":"ET",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345290,
+    "gn:latitude":12.73333,
+    "gn:longitude":39.55,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100d\u012b \u0100mshash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345290
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"351705595826db5f33635b9e5b207559",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209448947
+        }
+    ],
+    "wof:id":1209448947,
+    "wof:lastmodified":1536286731,
+    "wof:name":"Adi Amshashi",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    12.73333,
+    39.55,
+    12.73333
+],
+  "geometry": {"coordinates":[39.55,12.73333],"type":"Point"}
+}

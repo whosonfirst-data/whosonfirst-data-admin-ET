@@ -1,0 +1,61 @@
+{
+  "id": 1209445897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9,11.31667,39.9,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":39.9,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ch'ifeta",
+    "gn:country_code":"ET",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340801,
+    "gn:latitude":11.31667,
+    "gn:longitude":39.9,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Ch\u2019\u012bfeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340801
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e553bd1aa3596ed717b1ce5e2d1078c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209445897
+        }
+    ],
+    "wof:id":1209445897,
+    "wof:lastmodified":1536286820,
+    "wof:name":"Ch'ifeta",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9,
+    11.31667,
+    39.9,
+    11.31667
+],
+  "geometry": {"coordinates":[39.9,11.31667],"type":"Point"}
+}

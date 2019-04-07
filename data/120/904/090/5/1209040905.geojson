@@ -1,0 +1,67 @@
+{
+  "id": 1209040905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31667,11.5,39.31667,11.5",
+    "geom:latitude":11.5,
+    "geom:longitude":39.31667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Aba Wat'",
+    "gn:country_code":"ET",
+    "gn:dem":2218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345851,
+    "gn:latitude":11.5,
+    "gn:longitude":39.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100ba Wat\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baba",
+        "\u0100ba Wat\u2019 (1)",
+        "Alebamba",
+        "\u0100ba Wat\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345851
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bd64ae02636ef3e01c1def6fd81332c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209040905
+        }
+    ],
+    "wof:id":1209040905,
+    "wof:lastmodified":1537622121,
+    "wof:name":"Aba Wat'",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31667,
+    11.5,
+    39.31667,
+    11.5
+],
+  "geometry": {"coordinates":[39.31667,11.5],"type":"Point"}
+}

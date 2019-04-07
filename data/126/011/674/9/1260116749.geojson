@@ -1,0 +1,67 @@
+{
+  "id": 1260116749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25,9.73333,37.25,9.73333",
+    "geom:latitude":9.73333,
+    "geom:longitude":37.25,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Wedesa",
+    "gn:country_code":"ET",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326528,
+    "gn:latitude":9.73333,
+    "gn:longitude":37.25,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Wed\u0113sa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326528
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5d42cd34fdb99f3af977425a0789475f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1260116749,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260116749,
+    "wof:lastmodified":1536940774,
+    "wof:name":"Wedesa",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25,
+    9.73333,
+    37.25,
+    9.73333
+],
+  "geometry": {"coordinates":[37.25,9.73333],"type":"Point"}
+}

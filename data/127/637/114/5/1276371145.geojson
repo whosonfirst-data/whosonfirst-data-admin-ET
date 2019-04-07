@@ -1,0 +1,67 @@
+{
+  "id": 1276371145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59583,5.29778,44.59583,5.29778",
+    "geom:latitude":5.29778,
+    "geom:longitude":44.59583,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Dagal",
+    "gn:country_code":"ET",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311146,
+    "gn:latitude":5.29778,
+    "gn:longitude":44.59583,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Dagal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311146
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"72a94068e93832a0ce090fbec4f5811f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1276371145,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276371145,
+    "wof:lastmodified":1536728326,
+    "wof:name":"Dagal",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59583,
+    5.29778,
+    44.59583,
+    5.29778
+],
+  "geometry": {"coordinates":[44.59583,5.29778],"type":"Point"}
+}

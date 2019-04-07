@@ -1,0 +1,72 @@
+{
+  "id": 1343497251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35,7.2,35.35,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":35.35,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Yeki",
+    "gn:country_code":"ET",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325910,
+    "gn:latitude":7.2,
+    "gn:longitude":35.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yek\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iechi",
+        "Yek\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325910,
+        "wk:page":"Yeki"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2ccadf02303aee67135017fc54c530e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695217,
+            "locality_id":1343497251,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343497251,
+    "wof:lastmodified":1537621889,
+    "wof:name":"Yeki",
+    "wof:parent_id":1108695217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35,
+    7.2,
+    35.35,
+    7.2
+],
+  "geometry": {"coordinates":[35.35,7.2],"type":"Point"}
+}

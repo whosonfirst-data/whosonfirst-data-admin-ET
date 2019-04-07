@@ -1,0 +1,71 @@
+{
+  "id": 1309841925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18556,14.41694,38.18556,14.41694",
+    "geom:latitude":14.41694,
+    "geom:longitude":38.18556,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Gubata",
+    "gn:country_code":"ET",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335783,
+    "gn:latitude":14.41694,
+    "gn:longitude":38.18556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gubata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokud Emni",
+        "Gubata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335783
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c48b4b254abbe5ae295529881237caf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1309841925,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1309841925,
+    "wof:lastmodified":1537622002,
+    "wof:name":"Gubata",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18556,
+    14.41694,
+    38.18556,
+    14.41694
+],
+  "geometry": {"coordinates":[38.18556,14.41694],"type":"Point"}
+}

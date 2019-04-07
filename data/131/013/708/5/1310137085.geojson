@@ -1,0 +1,75 @@
+{
+  "id": 1310137085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35,12.18333,38.35,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":38.35,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mek'et'ewa",
+    "gn:country_code":"ET",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331166,
+    "gn:latitude":12.18333,
+    "gn:longitude":38.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mek\u2019et\u2019ewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechetoa",
+        "Mak\u2019at\u2019awa",
+        "Mechiet",
+        "Maqat\u2019aw\u0101",
+        "Mecheloa",
+        "Mek\u2019et\u2019ewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331166
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8243f157e91bc881195c17ab31f9d86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1310137085,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1310137085,
+    "wof:lastmodified":1537621946,
+    "wof:name":"Mek'et'ewa",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35,
+    12.18333,
+    38.35,
+    12.18333
+],
+  "geometry": {"coordinates":[38.35,12.18333],"type":"Point"}
+}

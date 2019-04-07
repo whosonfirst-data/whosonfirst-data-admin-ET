@@ -1,0 +1,61 @@
+{
+  "id": 1209136375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,8.28333,34.66667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Tocanu",
+    "gn:country_code":"ET",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327451,
+    "gn:latitude":8.28333,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Tocanu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327451
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8de9e771d97c7b95f55f5edb95cb1f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209136375
+        }
+    ],
+    "wof:id":1209136375,
+    "wof:lastmodified":1536296647,
+    "wof:name":"Tocanu",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    8.28333,
+    34.66667,
+    8.28333
+],
+  "geometry": {"coordinates":[34.66667,8.28333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276374021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.99659,13.86313,40.99659,13.86313",
+    "geom:latitude":13.86313,
+    "geom:longitude":40.99659,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Aiuman",
+    "gn:country_code":"ET",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344492,
+    "gn:latitude":13.86313,
+    "gn:longitude":40.99659,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aiuman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajuman",
+        "Aiuman",
+        "Ayuman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344492
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0a408df9b00f5cde224f2ca0fa060122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1276374021,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1276374021,
+    "wof:lastmodified":1537622102,
+    "wof:name":"Aiuman",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.99659000000001,
+    13.86313,
+    40.99659000000001,
+    13.86313
+],
+  "geometry": {"coordinates":[40.99659000000001,13.86313],"type":"Point"}
+}

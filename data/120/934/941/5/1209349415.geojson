@@ -1,0 +1,61 @@
+{
+  "id": 1209349415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,11.1,38.93333,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":38.93333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lebet",
+    "gn:country_code":"ET",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332202,
+    "gn:latitude":11.1,
+    "gn:longitude":38.93333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Lebet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332202
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c446a6b8942ca59346f6c6b596e67c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209349415
+        }
+    ],
+    "wof:id":1209349415,
+    "wof:lastmodified":1536289796,
+    "wof:name":"Lebet",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    11.1,
+    38.93333,
+    11.1
+],
+  "geometry": {"coordinates":[38.93333,11.1],"type":"Point"}
+}

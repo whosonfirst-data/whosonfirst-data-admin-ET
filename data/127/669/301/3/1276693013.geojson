@@ -1,0 +1,67 @@
+{
+  "id": 1276693013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33333,8.45,38.33333,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":38.33333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dula",
+    "gn:country_code":"ET",
+    "gn:dem":2648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338478,
+    "gn:latitude":8.45,
+    "gn:longitude":38.33333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Dula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338478
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6ecbf3ee7e6953508ed902821202f410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1276693013,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276693013,
+    "wof:lastmodified":1536794045,
+    "wof:name":"Dula",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33333,
+    8.45,
+    38.33333,
+    8.45
+],
+  "geometry": {"coordinates":[38.33333,8.45],"type":"Point"}
+}

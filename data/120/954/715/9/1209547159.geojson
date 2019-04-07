@@ -1,0 +1,73 @@
+{
+  "id": 1209547159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63079,9.95433,39.63079,9.95433",
+    "geom:latitude":9.95433,
+    "geom:longitude":39.63079,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sela Dingay",
+    "gn:country_code":"ET",
+    "gn:dem":2866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328953,
+    "gn:latitude":9.95433,
+    "gn:longitude":39.63079,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sela Dingay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahla Dengai",
+        "Salla Dingai",
+        "Sal\u0101 Deng\u0101y",
+        "Sahala",
+        "Sala Dingai",
+        "Sabala",
+        "Sabala Dingai",
+        "Sela Dingay",
+        "Sela Dengay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328953,
+        "wk:page":"Sela_Dingay"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8081ad9a911c96a16cce84e690507996",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209547159
+        }
+    ],
+    "wof:id":1209547159,
+    "wof:lastmodified":1537621923,
+    "wof:name":"Sela Dingay",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63079000000001,
+    9.95433,
+    39.63079000000001,
+    9.95433
+],
+  "geometry": {"coordinates":[39.63079000000001,9.95433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243488477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05577,9.16297,40.05577,9.16297",
+    "geom:latitude":9.16297,
+    "geom:longitude":40.05577,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Galoch",
+    "gn:country_code":"ET",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337421,
+    "gn:latitude":9.16297,
+    "gn:longitude":40.05577,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Galoch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337421
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"49e04e880db7dff9d9e516e046fa1db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695247,
+            "locality_id":1243488477,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1243488477,
+    "wof:lastmodified":1536744625,
+    "wof:name":"Galoch",
+    "wof:parent_id":1108695247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05577,
+    9.16297,
+    40.05577,
+    9.16297
+],
+  "geometry": {"coordinates":[40.05577,9.16297],"type":"Point"}
+}

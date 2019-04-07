@@ -1,0 +1,61 @@
+{
+  "id": 1209645847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.01667,12.81667,39.01667,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":39.01667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Liktaba",
+    "gn:country_code":"ET",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332000,
+    "gn:latitude":12.81667,
+    "gn:longitude":39.01667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Liktaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332000
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"205cc795d4313d9f7fd5ad4103b828dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209645847
+        }
+    ],
+    "wof:id":1209645847,
+    "wof:lastmodified":1536280738,
+    "wof:name":"Liktaba",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.01667,
+    12.81667,
+    39.01667,
+    12.81667
+],
+  "geometry": {"coordinates":[39.01667,12.81667],"type":"Point"}
+}

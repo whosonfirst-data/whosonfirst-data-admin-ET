@@ -1,0 +1,67 @@
+{
+  "id": 1259620419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20743,13.64157,39.20743,13.64157",
+    "geom:latitude":13.64157,
+    "geom:longitude":39.20743,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Dingilat",
+    "gn:country_code":"ET",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338895,
+    "gn:latitude":13.64157,
+    "gn:longitude":39.20743,
+    "gn:modification_date":"2008-01-02",
+    "gn:name":"Dingilat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338895
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ddb51c61dde03e8c19e8e648103a5b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1259620419,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259620419,
+    "wof:lastmodified":1536661422,
+    "wof:name":"Dingilat",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20743,
+    13.64157,
+    39.20743,
+    13.64157
+],
+  "geometry": {"coordinates":[39.20743,13.64157],"type":"Point"}
+}

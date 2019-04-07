@@ -1,0 +1,90 @@
+{
+  "id": 890431223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.78333,7.06667,38.78333,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":38.78333,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":9643,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u8cbb\u840a"
+    ],
+    "name:dut_x_preferred":[
+        "Kofele"
+    ],
+    "name:eng_x_preferred":[
+        "Kofele"
+    ],
+    "name:fre_x_preferred":[
+        "Kofele"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0444\u0435\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kofel\u0113"
+    ],
+    "name:unk_x_variant":[
+        "Cofole"
+    ],
+    "qs:name":"Kofel\u0113",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":436,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332938,
+        "gp:id":1318108,
+        "qs:id":274886,
+        "wd:id":"Q934205",
+        "wk:page":"Kofele"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051882,
+    "wof:geomhash":"f104256b0d9d1fa536d7528472f9ee7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":890431223,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890431223,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Kofel\u0113",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:population":9643,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.78333,
+    7.06667,
+    38.78333,
+    7.06667
+],
+  "geometry": {"coordinates":[38.78333,7.06667],"type":"Point"}
+}

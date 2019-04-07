@@ -1,0 +1,71 @@
+{
+  "id": 1259620661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52978,9.77783,39.52978,9.77783",
+    "geom:latitude":9.77783,
+    "geom:longitude":39.52978,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zendegur",
+    "gn:country_code":"ET",
+    "gn:dem":2543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325654,
+    "gn:latitude":9.77783,
+    "gn:longitude":39.52978,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Zendegur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabuor",
+        "Zendegur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325654
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"11d35d6a0cc6dbbb659470ce37de7cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1259620661,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259620661,
+    "wof:lastmodified":1537621886,
+    "wof:name":"Zendegur",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52978,
+    9.77783,
+    39.52978,
+    9.77783
+],
+  "geometry": {"coordinates":[39.52978,9.77783],"type":"Point"}
+}

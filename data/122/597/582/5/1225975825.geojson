@@ -1,0 +1,72 @@
+{
+  "id": 1225975825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76333,9.58556,41.76333,9.58556",
+    "geom:latitude":9.58556,
+    "geom:longitude":41.76333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Melka Jebdu",
+    "gn:country_code":"ET",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331101,
+    "gn:latitude":9.58556,
+    "gn:longitude":41.76333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Melka Jebdu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melka Jebdu (1)",
+        "Melka Jebdu (2)",
+        "Melka Jebdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331101
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"820b80b76ff31b754ccd6a1602fa388e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "locality_id":1225975825,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":1225975825,
+    "wof:lastmodified":1537621946,
+    "wof:name":"Melka Jebdu",
+    "wof:parent_id":421190257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76333,
+    9.58556,
+    41.76333,
+    9.58556
+],
+  "geometry": {"coordinates":[41.76333,9.58556],"type":"Point"}
+}

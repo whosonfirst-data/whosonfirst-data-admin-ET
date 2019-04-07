@@ -1,0 +1,74 @@
+{
+  "id": 1242909343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90567,6.46725,35.90567,6.46725",
+    "geom:latitude":6.46725,
+    "geom:longitude":35.90567,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Shasha",
+    "gn:country_code":"ET",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328694,
+    "gn:latitude":6.46725,
+    "gn:longitude":35.90567,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Shasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shasha Post"
+    ],
+    "name:und_x_variant":[
+        "Sciascia",
+        "Shasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328694
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5c015f0dbe8ea770a34ddf8e28fd912b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1242909343,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1242909343,
+    "wof:lastmodified":1537621920,
+    "wof:name":"Shasha",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90567,
+    6.46725,
+    35.90567,
+    6.46725
+],
+  "geometry": {"coordinates":[35.90567,6.46725],"type":"Point"}
+}

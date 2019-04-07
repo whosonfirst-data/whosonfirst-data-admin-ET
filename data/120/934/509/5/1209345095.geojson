@@ -1,0 +1,70 @@
+{
+  "id": 1209345095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.19602,9.52935,41.19602,9.52935",
+    "geom:latitude":9.52935,
+    "geom:longitude":41.19602,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bikki",
+    "gn:country_code":"ET",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342147,
+    "gn:latitude":9.52935,
+    "gn:longitude":41.19602,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bikki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biki",
+        "Bicch\u00e8",
+        "Bikki",
+        "Biche",
+        "Bicket",
+        "B\u012bk\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342147,
+        "wk:page":"Bike%2C_Ethiopia"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"de3b8c8505ff660d795f3cdf496bd170",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209345095
+        }
+    ],
+    "wof:id":1209345095,
+    "wof:lastmodified":1537622074,
+    "wof:name":"Bikki",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.19602,
+    9.52935,
+    41.19602,
+    9.52935
+],
+  "geometry": {"coordinates":[41.19602,9.52935],"type":"Point"}
+}

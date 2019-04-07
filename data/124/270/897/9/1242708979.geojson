@@ -1,0 +1,72 @@
+{
+  "id": 1242708979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48333,11.23333,37.48333,11.23333",
+    "geom:latitude":11.23333,
+    "geom:longitude":37.48333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zera Biruk",
+    "gn:country_code":"ET",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325647,
+    "gn:latitude":11.23333,
+    "gn:longitude":37.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zera Biruk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarabruk",
+        "Zarabruc",
+        "Zera Biruk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325647
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6601f3821ab5e2b299f244c0d5b7a7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1242708979,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1242708979,
+    "wof:lastmodified":1537621886,
+    "wof:name":"Zera Biruk",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48333,
+    11.23333,
+    37.48333,
+    11.23333
+],
+  "geometry": {"coordinates":[37.48333,11.23333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343697873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70284,13.98128,39.70284,13.98128",
+    "geom:latitude":13.98128,
+    "geom:longitude":39.70284,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Inda Mesk'el",
+    "gn:country_code":"ET",
+    "gn:dem":2838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334236,
+    "gn:latitude":13.98128,
+    "gn:longitude":39.70284,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inda Mesk\u2019el",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inda Mesk\u2019el",
+        "Irda Meskel'"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334236
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cbc35bd99a278a76b6e72788e7551904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1343697873,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1343697873,
+    "wof:lastmodified":1537621982,
+    "wof:name":"Inda Mesk'el",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70284,
+    13.98128,
+    39.70284,
+    13.98128
+],
+  "geometry": {"coordinates":[39.70284,13.98128],"type":"Point"}
+}

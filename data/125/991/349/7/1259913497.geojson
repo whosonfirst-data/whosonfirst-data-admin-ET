@@ -1,0 +1,71 @@
+{
+  "id": 1259913497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18333,11.73333,38.18333,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":38.18333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mokshi",
+    "gn:country_code":"ET",
+    "gn:dem":3347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330478,
+    "gn:latitude":11.73333,
+    "gn:longitude":38.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moksh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecan Jesus",
+        "Moksh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330478
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2d87fe478de93edabff2701a2021f055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695205,
+            "locality_id":1259913497,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259913497,
+    "wof:lastmodified":1537621938,
+    "wof:name":"Mokshi",
+    "wof:parent_id":1108695205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18333,
+    11.73333,
+    38.18333,
+    11.73333
+],
+  "geometry": {"coordinates":[38.18333,11.73333],"type":"Point"}
+}

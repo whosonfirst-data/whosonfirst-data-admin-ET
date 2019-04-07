@@ -1,0 +1,65 @@
+{
+  "id": 1209646101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14445,14.00481,38.14445,14.00481",
+    "geom:latitude":14.00481,
+    "geom:longitude":38.14445,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Dehal",
+    "gn:country_code":"ET",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6739733,
+    "gn:latitude":14.00481,
+    "gn:longitude":38.14445,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Dehal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Dekhal'",
+        "Adi Dehal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6739733
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a0b31b9105524143c3ae1d8d82c8601d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209646101
+        }
+    ],
+    "wof:id":1209646101,
+    "wof:lastmodified":1537622126,
+    "wof:name":"Adi Dehal",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14445,
+    14.00481,
+    38.14445,
+    14.00481
+],
+  "geometry": {"coordinates":[38.14445,14.00481],"type":"Point"}
+}

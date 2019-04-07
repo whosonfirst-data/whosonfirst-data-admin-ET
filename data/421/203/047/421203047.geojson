@@ -1,0 +1,100 @@
+{
+  "id": 421203047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42974,13.97841,39.42974,13.97841",
+    "geom:latitude":13.97841,
+    "geom:longitude":39.42974,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Hawz\u0113n"
+    ],
+    "name:dut_x_preferred":[
+        "Hawzen"
+    ],
+    "name:eng_x_preferred":[
+        "Hawzen"
+    ],
+    "name:fra_x_preferred":[
+        "Hawzen"
+    ],
+    "name:fre_x_preferred":[
+        "Hawzen"
+    ],
+    "name:swe_x_preferred":[
+        "Hawz\u0113n"
+    ],
+    "name:unk_x_variant":[
+        "H\u0101wuz\u0113n"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":334838,
+    "qs:gn_pop":0,
+    "qs:name":"Hawzen",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Tigray",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":229240,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1317159,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":556,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334838,
+        "gp:id":1317159,
+        "qs:id":229240,
+        "wd:id":"Q3128788",
+        "wk:page":"Hawzen"
+    },
+    "wof:country":"ET",
+    "wof:created":1459010138,
+    "wof:geomhash":"13ceafb35ce6adf72078da8cc1301309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":421203047,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":421203047,
+    "wof:lastmodified":1527716192,
+    "wof:name":"Hawzen",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42974,
+    13.97841,
+    39.42974,
+    13.97841
+],
+  "geometry": {"coordinates":[39.42974,13.97841],"type":"Point"}
+}

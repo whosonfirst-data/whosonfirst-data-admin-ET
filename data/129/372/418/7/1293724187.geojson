@@ -1,0 +1,67 @@
+{
+  "id": 1293724187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75096,7.40568,41.75096,7.40568",
+    "geom:latitude":7.40568,
+    "geom:longitude":41.75096,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Noyo",
+    "gn:country_code":"ET",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8333749,
+    "gn:latitude":7.40568,
+    "gn:longitude":41.75096,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Noyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333749
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e4e0d911d2b4abbbcfb377863b3d9b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1293724187,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293724187,
+    "wof:lastmodified":1536943706,
+    "wof:name":"Noyo",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75096,
+    7.40568,
+    41.75096,
+    7.40568
+],
+  "geometry": {"coordinates":[41.75096,7.40568],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193168107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73333,9.25,43.73333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":43.73333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bender Aman",
+    "gn:country_code":"ET",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342383,
+    "gn:latitude":9.25,
+    "gn:longitude":43.73333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bender Aman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342383
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8c2c1315bae0d434291249f2d22e6b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1193168107,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1193168107,
+    "wof:lastmodified":1536383481,
+    "wof:name":"Bender Aman",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73333,
+    9.25,
+    43.73333,
+    9.25
+],
+  "geometry": {"coordinates":[43.73333,9.25],"type":"Point"}
+}

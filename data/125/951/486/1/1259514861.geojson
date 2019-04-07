@@ -1,0 +1,71 @@
+{
+  "id": 1259514861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.04343,9.36043,42.04343,9.36043",
+    "geom:latitude":9.36043,
+    "geom:longitude":42.04343,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Aweday",
+    "gn:country_code":"ET",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343115,
+    "gn:latitude":9.36043,
+    "gn:longitude":42.04343,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u0100weday",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auoday",
+        "\u0100weday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343115
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"72a30099f7c66a29c9926935a251900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1259514861,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259514861,
+    "wof:lastmodified":1537622088,
+    "wof:name":"Aweday",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.04343,
+    9.36043,
+    42.04343,
+    9.36043
+],
+  "geometry": {"coordinates":[42.04343,9.36043],"type":"Point"}
+}

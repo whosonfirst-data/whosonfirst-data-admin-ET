@@ -1,0 +1,67 @@
+{
+  "id": 1327462835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.50194,8.57222,41.50194,8.57222",
+    "geom:latitude":8.57222,
+    "geom:longitude":41.50194,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Doyo",
+    "gn:country_code":"ET",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338601,
+    "gn:latitude":8.57222,
+    "gn:longitude":41.50194,
+    "gn:modification_date":"2007-06-15",
+    "gn:name":"Doyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338601
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c191fc4b2a4a73892760241425c28e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327462835,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327462835,
+    "wof:lastmodified":1536635680,
+    "wof:name":"Doyo",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.50194000000001,
+    8.57222,
+    41.50194000000001,
+    8.57222
+],
+  "geometry": {"coordinates":[41.50194000000001,8.57222],"type":"Point"}
+}

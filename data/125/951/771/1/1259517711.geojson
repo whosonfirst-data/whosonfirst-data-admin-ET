@@ -1,0 +1,71 @@
+{
+  "id": 1259517711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53333,13.88333,36.53333,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":36.53333,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Nogara",
+    "gn:country_code":"ET",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330073,
+    "gn:latitude":13.88333,
+    "gn:longitude":36.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nogara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noggara",
+        "Nogara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330073
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3f839837c13d61ab9446764c920a773b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1259517711,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259517711,
+    "wof:lastmodified":1537621933,
+    "wof:name":"Nogara",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53333,
+    13.88333,
+    36.53333,
+    13.88333
+],
+  "geometry": {"coordinates":[36.53333,13.88333],"type":"Point"}
+}

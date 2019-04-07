@@ -1,0 +1,61 @@
+{
+  "id": 1209649067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88333,8.76667,38.88333,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":38.88333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Aboy",
+    "gn:country_code":"ET",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345687,
+    "gn:latitude":8.76667,
+    "gn:longitude":38.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100boy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345687
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"cdc43e54dec341748be69fd29bdac347",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209649067
+        }
+    ],
+    "wof:id":1209649067,
+    "wof:lastmodified":1536280639,
+    "wof:name":"Aboy",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88333,
+    8.76667,
+    38.88333,
+    8.76667
+],
+  "geometry": {"coordinates":[38.88333,8.76667],"type":"Point"}
+}

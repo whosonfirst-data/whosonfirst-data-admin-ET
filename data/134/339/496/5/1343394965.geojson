@@ -1,0 +1,71 @@
+{
+  "id": 1343394965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15555,10.29134,39.15555,10.29134",
+    "geom:latitude":10.29134,
+    "geom:longitude":39.15555,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mida",
+    "gn:country_code":"ET",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330709,
+    "gn:latitude":10.29134,
+    "gn:longitude":39.15555,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"M\u012bda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midda",
+        "M\u012bda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330709
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6d0d9bfc370819e8695f54dce4be6df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1343394965,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343394965,
+    "wof:lastmodified":1537621941,
+    "wof:name":"Mida",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15555,
+    10.29134,
+    39.15555,
+    10.29134
+],
+  "geometry": {"coordinates":[39.15555,10.29134],"type":"Point"}
+}

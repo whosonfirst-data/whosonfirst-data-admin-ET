@@ -1,0 +1,71 @@
+{
+  "id": 1309940063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00234,13.62448,39.00234,13.62448",
+    "geom:latitude":13.62448,
+    "geom:longitude":39.00234,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Tembien",
+    "gn:country_code":"ET",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327740,
+    "gn:latitude":13.62448,
+    "gn:longitude":39.00234,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tembien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temb\u0113n",
+        "\u0100b\u012by \u0100d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327740
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"69538cad168882f1eac043addc0d41db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1309940063,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1309940063,
+    "wof:lastmodified":1537621909,
+    "wof:name":"Tembien",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00234,
+    13.62448,
+    39.00234,
+    13.62448
+],
+  "geometry": {"coordinates":[39.00234,13.62448],"type":"Point"}
+}

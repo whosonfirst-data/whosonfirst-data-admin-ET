@@ -1,0 +1,72 @@
+{
+  "id": 1276374255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51425,14.39693,38.51425,14.39693",
+    "geom:latitude":14.39693,
+    "geom:longitude":38.51425,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Fereg",
+    "gn:country_code":"ET",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345204,
+    "gn:latitude":14.39693,
+    "gn:longitude":38.51425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Fereg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Meda",
+        "Addi Fereg",
+        "\u0100d\u012b Fereg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345204
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fd63f58faa37c6e06c6c582f185d422a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1276374255,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1276374255,
+    "wof:lastmodified":1537622113,
+    "wof:name":"Adi Fereg",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51425,
+    14.39693,
+    38.51425,
+    14.39693
+],
+  "geometry": {"coordinates":[38.51425,14.39693],"type":"Point"}
+}

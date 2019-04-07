@@ -1,0 +1,73 @@
+{
+  "id": 421199565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"38.704833,9.253936,38.704833,9.253936",
+    "geom:latitude":9.253936,
+    "geom:longitude":38.704833,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Semen Shewa",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Oromia",
+    "qs:photos":613,
+    "qs:photos_1k":124,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":654,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":481842,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017400,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017400,
+        "qs:id":481842
+    },
+    "wof:country":"ET",
+    "wof:created":1459009994,
+    "wof:geomhash":"b00a1266b5b310adba71e237160041a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421199565,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":421199565,
+    "wof:lastmodified":1474500850,
+    "wof:name":"Semen Shewa",
+    "wof:parent_id":85671141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.704833,
+    9.253936,
+    38.704833,
+    9.253936
+],
+  "geometry": {"coordinates":[38.704833,9.253936],"type":"Point"}
+}

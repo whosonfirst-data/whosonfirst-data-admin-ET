@@ -1,0 +1,67 @@
+{
+  "id": 1327170175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05977,8.27351,41.05977,8.27351",
+    "geom:latitude":8.27351,
+    "geom:longitude":41.05977,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Berch'e",
+    "gn:country_code":"ET",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342336,
+    "gn:latitude":8.27351,
+    "gn:longitude":41.05977,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Berch\u2019\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342336
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"746b5dd884e7b8c4af1966f222e34b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1327170175,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327170175,
+    "wof:lastmodified":1537056933,
+    "wof:name":"Berch'e",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05977,
+    8.27351,
+    41.05977,
+    8.27351
+],
+  "geometry": {"coordinates":[41.05977,8.27351],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209449741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9,5.93333,37.9,5.93333",
+    "geom:latitude":5.93333,
+    "geom:longitude":37.9,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ieru",
+    "gn:country_code":"ET",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334447,
+    "gn:latitude":5.93333,
+    "gn:longitude":37.9,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ieru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334447
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f086afa34a7306bb8ae7ef0b682452d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209449741
+        }
+    ],
+    "wof:id":1209449741,
+    "wof:lastmodified":1536286709,
+    "wof:name":"Ieru",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9,
+    5.9333300000000015,
+    37.9,
+    5.9333300000000015
+],
+  "geometry": {"coordinates":[37.9,5.93333],"type":"Point"}
+}

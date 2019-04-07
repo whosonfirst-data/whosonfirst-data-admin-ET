@@ -1,0 +1,73 @@
+{
+  "id": 1259819635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,10.85,36.88333,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":36.88333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gimja Bet Maryam",
+    "gn:country_code":"ET",
+    "gn:dem":2307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336481,
+    "gn:latitude":10.85,
+    "gn:longitude":36.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gimja B\u0113t Maryam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100gew Gimja B\u0113t",
+        "Gimja Beit",
+        "Gimjabet Mariam",
+        "Gimja B\u0113t Maryam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336481
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"86057570d1b898e227f2d96c1144d3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695125,
+            "locality_id":1259819635,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1259819635,
+    "wof:lastmodified":1537622010,
+    "wof:name":"Gimja Bet Maryam",
+    "wof:parent_id":1108695125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    10.85,
+    36.88333,
+    10.85
+],
+  "geometry": {"coordinates":[36.88333,10.85],"type":"Point"}
+}

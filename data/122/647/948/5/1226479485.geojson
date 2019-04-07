@@ -1,0 +1,72 @@
+{
+  "id": 1226479485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.77529,14.4702,38.77529,14.4702",
+    "geom:latitude":14.4702,
+    "geom:longitude":38.77529,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adis `Alem",
+    "gn:country_code":"ET",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344975,
+    "gn:latitude":14.4702,
+    "gn:longitude":38.77529,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0100d\u012bs \u2018Alem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addis Alem",
+        "\u0100d\u012bs \u2018Alem",
+        "\u0100d\u012bs \u2018\u0100lem (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344975
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65ed2df69db1ed39054e98efd0666341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1226479485,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226479485,
+    "wof:lastmodified":1537622108,
+    "wof:name":"Adis `Alem",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.77529000000001,
+    14.4702,
+    38.77529000000001,
+    14.4702
+],
+  "geometry": {"coordinates":[38.77529000000001,14.4702],"type":"Point"}
+}

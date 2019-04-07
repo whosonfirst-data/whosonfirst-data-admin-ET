@@ -1,0 +1,71 @@
+{
+  "id": 1293134363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41972,6.99528,43.41972,6.99528",
+    "geom:latitude":6.99528,
+    "geom:longitude":43.41972,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Sculi",
+    "gn:country_code":"ET",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329138,
+    "gn:latitude":6.99528,
+    "gn:longitude":43.41972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sculi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skuli",
+        "Sculi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329138
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0ffa1e87a5bcdc401faa9d1b61535a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1293134363,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293134363,
+    "wof:lastmodified":1537621924,
+    "wof:name":"Sculi",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41972,
+    6.99528,
+    43.41972,
+    6.99528
+],
+  "geometry": {"coordinates":[43.41972,6.99528],"type":"Point"}
+}

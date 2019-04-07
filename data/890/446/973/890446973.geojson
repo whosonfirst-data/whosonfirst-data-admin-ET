@@ -1,0 +1,67 @@
+{
+  "id": 890446973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48953,7.82108,37.48953,7.82108",
+    "geom:latitude":7.82108,
+    "geom:longitude":37.48953,
+    "gn:country":"ET",
+    "gn:fcode":"ADM2",
+    "gn:pop":80687,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Yem Special Woreda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":751,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732973,
+        "qs:id":698153,
+        "wd:id":"Q3572151",
+        "wk:page":"Yem special woreda"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052574,
+    "wof:geomhash":"db3738f64a2cf96cb456109e92123d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446973,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890446973,
+    "wof:lastmodified":1527727216,
+    "wof:name":"Yem Special Woreda",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:population":80687,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48953,
+    7.82108,
+    37.48953,
+    7.82108
+],
+  "geometry": {"coordinates":[37.48953,7.82108],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1125819163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48333,4.96667,36.48333,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":36.48333,
+    "gn:gn_country":"ET",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1087,
+    "gn:population":1087,
+    "iso:country":"ET",
+    "lbl:latitude":4.96667,
+    "lbl:longitude":36.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u5716\u723e\u7c73"
+    ],
+    "name:dut_x_preferred":[
+        "Turmi"
+    ],
+    "name:eng_x_preferred":[
+        "Turmi"
+    ],
+    "name:fre_x_preferred":[
+        "Turmi"
+    ],
+    "name:ger_x_preferred":[
+        "Turmi"
+    ],
+    "name:ita_x_preferred":[
+        "Turmi"
+    ],
+    "name:rum_x_preferred":[
+        "Turmi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Turmi"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0645\u06cc"
+    ],
+    "qs_pg:aaroncc":"ET",
+    "qs_pg:gn_country":"ET",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":327162,
+    "qs_pg:gn_pop":1087,
+    "qs_pg:name":"Turmi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":124170,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327162,
+        "qs_pg:id":124170,
+        "wd:id":"Q991408"
+    },
+    "wof:country":"ET",
+    "wof:created":1497291975,
+    "wof:geomhash":"c2927e662099a9bfb2dbfd202d6e6dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695219,
+            "locality_id":1125819163,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1125819163,
+    "wof:lastmodified":1514422063,
+    "wof:name":"Turmi",
+    "wof:parent_id":1108695219,
+    "wof:placetype":"locality",
+    "wof:population":1087,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48333,
+    4.96667,
+    36.48333,
+    4.96667
+],
+  "geometry": {"coordinates":[36.48333,4.96667],"type":"Point"}
+}

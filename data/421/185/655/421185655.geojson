@@ -1,0 +1,78 @@
+{
+  "id": 421185655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.647399,5.940575,37.647399,5.940575",
+    "geom:latitude":5.940575,
+    "geom:longitude":37.647399,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Amaro"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Amaro Special Woreda",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":277,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":277,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":899547,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017409,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":816,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017409,
+        "qs:id":899547,
+        "wd:id":"Q2841242"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009450,
+    "wof:geomhash":"09c83cf1456acb0cee4241542733b976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421185655,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421185655,
+    "wof:lastmodified":1527726510,
+    "wof:name":"Amaro Special Woreda",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.647399,
+    5.940575,
+    37.647399,
+    5.940575
+],
+  "geometry": {"coordinates":[37.647399,5.940575],"type":"Point"}
+}

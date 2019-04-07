@@ -1,0 +1,67 @@
+{
+  "id": 1226373365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53333,9.75,36.53333,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":36.53333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Meni K'ilt'u",
+    "gn:country_code":"ET",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330998,
+    "gn:latitude":9.75,
+    "gn:longitude":36.53333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Men\u012b K\u2019ilt\u2019u",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330998
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1bf5f407971e6baee640e028e024774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1226373365,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226373365,
+    "wof:lastmodified":1536749782,
+    "wof:name":"Meni K'ilt'u",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53333,
+    9.75,
+    36.53333,
+    9.75
+],
+  "geometry": {"coordinates":[36.53333,9.75],"type":"Point"}
+}

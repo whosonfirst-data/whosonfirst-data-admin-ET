@@ -1,0 +1,67 @@
+{
+  "id": 1327365217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66667,8.41667,38.66667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":38.66667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bech'ek'i",
+    "gn:country_code":"ET",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342606,
+    "gn:latitude":8.41667,
+    "gn:longitude":38.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bech\u2019ek\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342606
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65966eef44d0867b4195c011e0720539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695211,
+            "locality_id":1327365217,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327365217,
+    "wof:lastmodified":1536778426,
+    "wof:name":"Bech'ek'i",
+    "wof:parent_id":1108695211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66667,
+    8.41667,
+    38.66667,
+    8.41667
+],
+  "geometry": {"coordinates":[38.66667,8.41667],"type":"Point"}
+}

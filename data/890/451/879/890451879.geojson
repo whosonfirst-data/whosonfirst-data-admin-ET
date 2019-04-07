@@ -1,0 +1,76 @@
+{
+  "id": 890451879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77887,7.27039,37.77887,7.27039",
+    "geom:latitude":7.27039,
+    "geom:longitude":37.77887,
+    "gn:country":"ET",
+    "gn:fcode":"ADM2",
+    "gn:pop":680837,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kembata Alaba Tembaro"
+    ],
+    "name:eng_x_variant":[
+        "Kembata Alaba Tembaro Zone"
+    ],
+    "name:unk_x_variant":[
+        "Kembata Tembaro"
+    ],
+    "qs:name":"Kembata Alaba Tembaro Zone",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":863,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667870,
+        "qs:id":696644,
+        "wd:id":"Q3194972",
+        "wk:page":"Kembata Tembaro Zone"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052796,
+    "wof:geomhash":"9572130379848ab73ed1f98041109ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890451879,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890451879,
+    "wof:lastmodified":1527792939,
+    "wof:name":"Kembata Alaba Tembaro Zone",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:population":680837,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77887,
+    7.27039,
+    37.77887,
+    7.27039
+],
+  "geometry": {"coordinates":[37.77887,7.27039],"type":"Point"}
+}

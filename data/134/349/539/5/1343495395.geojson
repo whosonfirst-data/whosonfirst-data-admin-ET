@@ -1,0 +1,67 @@
+{
+  "id": 1343495395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55,10.05,40.55,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":40.55,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Magu",
+    "gn:country_code":"ET",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331765,
+    "gn:latitude":10.05,
+    "gn:longitude":40.55,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Magu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331765
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c004ab18739d2bad19b2cdff2f4cf01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695247,
+            "locality_id":1343495395,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1343495395,
+    "wof:lastmodified":1536695955,
+    "wof:name":"Magu",
+    "wof:parent_id":1108695247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55,
+    10.05,
+    40.55,
+    10.05
+],
+  "geometry": {"coordinates":[40.55,10.05],"type":"Point"}
+}

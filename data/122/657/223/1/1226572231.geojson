@@ -1,0 +1,67 @@
+{
+  "id": 1226572231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08863,8.05751,33.08863,8.05751",
+    "geom:latitude":8.05751,
+    "geom:longitude":33.08863,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Tolley",
+    "gn:country_code":"ET",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8401348,
+    "gn:latitude":8.05751,
+    "gn:longitude":33.08863,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Tolley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401348
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"93df3de2ec48fc852dcb701d758e1097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1226572231,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1226572231,
+    "wof:lastmodified":1536960941,
+    "wof:name":"Tolley",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08863,
+    8.05751,
+    33.08863,
+    8.05751
+],
+  "geometry": {"coordinates":[33.08863,8.05751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276589209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.315,6.83611,44.315,6.83611",
+    "geom:latitude":6.83611,
+    "geom:longitude":44.315,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hurdur",
+    "gn:country_code":"ET",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311018,
+    "gn:latitude":6.83611,
+    "gn:longitude":44.315,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hurdur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khurdur",
+        "Hurdur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311018
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a7f69d0ad1721b4ea72c45c0bf0bb3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1276589209,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276589209,
+    "wof:lastmodified":1537622123,
+    "wof:name":"Hurdur",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.315,
+    6.83611,
+    44.315,
+    6.83611
+],
+  "geometry": {"coordinates":[44.315,6.83611],"type":"Point"}
+}

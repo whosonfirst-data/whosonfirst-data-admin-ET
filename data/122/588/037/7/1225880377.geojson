@@ -1,0 +1,67 @@
+{
+  "id": 1225880377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06667,5.01667,40.06667,5.01667",
+    "geom:latitude":5.01667,
+    "geom:longitude":40.06667,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bacara",
+    "gn:country_code":"ET",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342947,
+    "gn:latitude":5.01667,
+    "gn:longitude":40.06667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bacara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342947
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aea70e6d9e64a5cb136bbe81bbd768e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1225880377,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1225880377,
+    "wof:lastmodified":1536963542,
+    "wof:name":"Bacara",
+    "wof:parent_id":1108695187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06667,
+    5.01667,
+    40.06667,
+    5.01667
+],
+  "geometry": {"coordinates":[40.06667,5.01667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276473523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.61667,9.76667,38.61667,9.76667",
+    "geom:latitude":9.76667,
+    "geom:longitude":38.61667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Roso",
+    "gn:country_code":"ET",
+    "gn:dem":3155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329539,
+    "gn:latitude":9.76667,
+    "gn:longitude":38.61667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Roso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329539
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"12b89923ecc9acadb3ccc292062ec7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1276473523,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1276473523,
+    "wof:lastmodified":1537085130,
+    "wof:name":"Roso",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.61667,
+    9.76667,
+    38.61667,
+    9.76667
+],
+  "geometry": {"coordinates":[38.61667,9.76667],"type":"Point"}
+}

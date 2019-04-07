@@ -1,0 +1,67 @@
+{
+  "id": 1259910561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40889,7.87778,44.40889,7.87778",
+    "geom:latitude":7.87778,
+    "geom:longitude":44.40889,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Gubetgun",
+    "gn:country_code":"ET",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311178,
+    "gn:latitude":7.87778,
+    "gn:longitude":44.40889,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Gubetgun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311178
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8accb6d3e099a00b4b8ead635621ed1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1259910561,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259910561,
+    "wof:lastmodified":1536740096,
+    "wof:name":"Gubetgun",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40889,
+    7.87778,
+    44.40889,
+    7.87778
+],
+  "geometry": {"coordinates":[44.40889,7.87778],"type":"Point"}
+}

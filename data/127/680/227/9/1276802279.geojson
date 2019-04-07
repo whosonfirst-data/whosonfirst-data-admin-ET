@@ -1,0 +1,67 @@
+{
+  "id": 1276802279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.25,11.61667,37.25,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":37.25,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Abarge",
+    "gn:country_code":"ET",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345877,
+    "gn:latitude":11.61667,
+    "gn:longitude":37.25,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100barg\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345877
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"99aab650549f87c3580e841861a793a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1276802279,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276802279,
+    "wof:lastmodified":1536647115,
+    "wof:name":"Abarge",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.25,
+    11.61667,
+    37.25,
+    11.61667
+],
+  "geometry": {"coordinates":[37.25,11.61667],"type":"Point"}
+}

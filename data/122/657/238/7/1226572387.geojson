@@ -1,0 +1,67 @@
+{
+  "id": 1226572387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58951,14.42412,39.58951,14.42412",
+    "geom:latitude":14.42412,
+    "geom:longitude":39.58951,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Merfa",
+    "gn:country_code":"ET",
+    "gn:dem":2418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6735722,
+    "gn:latitude":14.42412,
+    "gn:longitude":39.58951,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Merfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6735722
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0858271b60b5b254825d3093b0dea2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1226572387,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226572387,
+    "wof:lastmodified":1536960697,
+    "wof:name":"Merfa",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58951,
+    14.42412,
+    39.58951,
+    14.42412
+],
+  "geometry": {"coordinates":[39.58951,14.42412],"type":"Point"}
+}

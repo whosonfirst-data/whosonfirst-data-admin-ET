@@ -1,0 +1,67 @@
+{
+  "id": 1210047785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83446,12.50501,41.83446,12.50501",
+    "geom:latitude":12.50501,
+    "geom:longitude":41.83446,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Endahura",
+    "gn:country_code":"ET",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338093,
+    "gn:latitude":12.50501,
+    "gn:longitude":41.83446,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Endahura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338093
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"defa5509c88a2d1da04057b44dff9485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695243,
+            "locality_id":1210047785,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1210047785,
+    "wof:lastmodified":1536377020,
+    "wof:name":"Endahura",
+    "wof:parent_id":1108695243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83446,
+    12.50501,
+    41.83446,
+    12.50501
+],
+  "geometry": {"coordinates":[41.83446,12.50501],"type":"Point"}
+}

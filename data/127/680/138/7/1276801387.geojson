@@ -1,0 +1,67 @@
+{
+  "id": 1276801387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76567,8.19165,33.76567,8.19165",
+    "geom:latitude":8.19165,
+    "geom:longitude":33.76567,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Longdznon",
+    "gn:country_code":"ET",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392163,
+    "gn:latitude":8.19165,
+    "gn:longitude":33.76567,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Longdznon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392163
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6083d2ef25d8d99d1d30faa2a97a9509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1276801387,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1276801387,
+    "wof:lastmodified":1536648443,
+    "wof:name":"Longdznon",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76567,
+    8.19165,
+    33.76567,
+    8.19165
+],
+  "geometry": {"coordinates":[33.76567,8.19165],"type":"Point"}
+}

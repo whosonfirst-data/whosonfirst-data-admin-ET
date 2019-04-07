@@ -1,0 +1,61 @@
+{
+  "id": 1209652027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28952,13.15897,39.28952,13.15897",
+    "geom:latitude":13.15897,
+    "geom:longitude":39.28952,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adebe",
+    "gn:country_code":"ET",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6724033,
+    "gn:latitude":13.15897,
+    "gn:longitude":39.28952,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6724033
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"392992ca17d8e03486b8a2b639acdf90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209652027
+        }
+    ],
+    "wof:id":1209652027,
+    "wof:lastmodified":1536280549,
+    "wof:name":"Adebe",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28952,
+    13.158970000000002,
+    39.28952,
+    13.158970000000002
+],
+  "geometry": {"coordinates":[39.28952,13.15897],"type":"Point"}
+}

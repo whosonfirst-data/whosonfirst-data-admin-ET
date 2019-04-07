@@ -1,0 +1,76 @@
+{
+  "id": 1293817853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.40417,9.53209,41.40417,9.53209",
+    "geom:latitude":9.53209,
+    "geom:longitude":41.40417,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Yerer Sata",
+    "gn:country_code":"ET",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325868,
+    "gn:latitude":9.53209,
+    "gn:longitude":41.40417,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Yerer Sata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erer-Gota",
+        "Yarar S\u0101t\u0101",
+        "Errer",
+        "Erer",
+        "Erer-Iya",
+        "Yerer Sata",
+        "\u0112rer S\u0101t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325868
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5c9ff6519a4d9cc6b4f5327e54368ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1293817853,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1293817853,
+    "wof:lastmodified":1537621888,
+    "wof:name":"Yerer Sata",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.40417,
+    9.53209,
+    41.40417,
+    9.53209
+],
+  "geometry": {"coordinates":[41.40417,9.53209],"type":"Point"}
+}

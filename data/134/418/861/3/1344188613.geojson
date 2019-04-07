@@ -1,0 +1,71 @@
+{
+  "id": 1344188613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18333,9.88333,36.18333,9.88333",
+    "geom:latitude":9.88333,
+    "geom:longitude":36.18333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ucha",
+    "gn:country_code":"ET",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326998,
+    "gn:latitude":9.88333,
+    "gn:longitude":36.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ucha (1)",
+        "Ucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326998
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6117247b6acd67e011b66c6ccd0d943d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1344188613,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1344188613,
+    "wof:lastmodified":1537621902,
+    "wof:name":"Ucha",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18333,
+    9.88333,
+    36.18333,
+    9.88333
+],
+  "geometry": {"coordinates":[36.18333,9.88333],"type":"Point"}
+}

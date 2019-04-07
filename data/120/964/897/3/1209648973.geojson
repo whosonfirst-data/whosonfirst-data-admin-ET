@@ -1,0 +1,61 @@
+{
+  "id": 1209648973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,5.86667,37.2,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Cara",
+    "gn:country_code":"ET",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341190,
+    "gn:latitude":5.86667,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Cara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341190
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e1655cba9e23ce771bed7c02c77caecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209648973
+        }
+    ],
+    "wof:id":1209648973,
+    "wof:lastmodified":1536280642,
+    "wof:name":"Cara",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    5.86667,
+    37.2,
+    5.86667
+],
+  "geometry": {"coordinates":[37.2,5.86667],"type":"Point"}
+}

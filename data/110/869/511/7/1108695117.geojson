@@ -1,0 +1,89 @@
+{
+  "id": 1108695117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003354,
+    "geom:area_square_m":40952459.91795,
+    "geom:bbox":"38.676174,9.010182,38.773609,9.085994",
+    "geom:latitude":9.053851,
+    "geom:longitude":38.7226,
+    "iso:country":"ET",
+    "lbl:latitude":9.058849,
+    "lbl:longitude":38.714954,
+    "meso:admin_1":"Addis Ababa",
+    "meso:gadm_admin":"Addis Abeba",
+    "meso:gaul_admin":"Region 14",
+    "meso:hasc_id":"ET.AA.FI",
+    "meso:mps_x":38.714954,
+    "meso:mps_y":9.058849,
+    "meso:name_local":"AA Zone5",
+    "meso:source":"USAID",
+    "mps:latitude":9.058849,
+    "mps:longitude":38.714954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Addis Ababa Zone 5"
+    ],
+    "name:eng_x_variant":[
+        "Region 14",
+        "Addis Abeba"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-07-01",
+    "statoids:area_km":"43",
+    "statoids:as_of_date":"2008-07-01",
+    "statoids:capital":"Addis Ababa",
+    "statoids:country":"ET",
+    "statoids:hasc":"ET.AA",
+    "statoids:name":"Addis Ababa Zone 5",
+    "statoids:population":"656143",
+    "statoids:statoid":"ET.AA.FI",
+    "statoids:timezone":"3",
+    "statoids:type":"zone",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"ET.AA.FI"
+    },
+    "wof:country":"ET",
+    "wof:created":1474493455,
+    "wof:geomhash":"d9d9b51582d47db265281b49fabc106c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695117,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":1108695117,
+    "wof:lastmodified":1536615370,
+    "wof:name":"AA Zone5",
+    "wof:parent_id":85671149,
+    "wof:placetype":"county",
+    "wof:placetype_local":"zone",
+    "wof:population":656143,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"FI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.676174,
+    9.010182,
+    38.773609,
+    9.085994
+],
+  "geometry": {"coordinates":[[[[38.6996,9.078279],[38.701916,9.081804],[38.706261,9.082141],[38.709259,9.08385],[38.711559,9.082489],[38.713886,9.085138],[38.719032,9.085848],[38.723701,9.083345],[38.743672,9.085994],[38.744404,9.079869],[38.749245,9.074294],[38.749821,9.068898],[38.75518,9.063328],[38.757179,9.055391],[38.751625,9.052273],[38.74823,9.053191],[38.740379,9.051292],[38.738712,9.049013],[38.737144,9.044692],[38.738296,9.040323],[38.738968,9.039235],[38.739891,9.035594],[38.743664,9.03395],[38.743969,9.032858],[38.733006,9.032901],[38.720207,9.032926],[38.717827,9.035386],[38.714554,9.031998],[38.692108,9.03288],[38.676174,9.031724],[38.678417,9.035613],[38.680244,9.03658],[38.678341,9.04254],[38.678989,9.043714],[38.684429,9.044574],[38.688705,9.050671],[38.69083,9.051861],[38.68874,9.054464],[38.689384,9.056075],[38.688107,9.065031],[38.689983,9.06877],[38.691574,9.071338],[38.692688,9.070623],[38.694153,9.07144],[38.6996,9.078279]]],[[[38.764133,9.011952],[38.762318,9.010182],[38.7607,9.010834],[38.755924,9.016181],[38.750366,9.026275],[38.746475,9.029328],[38.743969,9.032858],[38.752258,9.034833],[38.754002,9.036893],[38.757004,9.038016],[38.757698,9.035248],[38.763721,9.036035],[38.764359,9.031807],[38.768326,9.032282],[38.770992,9.030336],[38.772907,9.030354],[38.773609,9.026491],[38.771656,9.023554],[38.764854,9.020206],[38.764133,9.011952]]]],"type":"MultiPolygon"}
+}

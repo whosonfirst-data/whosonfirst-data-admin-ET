@@ -1,0 +1,81 @@
+{
+  "id": 1243009329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95,4.05,41.95,4.05",
+    "geom:latitude":4.05,
+    "geom:longitude":41.95,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Unsi Guddo",
+    "gn:country_code":"ET",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326863,
+    "gn:latitude":4.05,
+    "gn:longitude":41.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Unsi Guddo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unzi Guddo",
+        "Unsi Guddo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632379,
+        85677249,
+        1108757929,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326863
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6403142f5ad3e8c40daa271267f8fc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632379,
+            "county_id":1108757929,
+            "locality_id":1243009329,
+            "region_id":85677249
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1243009329,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1243009329,
+    "wof:lastmodified":1537621901,
+    "wof:name":"Unsi Guddo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95,
+    4.05,
+    41.95,
+    4.05
+],
+  "geometry": {"coordinates":[41.95,4.05],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293818851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97389,13.56083,38.97389,13.56083",
+    "geom:latitude":13.56083,
+    "geom:longitude":38.97389,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Aby Adi",
+    "gn:country_code":"ET",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345731,
+    "gn:latitude":13.56083,
+    "gn:longitude":38.97389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aby Adi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abi Addi",
+        "Aby Adi",
+        "Abbi Addi",
+        "Abiy",
+        "Abi Abdi",
+        "Abi-Adi",
+        "\u0100b\u012by \u0100d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345731,
+        "wk:page":"Abiy_Addi"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"95867adf6c21561139925f29c8dc267a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1293818851,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293818851,
+    "wof:lastmodified":1537622120,
+    "wof:name":"Aby Adi",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97389,
+    13.56083,
+    38.97389,
+    13.56083
+],
+  "geometry": {"coordinates":[38.97389,13.56083],"type":"Point"}
+}

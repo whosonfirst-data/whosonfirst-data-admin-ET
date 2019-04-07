@@ -1,0 +1,61 @@
+{
+  "id": 1209035877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05,5.93333,39.05,5.93333",
+    "geom:latitude":5.93333,
+    "geom:longitude":39.05,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Afrara",
+    "gn:country_code":"ET",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344711,
+    "gn:latitude":5.93333,
+    "gn:longitude":39.05,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Afrara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344711
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fa905aef31d4e0fbfc899a5e4eb79318",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209035877
+        }
+    ],
+    "wof:id":1209035877,
+    "wof:lastmodified":1536299702,
+    "wof:name":"Afrara",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05,
+    5.9333300000000015,
+    39.05,
+    5.9333300000000015
+],
+  "geometry": {"coordinates":[39.05,5.93333],"type":"Point"}
+}

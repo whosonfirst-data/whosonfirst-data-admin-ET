@@ -1,0 +1,67 @@
+{
+  "id": 1326567049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75,6.15,44.75,6.15",
+    "geom:latitude":6.15,
+    "geom:longitude":44.75,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Iglole",
+    "gn:country_code":"ET",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334437,
+    "gn:latitude":6.15,
+    "gn:longitude":44.75,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Iglole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334437
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f34e0bdad9d1a979fc03f47adf6cdeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":1326567049,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1326567049,
+    "wof:lastmodified":1536934460,
+    "wof:name":"Iglole",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75,
+    6.15,
+    44.75,
+    6.15
+],
+  "geometry": {"coordinates":[44.75,6.15],"type":"Point"}
+}

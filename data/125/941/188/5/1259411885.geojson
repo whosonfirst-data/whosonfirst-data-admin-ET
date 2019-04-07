@@ -1,0 +1,72 @@
+{
+  "id": 1259411885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09342,14.03767,39.09342,14.03767",
+    "geom:latitude":14.03767,
+    "geom:longitude":39.09342,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Inda Aba Ts'ahma",
+    "gn:country_code":"ET",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334254,
+    "gn:latitude":14.03767,
+    "gn:longitude":39.09342,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inda \u0100ba Ts\u2019ahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indaba Ts\u2019ahma (2)",
+        "Inda Aba Tsahama",
+        "Inda \u0100ba Ts\u2019ahma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334254
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"865f295e2a5984fd5177cf309b7bd883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1259411885,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259411885,
+    "wof:lastmodified":1537621983,
+    "wof:name":"Inda Aba Ts'ahma",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09342,
+    14.03767,
+    39.09342,
+    14.03767
+],
+  "geometry": {"coordinates":[39.09342,14.03767],"type":"Point"}
+}

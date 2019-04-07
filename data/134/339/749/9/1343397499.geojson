@@ -1,0 +1,73 @@
+{
+  "id": 1343397499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45722,6.195,43.45722,6.195",
+    "geom:latitude":6.195,
+    "geom:longitude":43.45722,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gebas",
+    "gn:country_code":"ET",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337186,
+    "gn:latitude":6.195,
+    "gn:longitude":43.45722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gebas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghebas",
+        "Gabas",
+        "Dzhebas",
+        "Gebas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421200119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337186
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"3a920a184dea02e44197623e58a6b28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421200119,
+            "locality_id":1343397499,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343397499,
+    "wof:lastmodified":1537622019,
+    "wof:name":"Gebas",
+    "wof:parent_id":421200119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45722,
+    6.195,
+    43.45722,
+    6.195
+],
+  "geometry": {"coordinates":[43.45722,6.195],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326560843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11667,8.21667,34.11667,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":34.11667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Birhane Selam",
+    "gn:country_code":"ET",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342018,
+    "gn:latitude":8.21667,
+    "gn:longitude":34.11667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Birhane Selam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421188217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342018
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b37fe0a878bc5368886f368a71ca12f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188217,
+            "locality_id":1326560843,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1326560843,
+    "wof:lastmodified":1536943401,
+    "wof:name":"Birhane Selam",
+    "wof:parent_id":421188217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11667,
+    8.21667,
+    34.11667,
+    8.21667
+],
+  "geometry": {"coordinates":[34.11667,8.21667],"type":"Point"}
+}

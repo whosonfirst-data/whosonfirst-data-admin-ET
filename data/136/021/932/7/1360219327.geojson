@@ -1,0 +1,76 @@
+{
+  "id": 1360219327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73655,13.9135,40.73655,13.9135",
+    "geom:latitude":13.9135,
+    "geom:longitude":40.73655,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Asegela",
+    "gn:country_code":"ET",
+    "gn:dem":-85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343372,
+    "gn:latitude":13.9135,
+    "gn:longitude":40.73655,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Asegela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u044d\u043b\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Asagal\u0101",
+        "Assagella",
+        "Assagalla",
+        "Asegela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343372
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"206f0a666f0a9555e1778106e793b1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1360219327,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1360219327,
+    "wof:lastmodified":1537622091,
+    "wof:name":"Asegela",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73655,
+    13.9135,
+    40.73655,
+    13.9135
+],
+  "geometry": {"coordinates":[40.73655,13.9135],"type":"Point"}
+}

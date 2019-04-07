@@ -1,0 +1,70 @@
+{
+  "id": 1326566429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82068,10.97809,39.82068,10.97809",
+    "geom:latitude":10.97809,
+    "geom:longitude":39.82068,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Adami",
+    "gn:country_code":"ET",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345501,
+    "gn:latitude":10.97809,
+    "gn:longitude":39.82068,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Adami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100dam\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345501
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fb091ef3b3858d4441010d1865f12dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1326566429,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326566429,
+    "wof:lastmodified":1537622118,
+    "wof:name":"Adami",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82068,
+    10.97809,
+    39.82068,
+    10.97809
+],
+  "geometry": {"coordinates":[39.82068,10.97809],"type":"Point"}
+}

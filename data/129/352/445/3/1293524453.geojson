@@ -1,0 +1,67 @@
+{
+  "id": 1293524453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03333,9.18333,38.03333,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":38.03333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gogola",
+    "gn:country_code":"ET",
+    "gn:dem":2832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336193,
+    "gn:latitude":9.18333,
+    "gn:longitude":38.03333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Gogola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336193
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4db8fd37b8d87767d5b8461694a2b337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":1293524453,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293524453,
+    "wof:lastmodified":1536733930,
+    "wof:name":"Gogola",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03333,
+    9.18333,
+    38.03333,
+    9.18333
+],
+  "geometry": {"coordinates":[38.03333,9.18333],"type":"Point"}
+}

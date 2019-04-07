@@ -1,0 +1,71 @@
+{
+  "id": 1309842501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.87806,9.65222,42.87806,9.65222",
+    "geom:latitude":9.65222,
+    "geom:longitude":42.87806,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Heregel",
+    "gn:country_code":"ET",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334773,
+    "gn:latitude":9.65222,
+    "gn:longitude":42.87806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u0113r\u0113g\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kheregel\u2019",
+        "H\u0113r\u0113g\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334773
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d40db3807c3c83a02baeabd8a8c3de18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1309842501,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1309842501,
+    "wof:lastmodified":1537621990,
+    "wof:name":"Heregel",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.87806,
+    9.65222,
+    42.87806,
+    9.65222
+],
+  "geometry": {"coordinates":[42.87806,9.65222],"type":"Point"}
+}

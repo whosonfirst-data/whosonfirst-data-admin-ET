@@ -1,0 +1,74 @@
+{
+  "id": 1276802129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4,10.75,37.4,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":37.4,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Shememel",
+    "gn:country_code":"ET",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328616,
+    "gn:latitude":10.75,
+    "gn:longitude":37.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shemem\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iofoda Gheorghis",
+        "Gheorghis",
+        "Bot Ghiorghis",
+        "Bot Gheorgis",
+        "Shemem\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328616
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a5205abd455135d93453b4ad0bf5c087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695223,
+            "locality_id":1276802129,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1276802129,
+    "wof:lastmodified":1537621918,
+    "wof:name":"Shememel",
+    "wof:parent_id":1108695223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4,
+    10.75,
+    37.4,
+    10.75
+],
+  "geometry": {"coordinates":[37.4,10.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193055117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93333,11.76667,39.93333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":39.93333,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Bilu",
+    "gn:country_code":"ET",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342069,
+    "gn:latitude":11.76667,
+    "gn:longitude":39.93333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"B\u012blu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342069
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f7db2ab21dd7608efcb047e56bbb3197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695251,
+            "locality_id":1193055117,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1193055117,
+    "wof:lastmodified":1536383646,
+    "wof:name":"Bilu",
+    "wof:parent_id":1108695251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93333,
+    11.76667,
+    39.93333,
+    11.76667
+],
+  "geometry": {"coordinates":[39.93333,11.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343293121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0182,10.41259,39.0182,10.41259",
+    "geom:latitude":10.41259,
+    "geom:longitude":39.0182,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Degiy",
+    "gn:country_code":"ET",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339578,
+    "gn:latitude":10.41259,
+    "gn:longitude":39.0182,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Degiy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339578
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"bee67e0e614d92a269413f7c1ab9989b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1343293121,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1343293121,
+    "wof:lastmodified":1536987039,
+    "wof:name":"Degiy",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0182,
+    10.41259,
+    39.0182,
+    10.41259
+],
+  "geometry": {"coordinates":[39.0182,10.41259],"type":"Point"}
+}

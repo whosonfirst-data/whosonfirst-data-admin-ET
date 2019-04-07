@@ -1,0 +1,71 @@
+{
+  "id": 1343797945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8,6.38333,40.8,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":40.8,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Tulu Michire",
+    "gn:country_code":"ET",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327200,
+    "gn:latitude":6.38333,
+    "gn:longitude":40.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tulu Michire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tullu Micire",
+        "Tulu Michire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327200
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eef6a6608745e02023319628c40c8183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":1343797945,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343797945,
+    "wof:lastmodified":1537621904,
+    "wof:name":"Tulu Michire",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8,
+    6.38333,
+    40.8,
+    6.38333
+],
+  "geometry": {"coordinates":[40.8,6.38333],"type":"Point"}
+}

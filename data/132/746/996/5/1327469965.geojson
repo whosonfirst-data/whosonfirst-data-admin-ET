@@ -1,0 +1,67 @@
+{
+  "id": 1327469965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.44994,9.15801,41.44994,9.15801",
+    "geom:latitude":9.15801,
+    "geom:longitude":41.44994,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sok'a",
+    "gn:country_code":"ET",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328224,
+    "gn:latitude":9.15801,
+    "gn:longitude":41.44994,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Sok\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328224
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"07e7f9396a93ecbc4c59a1dbd82f5b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1327469965,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1327469965,
+    "wof:lastmodified":1536624494,
+    "wof:name":"Sok'a",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.44994000000001,
+    9.15801,
+    41.44994000000001,
+    9.15801
+],
+  "geometry": {"coordinates":[41.44994000000001,9.15801],"type":"Point"}
+}

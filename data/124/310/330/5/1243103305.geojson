@@ -1,0 +1,67 @@
+{
+  "id": 1243103305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02378,9.6919,39.02378,9.6919",
+    "geom:latitude":9.6919,
+    "geom:longitude":39.02378,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ko'iti",
+    "gn:country_code":"ET",
+    "gn:dem":2620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332924,
+    "gn:latitude":9.6919,
+    "gn:longitude":39.02378,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ko\u2019\u012bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332924
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"90f89ffc2c277b6d330c31672ba59887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1243103305,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243103305,
+    "wof:lastmodified":1536803020,
+    "wof:name":"Ko'iti",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02378,
+    9.6919,
+    39.02378,
+    9.6919
+],
+  "geometry": {"coordinates":[39.02378,9.6919],"type":"Point"}
+}

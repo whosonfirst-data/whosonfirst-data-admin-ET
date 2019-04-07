@@ -1,0 +1,67 @@
+{
+  "id": 1343397371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.281,14.087,40.281,14.087",
+    "geom:latitude":14.087,
+    "geom:longitude":40.281,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hamedila",
+    "gn:country_code":"ET",
+    "gn:dem":-91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6533837,
+    "gn:latitude":14.087,
+    "gn:longitude":40.281,
+    "gn:modification_date":"2007-05-04",
+    "gn:name":"Hamedila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6533837
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"509b9c12c3fa1397252eccd08826af7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1343397371,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1343397371,
+    "wof:lastmodified":1536836132,
+    "wof:name":"Hamedila",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.281,
+    14.087,
+    40.281,
+    14.087
+],
+  "geometry": {"coordinates":[40.281,14.087],"type":"Point"}
+}

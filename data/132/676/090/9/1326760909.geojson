@@ -1,0 +1,67 @@
+{
+  "id": 1326760909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11667,9.95,36.11667,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":36.11667,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Orensu",
+    "gn:country_code":"ET",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329849,
+    "gn:latitude":9.95,
+    "gn:longitude":36.11667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Orensu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671147,
+        1108695179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329849
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"eb9f4892e17b44b501621ad5f3e8178b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695179,
+            "locality_id":1326760909,
+            "region_id":85671147
+        }
+    ],
+    "wof:id":1326760909,
+    "wof:lastmodified":1536654457,
+    "wof:name":"Orensu",
+    "wof:parent_id":1108695179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11667,
+    9.95,
+    36.11667,
+    9.95
+],
+  "geometry": {"coordinates":[36.11667,9.95],"type":"Point"}
+}

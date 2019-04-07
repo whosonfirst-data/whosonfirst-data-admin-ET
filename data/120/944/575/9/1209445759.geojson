@@ -1,0 +1,61 @@
+{
+  "id": 1209445759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,11.7,37.66667,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Silbet",
+    "gn:country_code":"ET",
+    "gn:dem":2205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328384,
+    "gn:latitude":11.7,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Silb\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328384
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c6964492b4afff76bcab3fd86afa571d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209445759
+        }
+    ],
+    "wof:id":1209445759,
+    "wof:lastmodified":1536286824,
+    "wof:name":"Silbet",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    11.7,
+    37.66667,
+    11.7
+],
+  "geometry": {"coordinates":[37.66667,11.7],"type":"Point"}
+}

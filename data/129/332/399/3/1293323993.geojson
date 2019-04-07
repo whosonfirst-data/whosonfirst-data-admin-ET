@@ -1,0 +1,67 @@
+{
+  "id": 1293323993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57987,8.38155,33.57987,8.38155",
+    "geom:latitude":8.38155,
+    "geom:longitude":33.57987,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Liet N'yaruach",
+    "gn:country_code":"ET",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392450,
+    "gn:latitude":8.38155,
+    "gn:longitude":33.57987,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Liet N\u2019yaruach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392450
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d32855c7e6927eba6c005c6f21cc14b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1293323993,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1293323993,
+    "wof:lastmodified":1537021857,
+    "wof:name":"Liet N'yaruach",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57987,
+    8.38155,
+    33.57987,
+    8.38155
+],
+  "geometry": {"coordinates":[33.57987,8.38155],"type":"Point"}
+}

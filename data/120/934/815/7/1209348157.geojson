@@ -1,0 +1,68 @@
+{
+  "id": 1209348157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83889,9.13306,41.83889,9.13306",
+    "geom:latitude":9.13306,
+    "geom:longitude":41.83889,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Girawa",
+    "gn:country_code":"ET",
+    "gn:dem":2471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336410,
+    "gn:latitude":9.13306,
+    "gn:longitude":41.83889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Girawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Graua",
+        "Grawa",
+        "Grewa",
+        "Girawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336410,
+        "wk:page":"Girawa_%28woreda%29"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"dedab89e3fa419b79c31482363d3678f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209348157
+        }
+    ],
+    "wof:id":1209348157,
+    "wof:lastmodified":1537622010,
+    "wof:name":"Girawa",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83889,
+    9.13306,
+    41.83889,
+    9.13306
+],
+  "geometry": {"coordinates":[41.83889,9.13306],"type":"Point"}
+}

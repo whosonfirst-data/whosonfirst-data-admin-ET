@@ -1,0 +1,61 @@
+{
+  "id": 1209141993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27545,10.47841,39.27545,10.47841",
+    "geom:latitude":10.47841,
+    "geom:longitude":39.27545,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Debora Guracha",
+    "gn:country_code":"ET",
+    "gn:dem":2621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339754,
+    "gn:latitude":10.47841,
+    "gn:longitude":39.27545,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Debora Guracha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339754
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2f9924a901d84e84796a26e2279ecebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209141993
+        }
+    ],
+    "wof:id":1209141993,
+    "wof:lastmodified":1536296474,
+    "wof:name":"Debora Guracha",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27545,
+    10.47841,
+    39.27545,
+    10.47841
+],
+  "geometry": {"coordinates":[39.27545,10.47841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326665743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96667,13.31667,40.96667,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":40.96667,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Macolle",
+    "gn:country_code":"ET",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331824,
+    "gn:latitude":13.31667,
+    "gn:longitude":40.96667,
+    "gn:modification_date":"2008-03-25",
+    "gn:name":"Macolle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331824
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"2352d5778174254f3961434c43ba3344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1326665743,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1326665743,
+    "wof:lastmodified":1536791904,
+    "wof:name":"Macolle",
+    "wof:parent_id":1108695245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96667,
+    13.31667,
+    40.96667,
+    13.31667
+],
+  "geometry": {"coordinates":[40.96667,13.31667],"type":"Point"}
+}

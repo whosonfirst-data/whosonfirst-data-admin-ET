@@ -1,0 +1,71 @@
+{
+  "id": 1259514361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13167,9.02944,43.13167,9.02944",
+    "geom:latitude":9.02944,
+    "geom:longitude":43.13167,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Siwand",
+    "gn:country_code":"ET",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328271,
+    "gn:latitude":9.02944,
+    "gn:longitude":43.13167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siwand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siuand",
+        "Siwand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328271
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6abe58507ef3ea262d2ee035db90ae78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1259514361,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1259514361,
+    "wof:lastmodified":1537621914,
+    "wof:name":"Siwand",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13167,
+    9.02944,
+    43.13167,
+    9.02944
+],
+  "geometry": {"coordinates":[43.13167,9.02944],"type":"Point"}
+}

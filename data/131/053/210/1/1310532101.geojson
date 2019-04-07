@@ -1,0 +1,71 @@
+{
+  "id": 1310532101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20849,13.85149,39.20849,13.85149",
+    "geom:latitude":13.85149,
+    "geom:longitude":39.20849,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Gelebeda",
+    "gn:country_code":"ET",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337019,
+    "gn:latitude":13.85149,
+    "gn:longitude":39.20849,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gelebeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelebeda (2)",
+        "Gelebeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337019
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c73617a053a19afc225e0928d1b674f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1310532101,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1310532101,
+    "wof:lastmodified":1537622017,
+    "wof:name":"Gelebeda",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20849000000001,
+    13.85149,
+    39.20849000000001,
+    13.85149
+],
+  "geometry": {"coordinates":[39.20849000000001,13.85149],"type":"Point"}
+}

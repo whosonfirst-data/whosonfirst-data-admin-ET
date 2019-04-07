@@ -1,0 +1,67 @@
+{
+  "id": 1259412445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,8.43333,37.2,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dibo",
+    "gn:country_code":"ET",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339123,
+    "gn:latitude":8.43333,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"D\u012bbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339123
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"be3a394a3c2cf696df06baad15c58f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1259412445,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1259412445,
+    "wof:lastmodified":1536960878,
+    "wof:name":"Dibo",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    8.43333,
+    37.2,
+    8.43333
+],
+  "geometry": {"coordinates":[37.2,8.43333],"type":"Point"}
+}

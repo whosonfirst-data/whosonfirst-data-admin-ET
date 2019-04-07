@@ -1,0 +1,65 @@
+{
+  "id": 1209345547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9,5.45,39.9,5.45",
+    "geom:latitude":5.45,
+    "geom:longitude":39.9,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ellughena",
+    "gn:country_code":"ET",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338134,
+    "gn:latitude":5.45,
+    "gn:longitude":39.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ellughena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malca Lughena",
+        "Ellughena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338134
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"62e3037514b5cfd3a83abcb64e7f83ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209345547
+        }
+    ],
+    "wof:id":1209345547,
+    "wof:lastmodified":1537622028,
+    "wof:name":"Ellughena",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9,
+    5.45,
+    39.9,
+    5.45
+],
+  "geometry": {"coordinates":[39.9,5.45],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 890441255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,6.96667,37.86667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":37.86667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":32997,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u1266\u12f2\u1272"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u8fea\u63d0"
+    ],
+    "name:dut_x_preferred":[
+        "Boditi"
+    ],
+    "name:eng_x_preferred":[
+        "Boditi"
+    ],
+    "name:fre_x_preferred":[
+        "Boditi"
+    ],
+    "name:pol_x_preferred":[
+        "Boditi"
+    ],
+    "name:spa_x_preferred":[
+        "Boditi"
+    ],
+    "name:swe_x_preferred":[
+        "Bod\u012bt\u012b"
+    ],
+    "name:unk_x_variant":[
+        "Boditti"
+    ],
+    "qs:name":"Bod\u012bt\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341877,
+        "gp:id":1314330,
+        "qs:id":274900,
+        "wd:id":"Q965112"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052315,
+    "wof:geomhash":"52fba2b6bf1cc3347f51344ddfaa85bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695237,
+            "locality_id":890441255,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890441255,
+    "wof:lastmodified":1514422006,
+    "wof:name":"Bod\u012bt\u012b",
+    "wof:parent_id":1108695237,
+    "wof:placetype":"locality",
+    "wof:population":32997,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    6.96667,
+    37.86667,
+    6.96667
+],
+  "geometry": {"coordinates":[37.86667,6.96667],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 890431235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,9.8,38.73333,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":38.73333,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":25758,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fiche"
+    ],
+    "name:eng_x_preferred":[
+        "Fiche"
+    ],
+    "name:fre_x_preferred":[
+        "Fitche"
+    ],
+    "name:ita_x_preferred":[
+        "Fiche"
+    ],
+    "name:pol_x_preferred":[
+        "Ficze"
+    ],
+    "name:swe_x_preferred":[
+        "Fich\u0113"
+    ],
+    "name:unk_x_variant":[
+        "Fitche"
+    ],
+    "qs:name":"Fich\u0113",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":586,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337771,
+        "gp:id":1481963,
+        "qs:id":274894,
+        "wd:id":"Q3073074",
+        "wk:page":"Fiche"
+    },
+    "wof:country":"ET",
+    "wof:created":1469051883,
+    "wof:geomhash":"e975d72d816df2f03b4c871b4bd42116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":890431235,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":890431235,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Fich\u0113",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:population":25758,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    9.8,
+    38.73333,
+    9.8
+],
+  "geometry": {"coordinates":[38.73333,9.8],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326661107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25,12.83333,36.25,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":36.25,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kumer",
+    "gn:country_code":"ET",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332514,
+    "gn:latitude":12.83333,
+    "gn:longitude":36.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kumer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comar",
+        "Kumer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332514
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"24af4f0775b731c2bc4ea44e50733ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1326661107,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326661107,
+    "wof:lastmodified":1537621961,
+    "wof:name":"Kumer",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25,
+    12.83333,
+    36.25,
+    12.83333
+],
+  "geometry": {"coordinates":[36.25,12.83333],"type":"Point"}
+}

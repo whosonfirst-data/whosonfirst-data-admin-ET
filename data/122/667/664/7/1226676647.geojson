@@ -1,0 +1,71 @@
+{
+  "id": 1226676647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61683,13.86486,39.61683,13.86486",
+    "geom:latitude":13.86486,
+    "geom:longitude":39.61683,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"K'elah Abla",
+    "gn:country_code":"ET",
+    "gn:dem":2288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333432,
+    "gn:latitude":13.86486,
+    "gn:longitude":39.61683,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019elah \u0100bla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019elah \u0100bla",
+        "Kelakh Abla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333432
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"de12d791d833eb71327443b983d1bd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1226676647,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226676647,
+    "wof:lastmodified":1537621970,
+    "wof:name":"K'elah Abla",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61683,
+    13.86486,
+    39.61683,
+    13.86486
+],
+  "geometry": {"coordinates":[39.61683,13.86486],"type":"Point"}
+}

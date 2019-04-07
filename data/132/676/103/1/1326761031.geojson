@@ -1,0 +1,67 @@
+{
+  "id": 1326761031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,11.33333,39.43333,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"T'iru Meda",
+    "gn:country_code":"ET",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327475,
+    "gn:latitude":11.33333,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"T\u2019iru M\u0113da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327475
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"552a7b003d75cb4f1e70f2ec07607248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":1326761031,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1326761031,
+    "wof:lastmodified":1536654269,
+    "wof:name":"T'iru Meda",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    11.33333,
+    39.43333,
+    11.33333
+],
+  "geometry": {"coordinates":[39.43333,11.33333],"type":"Point"}
+}

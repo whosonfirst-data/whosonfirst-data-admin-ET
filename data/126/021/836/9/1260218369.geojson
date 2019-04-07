@@ -1,0 +1,67 @@
+{
+  "id": 1260218369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76583,9.49917,42.76583,9.49917",
+    "geom:latitude":9.49917,
+    "geom:longitude":42.76583,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mus Der",
+    "gn:country_code":"ET",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310926,
+    "gn:latitude":9.49917,
+    "gn:longitude":42.76583,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Mus Der",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310926
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ea958e0a43321f3461e2ddd1137ccbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1260218369,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1260218369,
+    "wof:lastmodified":1536800381,
+    "wof:name":"Mus Der",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76583,
+    9.49917,
+    42.76583,
+    9.49917
+],
+  "geometry": {"coordinates":[42.76583,9.49917],"type":"Point"}
+}

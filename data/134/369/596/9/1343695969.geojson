@@ -1,0 +1,73 @@
+{
+  "id": 1343695969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29337,9.32936,39.29337,9.32936",
+    "geom:latitude":9.32936,
+    "geom:longitude":39.29337,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sheno",
+    "gn:country_code":"ET",
+    "gn:dem":2850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328598,
+    "gn:latitude":9.32936,
+    "gn:longitude":39.29337,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Sheno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debre Birhan",
+        "Shano",
+        "Sciano",
+        "Sheno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328598
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"db51c40fcc6e0a635c4ed00895c4c31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1343695969,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1343695969,
+    "wof:lastmodified":1537621918,
+    "wof:name":"Sheno",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29337,
+    9.32936,
+    39.29337,
+    9.32936
+],
+  "geometry": {"coordinates":[39.29337,9.32936],"type":"Point"}
+}

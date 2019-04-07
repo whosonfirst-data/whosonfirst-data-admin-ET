@@ -1,0 +1,71 @@
+{
+  "id": 1243300803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31667,5.88333,38.31667,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":38.31667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Benk'o",
+    "gn:country_code":"ET",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342370,
+    "gn:latitude":5.88333,
+    "gn:longitude":38.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Benk\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banco",
+        "Benk\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421204107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342370
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"aaa266ae112e0c640bb3bc7f149303bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204107,
+            "locality_id":1243300803,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1243300803,
+    "wof:lastmodified":1537622077,
+    "wof:name":"Benk'o",
+    "wof:parent_id":421204107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31667,
+    5.88333,
+    38.31667,
+    5.88333
+],
+  "geometry": {"coordinates":[38.31667,5.88333],"type":"Point"}
+}

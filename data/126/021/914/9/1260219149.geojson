@@ -1,0 +1,67 @@
+{
+  "id": 1260219149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66625,9.6821,39.66625,9.6821",
+    "geom:latitude":9.6821,
+    "geom:longitude":39.66625,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Lajagind",
+    "gn:country_code":"ET",
+    "gn:dem":3288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332294,
+    "gn:latitude":9.6821,
+    "gn:longitude":39.66625,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lajagind",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332294
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8e4359ff0cca34734baac298f3e66bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1260219149,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1260219149,
+    "wof:lastmodified":1536799330,
+    "wof:name":"Lajagind",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66625,
+    9.6821,
+    39.66625,
+    9.6821
+],
+  "geometry": {"coordinates":[39.66625,9.6821],"type":"Point"}
+}

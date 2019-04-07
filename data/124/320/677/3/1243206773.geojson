@@ -1,0 +1,67 @@
+{
+  "id": 1243206773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15,7.93333,43.15,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":43.15,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Obelleh",
+    "gn:country_code":"ET",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330017,
+    "gn:latitude":7.93333,
+    "gn:longitude":43.15,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Obelleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330017
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"28529a9497d76fa1ec122269ba2b909b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1243206773,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1243206773,
+    "wof:lastmodified":1536654128,
+    "wof:name":"Obelleh",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15,
+    7.93333,
+    43.15,
+    7.93333
+],
+  "geometry": {"coordinates":[43.15,7.93333],"type":"Point"}
+}

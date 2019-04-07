@@ -1,0 +1,72 @@
+{
+  "id": 1276365673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.44028,7.36278,45.44028,7.36278",
+    "geom:latitude":7.36278,
+    "geom:longitude":45.44028,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Aden Libah",
+    "gn:country_code":"ET",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345382,
+    "gn:latitude":7.36278,
+    "gn:longitude":45.44028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aden Libah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addin Liba",
+        "Aden Lida",
+        "Aden Libah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345382
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e492ca7476d9f51c7ef8f72d93ec7612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1276365673,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1276365673,
+    "wof:lastmodified":1537622116,
+    "wof:name":"Aden Libah",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.44028,
+    7.36278,
+    45.44028,
+    7.36278
+],
+  "geometry": {"coordinates":[45.44028,7.36278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293329307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7159,6.49285,35.7159,6.49285",
+    "geom:latitude":6.49285,
+    "geom:longitude":35.7159,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Aba Saimal",
+    "gn:country_code":"ET",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345868,
+    "gn:latitude":6.49285,
+    "gn:longitude":35.7159,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Aba Saimal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aba Simal",
+        "Aba Saimal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345868
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d22014c361c7562ebc775bf500d4e4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1293329307,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1293329307,
+    "wof:lastmodified":1537622122,
+    "wof:name":"Aba Saimal",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7159,
+    6.49285,
+    35.7159,
+    6.49285
+],
+  "geometry": {"coordinates":[35.7159,6.49285],"type":"Point"}
+}

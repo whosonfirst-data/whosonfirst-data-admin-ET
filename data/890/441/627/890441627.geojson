@@ -1,0 +1,96 @@
+{
+  "id": 890441627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36667,8.11667,38.36667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":38.36667,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
+    "gn:pop":30502,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u5854\u5409\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Butajira"
+    ],
+    "name:eng_x_preferred":[
+        "Butajira"
+    ],
+    "name:fre_x_preferred":[
+        "Butajira"
+    ],
+    "name:ita_x_preferred":[
+        "Butajira"
+    ],
+    "name:pol_x_preferred":[
+        "Butad\u017cira"
+    ],
+    "name:swe_x_preferred":[
+        "Butaj\u012bra"
+    ],
+    "name:unk_x_variant":[
+        "Butlagira"
+    ],
+    "qs:name":"Butaj\u012bra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":2131.0,
+    "wd:latitude":"8.11666667",
+    "wd:longitude":"38.36666667",
+    "wd:wordcount":438,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341297,
+        "gp:id":1314560,
+        "qs:id":124263,
+        "wd:id":"Q2928812",
+        "wk:page":"Butajira"
+    },
+    "wof:country":"ET",
+    "wof:created":1469052331,
+    "wof:geomhash":"28c183ebe078748f0c666c9e85379f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":890441627,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":890441627,
+    "wof:lastmodified":1527727227,
+    "wof:name":"Butaj\u012bra",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:population":30502,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36667,
+    8.11667,
+    38.36667,
+    8.11667
+],
+  "geometry": {"coordinates":[38.36667,8.11667],"type":"Point"}
+}

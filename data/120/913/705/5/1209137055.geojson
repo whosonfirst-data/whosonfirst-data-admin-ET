@@ -1,0 +1,65 @@
+{
+  "id": 1209137055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11667,13.25,37.11667,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":37.11667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sefertahan",
+    "gn:country_code":"ET",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329056,
+    "gn:latitude":13.25,
+    "gn:longitude":37.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sefertahan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sefertalian",
+        "Sefertahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329056
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"663eed5bb3ea032544a0f49b35ff65da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209137055
+        }
+    ],
+    "wof:id":1209137055,
+    "wof:lastmodified":1537621924,
+    "wof:name":"Sefertahan",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11667,
+    13.25,
+    37.11667,
+    13.25
+],
+  "geometry": {"coordinates":[37.11667,13.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277013769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.17426,8.9229,42.17426,8.9229",
+    "geom:latitude":8.9229,
+    "geom:longitude":42.17426,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Didimtu",
+    "gn:country_code":"ET",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339071,
+    "gn:latitude":8.9229,
+    "gn:longitude":42.17426,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"D\u012bd\u012bmtu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bia Uoraba",
+        "Bija",
+        "Bio Uoraba",
+        "D\u012bd\u012bmtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339071
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"73355fb530afb8528f01b0999f6ef33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1277013769,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1277013769,
+    "wof:lastmodified":1537622038,
+    "wof:name":"Didimtu",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.17426,
+    8.9229,
+    42.17426,
+    8.9229
+],
+  "geometry": {"coordinates":[42.17426,8.9229],"type":"Point"}
+}

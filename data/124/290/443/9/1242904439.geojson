@@ -1,0 +1,71 @@
+{
+  "id": 1242904439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16667,8.16667,34.16667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":34.16667,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Foual",
+    "gn:country_code":"ET",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337650,
+    "gn:latitude":8.16667,
+    "gn:longitude":34.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Foual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fouol",
+        "Foual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421188217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337650
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1818b5d7ca319f9a6300f5c4611ec4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188217,
+            "locality_id":1242904439,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1242904439,
+    "wof:lastmodified":1537622023,
+    "wof:name":"Foual",
+    "wof:parent_id":421188217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16667,
+    8.16667,
+    34.16667,
+    8.16667
+],
+  "geometry": {"coordinates":[34.16667,8.16667],"type":"Point"}
+}

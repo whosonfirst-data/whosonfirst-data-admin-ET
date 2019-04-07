@@ -1,0 +1,72 @@
+{
+  "id": 1309748441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89139,5.695,43.89139,5.695",
+    "geom:latitude":5.695,
+    "geom:longitude":43.89139,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gerrei",
+    "gn:country_code":"ET",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336784,
+    "gn:latitude":5.695,
+    "gn:longitude":43.89139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gerrei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzherrey",
+        "Jerrey",
+        "Gerrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336784
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1a81b5427f1d7b4711d7153f7fae49de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1309748441,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1309748441,
+    "wof:lastmodified":1537622014,
+    "wof:name":"Gerrei",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89139,
+    5.695,
+    43.89139,
+    5.695
+],
+  "geometry": {"coordinates":[43.89139,5.695],"type":"Point"}
+}

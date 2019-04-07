@@ -1,0 +1,61 @@
+{
+  "id": 1209251307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41667,9.3,38.41667,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":38.41667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Inch'ini",
+    "gn:country_code":"ET",
+    "gn:dem":2760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334267,
+    "gn:latitude":9.3,
+    "gn:longitude":38.41667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Inch\u2019\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334267
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"a8bd0c1f15075af055f15b9bb207a4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209251307
+        }
+    ],
+    "wof:id":1209251307,
+    "wof:lastmodified":1536292996,
+    "wof:name":"Inch'ini",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41667,
+    9.3,
+    38.41667,
+    9.3
+],
+  "geometry": {"coordinates":[38.41667,9.3],"type":"Point"}
+}

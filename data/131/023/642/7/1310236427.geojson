@@ -1,0 +1,71 @@
+{
+  "id": 1310236427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76667,6.93333,46.76667,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":46.76667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Islo Abdi",
+    "gn:country_code":"ET",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334061,
+    "gn:latitude":6.93333,
+    "gn:longitude":46.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Islo Abdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Islo Addi",
+        "Islo Abdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334061
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4dbece93e514a3d22f5a656e7647fadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695235,
+            "locality_id":1310236427,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310236427,
+    "wof:lastmodified":1537621979,
+    "wof:name":"Islo Abdi",
+    "wof:parent_id":1108695235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76667,
+    6.93333,
+    46.76667,
+    6.93333
+],
+  "geometry": {"coordinates":[46.76667,6.93333],"type":"Point"}
+}

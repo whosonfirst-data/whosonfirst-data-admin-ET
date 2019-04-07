@@ -1,0 +1,71 @@
+{
+  "id": 1209950365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59997,14.40842,39.59997,14.40842",
+    "geom:latitude":14.40842,
+    "geom:longitude":39.59997,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Messeta",
+    "gn:country_code":"ET",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330819,
+    "gn:latitude":14.40842,
+    "gn:longitude":39.59997,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Messeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Messet\u00f9",
+        "Messeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330819
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"38169b25d514573477b3e0302fccd17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1209950365,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1209950365,
+    "wof:lastmodified":1537621942,
+    "wof:name":"Messeta",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59997,
+    14.40842,
+    39.59997,
+    14.40842
+],
+  "geometry": {"coordinates":[39.59997,14.40842],"type":"Point"}
+}

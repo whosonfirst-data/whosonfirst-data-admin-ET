@@ -1,0 +1,71 @@
+{
+  "id": 1343889605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88333,6.73333,34.88333,6.73333",
+    "geom:latitude":6.73333,
+    "geom:longitude":34.88333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Erbu",
+    "gn:country_code":"ET",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338048,
+    "gn:latitude":6.73333,
+    "gn:longitude":34.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Erbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golecoi",
+        "Erbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338048
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"af2f8ead15e380add0f9666d463d23c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1343889605,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1343889605,
+    "wof:lastmodified":1537622028,
+    "wof:name":"Erbu",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88333,
+    6.73333,
+    34.88333,
+    6.73333
+],
+  "geometry": {"coordinates":[34.88333,6.73333],"type":"Point"}
+}

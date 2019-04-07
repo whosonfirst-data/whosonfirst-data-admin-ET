@@ -1,0 +1,65 @@
+{
+  "id": 1209546475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.82361,13.06444,37.82361,13.06444",
+    "geom:latitude":13.06444,
+    "geom:longitude":37.82361,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Wek'in",
+    "gn:country_code":"ET",
+    "gn:dem":2726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326441,
+    "gn:latitude":13.06444,
+    "gn:longitude":37.82361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wek\u2019in",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dacua",
+        "Wek\u2019in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326441
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"392a9f2ffd2b0d013a86c14c9359a195",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209546475
+        }
+    ],
+    "wof:id":1209546475,
+    "wof:lastmodified":1537621896,
+    "wof:name":"Wek'in",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.82361,
+    13.06444,
+    37.82361,
+    13.06444
+],
+  "geometry": {"coordinates":[37.82361,13.06444],"type":"Point"}
+}

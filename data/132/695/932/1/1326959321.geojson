@@ -1,0 +1,71 @@
+{
+  "id": 1326959321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96222,9.30917,42.96222,9.30917",
+    "geom:latitude":9.30917,
+    "geom:longitude":42.96222,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"K'ebri",
+    "gn:country_code":"ET",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333518,
+    "gn:latitude":9.30917,
+    "gn:longitude":42.96222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019ebr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019ebr\u012b \u0100hmed",
+        "K\u2019ebr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333518
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"1d5c3e27e63c66d8aad4ed7632788b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1326959321,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1326959321,
+    "wof:lastmodified":1537621972,
+    "wof:name":"K'ebri",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96222,
+    9.30917,
+    42.96222,
+    9.30917
+],
+  "geometry": {"coordinates":[42.96222,9.30917],"type":"Point"}
+}

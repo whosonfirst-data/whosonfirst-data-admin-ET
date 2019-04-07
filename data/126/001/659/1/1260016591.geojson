@@ -1,0 +1,67 @@
+{
+  "id": 1260016591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19194,14.03444,39.19194,14.03444",
+    "geom:latitude":14.03444,
+    "geom:longitude":39.19194,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Angeba",
+    "gn:country_code":"ET",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343856,
+    "gn:latitude":14.03444,
+    "gn:longitude":39.19194,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"\u0100ngeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343856
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0d85e9f05a88062bf7e9df914fcd68aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1260016591,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1260016591,
+    "wof:lastmodified":1537081077,
+    "wof:name":"Angeba",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19194,
+    14.03444,
+    39.19194,
+    14.03444
+],
+  "geometry": {"coordinates":[39.19194,14.03444],"type":"Point"}
+}

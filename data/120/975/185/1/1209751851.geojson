@@ -1,0 +1,67 @@
+{
+  "id": 1209751851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80873,9.29171,39.80873,9.29171",
+    "geom:latitude":9.29171,
+    "geom:longitude":39.80873,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Bich'enk'eny",
+    "gn:country_code":"ET",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342188,
+    "gn:latitude":9.29171,
+    "gn:longitude":39.80873,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"B\u012bch\u2019enk\u2019eny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342188
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d731424afa3436930d09cca945edaf4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695197,
+            "locality_id":1209751851,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1209751851,
+    "wof:lastmodified":1536392390,
+    "wof:name":"Bich'enk'eny",
+    "wof:parent_id":1108695197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80873,
+    9.29171,
+    39.80873,
+    9.29171
+],
+  "geometry": {"coordinates":[39.80873,9.29171],"type":"Point"}
+}

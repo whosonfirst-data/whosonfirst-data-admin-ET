@@ -1,0 +1,67 @@
+{
+  "id": 1226783443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00807,9.47905,42.00807,9.47905",
+    "geom:latitude":9.47905,
+    "geom:longitude":42.00807,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Irensa",
+    "gn:country_code":"ET",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334093,
+    "gn:latitude":9.47905,
+    "gn:longitude":42.00807,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u012ar\u0113nsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334093
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"57cfe63dbb1ad8412394406d39c487d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1226783443,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226783443,
+    "wof:lastmodified":1536661297,
+    "wof:name":"Irensa",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00807,
+    9.47905,
+    42.00807,
+    9.47905
+],
+  "geometry": {"coordinates":[42.00807,9.47905],"type":"Point"}
+}

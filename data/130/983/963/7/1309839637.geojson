@@ -1,0 +1,67 @@
+{
+  "id": 1309839637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79139,9.36361,41.79139,9.36361",
+    "geom:latitude":9.36361,
+    "geom:longitude":41.79139,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bulo",
+    "gn:country_code":"ET",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341464,
+    "gn:latitude":9.36361,
+    "gn:longitude":41.79139,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341464
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fd45adda4f3b2719db23aa98d1c0f83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1309839637,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309839637,
+    "wof:lastmodified":1536881707,
+    "wof:name":"Bulo",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79139,
+    9.36361,
+    41.79139,
+    9.36361
+],
+  "geometry": {"coordinates":[41.79139,9.36361],"type":"Point"}
+}

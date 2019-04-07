@@ -1,0 +1,72 @@
+{
+  "id": 1243098541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,7.95,35.11667,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Fit Makonnen",
+    "gn:country_code":"ET",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337687,
+    "gn:latitude":7.95,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fit Makonnen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fit Maconnen",
+        "Gherba Dima",
+        "Fit Makonnen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890446963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337687
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"0315358f9572d1bfc744b895614398fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890446963,
+            "locality_id":1243098541,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243098541,
+    "wof:lastmodified":1537622024,
+    "wof:name":"Fit Makonnen",
+    "wof:parent_id":890446963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    7.95,
+    35.11667,
+    7.95
+],
+  "geometry": {"coordinates":[35.11667,7.95],"type":"Point"}
+}

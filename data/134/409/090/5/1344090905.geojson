@@ -1,0 +1,67 @@
+{
+  "id": 1344090905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51667,9.65,38.51667,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":38.51667,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Jogola",
+    "gn:country_code":"ET",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333713,
+    "gn:latitude":9.65,
+    "gn:longitude":38.51667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Jogola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333713
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"ab1a7cc47ec2ecd3790c9e79e8e94277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695199,
+            "locality_id":1344090905,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1344090905,
+    "wof:lastmodified":1536830738,
+    "wof:name":"Jogola",
+    "wof:parent_id":1108695199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51667,
+    9.65,
+    38.51667,
+    9.65
+],
+  "geometry": {"coordinates":[38.51667,9.65],"type":"Point"}
+}

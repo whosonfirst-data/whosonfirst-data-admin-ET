@@ -1,0 +1,76 @@
+{
+  "id": 1225975279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66861,7.86778,43.66861,7.86778",
+    "geom:latitude":7.86778,
+    "geom:longitude":43.66861,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Sasabeneh",
+    "gn:country_code":"ET",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329272,
+    "gn:latitude":7.86778,
+    "gn:longitude":43.66861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sasabeneh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sesebani",
+        "Seseben\u012b",
+        "Sasabani",
+        "Sasa Baneh",
+        "Sassabaneh",
+        "Sassabane",
+        "Sasabeneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329272
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9e4abd14af8191337e7015377da37e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695149,
+            "locality_id":1225975279,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1225975279,
+    "wof:lastmodified":1537621926,
+    "wof:name":"Sasabeneh",
+    "wof:parent_id":1108695149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66861,
+    7.86778,
+    43.66861,
+    7.86778
+],
+  "geometry": {"coordinates":[43.66861,7.86778],"type":"Point"}
+}

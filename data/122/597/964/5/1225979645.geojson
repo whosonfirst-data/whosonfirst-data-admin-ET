@@ -1,0 +1,67 @@
+{
+  "id": 1225979645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05762,9.31789,41.05762,9.31789",
+    "geom:latitude":9.31789,
+    "geom:longitude":41.05762,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Burk'a Abdosh",
+    "gn:country_code":"ET",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341369,
+    "gn:latitude":9.31789,
+    "gn:longitude":41.05762,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Burk\u2019a \u0100bdosh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341369
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b72b812fab5d02f3e94f3a8812e0ead5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695227,
+            "locality_id":1225979645,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1225979645,
+    "wof:lastmodified":1536819516,
+    "wof:name":"Burk'a Abdosh",
+    "wof:parent_id":1108695227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05762,
+    9.31789,
+    41.05762,
+    9.31789
+],
+  "geometry": {"coordinates":[41.05762,9.31789],"type":"Point"}
+}

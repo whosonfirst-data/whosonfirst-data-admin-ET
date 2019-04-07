@@ -1,0 +1,71 @@
+{
+  "id": 1260323391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5,9.18333,36.5,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":36.5,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Ts'ige Maryam",
+    "gn:country_code":"ET",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327317,
+    "gn:latitude":9.18333,
+    "gn:longitude":36.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ts\u2019ig\u0113 Maryam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seghe Mariam",
+        "Ts\u2019ig\u0113 Maryam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327317
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d93abd2da73c6f2f5d74913a3b005654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695163,
+            "locality_id":1260323391,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1260323391,
+    "wof:lastmodified":1537621905,
+    "wof:name":"Ts'ige Maryam",
+    "wof:parent_id":1108695163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5,
+    9.18333,
+    36.5,
+    9.18333
+],
+  "geometry": {"coordinates":[36.5,9.18333],"type":"Point"}
+}

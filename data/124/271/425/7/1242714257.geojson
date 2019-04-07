@@ -1,0 +1,67 @@
+{
+  "id": 1242714257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16667,9.55,41.16667,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":41.16667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Elabella",
+    "gn:country_code":"ET",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338253,
+    "gn:latitude":9.55,
+    "gn:longitude":41.16667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Elabella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338253
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"142cb60b53c02b1df42e57f2ce806b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1242714257,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1242714257,
+    "wof:lastmodified":1536865558,
+    "wof:name":"Elabella",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16667,
+    9.55,
+    41.16667,
+    9.55
+],
+  "geometry": {"coordinates":[41.16667,9.55],"type":"Point"}
+}

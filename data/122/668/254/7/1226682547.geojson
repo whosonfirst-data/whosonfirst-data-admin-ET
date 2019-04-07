@@ -1,0 +1,67 @@
+{
+  "id": 1226682547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.86028,9.12139,41.86028,9.12139",
+    "geom:latitude":9.12139,
+    "geom:longitude":41.86028,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Arocha",
+    "gn:country_code":"ET",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343486,
+    "gn:latitude":9.12139,
+    "gn:longitude":41.86028,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"\u0100rocha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343486
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4e5c6db102678a7e3b49ab667d3e1a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1226682547,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226682547,
+    "wof:lastmodified":1536806237,
+    "wof:name":"Arocha",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.86028,
+    9.12139,
+    41.86028,
+    9.12139
+],
+  "geometry": {"coordinates":[41.86028,9.12139],"type":"Point"}
+}

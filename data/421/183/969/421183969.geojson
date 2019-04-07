@@ -1,0 +1,460 @@
+{
+  "id": 421183969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"38.761825,8.960875,38.761825,8.960875",
+    "geom:latitude":8.960875,
+    "geom:longitude":38.761825,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ady_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:afr_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u12f2\u1235 \u12a0\u1260\u1263"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u062f\u064a\u0633 \u0623\u0628\u0627\u0628\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u062f\u064a\u0633 \u0627\u0628\u0627\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fddis-\u018fb\u0259b\u0259"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u0434\u044b\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0434\u044b\u0441-\u0410\u0431\u044d\u0431\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a6\u09cd\u09a6\u09bf\u09b8 \u0986\u09ac\u09be\u09ac\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f0b\u0f4c\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f68\u0f0b\u0f56\u0f0b\u0f56\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:bre_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0434\u0438\u0441 \u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:ceb_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:ces_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u062f\u06cc\u0633 \u0626\u06d5\u0628\u0627\u0628\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:dan_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:deu_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:diq_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:dsb_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03af\u03c2 \u0391\u03bc\u03c0\u03ad\u03bc\u03c0\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Adis-Abebo"
+    ],
+    "name:est_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:eus_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:fao_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u06cc\u0633 \u0622\u0628\u0627\u0628\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:fra_x_preferred":[
+        "Addis-Abeba"
+    ],
+    "name:fry_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:gla_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:gle_x_preferred":[
+        "Adas Ababa"
+    ],
+    "name:glg_x_preferred":[
+        "Ad\u00eds Abeba"
+    ],
+    "name:hat_x_preferred":[
+        "Adis-Abeba"
+    ],
+    "name:hbs_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d9\u05e1 \u05d0\u05d1\u05d1\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0926\u0940\u0938 \u0905\u092c\u093e\u092c\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:hsb_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:hun_x_preferred":[
+        "Addisz-Abeba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0564\u056b\u057d \u0531\u0562\u0565\u0562\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:ido_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:ile_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:ind_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:isl_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:ita_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:jav_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c7\u30a3\u30b9\u30a2\u30d9\u30d0"
+    ],
+    "name:kaa_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:kab_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0ca1\u0cbf\u0cb8\u0ccd \u0c85\u0cac\u0cbe\u0cac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d3\u10d8\u10e1-\u10d0\u10d1\u10d4\u10d1\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:kin_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:kon_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub514\uc2a4\uc544\ubc14\ubc14"
+    ],
+    "name:lat_x_preferred":[
+        "Neanthopolis"
+    ],
+    "name:lav_x_preferred":[
+        "Adisabeba"
+    ],
+    "name:lij_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:lit_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:lmo_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:ltz_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d21\u0d3f\u0d38\u0d4d \u0d05\u0d2c\u0d46\u0d2c"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0926\u093f\u0938 \u0905\u092c\u093e\u092c\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0434\u0438\u0441 \u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431 \u0445\u043e\u0442"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u102c\u1012\u1005\u103a \u1021\u102c\u1018\u102c\u1018\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u0926\u093f\u0938 \u0905\u092c\u093e\u092c\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:nno_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:nor_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:oci_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:orm_x_preferred":[
+        "Finfinnee"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a06\u0a26\u0a3f\u0a38 \u0a06\u0a2c\u0a2c\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:pms_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u062f\u06cc\u0633 \u0627\u0628\u0627\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:por_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:que_x_preferred":[
+        "Adis Ababa"
+    ],
+    "name:roh_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:ron_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:slk_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:slv_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:sna_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:som_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:spa_x_preferred":[
+        "Ad\u00eds Abeba"
+    ],
+    "name:sqi_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:srd_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:srn_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0434\u0438\u0441 \u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:swe_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:szl_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9f\u0bbf\u0bb8\u0bcd \u0b85\u0baa\u0bbe\u0baa\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c26\u0c4d\u0c26\u0c3f\u0c38\u0c4d \u0c05\u0c2c\u0c3e\u0c2c\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Adis Abeba"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e14\u0e14\u0e34\u0e2a\u0e2d\u0e32\u0e1a\u0e32\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062f\u06cc\u0633 \u0627\u0628\u0627\u0628\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Addis-Abeba"
+    ],
+    "name:vec_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:vep_x_preferred":[
+        "Addis-Abeb"
+    ],
+    "name:vie_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:war_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:wol_x_preferred":[
+        "Addis-Abeba"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u7684\u65af\u4e9a\u8d1d\u5df4"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d3\u10d8\u10e1-\u10d0\u10d1\u10d4\u10d1\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d3\u05d9\u05e1 \u05d0\u05d1\u05d0\u05d1\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Addis Ababa"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Addis Abeba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u7684\u65af\u4e9a\u8d1d\u5df4"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u963f\u8fea\u65af\u963f\u8c9d\u5df4"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Addis Ababa Zone 2",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Addis Ababa",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":987019,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017369,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017369,
+        "qs:id":987019
+    },
+    "wof:country":"ET",
+    "wof:created":1459009396,
+    "wof:geomhash":"f2c4eaeff2d03d8dee2701b329024c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421183969,
+            "region_id":85671149
+        }
+    ],
+    "wof:id":421183969,
+    "wof:lastmodified":1474500846,
+    "wof:name":"Addis Ababa Zone 2",
+    "wof:parent_id":85671149,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.761825,
+    8.960875,
+    38.761825,
+    8.960875
+],
+  "geometry": {"coordinates":[38.761825,8.960875],"type":"Point"}
+}

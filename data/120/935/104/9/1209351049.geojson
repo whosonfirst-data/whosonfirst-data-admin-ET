@@ -1,0 +1,61 @@
+{
+  "id": 1209351049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11667,12.75,39.11667,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":39.11667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Jireno",
+    "gn:country_code":"ET",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333738,
+    "gn:latitude":12.75,
+    "gn:longitude":39.11667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"J\u012br\u0113no",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333738
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"7f0cc9c6953c23634043d843b75fa4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209351049
+        }
+    ],
+    "wof:id":1209351049,
+    "wof:lastmodified":1536289740,
+    "wof:name":"Jireno",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11667,
+    12.75,
+    39.11667,
+    12.75
+],
+  "geometry": {"coordinates":[39.11667,12.75],"type":"Point"}
+}

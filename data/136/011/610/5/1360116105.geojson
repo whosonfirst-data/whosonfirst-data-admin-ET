@@ -1,0 +1,71 @@
+{
+  "id": 1360116105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0225,9.34722,42.0225,9.34722",
+    "geom:latitude":9.34722,
+    "geom:longitude":42.0225,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Maye Gudo",
+    "gn:country_code":"ET",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331404,
+    "gn:latitude":9.34722,
+    "gn:longitude":42.0225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maye Gudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maya-Gudo",
+        "Maye Gudo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331404
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"6aa1bf8d9163f9c79a2727808c71527b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1360116105,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1360116105,
+    "wof:lastmodified":1537621950,
+    "wof:name":"Maye Gudo",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0225,
+    9.34722,
+    42.0225,
+    9.34722
+],
+  "geometry": {"coordinates":[42.0225,9.34722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344191259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8,4.51667,39.8,4.51667",
+    "geom:latitude":4.51667,
+    "geom:longitude":39.8,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mitata",
+    "gn:country_code":"ET",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330565,
+    "gn:latitude":4.51667,
+    "gn:longitude":39.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mitata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mittita",
+        "Mitata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330565
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"429da1ea1ef05a629155cce39ce0f015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695187,
+            "locality_id":1344191259,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1344191259,
+    "wof:lastmodified":1537621939,
+    "wof:name":"Mitata",
+    "wof:parent_id":1108695187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8,
+    4.51667,
+    39.8,
+    4.51667
+],
+  "geometry": {"coordinates":[39.8,4.51667],"type":"Point"}
+}

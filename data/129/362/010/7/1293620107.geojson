@@ -1,0 +1,72 @@
+{
+  "id": 1293620107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.9,4.35,38.9,4.35",
+    "geom:latitude":4.35,
+    "geom:longitude":38.9,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Belale",
+    "gn:country_code":"ET",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342464,
+    "gn:latitude":4.35,
+    "gn:longitude":38.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Belale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballale",
+        "Balale",
+        "Belale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342464
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"e617b364b2643066551edb399e77af5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1293620107,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1293620107,
+    "wof:lastmodified":1537622079,
+    "wof:name":"Belale",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.9,
+    4.35,
+    38.9,
+    4.35
+],
+  "geometry": {"coordinates":[38.9,4.35],"type":"Point"}
+}

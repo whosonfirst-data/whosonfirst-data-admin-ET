@@ -1,0 +1,71 @@
+{
+  "id": 1226579819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.32376,14.25732,39.32376,14.25732",
+    "geom:latitude":14.25732,
+    "geom:longitude":39.32376,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Mik'imat' Mekonin",
+    "gn:country_code":"ET",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330662,
+    "gn:latitude":14.25732,
+    "gn:longitude":39.32376,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mik\u2019imat\u2019 Mekonin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mik\u2019imat\u2019 Mekwenin",
+        "Mik\u2019imat\u2019 Mekonin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330662
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4768e0917518f7c680e27ff7ff696e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1226579819,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226579819,
+    "wof:lastmodified":1537621940,
+    "wof:name":"Mik'imat' Mekonin",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.32376,
+    14.25732,
+    39.32376,
+    14.25732
+],
+  "geometry": {"coordinates":[39.32376,14.25732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309745879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16713,8.10895,36.16713,8.10895",
+    "geom:latitude":8.10895,
+    "geom:longitude":36.16713,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sata",
+    "gn:country_code":"ET",
+    "gn:dem":2281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329261,
+    "gn:latitude":8.10895,
+    "gn:longitude":36.16713,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sata (2)",
+        "Sata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        890418071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329261
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"65dccd82ec87a13597216ee4b17f45ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890418071,
+            "locality_id":1309745879,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1309745879,
+    "wof:lastmodified":1537621925,
+    "wof:name":"Sata",
+    "wof:parent_id":890418071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16713,
+    8.10895,
+    36.16713,
+    8.10895
+],
+  "geometry": {"coordinates":[36.16713,8.10895],"type":"Point"}
+}

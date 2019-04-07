@@ -1,0 +1,67 @@
+{
+  "id": 1226778205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27637,13.32645,39.27637,13.32645",
+    "geom:latitude":13.32645,
+    "geom:longitude":39.27637,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Addi Kala",
+    "gn:country_code":"ET",
+    "gn:dem":2331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6727714,
+    "gn:latitude":13.32645,
+    "gn:longitude":39.27637,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Addi Kala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6727714
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f9d183dea9b26ef7d8dc2b89b1486647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695207,
+            "locality_id":1226778205,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226778205,
+    "wof:lastmodified":1536668939,
+    "wof:name":"Addi Kala",
+    "wof:parent_id":1108695207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27637,
+    13.32645,
+    39.27637,
+    13.32645
+],
+  "geometry": {"coordinates":[39.27637,13.32645],"type":"Point"}
+}

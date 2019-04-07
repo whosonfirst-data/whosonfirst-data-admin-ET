@@ -1,0 +1,61 @@
+{
+  "id": 1209645813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8,6.81667,37.8,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":37.8,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Womba",
+    "gn:country_code":"ET",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326054,
+    "gn:latitude":6.81667,
+    "gn:longitude":37.8,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Womba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326054
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4e23cd12bb0edaef105e5f23010aaa59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209645813
+        }
+    ],
+    "wof:id":1209645813,
+    "wof:lastmodified":1536280739,
+    "wof:name":"Womba",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8,
+    6.8166699999999985,
+    37.8,
+    6.8166699999999985
+],
+  "geometry": {"coordinates":[37.8,6.81667],"type":"Point"}
+}

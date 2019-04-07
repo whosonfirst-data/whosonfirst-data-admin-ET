@@ -1,0 +1,61 @@
+{
+  "id": 1209534409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.25,7.75,41.25,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":41.25,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Legehida",
+    "gn:country_code":"ET",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643715,
+    "gn:latitude":7.75,
+    "gn:longitude":41.25,
+    "gn:modification_date":"2013-12-05",
+    "gn:name":"Legehida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643715
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"8f51633f576af57e09b95f3c6ceee757",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209534409
+        }
+    ],
+    "wof:id":1209534409,
+    "wof:lastmodified":1536284183,
+    "wof:name":"Legehida",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.25,
+    7.75,
+    41.25,
+    7.75
+],
+  "geometry": {"coordinates":[41.25,7.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277018669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96667,8.18333,37.96667,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":37.96667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ment'er",
+    "gn:country_code":"ET",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330968,
+    "gn:latitude":8.18333,
+    "gn:longitude":37.96667,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Ment\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330968
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"10af001860a1c9ce499a0562f2a31f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1277018669,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1277018669,
+    "wof:lastmodified":1536853929,
+    "wof:name":"Ment'er",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96667,
+    8.18333,
+    37.96667,
+    8.18333
+],
+  "geometry": {"coordinates":[37.96667,8.18333],"type":"Point"}
+}

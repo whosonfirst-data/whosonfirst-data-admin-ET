@@ -1,0 +1,71 @@
+{
+  "id": 1226176185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,7.9,39.73333,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Sude",
+    "gn:country_code":"ET",
+    "gn:dem":2454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328105,
+    "gn:latitude":7.9,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sud\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sud\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328105,
+        "wk:page":"Sude"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"f56a7d0634f948446ade7444dbe07fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695131,
+            "locality_id":1226176185,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1226176185,
+    "wof:lastmodified":1537621912,
+    "wof:name":"Sude",
+    "wof:parent_id":1108695131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    7.9,
+    39.73333,
+    7.9
+],
+  "geometry": {"coordinates":[39.73333,7.9],"type":"Point"}
+}

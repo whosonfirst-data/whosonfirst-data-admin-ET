@@ -1,0 +1,72 @@
+{
+  "id": 1226777941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56537,14.09126,39.56537,14.09126",
+    "geom:latitude":14.09126,
+    "geom:longitude":39.56537,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"May Megelta",
+    "gn:country_code":"ET",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331376,
+    "gn:latitude":14.09126,
+    "gn:longitude":39.56537,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"May Megelta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meghelt\u00e0",
+        "Mai Meghelt\u00e0",
+        "May Megelta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331376
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"658c06ac0fee58124cbcbced96fadb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1226777941,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1226777941,
+    "wof:lastmodified":1537621949,
+    "wof:name":"May Megelta",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56537,
+    14.09126,
+    39.56537,
+    14.09126
+],
+  "geometry": {"coordinates":[39.56537,14.09126],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209036237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55307,13.63436,39.55307,13.63436",
+    "geom:latitude":13.63436,
+    "geom:longitude":39.55307,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"K'ihen",
+    "gn:country_code":"ET",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333083,
+    "gn:latitude":13.63436,
+    "gn:longitude":39.55307,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019\u012bhen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019\u012bhen",
+        "Kikhen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333083
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b16d6cd2df1cf906e6592800035ac052",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209036237
+        }
+    ],
+    "wof:id":1209036237,
+    "wof:lastmodified":1537621967,
+    "wof:name":"K'ihen",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55307,
+    13.63436,
+    39.55307,
+    13.63436
+],
+  "geometry": {"coordinates":[39.55307,13.63436],"type":"Point"}
+}

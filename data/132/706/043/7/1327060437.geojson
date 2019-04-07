@@ -1,0 +1,67 @@
+{
+  "id": 1327060437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45,12.28333,37.45,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":37.45,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dembiya",
+    "gn:country_code":"ET",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339443,
+    "gn:latitude":12.28333,
+    "gn:longitude":37.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Demb\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demb\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339443,
+        "wk:page":"Dembiya_%28woreda%29"
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"27f3bd515d3efeaf321bbb036cda8813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327060437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327060437,
+    "wof:lastmodified":1537622043,
+    "wof:name":"Dembiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45,
+    12.28333,
+    37.45,
+    12.28333
+],
+  "geometry": {"coordinates":[37.45,12.28333],"type":"Point"}
+}

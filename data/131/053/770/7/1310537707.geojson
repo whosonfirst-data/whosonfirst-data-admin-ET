@@ -1,0 +1,67 @@
+{
+  "id": 1310537707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.08333,4.33222,42.08333,4.33222",
+    "geom:latitude":4.33222,
+    "geom:longitude":42.08333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Weldeya",
+    "gn:country_code":"ET",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444989,
+    "gn:latitude":4.33222,
+    "gn:longitude":42.08333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Weldeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        1108695121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444989
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9c3b48fd96b335acd16821c97b998f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695121,
+            "locality_id":1310537707,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1310537707,
+    "wof:lastmodified":1536869260,
+    "wof:name":"Weldeya",
+    "wof:parent_id":1108695121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.08333,
+    4.33222,
+    42.08333,
+    4.33222
+],
+  "geometry": {"coordinates":[42.08333,4.33222],"type":"Point"}
+}

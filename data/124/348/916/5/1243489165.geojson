@@ -1,0 +1,73 @@
+{
+  "id": 1243489165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,10.26667,37.66667,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ziwad",
+    "gn:country_code":"ET",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325580,
+    "gn:latitude":10.26667,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ziwad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omata",
+        "Amuata",
+        "Amurata",
+        "Ziwad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325580
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"22333c22a9282ca9695f39061b4320d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695153,
+            "locality_id":1243489165,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1243489165,
+    "wof:lastmodified":1537621885,
+    "wof:name":"Ziwad",
+    "wof:parent_id":1108695153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    10.26667,
+    37.66667,
+    10.26667
+],
+  "geometry": {"coordinates":[37.66667,10.26667],"type":"Point"}
+}

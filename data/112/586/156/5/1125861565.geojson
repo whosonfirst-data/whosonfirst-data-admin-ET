@@ -1,0 +1,142 @@
+{
+  "id": 1125861565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98333,8.75,38.98333,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":38.98333,
+    "gn:gn_country":"ET",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":104215,
+    "gn:population":104215,
+    "iso:country":"ET",
+    "lbl:latitude":8.75,
+    "lbl:longitude":38.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:amh_x_preferred":[
+        "\u12f0\u1265\u1228 \u12d8\u12ed\u1275"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0448\u043e\u0444\u0442\u0443"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u5e03\u96f7\u585e\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "Bishoftu"
+    ],
+    "name:dut_x_preferred":[
+        "Debre Zeit"
+    ],
+    "name:eng_x_preferred":[
+        "Debre Zeyit"
+    ],
+    "name:epo_x_preferred":[
+        "Debre Zejit"
+    ],
+    "name:fin_x_preferred":[
+        "Debre Zeit"
+    ],
+    "name:fre_x_preferred":[
+        "Debre Zeit"
+    ],
+    "name:ger_x_preferred":[
+        "Debre Zeyit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05e8\u05d4 \u05d6\u05d9\u05ea"
+    ],
+    "name:hrv_x_preferred":[
+        "Debre Zejit"
+    ],
+    "name:hun_x_preferred":[
+        "Debre Zeyit"
+    ],
+    "name:ita_x_preferred":[
+        "Bishoftu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d6\u30ec\u30fb\u30bc\u30a4\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Debre Zeitas"
+    ],
+    "name:pol_x_preferred":[
+        "Debre Zeit"
+    ],
+    "name:rum_x_preferred":[
+        "Debre Zeyit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044d\u0431\u0440\u044d-\u0417\u044d\u0439\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Debre Zeit"
+    ],
+    "name:unk_x_variant":[
+        "Bishoftu"
+    ],
+    "qs_pg:aaroncc":"ET",
+    "qs_pg:gn_country":"ET",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":339666,
+    "qs_pg:gn_pop":104215,
+    "qs_pg:name":"Debre Zeyit",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":124247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339666,
+        "qs_pg:id":124247,
+        "wd:id":"Q740499"
+    },
+    "wof:country":"ET",
+    "wof:created":1497293849,
+    "wof:geomhash":"538858bfbb76a5a60ae7cf62cd57e1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695157,
+            "locality_id":1125861565,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1125861565,
+    "wof:lastmodified":1514422009,
+    "wof:name":"Debre Zeyit",
+    "wof:parent_id":1108695157,
+    "wof:placetype":"locality",
+    "wof:population":104215,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98333,
+    8.75,
+    38.98333,
+    8.75
+],
+  "geometry": {"coordinates":[38.98333,8.75],"type":"Point"}
+}

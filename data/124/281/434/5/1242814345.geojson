@@ -1,0 +1,67 @@
+{
+  "id": 1242814345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03333,8.28333,38.03333,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":38.03333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"K'ebena",
+    "gn:country_code":"ET",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333526,
+    "gn:latitude":8.28333,
+    "gn:longitude":38.03333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019eb\u0113na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333526
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9b6e7a1daea6d1c4657516bf0466895e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1242814345,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1242814345,
+    "wof:lastmodified":1536722991,
+    "wof:name":"K'ebena",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03333,
+    8.28333,
+    38.03333,
+    8.28333
+],
+  "geometry": {"coordinates":[38.03333,8.28333],"type":"Point"}
+}

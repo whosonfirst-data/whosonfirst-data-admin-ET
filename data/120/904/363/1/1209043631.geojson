@@ -1,0 +1,61 @@
+{
+  "id": 1209043631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.49398,9.13324,40.49398,9.13324",
+    "geom:latitude":9.13324,
+    "geom:longitude":40.49398,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Dire K'alu",
+    "gn:country_code":"ET",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338820,
+    "gn:latitude":9.13324,
+    "gn:longitude":40.49398,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Dir\u0113 K\u2019alu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338820
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"76f82bbd6bc145059340f51ae71951b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209043631
+        }
+    ],
+    "wof:id":1209043631,
+    "wof:lastmodified":1536299465,
+    "wof:name":"Dire K'alu",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.49398,
+    9.13324,
+    40.49398,
+    9.13324
+],
+  "geometry": {"coordinates":[40.49398,9.13324],"type":"Point"}
+}

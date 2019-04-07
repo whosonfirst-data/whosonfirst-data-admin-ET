@@ -1,0 +1,71 @@
+{
+  "id": 1343396931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54417,14.00917,38.54417,14.00917",
+    "geom:latitude":14.00917,
+    "geom:longitude":38.54417,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Adi Gwara",
+    "gn:country_code":"ET",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345133,
+    "gn:latitude":14.00917,
+    "gn:longitude":38.54417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Gwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addi Guara",
+        "\u0100d\u012b Gwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345133
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"5935a2b483e4ffd8585a72ab7214d4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1343396931,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1343396931,
+    "wof:lastmodified":1537622112,
+    "wof:name":"Adi Gwara",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54417,
+    14.00917,
+    38.54417,
+    14.00917
+],
+  "geometry": {"coordinates":[38.54417,14.00917],"type":"Point"}
+}

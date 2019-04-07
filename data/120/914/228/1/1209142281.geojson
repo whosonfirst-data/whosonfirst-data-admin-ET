@@ -1,0 +1,61 @@
+{
+  "id": 1209142281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,11.91667,39.26667,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Wilal",
+    "gn:country_code":"ET",
+    "gn:dem":3408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326106,
+    "gn:latitude":11.91667,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2008-11-24",
+    "gn:name":"Wilal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326106
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4991ded3ef75ce019a8fe6df88b34345",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1209142281
+        }
+    ],
+    "wof:id":1209142281,
+    "wof:lastmodified":1536296466,
+    "wof:name":"Wilal",
+    "wof:parent_id":85632257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    11.91667,
+    39.26667,
+    11.91667
+],
+  "geometry": {"coordinates":[39.26667,11.91667],"type":"Point"}
+}

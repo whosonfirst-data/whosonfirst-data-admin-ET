@@ -1,0 +1,71 @@
+{
+  "id": 1343497525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2225,14.5725,38.2225,14.5725",
+    "geom:latitude":14.5725,
+    "geom:longitude":38.2225,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Tzada Beit",
+    "gn:country_code":"ET",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327135,
+    "gn:latitude":14.5725,
+    "gn:longitude":38.2225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tzada Beit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsada Beyt",
+        "Tzada Beit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327135
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"d60e704736490a769bbf1230b0fb2661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1343497525,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1343497525,
+    "wof:lastmodified":1537621904,
+    "wof:name":"Tzada Beit",
+    "wof:parent_id":1108695229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2225,
+    14.5725,
+    38.2225,
+    14.5725
+],
+  "geometry": {"coordinates":[38.2225,14.5725],"type":"Point"}
+}

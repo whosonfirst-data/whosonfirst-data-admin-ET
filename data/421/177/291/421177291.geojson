@@ -1,0 +1,111 @@
+{
+  "id": 421177291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,10.6,39.43333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":39.43333,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Were \u012alu"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c83\u96f7\u4f0a\u76e7"
+    ],
+    "name:dut_x_preferred":[
+        "Were Ilu"
+    ],
+    "name:eng_x_preferred":[
+        "Were Ilu"
+    ],
+    "name:fra_x_preferred":[
+        "Were Ilu"
+    ],
+    "name:fre_x_preferred":[
+        "Were Ilu"
+    ],
+    "name:swe_x_preferred":[
+        "Were \u012alu"
+    ],
+    "name:unk_x_variant":[
+        "Wereyilu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u96f7\u4f0a\u76e7"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":326259,
+    "qs:gn_pop":7636,
+    "qs:name":"Were Ilu",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Amhara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":274878,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1320711,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":10.6,
+    "wd:longitude":39.4333,
+    "wd:wordcount":728,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326259,
+        "gp:id":1320711,
+        "qs:id":274878,
+        "wd:id":"Q3567301",
+        "wk:page":"Were Ilu"
+    },
+    "wof:country":"ET",
+    "wof:created":1459009139,
+    "wof:geomhash":"ab93b4dc72bef9042ac42e7676947726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695209,
+            "locality_id":421177291,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":421177291,
+    "wof:lastmodified":1527716484,
+    "wof:name":"Were Ilu",
+    "wof:parent_id":1108695209,
+    "wof:placetype":"locality",
+    "wof:population":7636,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    10.6,
+    39.43333,
+    10.6
+],
+  "geometry": {"coordinates":[39.43333,10.6],"type":"Point"}
+}

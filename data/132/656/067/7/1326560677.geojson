@@ -1,0 +1,71 @@
+{
+  "id": 1326560677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85,5.6,37.85,5.6",
+    "geom:latitude":5.6,
+    "geom:longitude":37.85,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Maddale",
+    "gn:country_code":"ET",
+    "gn:dem":2218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331817,
+    "gn:latitude":5.6,
+    "gn:longitude":37.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maddale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naddal\u00e8",
+        "Maddale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        1108695143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331817
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"db274656d0ef2c246225ee8d779c6a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695143,
+            "locality_id":1326560677,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1326560677,
+    "wof:lastmodified":1537621955,
+    "wof:name":"Maddale",
+    "wof:parent_id":1108695143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85,
+    5.6,
+    37.85,
+    5.6
+],
+  "geometry": {"coordinates":[37.85,5.6],"type":"Point"}
+}

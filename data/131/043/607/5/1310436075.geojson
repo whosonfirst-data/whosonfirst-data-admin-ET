@@ -1,0 +1,67 @@
+{
+  "id": 1310436075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80972,9.24167,41.80972,9.24167",
+    "geom:latitude":9.24167,
+    "geom:longitude":41.80972,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bube",
+    "gn:country_code":"ET",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341544,
+    "gn:latitude":9.24167,
+    "gn:longitude":41.80972,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Bub\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341544
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"00b91b62754dd24fecc2e2e7b37a3fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695155,
+            "locality_id":1310436075,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1310436075,
+    "wof:lastmodified":1537016529,
+    "wof:name":"Bube",
+    "wof:parent_id":1108695155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80972,
+    9.24167,
+    41.80972,
+    9.24167
+],
+  "geometry": {"coordinates":[41.80972,9.24167],"type":"Point"}
+}

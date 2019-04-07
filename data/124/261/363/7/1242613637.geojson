@@ -1,0 +1,71 @@
+{
+  "id": 1242613637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06667,8.3,38.06667,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":38.06667,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Wemam",
+    "gn:country_code":"ET",
+    "gn:dem":2162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326346,
+    "gn:latitude":8.3,
+    "gn:longitude":38.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wemam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weman",
+        "Wemam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        421182273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326346
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4fb74fb593c8f06d78bdcb7d1aebe132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421182273,
+            "locality_id":1242613637,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1242613637,
+    "wof:lastmodified":1537621894,
+    "wof:name":"Wemam",
+    "wof:parent_id":421182273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06667,
+    8.3,
+    38.06667,
+    8.3
+],
+  "geometry": {"coordinates":[38.06667,8.3],"type":"Point"}
+}

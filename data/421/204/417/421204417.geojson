@@ -1,0 +1,84 @@
+{
+  "id": 421204417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.444152,5.322072,37.444152,5.322072",
+    "geom:latitude":5.322072,
+    "geom:longitude":37.444152,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Konso Special Woreda"
+    ],
+    "name:fra_x_preferred":[
+        "Konso"
+    ],
+    "name:swe_x_preferred":[
+        "Konso Special Woreda"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Konso Special Woreda",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Southern Nations Nationalities and People's Region",
+    "qs:photos":250,
+    "qs:photos_1k":51,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":449,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1307292,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":56017419,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1420,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017419,
+        "qs:id":1307292,
+        "wd:id":"Q3198763"
+    },
+    "wof:country":"ET",
+    "wof:created":1459010185,
+    "wof:geomhash":"5746b9e244472f1c752ac626c4d0cd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421204417,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":421204417,
+    "wof:lastmodified":1527716184,
+    "wof:name":"Konso Special Woreda",
+    "wof:parent_id":85671133,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.444152,
+    5.322072,
+    37.444152,
+    5.322072
+],
+  "geometry": {"coordinates":[37.444152,5.322072],"type":"Point"}
+}

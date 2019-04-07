@@ -1,0 +1,74 @@
+{
+  "id": 1209749105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45656,10.63399,41.45656,10.63399",
+    "geom:latitude":10.63399,
+    "geom:longitude":41.45656,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Geblilu",
+    "gn:country_code":"ET",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337158,
+    "gn:latitude":10.63399,
+    "gn:longitude":41.45656,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Geblilu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geblelu",
+        "Gabillelu",
+        "Gebilu",
+        "Geblilu",
+        "Gabilellu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337158
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"383bb0efc80ff5f4e07efade6568a771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1209749105,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1209749105,
+    "wof:lastmodified":1537622019,
+    "wof:name":"Geblilu",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45656,
+    10.63399,
+    41.45656,
+    10.63399
+],
+  "geometry": {"coordinates":[41.45656,10.63399],"type":"Point"}
+}

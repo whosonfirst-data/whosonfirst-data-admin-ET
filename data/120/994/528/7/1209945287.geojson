@@ -1,0 +1,67 @@
+{
+  "id": 1209945287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88333,9.55667,42.88333,9.55667",
+    "geom:latitude":9.55667,
+    "geom:longitude":42.88333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"K'ere'anz",
+    "gn:country_code":"ET",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333296,
+    "gn:latitude":9.55667,
+    "gn:longitude":42.88333,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"K\u2019ere\u2019\u0101nz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421188343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333296
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"9c087bdabb3a10490e9e36612943e449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188343,
+            "locality_id":1209945287,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1209945287,
+    "wof:lastmodified":1536386676,
+    "wof:name":"K'ere'anz",
+    "wof:parent_id":421188343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88333,
+    9.55667,
+    42.88333,
+    9.55667
+],
+  "geometry": {"coordinates":[42.88333,9.55667],"type":"Point"}
+}

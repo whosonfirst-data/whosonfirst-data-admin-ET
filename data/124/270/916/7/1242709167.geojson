@@ -1,0 +1,67 @@
+{
+  "id": 1242709167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41464,13.88656,39.41464,13.88656",
+    "geom:latitude":13.88656,
+    "geom:longitude":39.41464,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Debra Tsien",
+    "gn:country_code":"ET",
+    "gn:dem":2065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685511,
+    "gn:latitude":13.88656,
+    "gn:longitude":39.41464,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Debra Tsien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685511
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c71cfafb8de4a84a7e99dafa14be76f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1242709167,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1242709167,
+    "wof:lastmodified":1536873327,
+    "wof:name":"Debra Tsien",
+    "wof:parent_id":1108695161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41464000000001,
+    13.88656,
+    39.41464000000001,
+    13.88656
+],
+  "geometry": {"coordinates":[39.41464000000001,13.88656],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242608327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,12.65,35.68333,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ez Zair",
+    "gn:country_code":"ET",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337983,
+    "gn:latitude":12.65,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ez Zair",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zair",
+        "Ez Zair"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337983
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"63a54b5aa431572c8f810d3b4d01fdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242608327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242608327,
+    "wof:lastmodified":1537622027,
+    "wof:name":"Ez Zair",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    12.65,
+    35.68333,
+    12.65
+],
+  "geometry": {"coordinates":[35.68333,12.65],"type":"Point"}
+}

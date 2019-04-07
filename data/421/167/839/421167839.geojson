@@ -1,0 +1,120 @@
+{
+  "id": 421167839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18333,6.98333,39.18333,6.98333",
+    "geom:latitude":6.98333,
+    "geom:longitude":39.18333,
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dodola"
+    ],
+    "name:chi_x_preferred":[
+        "\u591a\u591a\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Dodola"
+    ],
+    "name:eng_x_preferred":[
+        "Dodola"
+    ],
+    "name:fra_x_preferred":[
+        "Dodola"
+    ],
+    "name:fre_x_preferred":[
+        "Dodola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ed\u30fc\u30e9"
+    ],
+    "name:pol_x_preferred":[
+        "Dodola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0434\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dodola"
+    ],
+    "name:unk_x_variant":[
+        "Dodolla"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u591a\u62c9"
+    ],
+    "qs:gn_country":"ET",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":338726,
+    "qs:gn_pop":23116,
+    "qs:name":"Dodola",
+    "qs:name_adm0":"Ethiopia",
+    "qs:name_adm1":"Oromia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183339,
+    "qs:woe_adm0":23424808,
+    "qs:woe_id":1315562,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":6.98333,
+    "wd:longitude":39.1833,
+    "wd:wordcount":299,
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        1108695137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338726,
+        "gp:id":1315562,
+        "qs:id":183339,
+        "wd:id":"Q3033674",
+        "wk:page":"Dodola, Ethiopia"
+    },
+    "wof:country":"ET",
+    "wof:created":1459008745,
+    "wof:geomhash":"7242cba536dcb505b697684b0b1720b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695137,
+            "locality_id":421167839,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":421167839,
+    "wof:lastmodified":1527716161,
+    "wof:name":"Dodola",
+    "wof:parent_id":1108695137,
+    "wof:placetype":"locality",
+    "wof:population":23116,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18333,
+    6.98333,
+    39.18333,
+    6.98333
+],
+  "geometry": {"coordinates":[39.18333,6.98333],"type":"Point"}
+}

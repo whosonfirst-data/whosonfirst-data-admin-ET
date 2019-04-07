@@ -1,0 +1,67 @@
+{
+  "id": 1243001899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35,4.63333,38.35,4.63333",
+    "geom:latitude":4.63333,
+    "geom:longitude":38.35,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Funchaua",
+    "gn:country_code":"ET",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337618,
+    "gn:latitude":4.63333,
+    "gn:longitude":38.35,
+    "gn:modification_date":"2008-11-21",
+    "gn:name":"Funchaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Addis_Ababa",
+    "iso:country":"ET",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671141,
+        421188225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337618
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"fe316e446892bbfc4576edf6d2f6328b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421188225,
+            "locality_id":1243001899,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":1243001899,
+    "wof:lastmodified":1536949890,
+    "wof:name":"Funchaua",
+    "wof:parent_id":421188225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35,
+    4.63333,
+    38.35,
+    4.63333
+],
+  "geometry": {"coordinates":[38.35,4.63333],"type":"Point"}
+}
