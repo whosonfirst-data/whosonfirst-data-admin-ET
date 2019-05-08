@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":2486155,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Jimma Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.706539,
     "lbl:longitude":36.973771,
     "meso:admin_1":"Oromiya",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890418071,
-    "wof:lastmodified":1536617371,
+    "wof:lastmodified":1553717592,
     "wof:name":"Jimma",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

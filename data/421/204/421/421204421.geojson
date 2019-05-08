@@ -10,6 +10,12 @@
     "geom:latitude":6.66897,
     "geom:longitude":38.547864,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Sidama Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":6.733106,
     "lbl:longitude":38.367899,
     "meso:admin_1":"SNNPR",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421204421,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1553717583,
     "wof:name":"Sidama",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

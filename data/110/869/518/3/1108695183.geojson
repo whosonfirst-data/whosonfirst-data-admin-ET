@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189475,
-    "geom:area_square_m":2332637419.597909,
+    "geom:area_square_m":2332637419.597929,
     "geom:bbox":"37.009369,5.160219,37.702633,5.662293",
     "geom:latitude":5.361331,
     "geom:longitude":37.380254,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Konso SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":5.321174,
     "lbl:longitude":37.380263,
     "meso:admin_1":"SNNPR",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695183,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047466,
     "wof:name":"Konso SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

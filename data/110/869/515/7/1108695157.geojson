@@ -10,6 +10,12 @@
     "geom:latitude":8.217206,
     "geom:longitude":38.98743,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "E. Shewa Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.598362,
     "lbl:longitude":39.055703,
     "meso:admin_1":"Oromiya",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695157,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1553718273,
     "wof:name":"E. Shewa",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

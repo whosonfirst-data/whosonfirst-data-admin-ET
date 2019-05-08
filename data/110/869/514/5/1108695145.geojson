@@ -10,6 +10,12 @@
     "geom:latitude":13.944368,
     "geom:longitude":38.926081,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "C. Tigray Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":14.038739,
     "lbl:longitude":38.87686,
     "meso:admin_1":"Tigray",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695145,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1553718274,
     "wof:name":"C. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

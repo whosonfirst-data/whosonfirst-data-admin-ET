@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150402,
-    "geom:area_square_m":1844456631.105433,
+    "geom:area_square_m":1844456631.105408,
     "geom:bbox":"34.890678,7.113482,35.367371,7.608082",
     "geom:latitude":7.351474,
     "geom:longitude":35.132719,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Godere Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.316803,
     "lbl:longitude":35.128261,
     "meso:admin_1":"Gambella",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108695169,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555047466,
     "wof:name":"Godere",
     "wof:parent_id":85671137,
     "wof:placetype":"county",

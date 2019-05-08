@@ -10,6 +10,12 @@
     "geom:latitude":8.893538,
     "geom:longitude":38.807061,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Addis Ababa Zone 6"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.887564,
     "lbl:longitude":38.79221,
     "meso:admin_1":"Addis Ababa",
@@ -29,6 +35,7 @@
     ],
     "name:eng_x_variant":[
         "Region 14",
+        "AA Zone6",
         "Addis Abeba"
     ],
     "src:geom":"meso",
@@ -66,8 +73,8 @@
         }
     ],
     "wof:id":1108695119,
-    "wof:lastmodified":1536615370,
-    "wof:name":"AA Zone6",
+    "wof:lastmodified":1554764525,
+    "wof:name":"Addis Ababa Zone 6",
     "wof:parent_id":85671149,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",

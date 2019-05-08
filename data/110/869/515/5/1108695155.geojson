@@ -10,6 +10,12 @@
     "geom:latitude":8.781686,
     "geom:longitude":41.963809,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "E. Harerge Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.857456,
     "lbl:longitude":41.750069,
     "meso:admin_1":"Oromiya",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1108695155,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1555047466,
     "wof:name":"E. Harerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

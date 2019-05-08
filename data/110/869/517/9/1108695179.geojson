@@ -10,6 +10,12 @@
     "geom:latitude":9.834982,
     "geom:longitude":35.802807,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Kamashi Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":9.771853,
     "lbl:longitude":35.85345,
     "meso:admin_1":"Beneshangul Gumuz",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108695179,
-    "wof:lastmodified":1536615371,
+    "wof:lastmodified":1553718274,
     "wof:name":"Kamashi",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

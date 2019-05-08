@@ -10,6 +10,12 @@
     "geom:latitude":5.401541,
     "geom:longitude":42.485494,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Afder Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":5.059184,
     "lbl:longitude":42.34361,
     "meso:admin_1":"Somali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108695121,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1553718273,
     "wof:name":"Afder",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

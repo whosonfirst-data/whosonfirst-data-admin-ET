@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380053,
-    "geom:area_square_m":4658096341.908486,
+    "geom:area_square_m":4658096341.908875,
     "geom:bbox":"35.240654,7.122645,36.021755,8.086452",
     "geom:latitude":7.602199,
     "geom:longitude":35.60877,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Sheka Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.595017,
     "lbl:longitude":35.602811,
     "meso:admin_1":"SNNPR",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108695217,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047467,
     "wof:name":"Sheka",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

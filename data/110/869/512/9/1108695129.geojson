@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127232,
-    "geom:area_square_m":1565206299.618265,
+    "geom:area_square_m":1565206299.618297,
     "geom:bbox":"37.54784,5.626583,38.092457,6.015237",
     "geom:latitude":5.796165,
     "geom:longitude":37.823038,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Amaro SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":5.810822,
     "lbl:longitude":37.828213,
     "meso:admin_1":"SNNPR",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695129,
-    "wof:lastmodified":1512516832,
+    "wof:lastmodified":1555047466,
     "wof:name":"Amaro SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

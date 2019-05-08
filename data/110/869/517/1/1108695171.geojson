@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.452777,
-    "geom:area_square_m":17878389681.534683,
+    "geom:area_square_m":17878389681.534691,
     "geom:bbox":"38.34103,4.659274,40.036865,6.445345",
     "geom:latitude":5.5754,
     "geom:longitude":39.177591,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Guji Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":5.521122,
     "lbl:longitude":39.165001,
     "meso:admin_1":"Oromiya",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108695171,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047466,
     "wof:name":"Guji",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

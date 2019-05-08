@@ -10,6 +10,12 @@
     "geom:latitude":8.682737,
     "geom:longitude":40.779246,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "W. Haraerge Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.664114,
     "lbl:longitude":40.767526,
     "meso:admin_1":"Oromiya",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108695227,
-    "wof:lastmodified":1536615372,
+    "wof:lastmodified":1555047467,
     "wof:name":"W. Haraerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

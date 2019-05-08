@@ -10,6 +10,12 @@
     "geom:latitude":6.168042,
     "geom:longitude":43.581612,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Gode Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":6.194851,
     "lbl:longitude":43.40187,
     "meso:admin_1":"Somali",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421200119,
-    "wof:lastmodified":1536616134,
+    "wof:lastmodified":1553717549,
     "wof:name":"Gode",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

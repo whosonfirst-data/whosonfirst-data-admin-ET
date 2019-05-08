@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.661879,
-    "geom:area_square_m":8121364051.965716,
+    "geom:area_square_m":8121364051.964885,
     "geom:bbox":"35.485069,6.244005,36.787907,7.700924",
     "geom:latitude":7.102409,
     "geom:longitude":36.168268,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Keffa Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.178874,
     "lbl:longitude":36.232256,
     "meso:admin_1":"SNNPR",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108695181,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047466,
     "wof:name":"Keffa",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

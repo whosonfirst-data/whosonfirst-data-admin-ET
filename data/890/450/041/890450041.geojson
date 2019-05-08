@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":652531,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Bench Maji Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":6.425282,
     "lbl:longitude":35.50442,
     "meso:admin_1":"SNNPR",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890450041,
-    "wof:lastmodified":1536617385,
+    "wof:lastmodified":1553717604,
     "wof:name":"Bench Maji",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

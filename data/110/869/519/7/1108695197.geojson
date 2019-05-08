@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.32592,
-    "geom:area_square_m":16154555513.405327,
+    "geom:area_square_m":16154555513.404982,
     "geom:bbox":"38.660473,8.735217,40.088596,10.74658",
     "geom:latitude":9.818988,
     "geom:longitude":39.493243,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "N. Shewa (R3) Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":10.05836,
     "lbl:longitude":39.601452,
     "meso:admin_1":"Amhara",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695197,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047466,
     "wof:name":"N. Shewa (R3)",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

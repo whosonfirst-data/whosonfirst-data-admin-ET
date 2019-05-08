@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061794,
-    "geom:area_square_m":756995527.29921,
+    "geom:area_square_m":756995527.299222,
     "geom:bbox":"37.391709,7.568999,37.610836,8.021088",
     "geom:latitude":7.816095,
     "geom:longitude":37.491039,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Yem SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.818305,
     "lbl:longitude":37.493126,
     "meso:admin_1":"SNNPR",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1108695241,
-    "wof:lastmodified":1514422064,
+    "wof:lastmodified":1555047467,
     "wof:name":"Yem SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

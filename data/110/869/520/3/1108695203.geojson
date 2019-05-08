@@ -10,6 +10,12 @@
     "geom:latitude":10.771548,
     "geom:longitude":40.002363,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Oromiya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":10.729207,
     "lbl:longitude":39.962216,
     "meso:admin_1":"Amhara",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108695203,
-    "wof:lastmodified":1536615371,
+    "wof:lastmodified":1553718274,
     "wof:name":"Oromiya",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.324796,
     "geom:longitude":34.690118,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Asosa Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":10.393792,
     "lbl:longitude":34.654414,
     "meso:admin_1":"Beneshangul Gumuz",
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108695133,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1555047466,
     "wof:name":"Asosa",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

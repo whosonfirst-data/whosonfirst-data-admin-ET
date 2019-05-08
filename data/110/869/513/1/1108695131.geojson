@@ -10,6 +10,12 @@
     "geom:latitude":7.858003,
     "geom:longitude":39.599795,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Arsi Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.006841,
     "lbl:longitude":39.786973,
     "meso:admin_1":"Oromiya",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108695131,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1553718273,
     "wof:name":"Arsi",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.252547,
     "geom:longitude":41.8403,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Shinile Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":10.317944,
     "lbl:longitude":41.84038,
     "meso:admin_1":"Somali",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421184699,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1553717431,
     "wof:name":"Shinile",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

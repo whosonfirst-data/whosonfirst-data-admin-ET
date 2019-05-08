@@ -10,6 +10,12 @@
     "geom:latitude":9.344902,
     "geom:longitude":43.074909,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Jijiga Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":9.345604,
     "lbl:longitude":43.022499,
     "meso:admin_1":"Somali",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421188343,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1553717465,
     "wof:name":"Jijiga",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

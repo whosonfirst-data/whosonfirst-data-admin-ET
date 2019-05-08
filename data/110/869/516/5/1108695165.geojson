@@ -10,6 +10,12 @@
     "geom:latitude":7.759186,
     "geom:longitude":42.419414,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Fik Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.675009,
     "lbl:longitude":42.356348,
     "meso:admin_1":"Somali",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108695165,
-    "wof:lastmodified":1536615371,
+    "wof:lastmodified":1553718273,
     "wof:name":"Fik",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

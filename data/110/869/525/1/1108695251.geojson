@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916363,
-    "geom:area_square_m":11068688338.074718,
+    "geom:area_square_m":11068688338.07468,
     "geom:bbox":"39.760128,11.662959,40.752163,13.015342",
     "geom:latitude":12.348967,
     "geom:longitude":40.260748,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Afar Zone 4"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":12.321573,
     "lbl:longitude":40.260758,
     "meso:admin_1":"Afar",
@@ -29,7 +35,6 @@
     ],
     "name:eng_x_variant":[
         "Zone 4",
-        "Afar Zone 4",
         "Administrative Zone 4"
     ],
     "name:fre_x_preferred":[
@@ -77,8 +82,8 @@
         }
     ],
     "wof:id":1108695251,
-    "wof:lastmodified":1553816464,
-    "wof:name":"Zone4",
+    "wof:lastmodified":1555037541,
+    "wof:name":"Afar Zone 4",
     "wof:parent_id":85671129,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",

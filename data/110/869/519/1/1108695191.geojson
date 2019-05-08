@@ -10,6 +10,12 @@
     "geom:latitude":11.027293,
     "geom:longitude":35.767536,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Metekel Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":11.041449,
     "lbl:longitude":35.76737,
     "meso:admin_1":"Beneshangul Gumuz",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108695191,
-    "wof:lastmodified":1536615371,
+    "wof:lastmodified":1553718274,
     "wof:name":"Metekel",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

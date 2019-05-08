@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140037,
-    "geom:area_square_m":1715541377.263663,
+    "geom:area_square_m":1715541377.263702,
     "geom:bbox":"38.039169,7.578796,38.532169,8.052277",
     "geom:latitude":7.804203,
     "geom:longitude":38.28816,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Selti Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.80538,
     "lbl:longitude":38.292872,
     "meso:admin_1":"SNNPR",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695215,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047467,
     "wof:name":"Selti",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

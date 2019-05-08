@@ -10,6 +10,12 @@
     "geom:latitude":8.223344,
     "geom:longitude":34.449764,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Gambela Zone 1"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.241233,
     "lbl:longitude":34.350482,
     "meso:admin_1":"Gambella",
@@ -29,7 +35,8 @@
         "Gambela Zone 1"
     ],
     "name:eng_x_variant":[
-        "Agnuak"
+        "Agnuak",
+        "Zone 1"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -89,8 +96,8 @@
         }
     ],
     "wof:id":421188217,
-    "wof:lastmodified":1536616050,
-    "wof:name":"Zone 1",
+    "wof:lastmodified":1554764543,
+    "wof:name":"Gambela Zone 1",
     "wof:parent_id":85671137,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",

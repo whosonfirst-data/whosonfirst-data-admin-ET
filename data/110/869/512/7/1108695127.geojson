@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087704,
-    "geom:area_square_m":1075325191.648595,
+    "geom:area_square_m":1075325191.648596,
     "geom:bbox":"38.048561,7.211843,38.433124,7.626074",
     "geom:latitude":7.448676,
     "geom:longitude":38.213635,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Alaba SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.457781,
     "lbl:longitude":38.216561,
     "meso:admin_1":"SNNPR",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695127,
-    "wof:lastmodified":1505431497,
+    "wof:lastmodified":1553718273,
     "wof:name":"Alaba SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

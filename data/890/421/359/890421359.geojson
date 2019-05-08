@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":1231196,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Hadiya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.649879,
     "lbl:longitude":37.722676,
     "meso:admin_1":"SNNPR",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890421359,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1553717594,
     "wof:name":"Hadiya",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

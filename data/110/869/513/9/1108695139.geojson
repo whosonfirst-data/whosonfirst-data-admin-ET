@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033177,
-    "geom:area_square_m":407784346.93222,
+    "geom:area_square_m":407784346.932225,
     "geom:bbox":"36.402145,6.146481,36.69402,6.374967",
     "geom:latitude":6.265929,
     "geom:longitude":36.560066,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Basketo SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":6.279901,
     "lbl:longitude":36.574439,
     "meso:admin_1":"SNNPR",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108695139,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555047466,
     "wof:name":"Basketo SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

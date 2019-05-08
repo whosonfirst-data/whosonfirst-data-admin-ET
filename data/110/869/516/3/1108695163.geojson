@@ -10,6 +10,12 @@
     "geom:latitude":9.505035,
     "geom:longitude":36.823521,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "E. Wellega Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":9.685533,
     "lbl:longitude":36.93775,
     "meso:admin_1":"Oromiya",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108695163,
-    "wof:lastmodified":1536615371,
+    "wof:lastmodified":1553718274,
     "wof:name":"E. Wellega",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

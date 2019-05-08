@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.537363,
-    "geom:area_square_m":6569681240.971137,
+    "geom:area_square_m":6569681240.971062,
     "geom:bbox":"37.537609,8.258238,38.772228,9.017621",
     "geom:latitude":8.61073,
     "geom:longitude":38.217463,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "S.W. Shewa Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.641892,
     "lbl:longitude":38.329361,
     "meso:admin_1":"Oromiya",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695211,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047467,
     "wof:name":"S.W. Shewa",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

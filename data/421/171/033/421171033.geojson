@@ -10,6 +10,12 @@
     "geom:latitude":8.139511,
     "geom:longitude":33.555656,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Gambella Zone 3"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.176733,
     "lbl:longitude":33.468096,
     "meso:admin_1":"Gambella",
@@ -26,11 +32,11 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Administrative Zone 3"
+        "Gambela Zone 3"
     ],
     "name:eng_x_variant":[
         "Agnuak",
-        "Gambela Zone 3"
+        "Administrative Zone 3"
     ],
     "name:fre_x_preferred":[
         "Zone administrative 3"
@@ -85,7 +91,7 @@
         "hasc:id":"ET.GA.TH",
         "qs:id":1205918,
         "wd:id":"Q3575758",
-        "wk:page":"Administrative Zone 3 (Afar)"
+        "wk:page":"Administrative Zone 3 (Gambela)"
     },
     "wof:country":"ET",
     "wof:created":1459008879,
@@ -99,8 +105,8 @@
         }
     ],
     "wof:id":421171033,
-    "wof:lastmodified":1536615923,
-    "wof:name":"Zone 3",
+    "wof:lastmodified":1555047466,
+    "wof:name":"Gambella Zone 3",
     "wof:parent_id":85671137,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",

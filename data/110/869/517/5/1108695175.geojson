@@ -10,6 +10,12 @@
     "geom:latitude":7.296342,
     "geom:longitude":37.758532,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Kembata Tembaro Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.311528,
     "lbl:longitude":37.849511,
     "meso:admin_1":"SNNPR",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1108695175,
-    "wof:lastmodified":1543960102,
+    "wof:lastmodified":1555047466,
     "wof:name":"Kembata Tembaro",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

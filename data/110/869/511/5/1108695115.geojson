@@ -10,6 +10,12 @@
     "geom:latitude":9.050594,
     "geom:longitude":38.779035,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Addis Ababa Zone 4"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":9.04963,
     "lbl:longitude":38.778362,
     "meso:admin_1":"Addis Ababa",
@@ -29,6 +35,7 @@
     ],
     "name:eng_x_variant":[
         "Region 14",
+        "AA Zone4",
         "Addis Abeba"
     ],
     "src:geom":"meso",
@@ -66,8 +73,8 @@
         }
     ],
     "wof:id":1108695115,
-    "wof:lastmodified":1536615370,
-    "wof:name":"AA Zone4",
+    "wof:lastmodified":1554764508,
+    "wof:name":"Addis Ababa Zone 4",
     "wof:parent_id":85671149,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",

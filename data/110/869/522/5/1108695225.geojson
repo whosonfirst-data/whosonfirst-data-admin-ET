@@ -10,6 +10,12 @@
     "geom:latitude":12.755616,
     "geom:longitude":38.80806,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "W. Hamra Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":12.724557,
     "lbl:longitude":38.817412,
     "meso:admin_1":"Amhara",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108695225,
-    "wof:lastmodified":1536615372,
+    "wof:lastmodified":1553718274,
     "wof:name":"W. Hamra",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

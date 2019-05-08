@@ -10,6 +10,12 @@
     "geom:latitude":7.268618,
     "geom:longitude":46.054467,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Warder Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":7.31006,
     "lbl:longitude":46.028526,
     "meso:admin_1":"Somali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108695235,
-    "wof:lastmodified":1536615372,
+    "wof:lastmodified":1553718275,
     "wof:name":"Warder",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

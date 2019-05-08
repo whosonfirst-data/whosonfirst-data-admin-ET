@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11043,
-    "geom:area_square_m":1359225448.448125,
+    "geom:area_square_m":1359225448.448184,
     "geom:bbox":"37.57188,5.237774,37.967728,5.707352",
     "geom:latitude":5.489426,
     "geom:longitude":37.788286,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Burji SW Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":5.508768,
     "lbl:longitude":37.824123,
     "meso:admin_1":"SNNPR",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108695143,
-    "wof:lastmodified":1512516832,
+    "wof:lastmodified":1555047466,
     "wof:name":"Burji SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

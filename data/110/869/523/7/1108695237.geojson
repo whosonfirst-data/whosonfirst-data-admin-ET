@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370248,
-    "geom:area_square_m":4545380657.390398,
+    "geom:area_square_m":4545380657.390385,
     "geom:bbox":"37.228104,6.513031,38.134236,7.192162",
     "geom:latitude":6.861598,
     "geom:longitude":37.723125,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Welayita Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":6.868064,
     "lbl:longitude":37.73184,
     "meso:admin_1":"SNNPR",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108695237,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1555047467,
     "wof:name":"Welayita",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.146077,
     "geom:longitude":38.082019,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Gurage Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":8.118051,
     "lbl:longitude":38.029406,
     "meso:admin_1":"SNNPR",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421182273,
-    "wof:lastmodified":1536615984,
+    "wof:lastmodified":1553717384,
     "wof:name":"Gurage",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

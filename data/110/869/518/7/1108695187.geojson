@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.950298,
-    "geom:area_square_m":36362257089.27301,
+    "geom:area_square_m":36362257089.272713,
     "geom:bbox":"39.09248,3.402422,42.067848,5.695502",
     "geom:latitude":4.59858,
     "geom:longitude":40.624564,
     "iso:country":"ET",
+    "label:eng_x_preferred_longname":[
+        "Liben Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":4.778983,
     "lbl:longitude":40.479592,
     "meso:admin_1":"Somali",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1108695187,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037544,
     "wof:name":"Liben",
     "wof:parent_id":85671155,
     "wof:placetype":"county",
