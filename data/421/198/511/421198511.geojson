@@ -19,19 +19,13 @@
     "name:ceb_x_preferred":[
         "Bichena"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5fb9\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Bichena"
-    ],
     "name:eng_x_preferred":[
         "Bichena"
     ],
     "name:fra_x_preferred":[
         "Bichena"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Bichena"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421198511,
-    "wof:lastmodified":1527716353,
+    "wof:lastmodified":1561829967,
     "wof:name":"Bichena",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

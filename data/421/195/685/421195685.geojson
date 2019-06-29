@@ -26,9 +26,6 @@
     "name:aze_x_preferred":[
         "Harar"
     ],
-    "name:baq_x_preferred":[
-        "Harar"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0440\u044d\u0440"
     ],
@@ -50,19 +47,10 @@
     "name:ces_x_preferred":[
         "Harar"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u52d2\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Harar"
-    ],
     "name:dan_x_preferred":[
         "Harar"
     ],
     "name:deu_x_preferred":[
-        "Harar"
-    ],
-    "name:dut_x_preferred":[
         "Harar"
     ],
     "name:ell_x_preferred":[
@@ -88,18 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Harar"
-    ],
-    "name:fre_x_preferred":[
-        "Harar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e0\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Harar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0abe\u0ab0"
@@ -149,7 +125,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0930\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Harar"
     ],
     "name:nld_x_preferred":[
@@ -164,9 +140,6 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a30\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0631\u0631"
-    ],
     "name:pol_x_preferred":[
         "Harer"
     ],
@@ -174,9 +147,6 @@
         "Harar"
     ],
     "name:ron_x_preferred":[
-        "Harar"
-    ],
-    "name:rum_x_preferred":[
         "Harar"
     ],
     "name:rus_x_preferred":[
@@ -381,7 +351,7 @@
         }
     ],
     "wof:id":421195685,
-    "wof:lastmodified":1527716123,
+    "wof:lastmodified":1561829966,
     "wof:name":"Harer",
     "wof:parent_id":1108695173,
     "wof:placetype":"locality",

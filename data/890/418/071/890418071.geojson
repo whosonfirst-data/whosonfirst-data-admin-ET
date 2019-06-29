@@ -33,9 +33,6 @@
     "mps:longitude":36.973771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5409\u99ac\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Jimma Zone"
     ],
@@ -44,7 +41,7 @@
         "Jima",
         "Jima Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jimma"
     ],
     "name:orm_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "J\u012bma \u0100wraja"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u99ac\u5730\u5340"
     ],
     "qs:name":"Jimma Zone",
     "qs:photos_9r":0,
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":890418071,
-    "wof:lastmodified":1553717592,
+    "wof:lastmodified":1561829970,
     "wof:name":"Jimma",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

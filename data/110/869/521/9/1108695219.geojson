@@ -30,9 +30,6 @@
     "mps:longitude":36.461317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5357\u5967\u83ab\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Debub Omo"
     ],
@@ -41,11 +38,14 @@
         "Debub Omo",
         "Debub Omo Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debub Omo"
     ],
     "name:swe_x_preferred":[
         "South Omo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5967\u83ab\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108695219,
-    "wof:lastmodified":1555092024,
+    "wof:lastmodified":1561829954,
     "wof:name":"South Omo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Sendafa"
     ],
-    "name:dut_x_preferred":[
-        "Sendafa"
-    ],
     "name:eng_x_preferred":[
         "Sendafa"
     ],
     "name:fra_x_preferred":[
         "Sendafa"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Sendafa"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421176867,
-    "wof:lastmodified":1527726471,
+    "wof:lastmodified":1561829968,
     "wof:name":"Sendafa",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

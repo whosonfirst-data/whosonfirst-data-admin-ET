@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.65032,
-    "geom:area_square_m":153216771228.033173,
+    "geom:area_square_m":153216771228.035278,
     "geom:bbox":"35.261765,8.735217,40.199368,13.771042",
     "geom:latitude":11.573169,
     "geom:longitude":38.068189,
@@ -32,12 +32,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u0647\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0570\u0561\u0580\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Amhara eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09b9\u09be\u09b0\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -50,17 +44,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Amhara"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u59c6\u54c8\u62c9\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Amharsko"
     ],
     "name:dan_x_preferred":[
         "Amhara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Amhara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Amhara"
@@ -73,20 +67,17 @@
     "name:epo_x_preferred":[
         "Regiono Amharo"
     ],
+    "name:eus_x_preferred":[
+        "Amhara eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0645\u0647\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Amhara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Amhara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10f0\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Amhara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c7\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0ab9\u0abe\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -103,6 +94,9 @@
     "name:hun_x_preferred":[
         "Amhara"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0570\u0561\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Region Amhara"
     ],
@@ -114,6 +108,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0c82\u0cb9\u0cbe\u0cb0\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10f0\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc554\ud558\ub77c \uc8fc"
@@ -127,8 +124,11 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u0939\u093e\u0930\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Amhara Region"
+    ],
+    "name:nld_x_preferred":[
+        "Amhara"
     ],
     "name:nno_x_preferred":[
         "Amhara"
@@ -142,9 +142,6 @@
     "name:orm_x_preferred":[
         "Naannoo Amaaraa"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0645\u0647\u0627\u0631\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0645\u06c1\u0627\u0631\u0627"
     ],
@@ -154,7 +151,7 @@
     "name:por_x_preferred":[
         "Amhara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Amhara"
     ],
     "name:rus_x_preferred":[
@@ -204,6 +201,9 @@
     ],
     "name:vie_x_preferred":[
         "Amhara"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u59c6\u54c8\u62c9\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ETH",
@@ -328,7 +328,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561829931,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

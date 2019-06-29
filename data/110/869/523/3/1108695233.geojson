@@ -30,9 +30,6 @@
     "mps:longitude":35.129258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u897f\u6c83\u840a\u52a0\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Mirab Wellega"
     ],
@@ -41,7 +38,7 @@
         "Mirab Welega",
         "Mirab Welega Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mirab Welega"
     ],
     "name:orm_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "West Wellega Zone"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6c83\u840a\u52a0\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108695233,
-    "wof:lastmodified":1553718275,
+    "wof:lastmodified":1561829955,
     "wof:name":"W. Wellega",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

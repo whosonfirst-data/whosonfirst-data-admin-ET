@@ -16,19 +16,13 @@
     "name:ceb_x_preferred":[
         "Were \u012alu"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u96f7\u4f0a\u76e7"
-    ],
-    "name:dut_x_preferred":[
-        "Were Ilu"
-    ],
     "name:eng_x_preferred":[
         "Were Ilu"
     ],
     "name:fra_x_preferred":[
         "Were Ilu"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Were Ilu"
     ],
     "name:swe_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421177291,
-    "wof:lastmodified":1527716484,
+    "wof:lastmodified":1561829968,
     "wof:name":"Were Ilu",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

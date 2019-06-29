@@ -23,25 +23,13 @@
     "name:ceb_x_preferred":[
         "Goba"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Goba"
-    ],
-    "name:dut_x_preferred":[
         "Goba"
     ],
     "name:eng_x_preferred":[
         "Goba"
     ],
     "name:fra_x_preferred":[
-        "Goba"
-    ],
-    "name:fre_x_preferred":[
-        "Goba"
-    ],
-    "name:ger_x_preferred":[
         "Goba"
     ],
     "name:hbs_x_preferred":[
@@ -72,9 +60,6 @@
         "Goba"
     ],
     "name:ron_x_preferred":[
-        "Goba"
-    ],
-    "name:rum_x_preferred":[
         "Goba"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +223,7 @@
         }
     ],
     "wof:id":421173609,
-    "wof:lastmodified":1527716261,
+    "wof:lastmodified":1561829967,
     "wof:name":"Goba",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

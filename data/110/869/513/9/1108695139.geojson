@@ -39,7 +39,7 @@
     "name:eng_x_variant":[
         "Basketo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Basketo"
     ],
     "name:swe_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108695139,
-    "wof:lastmodified":1555047466,
+    "wof:lastmodified":1561829955,
     "wof:name":"Basketo SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

@@ -22,23 +22,20 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0645\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Jima"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09ae\u09cd\u09ae\u09be"
     ],
     "name:cat_x_preferred":[
         "Jimma"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u99ac"
-    ],
     "name:dan_x_preferred":[
         "Jimma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jimma"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jimma"
@@ -46,17 +43,14 @@
     "name:epo_x_preferred":[
         "\u011cima"
     ],
+    "name:eus_x_preferred":[
+        "Jima"
+    ],
     "name:fin_x_preferred":[
         "Jimma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jimma"
-    ],
-    "name:ger_x_preferred":[
-        "Jimma"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03af\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aae\u0acd\u0aae\u0abe"
@@ -97,7 +91,10 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Jimma"
+    ],
+    "name:nld_x_preferred":[
         "Jimma"
     ],
     "name:nob_x_preferred":[
@@ -112,7 +109,7 @@
     "name:por_x_preferred":[
         "Jima"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jimma"
     ],
     "name:rus_x_preferred":[
@@ -156,6 +153,9 @@
     ],
     "name:war_x_preferred":[
         "Jimma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u99ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -286,7 +286,7 @@
         }
     ],
     "wof:id":890442041,
-    "wof:lastmodified":1527792852,
+    "wof:lastmodified":1561829970,
     "wof:name":"J\u012bma",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

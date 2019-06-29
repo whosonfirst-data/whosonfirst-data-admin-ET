@@ -163,9 +163,6 @@
     "name:cym_x_preferred":[
         "Ethiopia"
     ],
-    "name:cze_x_preferred":[
-        "Etiopie"
-    ],
     "name:dan_x_preferred":[
         "Etiopien"
     ],
@@ -626,9 +623,6 @@
     "name:rue_x_preferred":[
         "\u0415\u0442\u0456\u043e\u043f\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Etiopia"
-    ],
     "name:run_x_preferred":[
         "Etiyopiya"
     ],
@@ -837,7 +831,6 @@
         "\u57c3\u585e\u4fc4\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u57c3\u585e\u4fc4\u6bd4\u4e9a",
         "\u8863\u7d22\u6bd4\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -996,7 +989,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1544059177,
+    "wof:lastmodified":1561829930,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

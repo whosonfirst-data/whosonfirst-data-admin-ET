@@ -22,17 +22,17 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043c"
     ],
-    "name:dut_x_preferred":[
-        "Korem"
-    ],
     "name:eng_x_preferred":[
         "Korem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korem"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ec\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Korem"
     ],
     "name:swe_x_preferred":[
         "Korem"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125861541,
-    "wof:lastmodified":1514422027,
+    "wof:lastmodified":1561829971,
     "wof:name":"Korem",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

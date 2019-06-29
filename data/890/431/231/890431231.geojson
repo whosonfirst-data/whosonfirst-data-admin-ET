@@ -28,14 +28,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09cb\u09b8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7d22\u8428"
-    ],
     "name:dan_x_preferred":[
         "Asosa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Asosa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03cc\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Asosa"
@@ -43,17 +43,8 @@
     "name:fin_x_preferred":[
         "Asosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Asosa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10dd\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Asosa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03cc\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0acb\u0ab8\u0abe"
@@ -76,6 +67,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb8\u0cbe\u0cb8\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10dd\u10e1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc18c\uc0ac"
     ],
@@ -91,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0905\u0936\u094b\u0938\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Asosa"
+    ],
+    "name:nld_x_preferred":[
         "Asosa"
     ],
     "name:nob_x_preferred":[
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Asosa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Asosa"
     ],
     "name:rus_x_preferred":[
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Asosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d22\u8428"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -267,7 +267,7 @@
         }
     ],
     "wof:id":890431231,
-    "wof:lastmodified":1527735417,
+    "wof:lastmodified":1561829970,
     "wof:name":"\u0100sosa",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

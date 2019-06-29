@@ -28,8 +28,11 @@
     "name:dan_x_preferred":[
         "Debre Berhan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Debre Berhan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ad\u03bc\u03c0\u03c1\u03b5 \u039c\u03c0\u03ad\u03c1\u03c7\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Debre Berhan"
@@ -37,14 +40,8 @@
     "name:fin_x_preferred":[
         "Debre Berhan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debre Berhan"
-    ],
-    "name:ger_x_preferred":[
-        "Debre Berhan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ad\u03bc\u03c0\u03c1\u03b5 \u039c\u03c0\u03ad\u03c1\u03c7\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0acd\u0ab0\u0ac7 \u0aac\u0ac7\u0ab0\u0ab9\u0abe\u0aa8"
@@ -79,7 +76,10 @@
     "name:mar_x_preferred":[
         "\u0921\u0947\u092c\u094d\u0930\u0947 \u092c\u0947\u0930\u0939\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Debre Berhan"
+    ],
+    "name:nld_x_preferred":[
         "Debre Berhan"
     ],
     "name:nob_x_preferred":[
@@ -88,7 +88,7 @@
     "name:pol_x_preferred":[
         "Debre Byrhan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Debre Berhan"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +259,7 @@
         }
     ],
     "wof:id":890441637,
-    "wof:lastmodified":1527727233,
+    "wof:lastmodified":1561829969,
     "wof:name":"Debre Birhan",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

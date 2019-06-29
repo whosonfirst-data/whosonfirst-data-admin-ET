@@ -18,13 +18,13 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0435\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Holeta Genet"
-    ],
     "name:eng_x_preferred":[
         "Holeta Genet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Holeta Genet"
+    ],
+    "name:nld_x_preferred":[
         "Holeta Genet"
     ],
     "name:rus_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890433313,
-    "wof:lastmodified":1553816395,
+    "wof:lastmodified":1561829970,
     "wof:name":"Genet",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

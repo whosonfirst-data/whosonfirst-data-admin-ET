@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0645\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Oromia"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09cb\u09ae\u09bf\u09af\u09bc\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -47,17 +44,17 @@
     "name:cat_x_preferred":[
         "Or\u00f2mia"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7f85\u7c73\u4e9e\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oromie"
     ],
     "name:dan_x_preferred":[
         "Oromia Region"
     ],
-    "name:dut_x_preferred":[
-        "Oromiya"
+    "name:deu_x_preferred":[
+        "Oromia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03cc\u03bc\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Oromia"
@@ -71,20 +68,17 @@
     "name:epo_x_preferred":[
         "Oromio"
     ],
+    "name:eus_x_preferred":[
+        "Oromia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0631\u0648\u0645\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Oromia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oromia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10dd\u10db\u10d8\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oromia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03cc\u03bc\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0acb\u0aae\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -116,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb0\u0cca\u0cae\u0cbf\u0caf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10dd\u10db\u10d8\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub85c\ubbf8\uc544 \uc8fc"
     ],
@@ -128,8 +125,11 @@
     "name:mar_x_preferred":[
         "\u0913\u0930\u094b\u092e\u093f\u092f\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oromia Region"
+    ],
+    "name:nld_x_preferred":[
+        "Oromiya"
     ],
     "name:nno_x_preferred":[
         "Oromiaregionen"
@@ -139,9 +139,6 @@
     ],
     "name:orm_x_preferred":[
         "Oromiyaa"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0631\u0648\u0645\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0648\u0645\u06cc\u0627"
@@ -196,6 +193,9 @@
     ],
     "name:vie_x_preferred":[
         "Oromia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7f85\u7c73\u4e9e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ETH",
@@ -319,7 +319,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1553550366,
+    "wof:lastmodified":1561829932,
     "wof:name":"Oromiya",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

@@ -25,9 +25,6 @@
     "name:ceb_x_preferred":[
         "Kombolcha"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u535a\u52d2\u67e5"
-    ],
     "name:dan_x_preferred":[
         "Kombolcha"
     ],
@@ -37,8 +34,8 @@
     "name:deu_x_variant":[
         "Kembolcha"
     ],
-    "name:dut_x_preferred":[
-        "Kombolcha"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03c0\u03cc\u03bb\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kombolcha"
@@ -48,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Kombolcha"
-    ],
-    "name:fre_x_preferred":[
-        "Kombolcha"
-    ],
-    "name:ger_x_preferred":[
-        "Kombolcha"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03c0\u03cc\u03bb\u03c4\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aae\u0acd\u0aac\u0acb\u0ab2\u0acd\u0a9a\u0abe"
@@ -97,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u092e\u092c\u0949\u0932\u091a\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kombolcha"
+    ],
+    "name:nld_x_preferred":[
         "Kombolcha"
     ],
     "name:nob_x_preferred":[
@@ -110,9 +101,6 @@
         "Kombolcha"
     ],
     "name:ron_x_preferred":[
-        "Kombolcha"
-    ],
-    "name:rum_x_preferred":[
         "Kombolcha"
     ],
     "name:rus_x_preferred":[
@@ -150,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Kombolcha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u535a\u52d2\u67e5"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -199,7 +190,7 @@
         }
     ],
     "wof:id":421182671,
-    "wof:lastmodified":1527726457,
+    "wof:lastmodified":1561829968,
     "wof:name":"Kembolcha",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

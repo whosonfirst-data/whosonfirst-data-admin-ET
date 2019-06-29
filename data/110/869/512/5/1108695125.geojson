@@ -30,9 +30,6 @@
     "mps:longitude":36.696638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u53e4\u963f\u7dad\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Agew Awi"
     ],
@@ -41,7 +38,7 @@
         "Agew Awi",
         "Agew Awi Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Agew Awi"
     ],
     "name:heb_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Awi"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u53e4\u963f\u7dad\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108695125,
-    "wof:lastmodified":1553718273,
+    "wof:lastmodified":1561829956,
     "wof:name":"Agew Awi",
     "wof:parent_id":85671121,
     "wof:placetype":"county",
