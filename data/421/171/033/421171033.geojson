@@ -38,7 +38,7 @@
         "Agnuak",
         "Administrative Zone 3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zone administrative 3"
     ],
     "name:unk_x_variant":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":421171033,
-    "wof:lastmodified":1555047466,
+    "wof:lastmodified":1561829968,
     "wof:name":"Gambella Zone 3",
     "wof:parent_id":85671137,
     "wof:placetype":"county",

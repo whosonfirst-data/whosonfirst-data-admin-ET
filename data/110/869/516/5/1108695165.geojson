@@ -30,16 +30,16 @@
     "mps:longitude":42.356348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Fiq"
-    ],
     "name:eng_x_preferred":[
         "Fiq"
     ],
     "name:eng_x_variant":[
         "Nogob"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Fiq"
+    ],
+    "name:nld_x_preferred":[
         "Fiq"
     ],
     "src:geom":"meso",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108695165,
-    "wof:lastmodified":1553718273,
+    "wof:lastmodified":1561829955,
     "wof:name":"Fik",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

@@ -14,17 +14,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Waliso"
-    ],
     "name:eng_x_preferred":[
         "Waliso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Waliso"
     ],
     "name:ita_x_preferred":[
         "Wolisso"
+    ],
+    "name:nld_x_preferred":[
+        "Waliso"
     ],
     "name:orm_x_preferred":[
         "Walisoo"
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":421168695,
-    "wof:lastmodified":1514422017,
+    "wof:lastmodified":1561829966,
     "wof:name":"Giyon",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

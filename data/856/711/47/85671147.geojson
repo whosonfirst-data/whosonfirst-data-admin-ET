@@ -54,19 +54,10 @@
     "name:ces_x_preferred":[
         "Bening\u0161angul-Gumuz"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u5c1a\u53e4\u52d2-\u53e4\u99ac\u8332\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Bening\u0161angul-Gumuz"
-    ],
     "name:dan_x_preferred":[
         "Benishangul-Gumuz"
     ],
     "name:deu_x_preferred":[
-        "Benishangul-Gumuz"
-    ],
-    "name:dut_x_preferred":[
         "Benishangul-Gumuz"
     ],
     "name:ell_x_preferred":[
@@ -94,17 +85,8 @@
     "name:fra_x_preferred":[
         "Benishangul-Gumuz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Benishangul-Gumaz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10dc\u10d8\u10e8\u10d0\u10dc\u10d2\u10e3\u10da-\u10d2\u10e3\u10db\u10e3\u10d6\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Benishangul-Gumuz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bd\u03b9\u03c3\u03b1\u03bd\u03b3\u03bf\u03cd\u03bb \u0393\u03ba\u03bf\u03c5\u03bc\u03bf\u03cd\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0acd\u0a97\u0ac1\u0ab2-\u0a97\u0ac1\u0aae\u0ac1\u0a9d \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -151,7 +133,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u093f\u0936\u0902\u0917\u0941\u0932-\u0917\u092e\u091d \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Benishangul-Gumuz Region"
     ],
     "name:nld_x_preferred":[
@@ -176,9 +158,6 @@
         "Benishangul-Gumaz"
     ],
     "name:ron_x_preferred":[
-        "Statul Benishangul-Gumuz"
-    ],
-    "name:rum_x_preferred":[
         "Statul Benishangul-Gumuz"
     ],
     "name:rus_x_preferred":[
@@ -347,7 +326,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1553550358,
+    "wof:lastmodified":1561829932,
     "wof:name":"Beneshangul Gumuz",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

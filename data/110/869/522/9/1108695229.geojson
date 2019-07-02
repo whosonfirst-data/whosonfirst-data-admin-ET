@@ -38,7 +38,7 @@
         "Mi'irabawi",
         "Mi'irabawi Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mi'irabawi"
     ],
     "name:heb_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108695229,
-    "wof:lastmodified":1553718275,
+    "wof:lastmodified":1561829955,
     "wof:name":"W. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

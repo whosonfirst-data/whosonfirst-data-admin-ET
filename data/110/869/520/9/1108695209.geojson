@@ -33,9 +33,6 @@
     "name:amh_x_preferred":[
         "\u12f0\u1261\u1265 \u12c8\u120e \u12de\u1295"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u6c83\u6d1b\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Debub Wello"
     ],
@@ -44,7 +41,7 @@
         "Debub Wollo",
         "Debub Wollo Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debub Wollo"
     ],
     "name:heb_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "South Wollo Zone"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6c83\u6d1b\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1108695209,
-    "wof:lastmodified":1553718275,
+    "wof:lastmodified":1561829954,
     "wof:name":"S. Wello",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

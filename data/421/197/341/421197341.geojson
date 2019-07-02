@@ -14,19 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u767b\u6bd4\u591a\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Dembidolo"
-    ],
     "name:eng_x_preferred":[
         "Dembidolo"
     ],
     "name:fra_x_preferred":[
-        "Dembidolo"
-    ],
-    "name:fre_x_preferred":[
         "Dembidolo"
     ],
     "name:hbs_x_preferred":[
@@ -41,6 +32,9 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30e0\u30d3\u30c9\u30ed"
     ],
+    "name:nld_x_preferred":[
+        "Dembidolo"
+    ],
     "name:orm_x_preferred":[
         "Dambi Doolloo"
     ],
@@ -48,9 +42,6 @@
         "Dembidolo"
     ],
     "name:ron_x_preferred":[
-        "Dembidolo"
-    ],
-    "name:rum_x_preferred":[
         "Dembidolo"
     ],
     "name:rus_x_preferred":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421197341,
-    "wof:lastmodified":1527716403,
+    "wof:lastmodified":1561829968,
     "wof:name":"Dembi Dolo",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

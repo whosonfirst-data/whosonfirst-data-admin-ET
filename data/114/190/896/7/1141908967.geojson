@@ -23,14 +23,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09a1\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u591a"
-    ],
     "name:dan_x_preferred":[
         "Sodo"
     ],
-    "name:dut_x_preferred":[
-        "Sodo"
+    "name:deu_x_preferred":[
+        "Soddo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sodo"
@@ -38,14 +38,8 @@
     "name:fin_x_preferred":[
         "Sodo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sodo"
-    ],
-    "name:ger_x_preferred":[
-        "Soddo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa1\u0acb"
@@ -83,7 +77,10 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sodo"
+    ],
+    "name:nld_x_preferred":[
         "Sodo"
     ],
     "name:nob_x_preferred":[
@@ -130,6 +127,9 @@
     ],
     "name:vie_x_preferred":[
         "Sodo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u591a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1141908967,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1561829984,
     "wof:name":"Sodo",
     "wof:parent_id":1108695237,
     "wof:placetype":"locality",

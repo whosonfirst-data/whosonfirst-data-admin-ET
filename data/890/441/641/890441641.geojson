@@ -25,14 +25,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ac\u09be \u09ae\u09bf\u09cd\u09a8\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u5df4\u9580\u5947"
-    ],
     "name:dan_x_preferred":[
         "Arba Minch"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Arba Minch"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03bc\u03c0\u03b1 \u039c\u03b9\u03bd\u03c7"
     ],
     "name:eng_x_preferred":[
         "Arba Minch"
@@ -40,14 +40,8 @@
     "name:fin_x_preferred":[
         "Arba Minch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arba Minch"
-    ],
-    "name:ger_x_preferred":[
-        "Arba Minch"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c1\u03bc\u03c0\u03b1 \u039c\u03b9\u03bd\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0aac\u0abe \u0aae\u0abf\u0aa8\u0acd\u0a9a"
@@ -85,7 +79,10 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u094d\u092c\u093e \u092e\u093f\u0928\u093f\u091a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Arba Minch"
+    ],
+    "name:nld_x_preferred":[
         "Arba Minch"
     ],
     "name:nob_x_preferred":[
@@ -97,7 +94,7 @@
     "name:por_x_preferred":[
         "Arba Minch"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arba Minch"
     ],
     "name:rus_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:vie_x_preferred":[
         "Arba Minch"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5df4\u9580\u5947"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":890441641,
-    "wof:lastmodified":1527727233,
+    "wof:lastmodified":1561829969,
     "wof:name":"\u0100rba Minch\u2019",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

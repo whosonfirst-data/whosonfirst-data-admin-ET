@@ -26,8 +26,11 @@
     "name:dan_x_preferred":[
         "Nekemte"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nekemte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03ba\u03ad\u03bc\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Nekemte"
@@ -35,14 +38,8 @@
     "name:fin_x_preferred":[
         "Nekemte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nekemte"
-    ],
-    "name:ger_x_preferred":[
-        "Nekemte"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b5\u03ba\u03ad\u03bc\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0a95\u0ac7\u0aae\u0acd\u0a9f\u0ac7"
@@ -80,7 +77,10 @@
     "name:mar_x_preferred":[
         "\u0928\u0947\u0915\u0947\u092e\u091f\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nekemte"
+    ],
+    "name:nld_x_preferred":[
         "Nekemte"
     ],
     "name:nob_x_preferred":[
@@ -95,7 +95,7 @@
     "name:por_x_preferred":[
         "Nekemte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nekemte"
     ],
     "name:rus_x_preferred":[
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1141907839,
-    "wof:lastmodified":1514422031,
+    "wof:lastmodified":1561829984,
     "wof:name":"Nekemte",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

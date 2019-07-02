@@ -16,28 +16,19 @@
     "name:ceb_x_preferred":[
         "Yab\u0113lo"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u8c9d\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Yabelo"
-    ],
     "name:eng_x_preferred":[
         "Yabelo"
     ],
     "name:fra_x_preferred":[
         "Yabelo"
     ],
-    "name:fre_x_preferred":[
-        "Yabelo"
-    ],
     "name:ita_x_preferred":[
         "Javello"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Yabelo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yabelo"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421201473,
-    "wof:lastmodified":1527716439,
+    "wof:lastmodified":1561829968,
     "wof:name":"Yabalo",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

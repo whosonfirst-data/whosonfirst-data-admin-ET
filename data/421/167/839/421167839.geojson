@@ -16,23 +16,17 @@
     "name:ceb_x_preferred":[
         "Dodola"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u591a\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Dodola"
-    ],
     "name:eng_x_preferred":[
         "Dodola"
     ],
     "name:fra_x_preferred":[
         "Dodola"
     ],
-    "name:fre_x_preferred":[
-        "Dodola"
-    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30ed\u30fc\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Dodola"
     ],
     "name:pol_x_preferred":[
         "Dodola"
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421167839,
-    "wof:lastmodified":1527716161,
+    "wof:lastmodified":1561829966,
     "wof:name":"Dodola",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

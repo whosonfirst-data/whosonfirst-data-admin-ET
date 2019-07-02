@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.938181,
-    "geom:area_square_m":95966219988.155655,
+    "geom:area_square_m":95966219988.155182,
     "geom:bbox":"39.663116,8.844014,42.358013,14.50096",
     "geom:latitude":12.05945,
     "geom:longitude":40.761101,
@@ -44,17 +44,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 \u00c0far"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6cd5\u5c14\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Afarsko"
     ],
     "name:dan_x_preferred":[
         "Afar-regionen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Afar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Afar"
@@ -71,20 +71,14 @@
     "name:est_x_preferred":[
         "Afari osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0641\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Afar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Afar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e4\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Afar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c6\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aab\u0abe\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -113,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cab\u0cbe\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e4\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ud30c\ub974 \uc8fc"
     ],
@@ -125,8 +122,11 @@
     "name:mar_x_preferred":[
         "\u0905\u092b\u093e\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Afar Region"
+    ],
+    "name:nld_x_preferred":[
+        "Afar"
     ],
     "name:nno_x_preferred":[
         "Afarregionen"
@@ -137,9 +137,6 @@
     "name:orm_x_preferred":[
         "Naannoo Affaar"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0641\u0627\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0641\u0627\u0631"
     ],
@@ -149,7 +146,7 @@
     "name:por_x_preferred":[
         "Afar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Afar"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +187,9 @@
     ],
     "name:vie_x_preferred":[
         "Afar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6cd5\u5c14\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ETH",
@@ -314,7 +314,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561829931,
     "wof:name":"Afar",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

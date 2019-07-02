@@ -36,7 +36,7 @@
     "name:eng_x_variant":[
         "Yem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yem"
     ],
     "name:swe_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108695241,
-    "wof:lastmodified":1555047467,
+    "wof:lastmodified":1561829956,
     "wof:name":"Yem SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

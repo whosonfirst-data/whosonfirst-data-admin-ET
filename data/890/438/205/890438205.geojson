@@ -18,13 +18,10 @@
     "name:amh_x_preferred":[
         "\u12a5\u1295\u12f3\u1235\u120b\u1234"
     ],
-    "name:dut_x_preferred":[
-        "Inda Selassie"
-    ],
     "name:eng_x_preferred":[
         "Shire"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shire"
     ],
     "name:heb_x_preferred":[
@@ -33,10 +30,13 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30ec"
     ],
+    "name:nld_x_preferred":[
+        "Inda Selassie"
+    ],
     "name:pol_x_preferred":[
         "Shire"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shire"
     ],
     "name:rus_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":890438205,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561829970,
     "wof:name":"Inda Silas\u0113",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

@@ -18,13 +18,10 @@
     "name:amh_x_preferred":[
         "\u121e\u1306"
     ],
-    "name:dut_x_preferred":[
-        "Mojo"
-    ],
     "name:eng_x_preferred":[
         "Mojo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mojo"
     ],
     "name:ind_x_preferred":[
@@ -32,6 +29,9 @@
     ],
     "name:ita_x_preferred":[
         "Moggio"
+    ],
+    "name:nld_x_preferred":[
+        "Mojo"
     ],
     "name:pol_x_preferred":[
         "Mod\u017co"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890441621,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561829969,
     "wof:name":"Mojo",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

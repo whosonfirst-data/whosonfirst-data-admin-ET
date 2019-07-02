@@ -30,9 +30,6 @@
     "mps:longitude":38.817412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74e6\u683c\u54c8\u59c6\u62c9\u5730\u5340"
-    ],
     "name:eng_x_preferred":[
         "Wag Hemra"
     ],
@@ -40,7 +37,7 @@
         "Wag Himra",
         "Wag Hemra Zone"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wag Hemra"
     ],
     "name:heb_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Wag Hemra Zone"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u683c\u54c8\u59c6\u62c9\u5730\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108695225,
-    "wof:lastmodified":1553718274,
+    "wof:lastmodified":1561829955,
     "wof:name":"W. Hamra",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

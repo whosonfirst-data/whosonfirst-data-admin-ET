@@ -16,23 +16,20 @@
     "name:bul_x_preferred":[
         "\u0413\u0438\u043d\u0438\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u5c3c\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Ginir"
-    ],
     "name:eng_x_preferred":[
         "Ginir"
     ],
     "name:eng_x_variant":[
         "Ghinnir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ginir"
     ],
     "name:jpn_x_preferred":[
         "\u30ae\u30cb\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Ginir"
     ],
     "name:pol_x_preferred":[
         "Ginyr"
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Ghinnir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5c3c\u723e"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":421191849,
-    "wof:lastmodified":1514422020,
+    "wof:lastmodified":1561829967,
     "wof:name":"G\u012bn\u012br",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

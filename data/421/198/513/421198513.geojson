@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Dubti"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Dubti"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Dubti"
     ],
     "name:pol_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":421198513,
-    "wof:lastmodified":1527716358,
+    "wof:lastmodified":1561829967,
     "wof:name":"Dubti",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

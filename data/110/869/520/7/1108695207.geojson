@@ -37,7 +37,7 @@
         "Southern",
         "Debubawi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debubawi"
     ],
     "name:hrv_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1108695207,
-    "wof:lastmodified":1555047467,
+    "wof:lastmodified":1561829954,
     "wof:name":"S. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",
