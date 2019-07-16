@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u1260\u12f0\u120c \u12a8\u1270\u121b"
+    ],
     "name:ceb_x_preferred":[
         "Bedel\u0113"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421198509,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279342,
     "wof:name":"Bedele",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

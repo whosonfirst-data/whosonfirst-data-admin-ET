@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u043b\u0435\u043c\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Gelemso"
+    ],
     "name:eng_x_preferred":[
         "Gelemso"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125861555,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279380,
     "wof:name":"Gelemso",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

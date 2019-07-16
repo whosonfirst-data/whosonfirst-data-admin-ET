@@ -15,6 +15,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bed\u0113sa"
+    ],
     "name:eng_x_preferred":[
         "Bedessa"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890431241,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279367,
     "wof:name":"Bed\u0113sa",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

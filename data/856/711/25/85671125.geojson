@@ -31,6 +31,9 @@
     "name:amh_x_preferred":[
         "Tigray Kilil"
     ],
+    "name:amh_x_variant":[
+        "\u1275\u130d\u122b\u12ed \u12ad\u120d\u120d"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u064a\u063a\u0631\u0627\u064a"
     ],
@@ -196,6 +199,9 @@
     "name:vie_x_preferred":[
         "Tigray"
     ],
+    "name:wuu_x_preferred":[
+        "\u63d0\u683c\u96f7\u5dde"
+    ],
     "name:zho_x_preferred":[
         "\u63d0\u683c\u91cc\u5dde"
     ],
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829932,
+    "wof:lastmodified":1563278426,
     "wof:name":"Tigray",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

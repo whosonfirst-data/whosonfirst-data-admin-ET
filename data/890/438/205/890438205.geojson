@@ -18,6 +18,9 @@
     "name:amh_x_preferred":[
         "\u12a5\u1295\u12f3\u1235\u120b\u1234"
     ],
+    "name:ceb_x_preferred":[
+        "Inda Silas\u0113"
+    ],
     "name:eng_x_preferred":[
         "Shire"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Scir\u00e8"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30ec"
@@ -53,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Enda Sellassie"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u96f7"
     ],
     "qs:name":"Inda Silas\u0113",
     "qs:photos_9r":0,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890438205,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279369,
     "wof:name":"Inda Silas\u0113",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

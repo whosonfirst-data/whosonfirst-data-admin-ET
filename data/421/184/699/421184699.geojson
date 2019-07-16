@@ -31,12 +31,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Shinile Zone"
+    ],
+    "name:deu_x_preferred":[
+        "Shinile-Zone"
+    ],
     "name:eng_x_preferred":[
         "Shinile Zone"
     ],
     "name:eng_x_variant":[
         "Siti",
+        "Shinile",
+        "Sitti Zone"
+    ],
+    "name:fra_x_preferred":[
         "Shinile"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c3\u30c6\u30a3\u770c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043d\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Shinile Zone"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"ADM2",
@@ -99,7 +118,7 @@
         }
     ],
     "wof:id":421184699,
-    "wof:lastmodified":1553717431,
+    "wof:lastmodified":1563279350,
     "wof:name":"Shinile",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

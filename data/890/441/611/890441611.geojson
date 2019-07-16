@@ -18,11 +18,20 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u043f\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Tippi"
+    ],
+    "name:deu_x_preferred":[
+        "Tepi"
+    ],
     "name:eng_x_preferred":[
         "Tepi"
     ],
     "name:fra_x_preferred":[
         "Tippi"
+    ],
+    "name:hun_x_preferred":[
+        "Tepi"
     ],
     "name:ita_x_preferred":[
         "Tippi"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890441611,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279360,
     "wof:name":"Tippi",
     "wof:parent_id":1108695217,
     "wof:placetype":"locality",

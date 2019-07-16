@@ -22,8 +22,14 @@
     "name:amh_x_preferred":[
         "\u12f0\u1265\u1228 \u12d8\u12ed\u1275"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u0648\u0641\u062a\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0448\u043e\u0444\u0442\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Bishoftu"
     ],
     "name:ces_x_preferred":[
         "Bishoftu"
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Debre Zeyit"
+    ],
+    "name:eng_x_variant":[
+        "Bishoftu"
     ],
     "name:epo_x_preferred":[
         "Debre Zejit"
@@ -52,6 +61,9 @@
     "name:hun_x_preferred":[
         "Debre Zeyit"
     ],
+    "name:ind_x_preferred":[
+        "Bishoftu"
+    ],
     "name:ita_x_preferred":[
         "Bishoftu"
     ],
@@ -64,6 +76,9 @@
     "name:nld_x_preferred":[
         "Debre Zeit"
     ],
+    "name:orm_x_preferred":[
+        "Bishooftuu"
+    ],
     "name:pol_x_preferred":[
         "Debre Zeit"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u044d\u0431\u0440\u044d-\u0417\u044d\u0439\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Bishoftu"
     ],
     "name:swe_x_preferred":[
         "Debre Zeit"
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":1125861565,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279379,
     "wof:name":"Debre Zeyit",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

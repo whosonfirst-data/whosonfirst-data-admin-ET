@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u062f\u0627\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0445\u0440-\u0414\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b9\u09bf\u09b0\u09a6\u09be\u09b0"
+    ],
+    "name:bre_x_preferred":[
+        "Bahir Dar"
     ],
     "name:cat_x_preferred":[
         "Bahir Dar"
@@ -49,6 +55,9 @@
     "name:epo_x_preferred":[
         "Bahir Dar"
     ],
+    "name:eus_x_preferred":[
+        "Bahir Dar"
+    ],
     "name:fin_x_preferred":[
         "Bahir Dar"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab9\u0abf\u0ab0 \u0aa6\u0abe\u0ab0"
+    ],
+    "name:hau_x_preferred":[
+        "Baher Dar"
     ],
     "name:hbs_x_preferred":[
         "Bahir Dar"
@@ -227,7 +239,7 @@
         }
     ],
     "wof:id":421189651,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279339,
     "wof:name":"Bahir Dar",
     "wof:parent_id":1108695135,
     "wof:placetype":"locality",

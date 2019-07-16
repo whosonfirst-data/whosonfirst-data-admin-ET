@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Konso"
+    ],
     "name:cat_x_preferred":[
         "Konso"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:dan_x_preferred":[
         "Konsos kulturlandskab"
+    ],
+    "name:deu_x_preferred":[
+        "Konso"
     ],
     "name:eng_x_preferred":[
         "Konso"
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Karat"
+    ],
+    "name:tur_x_preferred":[
+        "Konso"
     ],
     "name:vie_x_preferred":[
         "Konso"
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":421203043,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279335,
     "wof:name":"Konso",
     "wof:parent_id":1108695183,
     "wof:placetype":"locality",

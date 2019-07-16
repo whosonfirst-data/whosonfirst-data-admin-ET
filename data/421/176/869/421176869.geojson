@@ -19,14 +19,23 @@
     "name:ceb_x_preferred":[
         "Sebeta"
     ],
+    "name:deu_x_preferred":[
+        "Sebeta"
+    ],
     "name:eng_x_preferred":[
         "Sebeta"
     ],
     "name:fra_x_preferred":[
         "Sebeta"
     ],
+    "name:hun_x_preferred":[
+        "Sebeta"
+    ],
     "name:ita_x_preferred":[
         "Sebeta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30d9\u30bf"
     ],
     "name:nld_x_preferred":[
         "Sebeta"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421176869,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1563279354,
     "wof:name":"Sebeta",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

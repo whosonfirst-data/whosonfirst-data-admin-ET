@@ -112,6 +112,9 @@
     "name:ita_x_preferred":[
         "Regione Benisciangul-Gumus"
     ],
+    "name:ita_x_variant":[
+        "regione Benisciangul-Gumus"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30cb\u30b7\u30e3\u30f3\u30b0\u30eb\u30fb\u30b0\u30e0\u30ba\u5dde"
     ],
@@ -123,6 +126,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub2c8\uc0f9\uad74\uad6c\ubb34\uc988 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\ub2c8\uc0f9\uad74\uad6c\ubb34\uc988\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Beni\u0161angulas Gumizas kiliks"
@@ -162,6 +168,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u0438\u0448\u0430\u043d\u0433\u0443\u043b\u044c-\u0413\u0443\u043c\u0443\u0437"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043d\u0438\u0448\u0430\u043d\u0433\u0443\u043b-\u0413\u0443\u043c\u0443\u0437"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0db1\u0dd2\u0dc2\u0db1\u0dca\u0d9c\u0dd4\u0dbd\u0dca -\u0d9c\u0dd4\u0db8\u0dd4\u0dc3\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
@@ -204,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u5c1a\u53e4\u52d2-\u53e4\u99ac\u8332\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Benishangul-Gumaz"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ETH",
@@ -326,7 +338,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829932,
+    "wof:lastmodified":1563278425,
     "wof:name":"Beneshangul Gumuz",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

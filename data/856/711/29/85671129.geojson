@@ -29,8 +29,14 @@
     "name:amh_x_preferred":[
         "\u0100far Kilil"
     ],
+    "name:amh_x_variant":[
+        "\u12a0\u134b\u122d"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0639\u0641\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0639\u0641\u0631"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ab\u09be\u09b0 \u0985\u099e\u09cd\u099a\u09b2"
@@ -43,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 \u00c0far"
+    ],
+    "name:ceb_x_preferred":[
+        "Afar Region"
     ],
     "name:ces_x_preferred":[
         "Afarsko"
@@ -112,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ud30c\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud30c\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Afaras kiliks"
@@ -187,6 +199,9 @@
     ],
     "name:vie_x_preferred":[
         "Afar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u6cd5\u5c14\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u963f\u6cd5\u5c14\u5dde"
@@ -314,7 +329,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829931,
+    "wof:lastmodified":1563278417,
     "wof:name":"Afar",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

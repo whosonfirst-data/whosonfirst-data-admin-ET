@@ -31,11 +31,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Borena Zone"
+    ],
     "name:eng_x_preferred":[
         "Borena"
     ],
     "name:eng_x_variant":[
-        "Borena",
         "Borena Zone"
     ],
     "name:fra_x_preferred":[
@@ -49,6 +51,9 @@
     ],
     "name:orm_x_preferred":[
         "Boorana"
+    ],
+    "name:pol_x_preferred":[
+        "Strefa Borena"
     ],
     "name:swe_x_preferred":[
         "Borena Zone"
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":421188225,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279341,
     "wof:name":"Borena",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

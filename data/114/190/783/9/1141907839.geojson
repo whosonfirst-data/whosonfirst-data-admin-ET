@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u064a\u0645\u062a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0642\u0645\u062a\u064a"
+    ],
+    "name:bar_x_preferred":[
+        "Nekemte"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u0995\u09c7\u09ae\u09a4\u09c7"
     ],
@@ -250,7 +256,7 @@
         }
     ],
     "wof:id":1141907839,
-    "wof:lastmodified":1561829984,
+    "wof:lastmodified":1563279863,
     "wof:name":"Nekemte",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

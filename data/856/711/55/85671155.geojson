@@ -29,6 +29,9 @@
     "name:amh_x_preferred":[
         "Sumal\u0113 Kilil"
     ],
+    "name:amh_x_variant":[
+        "\u1236\u121b\u120c \u12ad\u120d\u120d"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u064a\u0629"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Somali"
+    ],
+    "name:ceb_x_preferred":[
+        "Somali Region"
     ],
     "name:ces_x_preferred":[
         "Som\u00e1lsko"
@@ -80,6 +86,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion Somali"
     ],
+    "name:fra_x_variant":[
+        "Somali"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc18c\ub9d0\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ub9d0\ub9ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Som\u0101li kiliks"
@@ -317,7 +329,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829932,
+    "wof:lastmodified":1563278421,
     "wof:name":"Somali",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

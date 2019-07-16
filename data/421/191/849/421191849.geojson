@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0438\u043d\u0438\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Ginir"
+    ],
     "name:eng_x_preferred":[
         "Ginir"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421191849,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279343,
     "wof:name":"G\u012bn\u012br",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

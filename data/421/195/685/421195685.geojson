@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0631\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Harar Jugol"
+    ],
     "name:aze_x_preferred":[
         "Harar"
     ],
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":421195685,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1563279330,
     "wof:name":"Harer",
     "wof:parent_id":1108695173,
     "wof:placetype":"locality",

@@ -29,8 +29,14 @@
     "name:amh_x_preferred":[
         "Orom\u012bya Kilil"
     ],
+    "name:amh_x_variant":[
+        "\u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0645\u064a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u043e\u043c\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09cb\u09ae\u09bf\u09af\u09bc\u09be \u0985\u099e\u09cd\u099a\u09b2"
@@ -43,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Or\u00f2mia"
+    ],
+    "name:ceb_x_preferred":[
+        "Oromiya Region"
     ],
     "name:ces_x_preferred":[
         "Oromie"
@@ -115,6 +124,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ub85c\ubbf8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub85c\ubbf8\uc544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Oromijas kiliks"
@@ -319,7 +331,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829932,
+    "wof:lastmodified":1563278422,
     "wof:name":"Oromiya",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

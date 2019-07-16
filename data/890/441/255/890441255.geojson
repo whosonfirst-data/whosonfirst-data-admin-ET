@@ -18,6 +18,9 @@
     "name:amh_x_preferred":[
         "\u1266\u12f2\u1272"
     ],
+    "name:ceb_x_preferred":[
+        "Bod\u012bt\u012b"
+    ],
     "name:eng_x_preferred":[
         "Boditi"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890441255,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279364,
     "wof:name":"Bod\u012bt\u012b",
     "wof:parent_id":1108695237,
     "wof:placetype":"locality",

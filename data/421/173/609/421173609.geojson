@@ -41,6 +41,9 @@
     "name:hrv_x_preferred":[
         "Goba"
     ],
+    "name:hun_x_preferred":[
+        "Goba"
+    ],
     "name:ita_x_preferred":[
         "Goba"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421173609,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279338,
     "wof:name":"Goba",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

@@ -30,16 +30,24 @@
     "mps:longitude":36.461317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "South Omo"
+    ],
     "name:eng_x_preferred":[
         "Debub Omo"
     ],
     "name:eng_x_variant":[
         "South Omo",
-        "Debub Omo",
         "Debub Omo Zone"
     ],
     "name:fra_x_preferred":[
         "Debub Omo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d6\u30d6\u30fb\u30aa\u30e2\u770c"
+    ],
+    "name:pol_x_preferred":[
+        "Strefa Debub Omo"
     ],
     "name:swe_x_preferred":[
         "South Omo"
@@ -83,7 +91,7 @@
         }
     ],
     "wof:id":1108695219,
-    "wof:lastmodified":1561829954,
+    "wof:lastmodified":1563279083,
     "wof:name":"South Omo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

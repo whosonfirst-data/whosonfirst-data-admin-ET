@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u064a\u060c \u0625\u062b\u064a\u0648\u0628\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u062a\u064a"
+    ],
     "name:ceb_x_preferred":[
         "Bat\u012b"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:fra_x_preferred":[
         "Bati"
+    ],
+    "name:ita_x_preferred":[
+        "Bati\u00e8"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c1"
@@ -41,11 +47,17 @@
     "name:ron_x_preferred":[
         "Bati"
     ],
+    "name:spa_x_preferred":[
+        "Bati"
+    ],
     "name:swe_x_preferred":[
         "Bat\u012b"
     ],
     "name:unk_x_variant":[
         "Batie"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u63d0"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u63d0"
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":421189393,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279339,
     "wof:name":"Bati",
     "wof:parent_id":1108695203,
     "wof:placetype":"locality",

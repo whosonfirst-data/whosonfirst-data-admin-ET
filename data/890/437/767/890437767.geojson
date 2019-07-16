@@ -15,6 +15,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Debark'"
+    ],
     "name:eng_x_preferred":[
         "Debarq"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:pol_x_preferred":[
         "Debark"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u0430\u0440\u043a"
     ],
     "name:swe_x_preferred":[
         "Debark'"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890437767,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279365,
     "wof:name":"Debark\u2019",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",
