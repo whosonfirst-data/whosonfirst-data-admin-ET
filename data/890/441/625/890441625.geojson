@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "Debre Sina"
     ],
+    "name:ita_x_preferred":[
+        "Debre Sina"
+    ],
     "name:nld_x_preferred":[
         "Debre Sina"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890441625,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279361,
     "wof:name":"Debre S\u012bna",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Korem"
+    ],
     "name:eng_x_preferred":[
         "Korem"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125861541,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279380,
     "wof:name":"Korem",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

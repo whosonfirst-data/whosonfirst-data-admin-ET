@@ -25,8 +25,17 @@
     "name:ben_x_preferred":[
         "\u0986\u0993\u09af\u09bc\u09be\u09b8\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Awasa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0430\u0441\u0430"
+    ],
     "name:cat_x_preferred":[
         "Awasa"
+    ],
+    "name:ceb_x_preferred":[
+        "Hawassa"
     ],
     "name:dan_x_preferred":[
         "Awasa"
@@ -120,6 +129,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0432\u0430\u0441\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0443\u0430\u0441\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0d86\u0dc0\u0dc3\u0dcf"
@@ -291,7 +303,7 @@
         }
     ],
     "wof:id":890418073,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279375,
     "wof:name":"Hawassa",
     "wof:parent_id":421204421,
     "wof:placetype":"locality",

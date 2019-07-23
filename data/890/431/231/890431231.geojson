@@ -28,6 +28,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09cb\u09b8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "\u0100sosa"
+    ],
     "name:dan_x_preferred":[
         "Asosa"
     ],
@@ -89,6 +92,9 @@
         "Asosa"
     ],
     "name:nld_x_preferred":[
+        "Asosa"
+    ],
+    "name:nno_x_preferred":[
         "Asosa"
     ],
     "name:nob_x_preferred":[
@@ -267,7 +273,7 @@
         }
     ],
     "wof:id":890431231,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279369,
     "wof:name":"\u0100sosa",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

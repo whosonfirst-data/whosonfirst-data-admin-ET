@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Genet"
+    ],
     "name:eng_x_preferred":[
         "Holeta Genet"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890433313,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279377,
     "wof:name":"Genet",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

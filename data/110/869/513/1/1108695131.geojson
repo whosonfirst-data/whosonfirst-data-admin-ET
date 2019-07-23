@@ -33,6 +33,12 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0441\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Arsi"
+    ],
+    "name:ceb_x_preferred":[
+        "Arsi Zone"
+    ],
     "name:deu_x_preferred":[
         "Arsi-Zone"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:por_x_preferred":[
         "Arsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0441\u0438"
     ],
     "name:spa_x_preferred":[
         "Arsi"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108695131,
-    "wof:lastmodified":1561829955,
+    "wof:lastmodified":1563279091,
     "wof:name":"Arsi",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:amh_x_preferred":[
         "\u12f0\u1265\u1228 \u1273\u1266\u122d"
     ],
+    "name:ceb_x_preferred":[
+        "Debre Tabor"
+    ],
     "name:deu_x_preferred":[
         "Debre Tabor"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125931683,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279379,
     "wof:name":"Debre Tabor",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

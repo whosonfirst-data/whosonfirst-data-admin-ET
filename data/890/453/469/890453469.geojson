@@ -15,6 +15,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "H\u012brna"
+    ],
     "name:eng_x_preferred":[
         "Hirna"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890453469,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279371,
     "wof:name":"H\u012brna",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

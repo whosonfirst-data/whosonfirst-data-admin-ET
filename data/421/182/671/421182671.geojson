@@ -67,6 +67,9 @@
     "name:ita_x_preferred":[
         "Combolci\u00e0"
     ],
+    "name:ita_x_variant":[
+        "Kombolcha"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30e0\u30dc\u30eb\u30c1\u30e3"
     ],
@@ -106,11 +109,17 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0431\u043e\u043b\u044c\u0447\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0431\u043e\u043b\u0447\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db8\u0dca\u0db6\u0ddd\u0dbd\u0dca\u0da0\u0dcf"
     ],
     "name:spa_x_preferred":[
         "Kombolcha"
+    ],
+    "name:srp_x_preferred":[
+        "Kombol\u010da"
     ],
     "name:swe_x_preferred":[
         "Kombolcha"
@@ -190,7 +199,7 @@
         }
     ],
     "wof:id":421182671,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1563279354,
     "wof:name":"Kembolcha",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

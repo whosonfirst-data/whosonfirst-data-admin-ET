@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Turmi"
+    ],
     "name:deu_x_preferred":[
         "Turmi"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125819163,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279381,
     "wof:name":"Turmi",
     "wof:parent_id":1108695219,
     "wof:placetype":"locality",

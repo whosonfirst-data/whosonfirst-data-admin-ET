@@ -35,7 +35,8 @@
     ],
     "name:eng_x_variant":[
         "Zone 2",
-        "Administrative Zone 2"
+        "Administrative Zone 2",
+        "Kilbet Rasu"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0627\u062f\u0627\u0631\u06cc\u06f2"
@@ -48,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Strefa 2"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u4e8c\u5730\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1108695245,
-    "wof:lastmodified":1561829956,
+    "wof:lastmodified":1563279097,
     "wof:name":"Afar Zone 2",
     "wof:parent_id":85671129,
     "wof:placetype":"county",

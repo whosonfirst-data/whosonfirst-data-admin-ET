@@ -56,6 +56,9 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Gore"
+    ],
     "name:swe_x_preferred":[
         "Gor\u0113"
     ],
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421180433,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1563279337,
     "wof:name":"Gor\u0113",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

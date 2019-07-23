@@ -15,6 +15,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Werota"
+    ],
     "name:eng_x_preferred":[
         "Wereta"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:pol_x_preferred":[
         "Wereta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u044d\u0442\u0430"
     ],
     "name:swe_x_preferred":[
         "Werota"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890428827,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279372,
     "wof:name":"Werota",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

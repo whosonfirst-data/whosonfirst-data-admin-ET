@@ -28,6 +28,15 @@
     "name:ben_x_preferred":[
         "\u0986\u09a6\u09be\u09ae\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Adama"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazr\u0113t"
+    ],
+    "name:ces_x_preferred":[
+        "Adama"
+    ],
     "name:dan_x_preferred":[
         "Nazret"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:epo_x_preferred":[
         "Adamo"
+    ],
+    "name:eus_x_preferred":[
+        "Adama"
     ],
     "name:fin_x_preferred":[
         "Adama"
@@ -128,6 +140,9 @@
         "Adama"
     ],
     "name:spa_x_preferred":[
+        "Adama"
+    ],
+    "name:swa_x_preferred":[
         "Adama"
     ],
     "name:swe_x_preferred":[
@@ -286,7 +301,7 @@
         }
     ],
     "wof:id":890431217,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279367,
     "wof:name":"Nazr\u0113t",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

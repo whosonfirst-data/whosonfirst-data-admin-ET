@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Aksum"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u0633\u0648\u0645"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u0441\u0443\u043c"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Aksum"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100ksum"
     ],
     "name:ces_x_preferred":[
         "Aks\u00fam"
@@ -130,6 +136,9 @@
     "name:lit_x_preferred":[
         "Aksumas"
     ],
+    "name:mai_x_preferred":[
+        "\u0905\u0915\u094d\u0938\u0941\u092e"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d15\u0d4d\u0d38\u0d42\u0d02"
     ],
@@ -178,6 +187,9 @@
     "name:sin_x_preferred":[
         "\u0d85\u0d9a\u0dca\u0dc3\u0dd4\u0db8\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Aksum"
+    ],
     "name:slv_x_preferred":[
         "Aksum"
     ],
@@ -218,6 +230,9 @@
         "Axum"
     ],
     "name:vie_x_preferred":[
+        "Aksum"
+    ],
+    "name:war_x_preferred":[
         "Aksum"
     ],
     "name:xmf_x_preferred":[
@@ -349,7 +364,7 @@
         }
     ],
     "wof:id":890443213,
-    "wof:lastmodified":1561829970,
+    "wof:lastmodified":1563279372,
     "wof:name":"\u0100ksum",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

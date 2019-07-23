@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09a1\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Sodo"
+    ],
     "name:dan_x_preferred":[
         "Sodo"
     ],
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":1141908967,
-    "wof:lastmodified":1561829984,
+    "wof:lastmodified":1563279864,
     "wof:name":"Sodo",
     "wof:parent_id":1108695237,
     "wof:placetype":"locality",

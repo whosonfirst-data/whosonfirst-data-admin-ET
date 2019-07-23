@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09ac\u09be \u09ae\u09bf\u09cd\u09a8\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "\u0100rba Minch'"
+    ],
     "name:dan_x_preferred":[
         "Arba Minch"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:hrv_x_preferred":[
         "Arba Min\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Arba Minch"
     ],
     "name:ind_x_preferred":[
         "Arba Minch"
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":890441641,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279363,
     "wof:name":"\u0100rba Minch\u2019",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

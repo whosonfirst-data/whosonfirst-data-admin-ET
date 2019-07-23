@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u0441\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09b6\u09bf"
     ],
     "name:cat_x_preferred":[
         "Dese"
+    ],
+    "name:ceb_x_preferred":[
+        "Des\u0113"
     ],
     "name:dan_x_preferred":[
         "Dese"
@@ -279,7 +285,7 @@
         }
     ],
     "wof:id":890441629,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279359,
     "wof:name":"Des\u0113",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

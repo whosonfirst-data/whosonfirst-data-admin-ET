@@ -18,6 +18,9 @@
     "name:amh_x_preferred":[
         "\u121b\u12ed\u1328\u12cd"
     ],
+    "name:ceb_x_preferred":[
+        "Maych'ew"
+    ],
     "name:eng_x_preferred":[
         "Maychew"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890431135,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279366,
     "wof:name":"Maych\u2019ew",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

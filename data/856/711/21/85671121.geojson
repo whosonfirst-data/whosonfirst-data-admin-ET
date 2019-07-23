@@ -29,8 +29,14 @@
     "name:amh_x_preferred":[
         "\u0100mara Kilil"
     ],
+    "name:amh_x_variant":[
+        "\u12a0\u121b\u122b"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0645\u0647\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0623\u0645\u0647\u0631\u0629"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09b9\u09be\u09b0\u09be \u0985\u099e\u09cd\u099a\u09b2"
@@ -43,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Amhara"
+    ],
+    "name:ceb_x_preferred":[
+        "Amhara Region"
     ],
     "name:ces_x_preferred":[
         "Amharsko"
@@ -115,6 +124,9 @@
     "name:kor_x_preferred":[
         "\uc554\ud558\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc554\ud558\ub77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Amharas kiliks"
     ],
@@ -178,6 +190,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0bae\u0bcd\u0bae\u0bb0  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043c\u0445\u0430\u0440\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2e\u0c4d\u0c39\u0c3e\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -201,6 +216,9 @@
     ],
     "name:vie_x_preferred":[
         "Amhara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u59c6\u54c8\u62c9\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u963f\u59c6\u54c8\u62c9\u5dde"
@@ -328,7 +346,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1561829931,
+    "wof:lastmodified":1563278419,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

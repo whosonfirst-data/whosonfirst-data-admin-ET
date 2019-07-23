@@ -15,6 +15,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bur\u0113"
+    ],
     "name:eng_x_preferred":[
         "Bure"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890441633,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1563279360,
     "wof:name":"Bur\u0113",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Dodola"
     ],
+    "name:orm_x_preferred":[
+        "Dodola"
+    ],
     "name:pol_x_preferred":[
         "Dodola"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421167839,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1563279332,
     "wof:name":"Dodola",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

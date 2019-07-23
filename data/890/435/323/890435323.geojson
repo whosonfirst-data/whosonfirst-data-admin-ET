@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Mekele"
     ],
+    "name:ceb_x_preferred":[
+        "Mekele"
+    ],
     "name:dan_x_preferred":[
         "Mek'ele"
     ],
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":890435323,
-    "wof:lastmodified":1561829971,
+    "wof:lastmodified":1563279378,
     "wof:name":"Mekele",
     "wof:parent_id":1108695189,
     "wof:placetype":"locality",

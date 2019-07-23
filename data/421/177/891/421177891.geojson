@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Finote Selam"
     ],
+    "name:cym_x_preferred":[
+        "Finote Selam"
+    ],
     "name:deu_x_preferred":[
         "Finote Selam"
     ],
@@ -26,6 +29,9 @@
         "Finote Selam"
     ],
     "name:fra_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:hun_x_preferred":[
         "Finote Selam"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421177891,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1563279352,
     "wof:name":"Finote Selam",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",
