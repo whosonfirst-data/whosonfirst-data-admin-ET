@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Krin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1225974913,
-    "wof:lastmodified":1536826444,
+    "wof:lastmodified":1564233801,
     "wof:name":"Krin",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u0648"
+    ],
+    "name:ron_x_preferred":[
+        "Amuru"
+    ],
+    "name:swa_x_preferred":[
+        "Amuru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1193047295,
-    "wof:lastmodified":1536369422,
+    "wof:lastmodified":1564232946,
     "wof:name":"Amuru",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

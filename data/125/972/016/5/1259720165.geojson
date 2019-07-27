@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fedis"
+    ],
+    "name:fra_x_preferred":[
+        "Fedis"
+    ],
+    "name:swe_x_preferred":[
+        "Fedis"
+    ],
     "name:und_x_variant":[
         "Fed\u012bs"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259720165,
-    "wof:lastmodified":1537622026,
+    "wof:lastmodified":1564233702,
     "wof:name":"Fedis",
     "wof:parent_id":1108695173,
     "wof:placetype":"locality",

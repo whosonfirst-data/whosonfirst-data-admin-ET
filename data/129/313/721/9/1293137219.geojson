@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gadi"
+    ],
+    "name:swe_x_preferred":[
+        "Gadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293137219,
-    "wof:lastmodified":1536795226,
+    "wof:lastmodified":1564232419,
     "wof:name":"Gadi",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

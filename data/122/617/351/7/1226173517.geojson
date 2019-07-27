@@ -25,6 +25,78 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Gedera"
+    ],
+    "name:ara_x_preferred":[
+        "\u063a\u062f\u064a\u0631\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Gueder\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Gedera"
+    ],
+    "name:ces_x_preferred":[
+        "Gedera"
+    ],
+    "name:deu_x_preferred":[
+        "Gedera"
+    ],
+    "name:epo_x_preferred":[
+        "Gedera"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u062f\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Gedera"
+    ],
+    "name:fra_x_preferred":[
+        "Guedera"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d3\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Gedera"
+    ],
+    "name:kor_x_preferred":[
+        "\uac8c\ub370\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Gedera"
+    ],
+    "name:nno_x_preferred":[
+        "Gedera"
+    ],
+    "name:pol_x_preferred":[
+        "Gedera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0434\u0435\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Gedera"
+    ],
+    "name:spa_x_preferred":[
+        "Gedera"
+    ],
+    "name:swe_x_preferred":[
+        "Gedera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0434\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u062f\u06cc\u0631\u0627"
+    ],
+    "name:wuu_x_preferred":[
+        "\u76d6\u4ee3\u62c9"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u4ee3\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1226173517,
-    "wof:lastmodified":1537036156,
+    "wof:lastmodified":1564233715,
     "wof:name":"Gedera",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

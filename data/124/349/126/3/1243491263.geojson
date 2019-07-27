@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Kora"
+    ],
     "name:und_x_variant":[
         "Kora (2)",
         "Kora"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1243491263,
-    "wof:lastmodified":1537621964,
+    "wof:lastmodified":1564233464,
     "wof:name":"Kora",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

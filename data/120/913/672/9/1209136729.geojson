@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u012atang"
+    ],
+    "name:deu_x_preferred":[
+        "Itang"
+    ],
+    "name:fra_x_preferred":[
+        "Itang"
+    ],
+    "name:pol_x_preferred":[
+        "Itang"
+    ],
+    "name:swe_x_preferred":[
+        "\u012atang"
+    ],
     "name:und_x_variant":[
         "\u012atang"
     ],
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209136729,
-    "wof:lastmodified":1537621979,
+    "wof:lastmodified":1564232800,
     "wof:name":"Itang",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

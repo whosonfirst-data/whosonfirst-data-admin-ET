@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Menji"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d6'\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Menji"
+    ],
+    "name:msa_x_preferred":[
+        "Menji"
+    ],
+    "name:pol_x_preferred":[
+        "Menji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293136655,
-    "wof:lastmodified":1536796063,
+    "wof:lastmodified":1564232418,
     "wof:name":"Menji",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Assahara"
+    ],
+    "name:ita_x_preferred":[
+        "Assahara"
+    ],
+    "name:msa_x_preferred":[
+        "Assahara"
+    ],
     "name:und_x_variant":[
         "Assakhara",
         "Assahara"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310239245,
-    "wof:lastmodified":1537622090,
+    "wof:lastmodified":1564233076,
     "wof:name":"Assahara",
     "wof:parent_id":1108695245,
     "wof:placetype":"locality",

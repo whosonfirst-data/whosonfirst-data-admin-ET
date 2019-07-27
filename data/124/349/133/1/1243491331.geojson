@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Madley"
+    ],
+    "name:cym_x_preferred":[
+        "Madley"
+    ],
+    "name:pol_x_preferred":[
+        "Madley"
+    ],
+    "name:spa_x_preferred":[
+        "Madley"
+    ],
+    "name:swe_x_preferred":[
+        "Madley"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243491331,
-    "wof:lastmodified":1536740571,
+    "wof:lastmodified":1564233461,
     "wof:name":"Madley",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

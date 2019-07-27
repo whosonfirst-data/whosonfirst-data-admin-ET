@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sokoro"
+    ],
+    "name:ita_x_preferred":[
+        "Sokoro"
+    ],
+    "name:msa_x_preferred":[
+        "Sokoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243394335,
-    "wof:lastmodified":1536880074,
+    "wof:lastmodified":1564233392,
     "wof:name":"Sokoro",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

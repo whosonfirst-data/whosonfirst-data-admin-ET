@@ -25,9 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Sacca"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e31\u0e08\u0e08\u0e30"
+    ],
     "name:und_x_variant":[
         "Saca",
         "Sacca"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ae6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310440031,
-    "wof:lastmodified":1537621928,
+    "wof:lastmodified":1564233143,
     "wof:name":"Sacca",
     "wof:parent_id":1108695225,
     "wof:placetype":"locality",

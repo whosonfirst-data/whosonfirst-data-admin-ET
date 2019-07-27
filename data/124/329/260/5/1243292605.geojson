@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Burca"
+    ],
+    "name:deu_x_preferred":[
+        "Burca"
+    ],
+    "name:swe_x_preferred":[
+        "Burca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243292605,
-    "wof:lastmodified":1537026227,
+    "wof:lastmodified":1564233556,
     "wof:name":"Burca",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tullu Milki"
+    ],
+    "name:ron_x_preferred":[
+        "Tullu Milki"
+    ],
     "name:und_x_variant":[
         "Tullu Milchi",
         "Tulu M\u012blk\u012b"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259813891,
-    "wof:lastmodified":1537621904,
+    "wof:lastmodified":1564233697,
     "wof:name":"Tulu Milki",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u124b\u122a\u1275"
+    ],
+    "name:fra_x_preferred":[
+        "Kuarit"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226061397,
-    "wof:lastmodified":1536702885,
+    "wof:lastmodified":1564233879,
     "wof:name":"Kuarit",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

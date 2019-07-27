@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hoga"
+    ],
     "name:und_x_variant":[
         "Khoga",
         "Hoga"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209746497,
-    "wof:lastmodified":1537621988,
+    "wof:lastmodified":1564232884,
     "wof:name":"Hoga",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Humbe"
+    ],
     "name:und_x_variant":[
         "Bumbe",
         "Humb\u0113"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226778197,
-    "wof:lastmodified":1537621987,
+    "wof:lastmodified":1564233850,
     "wof:name":"Humbe",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

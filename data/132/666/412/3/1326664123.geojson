@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Limu"
+    ],
+    "name:fra_x_preferred":[
+        "Limu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0578\u0582"
+    ],
+    "name:ton_x_preferred":[
+        "Limu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326664123,
-    "wof:lastmodified":1536794195,
+    "wof:lastmodified":1564231944,
     "wof:name":"Limu",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

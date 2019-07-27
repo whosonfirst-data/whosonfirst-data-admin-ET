@@ -25,6 +25,45 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amboy"
+    ],
+    "name:deu_x_preferred":[
+        "Amboy"
+    ],
+    "name:fra_x_preferred":[
+        "Amboy"
+    ],
+    "name:ido_x_preferred":[
+        "Amboy"
+    ],
+    "name:ita_x_preferred":[
+        "Amboy"
+    ],
+    "name:nld_x_preferred":[
+        "Amboy"
+    ],
+    "name:pol_x_preferred":[
+        "Amboy"
+    ],
+    "name:por_x_preferred":[
+        "Amboy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0431\u043e\u0439"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u0431\u043e\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Amboy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c\u0431\u043e\u0439"
+    ],
+    "name:vol_x_preferred":[
+        "Amboy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1226176597,
-    "wof:lastmodified":1537031852,
+    "wof:lastmodified":1564233711,
     "wof:name":"Amboy",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

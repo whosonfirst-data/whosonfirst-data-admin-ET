@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dabu"
+    ],
+    "name:deu_x_preferred":[
+        "Dabu"
+    ],
+    "name:fra_x_preferred":[
+        "Dabu"
+    ],
+    "name:ita_x_preferred":[
+        "Dabu"
+    ],
     "name:und_x_variant":[
         "Dapo",
         "Dabu"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326864183,
-    "wof:lastmodified":1537622053,
+    "wof:lastmodified":1564231904,
     "wof:name":"Dabu",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

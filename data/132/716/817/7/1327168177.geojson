@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043e\u0434\u0440\u043e\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327168177,
-    "wof:lastmodified":1537059780,
+    "wof:lastmodified":1564232066,
     "wof:name":"Tewodros",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

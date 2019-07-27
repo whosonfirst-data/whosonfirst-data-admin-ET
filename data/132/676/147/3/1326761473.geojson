@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lare"
+    ],
     "name:und_x_variant":[
         "Lare",
         "Larre"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1326761473,
-    "wof:lastmodified":1537622127,
+    "wof:lastmodified":1564232011,
     "wof:name":"Larre",
     "wof:parent_id":421171033,
     "wof:placetype":"locality",

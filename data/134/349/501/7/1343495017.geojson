@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Darimu"
+    ],
     "name:und_x_variant":[
         "Dar\u012bmu"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343495017,
-    "wof:lastmodified":1537622049,
+    "wof:lastmodified":1564232177,
     "wof:name":"Darimu",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

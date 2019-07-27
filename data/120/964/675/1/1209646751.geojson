@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gida"
+    ],
+    "name:swe_x_preferred":[
+        "Gida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209646751,
-    "wof:lastmodified":1536280710,
+    "wof:lastmodified":1564232737,
     "wof:name":"Gida",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

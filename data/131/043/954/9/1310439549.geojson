@@ -25,6 +25,48 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u044f\u043c\u043b\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043c\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Zeme"
+    ],
+    "name:ces_x_preferred":[
+        "Zem\u011b"
+    ],
+    "name:hrv_x_preferred":[
+        "Zemlja"
+    ],
+    "name:lav_x_preferred":[
+        "Zeme"
+    ],
+    "name:lit_x_preferred":[
+        "\u017dem\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Ziemia"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103m\u00e2nt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043b\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043c\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zeme"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0417\u0430\u043c\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043c\u043b\u044f"
+    ],
     "name:und_x_variant":[
         "Zemie",
         "Zem\u0113"
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1310439549,
-    "wof:lastmodified":1537621886,
+    "wof:lastmodified":1564233146,
     "wof:name":"Zeme",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

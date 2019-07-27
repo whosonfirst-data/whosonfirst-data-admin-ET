@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12a5\u1228\u1265\u1272"
+    ],
+    "name:fra_x_preferred":[
+        "Erebti"
+    ],
+    "name:hrv_x_preferred":[
+        "Erebti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1309722353,
-    "wof:lastmodified":1537562776,
+    "wof:lastmodified":1564233338,
     "wof:name":"Erebti",
     "wof:parent_id":1108695245,
     "wof:placetype":"locality",

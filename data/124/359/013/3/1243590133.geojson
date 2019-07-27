@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u016bgar\u012b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bugari"
+    ],
+    "name:swe_x_preferred":[
+        "B\u016bgar\u012b"
+    ],
     "name:und_x_variant":[
         "Buggari",
         "Bugar\u012b"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243590133,
-    "wof:lastmodified":1537622068,
+    "wof:lastmodified":1564233470,
     "wof:name":"Bugari",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

@@ -25,6 +25,81 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rabel"
+    ],
+    "name:dan_x_preferred":[
+        "Rab\u00f8l"
+    ],
+    "name:deu_x_preferred":[
+        "Rabel"
+    ],
+    "name:epo_x_preferred":[
+        "Rabel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Rabel"
+    ],
+    "name:hun_x_preferred":[
+        "Rabel"
+    ],
+    "name:ita_x_preferred":[
+        "Rabel"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0431\u0435\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Rabel"
+    ],
+    "name:nld_x_preferred":[
+        "Rabel"
+    ],
+    "name:pol_x_preferred":[
+        "Rabel"
+    ],
+    "name:por_x_preferred":[
+        "Rabel"
+    ],
+    "name:ron_x_preferred":[
+        "Rabel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u0435\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Rabel"
+    ],
+    "name:spa_x_preferred":[
+        "Rabel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0431\u0435\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Rabel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0431\u0435\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Rabel"
+    ],
+    "name:vie_x_preferred":[
+        "Rabel"
+    ],
+    "name:vol_x_preferred":[
+        "Rabel"
+    ],
+    "name:war_x_preferred":[
+        "Rabel"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8d1d\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1193168351,
-    "wof:lastmodified":1536383222,
+    "wof:lastmodified":1564232963,
     "wof:name":"Rabel",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

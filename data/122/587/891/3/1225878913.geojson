@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1210\u1265\u1229"
+    ],
+    "name:ceb_x_preferred":[
+        "Habru"
+    ],
+    "name:fra_x_preferred":[
+        "Habru"
+    ],
+    "name:swe_x_preferred":[
+        "Habru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1225878913,
-    "wof:lastmodified":1537562759,
+    "wof:lastmodified":1564233795,
     "wof:name":"Habru",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

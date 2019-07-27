@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gololcha"
+    ],
     "name:und_x_variant":[
         "Gelolcha",
         "Gololcia",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327269819,
-    "wof:lastmodified":1537622005,
+    "wof:lastmodified":1564232054,
     "wof:name":"Gololcha",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Babille"
+    ],
     "name:und_x_variant":[
         "Babilli",
         "Babih",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293726479,
-    "wof:lastmodified":1537622086,
+    "wof:lastmodified":1564232510,
     "wof:name":"Babile",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

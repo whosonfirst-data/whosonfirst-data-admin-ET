@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chella"
+    ],
+    "name:ceb_x_preferred":[
+        "Chella"
+    ],
+    "name:fra_x_preferred":[
+        "Chella"
+    ],
+    "name:ita_x_preferred":[
+        "Chella"
+    ],
+    "name:nld_x_preferred":[
+        "Chella"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u044c\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Chella"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1193053065,
-    "wof:lastmodified":1536364651,
+    "wof:lastmodified":1564232947,
     "wof:name":"Chella",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

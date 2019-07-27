@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gaba"
+    ],
+    "name:ita_x_preferred":[
+        "Gaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gaba"
+    ],
     "name:und_x_variant":[
         "Gabba",
         "Gaba"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1292934317,
-    "wof:lastmodified":1537622022,
+    "wof:lastmodified":1564232352,
     "wof:name":"Gaba",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

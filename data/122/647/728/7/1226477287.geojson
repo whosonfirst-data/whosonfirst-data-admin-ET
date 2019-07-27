@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rama"
+    ],
+    "name:ita_x_preferred":[
+        "Rama"
+    ],
     "name:und_x_variant":[
         "Lala",
         "Mai Lala",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226477287,
-    "wof:lastmodified":1537621930,
+    "wof:lastmodified":1564233834,
     "wof:name":"Rama",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

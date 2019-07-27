@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Abole"
+    ],
     "name:und_x_variant":[
         "\u0100bol\u0113"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326861687,
-    "wof:lastmodified":1537622119,
+    "wof:lastmodified":1564231892,
     "wof:name":"Abole",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gubal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259718443,
-    "wof:lastmodified":1537015990,
+    "wof:lastmodified":1564233629,
     "wof:name":"Gubal",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

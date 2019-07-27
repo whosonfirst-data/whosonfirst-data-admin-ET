@@ -25,6 +25,39 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tumi"
+    ],
+    "name:deu_x_preferred":[
+        "Tumi"
+    ],
+    "name:fra_x_preferred":[
+        "Tumi"
+    ],
+    "name:ita_x_preferred":[
+        "Tumi"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u043c\u0438"
+    ],
+    "name:pap_x_preferred":[
+        "Tumi"
+    ],
+    "name:pol_x_preferred":[
+        "Tumi"
+    ],
+    "name:por_x_preferred":[
+        "Tumi"
+    ],
+    "name:que_x_preferred":[
+        "Tumi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043c\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Tumi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1309939633,
-    "wof:lastmodified":1536738259,
+    "wof:lastmodified":1564233299,
     "wof:name":"Tumi",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

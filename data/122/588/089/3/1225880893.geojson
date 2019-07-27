@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u134e\u1308\u122b"
+    ],
+    "name:ceb_x_preferred":[
+        "Fogera"
+    ],
+    "name:fra_x_preferred":[
+        "Fogera"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d2\u05e8\u05d4"
+    ],
+    "name:swe_x_preferred":[
+        "Fogera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1225880893,
-    "wof:lastmodified":1537562762,
+    "wof:lastmodified":1564233782,
     "wof:name":"Fogera",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

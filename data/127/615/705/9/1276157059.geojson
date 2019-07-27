@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuta"
+    ],
+    "name:deu_x_preferred":[
+        "Tuta"
+    ],
+    "name:fra_x_preferred":[
+        "Tuta"
+    ],
+    "name:ita_x_preferred":[
+        "Tuta"
+    ],
+    "name:por_x_preferred":[
+        "Tuta"
+    ],
+    "name:spa_x_preferred":[
+        "Tuta"
+    ],
+    "name:swe_x_preferred":[
+        "Tuta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276157059,
-    "wof:lastmodified":1537014289,
+    "wof:lastmodified":1564232633,
     "wof:name":"Tuta",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

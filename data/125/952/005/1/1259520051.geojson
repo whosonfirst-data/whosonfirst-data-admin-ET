@@ -25,8 +25,20 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kofel\u0113"
+    ],
+    "name:fra_x_preferred":[
+        "Kofele"
+    ],
+    "name:swe_x_preferred":[
+        "Kofel\u0113"
+    ],
     "name:und_x_variant":[
         "Kofel\u0113"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8cbb\u840a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259520051,
-    "wof:lastmodified":1537621966,
+    "wof:lastmodified":1564233606,
     "wof:name":"Kofele",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u0430"
+    ],
+    "name:est_x_preferred":[
+        "Ula"
+    ],
+    "name:fra_x_preferred":[
+        "Ula"
+    ],
+    "name:nld_x_preferred":[
+        "Ula"
+    ],
+    "name:nno_x_preferred":[
+        "Ula"
+    ],
+    "name:nor_x_preferred":[
+        "Ula"
+    ],
+    "name:pol_x_preferred":[
+        "Ula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Ula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226074389,
-    "wof:lastmodified":1536683954,
+    "wof:lastmodified":1564233883,
     "wof:name":"Ula",
     "wof:parent_id":1108695113,
     "wof:placetype":"locality",

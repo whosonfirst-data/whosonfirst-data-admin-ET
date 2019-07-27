@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kot"
+    ],
     "name:und_x_variant":[
         "Cot",
         "Kot"
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209140475,
-    "wof:lastmodified":1537621962,
+    "wof:lastmodified":1564232809,
     "wof:name":"Kot",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

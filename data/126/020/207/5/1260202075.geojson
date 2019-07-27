@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1309\u1263 \u120b\u134d\u1276"
+    ],
+    "name:fra_x_preferred":[
+        "Guba Lafto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260202075,
-    "wof:lastmodified":1536821586,
+    "wof:lastmodified":1564233013,
     "wof:name":"Guba Lafto",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

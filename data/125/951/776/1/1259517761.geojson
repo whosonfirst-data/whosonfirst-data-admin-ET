@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Becho"
+    ],
+    "name:fra_x_preferred":[
+        "Becho"
+    ],
+    "name:orm_x_preferred":[
+        "Bacho"
+    ],
+    "name:swe_x_preferred":[
+        "Becho"
+    ],
     "name:und_x_variant":[
         "Baco",
         "Baccio",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259517761,
-    "wof:lastmodified":1537622081,
+    "wof:lastmodified":1564233672,
     "wof:name":"Becho",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

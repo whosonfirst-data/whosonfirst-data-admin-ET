@@ -25,9 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Megwin"
+    ],
     "name:und_x_variant":[
         "Maleico",
         "Megw\u012bn"
+    ],
+    "name:zho_x_preferred":[
+        "Megwin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343697521,
-    "wof:lastmodified":1537621947,
+    "wof:lastmodified":1564232211,
     "wof:name":"Megwin",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

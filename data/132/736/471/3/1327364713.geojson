@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dande"
+    ],
+    "name:deu_x_preferred":[
+        "Dande"
+    ],
+    "name:frr_x_preferred":[
+        "Dande"
+    ],
+    "name:ita_x_preferred":[
+        "Dande"
+    ],
+    "name:por_x_preferred":[
+        "Dande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327364713,
-    "wof:lastmodified":1536779196,
+    "wof:lastmodified":1564231880,
     "wof:name":"Dande",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Aleta"
+    ],
+    "name:glg_x_preferred":[
+        "Aleta"
+    ],
+    "name:spa_x_preferred":[
+        "Aleta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310040055,
-    "wof:lastmodified":1537087664,
+    "wof:lastmodified":1564233172,
     "wof:name":"Aleta",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

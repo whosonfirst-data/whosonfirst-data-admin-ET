@@ -25,6 +25,30 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Uba"
+    ],
+    "name:fra_x_preferred":[
+        "Uba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0562\u0561"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u0431\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Uba"
+    ],
+    "name:spa_x_preferred":[
+        "UBA"
+    ],
+    "name:swe_x_preferred":[
+        "Uba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Uba (1)",
         "Uba"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1260010173,
-    "wof:lastmodified":1537621902,
+    "wof:lastmodified":1564233005,
     "wof:name":"Uba",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

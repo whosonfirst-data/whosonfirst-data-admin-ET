@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tog Wajaale"
+    ],
+    "name:som_x_preferred":[
+        "Wajaale"
+    ],
+    "name:swe_x_preferred":[
+        "Wajaale"
+    ],
     "name:und_x_variant":[
         "Gerbehale",
         "Tongochale",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1277018619,
-    "wof:lastmodified":1537621906,
+    "wof:lastmodified":1564232519,
     "wof:name":"Togoch'ale",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

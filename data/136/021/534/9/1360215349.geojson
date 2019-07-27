@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jeldu"
+    ],
+    "name:orm_x_preferred":[
+        "Jaldu"
+    ],
     "name:und_x_variant":[
         "Geldu",
         "Jeldu",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360215349,
-    "wof:lastmodified":1537622006,
+    "wof:lastmodified":1564233247,
     "wof:name":"Gojo",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

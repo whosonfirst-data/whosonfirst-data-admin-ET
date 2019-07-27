@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bander"
+    ],
+    "name:swe_x_preferred":[
+        "Bander"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326666391,
-    "wof:lastmodified":1536790974,
+    "wof:lastmodified":1564231956,
     "wof:name":"Bander",
     "wof:parent_id":1108695121,
     "wof:placetype":"locality",

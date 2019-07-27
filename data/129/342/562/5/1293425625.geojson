@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jarso"
+    ],
     "name:und_x_variant":[
         "Giarso",
         "Jarso"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293425625,
-    "wof:lastmodified":1537621977,
+    "wof:lastmodified":1564232475,
     "wof:name":"Jarso",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

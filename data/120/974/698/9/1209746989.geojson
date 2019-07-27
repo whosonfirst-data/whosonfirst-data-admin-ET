@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tenta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209746989,
-    "wof:lastmodified":1537562750,
+    "wof:lastmodified":1564232887,
     "wof:name":"Tenta",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

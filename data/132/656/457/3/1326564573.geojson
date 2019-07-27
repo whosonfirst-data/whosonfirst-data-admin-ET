@@ -25,6 +25,132 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0634\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0634\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0443\u0448\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0443\u0448\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Shushi"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160u\u0161a"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0443\u0448\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:deu_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cu\u015do"
+    ],
+    "name:est_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0634\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:fra_x_preferred":[
+        "Chouchi"
+    ],
+    "name:gag_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160u\u0161a"
+    ],
+    "name:hsb_x_preferred":[
+        "\u0160u\u0161a"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u0582\u0577\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0578\u0582\u0577\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Shusha"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e8\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160u\u0161a"
+    ],
+    "name:msa_x_preferred":[
+        "Shusha"
+    ],
+    "name:nld_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:nor_x_preferred":[
+        "Sjusja"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0648\u0634\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:por_x_preferred":[
+        "Shusha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0448\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Shusha"
+    ],
+    "name:spa_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:sqi_x_preferred":[
+        "Shusha"
+    ],
+    "name:sun_x_preferred":[
+        "Shusha"
+    ],
+    "name:swe_x_preferred":[
+        "Sjusji"
+    ],
+    "name:tgl_x_preferred":[
+        "Shusha"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eu\u015fa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u0448\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0634\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Shusha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +174,7 @@
         }
     ],
     "wof:id":1326564573,
-    "wof:lastmodified":1536938120,
+    "wof:lastmodified":1564231937,
     "wof:name":"Shusha",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

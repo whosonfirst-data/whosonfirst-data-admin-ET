@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u1302\u122b\u1295"
+    ],
     "name:und_x_variant":[
         "Giren",
         "Jiran",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226579191,
-    "wof:lastmodified":1537621974,
+    "wof:lastmodified":1564233775,
     "wof:name":"Jiren",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9bir"
+    ],
+    "name:ind_x_preferred":[
+        "Debir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327170739,
-    "wof:lastmodified":1537056141,
+    "wof:lastmodified":1564232059,
     "wof:name":"Debir",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

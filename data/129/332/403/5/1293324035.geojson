@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mabra"
+    ],
+    "name:ceb_x_preferred":[
+        "Mabra"
+    ],
+    "name:por_x_preferred":[
+        "Mabra"
+    ],
+    "name:swe_x_preferred":[
+        "Mabra"
+    ],
+    "name:vie_x_preferred":[
+        "Mabra"
+    ],
+    "name:war_x_preferred":[
+        "Mabra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293324035,
-    "wof:lastmodified":1537021801,
+    "wof:lastmodified":1564232458,
     "wof:name":"Mabra",
     "wof:parent_id":1108695245,
     "wof:placetype":"locality",

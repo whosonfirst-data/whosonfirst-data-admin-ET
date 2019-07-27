@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Hinde"
+    ],
     "name:und_x_variant":[
         "Nefro",
         "Hindi",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226783359,
-    "wof:lastmodified":1537621989,
+    "wof:lastmodified":1564233841,
     "wof:name":"Hinde",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

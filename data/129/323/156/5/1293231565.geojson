@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cbe\u0ca6\u0cbe"
+    ],
     "name:und_x_variant":[
         "Da\u2019\u0101da\u2019\u0101"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293231565,
-    "wof:lastmodified":1537622053,
+    "wof:lastmodified":1564232365,
     "wof:name":"Daada",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

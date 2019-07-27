@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Magna"
+    ],
+    "name:deu_x_preferred":[
+        "Magna"
+    ],
+    "name:fra_x_preferred":[
+        "Magna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b0\u30ca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Magna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1310236017,
-    "wof:lastmodified":1536807951,
+    "wof:lastmodified":1564233081,
     "wof:name":"Magna",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

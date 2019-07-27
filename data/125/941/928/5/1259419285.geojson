@@ -25,8 +25,29 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shilabo"
+    ],
+    "name:deu_x_preferred":[
+        "Shilabo"
+    ],
+    "name:fra_x_preferred":[
+        "Shilavo"
+    ],
+    "name:ita_x_preferred":[
+        "Scilave"
+    ],
+    "name:ron_x_preferred":[
+        "Shilavo"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043b\u0430\u0431\u043e"
+    ],
+    "name:som_x_preferred":[
+        "Shiilaabo"
+    ],
+    "name:swe_x_preferred":[
+        "Shilabo"
     ],
     "name:und_x_variant":[
         "Scillave",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1259419285,
-    "wof:lastmodified":1537621917,
+    "wof:lastmodified":1564233624,
     "wof:name":"Shilabo",
     "wof:parent_id":1108695185,
     "wof:placetype":"locality",

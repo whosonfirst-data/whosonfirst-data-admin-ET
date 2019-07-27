@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dawo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292939735,
-    "wof:lastmodified":1537076664,
+    "wof:lastmodified":1564232360,
     "wof:name":"Dawo",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

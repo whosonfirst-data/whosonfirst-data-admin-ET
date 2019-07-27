@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327168365,
-    "wof:lastmodified":1537059509,
+    "wof:lastmodified":1564232072,
     "wof:name":"Huru",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

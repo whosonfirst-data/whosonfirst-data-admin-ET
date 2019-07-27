@@ -25,6 +25,33 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kok"
+    ],
+    "name:ces_x_preferred":[
+        "Kok"
+    ],
+    "name:dan_x_preferred":[
+        "Kok"
+    ],
+    "name:fin_x_preferred":[
+        "Kok"
+    ],
+    "name:fry_x_preferred":[
+        "Kok"
+    ],
+    "name:nld_x_preferred":[
+        "Kok"
+    ],
+    "name:pol_x_preferred":[
+        "Kok"
+    ],
+    "name:slk_x_preferred":[
+        "Kok"
+    ],
+    "name:swe_x_preferred":[
+        "Kok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1277013029,
-    "wof:lastmodified":1536861337,
+    "wof:lastmodified":1564232524,
     "wof:name":"Kok",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

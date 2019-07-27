@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Ceri"
+    ],
+    "name:ita_x_preferred":[
+        "Ceri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30fc\u30ea"
+    ],
+    "name:por_x_preferred":[
+        "Ceri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Cheri",
         "Ceri"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293625113,
-    "wof:lastmodified":1537622063,
+    "wof:lastmodified":1564232316,
     "wof:name":"Ceri",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

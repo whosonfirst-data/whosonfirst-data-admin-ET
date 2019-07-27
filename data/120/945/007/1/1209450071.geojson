@@ -31,6 +31,9 @@
         "Lassarat",
         "Lasarat"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0627\u0631\u0627\u0679"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209450071,
-    "wof:lastmodified":1537621958,
+    "wof:lastmodified":1564232890,
     "wof:name":"Lasarat",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

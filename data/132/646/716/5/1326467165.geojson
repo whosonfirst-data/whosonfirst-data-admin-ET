@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rari"
+    ],
+    "name:ita_x_preferred":[
+        "Rari"
+    ],
+    "name:spa_x_preferred":[
+        "Rari"
+    ],
     "name:und_x_variant":[
         "Rare",
         "Rari"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326467165,
-    "wof:lastmodified":1537621930,
+    "wof:lastmodified":1564232023,
     "wof:name":"Rari",
     "wof:parent_id":1108695165,
     "wof:placetype":"locality",

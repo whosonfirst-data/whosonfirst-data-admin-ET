@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bcb\u0bb0\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326866515,
-    "wof:lastmodified":1536998543,
+    "wof:lastmodified":1564231897,
     "wof:name":"Jore",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

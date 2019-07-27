@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yuyu"
+    ],
+    "name:spa_x_preferred":[
+        "Yuyu"
+    ],
+    "name:swe_x_preferred":[
+        "Yuyu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343796035,
-    "wof:lastmodified":1536759853,
+    "wof:lastmodified":1564232154,
     "wof:name":"Yuyu",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

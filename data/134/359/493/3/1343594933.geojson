@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mulo"
+    ],
+    "name:deu_x_preferred":[
+        "Mulo"
+    ],
+    "name:epo_x_preferred":[
+        "Mulo"
+    ],
+    "name:ita_x_preferred":[
+        "Mulo"
+    ],
+    "name:swe_x_preferred":[
+        "Mulo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343594933,
-    "wof:lastmodified":1537047664,
+    "wof:lastmodified":1564232204,
     "wof:name":"Mulo",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

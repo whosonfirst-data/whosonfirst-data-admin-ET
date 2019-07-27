@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12f0\u1203\u1293"
+    ],
+    "name:fra_x_preferred":[
+        "Dehana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1327169197,
-    "wof:lastmodified":1537562764,
+    "wof:lastmodified":1564232075,
     "wof:name":"Dehana",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

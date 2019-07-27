@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Dollo Addo"
     ],
+    "name:fra_x_preferred":[
+        "Dolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30ed"
+    ],
+    "name:pol_x_preferred":[
+        "Dolo"
+    ],
+    "name:som_x_preferred":[
+        "Dolo"
+    ],
     "name:und_x_variant":[
         "Dolo",
         "Dolo Odo"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1310635289,
-    "wof:lastmodified":1537622034,
+    "wof:lastmodified":1564233130,
     "wof:name":"Dolo Odo",
     "wof:parent_id":1108695187,
     "wof:placetype":"locality",

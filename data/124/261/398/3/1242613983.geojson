@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Caia"
+    ],
+    "name:ceb_x_preferred":[
+        "Caia"
+    ],
+    "name:deu_x_preferred":[
+        "Caia"
+    ],
+    "name:ita_x_preferred":[
+        "Caia"
+    ],
+    "name:por_x_preferred":[
+        "Caia"
+    ],
+    "name:swe_x_preferred":[
+        "Caia"
+    ],
     "name:und_x_variant":[
         "Kaye",
         "Caia"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242613983,
-    "wof:lastmodified":1537622064,
+    "wof:lastmodified":1564233422,
     "wof:name":"Caia",
     "wof:parent_id":1108695181,
     "wof:placetype":"locality",

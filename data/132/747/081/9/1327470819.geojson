@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0413\u043e\u043b\u0431\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0431\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "G\u02bbo\u02bblva"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327470819,
-    "wof:lastmodified":1536623199,
+    "wof:lastmodified":1564231972,
     "wof:name":"Golbo",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

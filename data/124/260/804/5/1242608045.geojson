@@ -25,9 +25,51 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sid\u017eo"
+    ],
+    "name:deu_x_preferred":[
+        "Sijo"
+    ],
+    "name:fra_x_preferred":[
+        "Sijo"
+    ],
+    "name:hun_x_preferred":[
+        "Sidzso"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u057b\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Sijo"
+    ],
+    "name:ita_x_preferred":[
+        "Sijo"
+    ],
+    "name:jav_x_preferred":[
+        "Sijo"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u091c\u094b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0436\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Sijo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434\u0436\u043e"
+    ],
     "name:und_x_variant":[
         "S\u012bjo (2)",
         "S\u012bjo"
+    ],
+    "name:vie_x_preferred":[
+        "Sijo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6642\u8abf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1242608045,
-    "wof:lastmodified":1537621915,
+    "wof:lastmodified":1564233444,
     "wof:name":"Sijo",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

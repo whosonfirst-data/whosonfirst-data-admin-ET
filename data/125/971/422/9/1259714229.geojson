@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Erer"
+    ],
     "name:und_x_variant":[
         "\u0112rer",
         "Errer"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259714229,
-    "wof:lastmodified":1537622028,
+    "wof:lastmodified":1564233628,
     "wof:name":"Erer",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

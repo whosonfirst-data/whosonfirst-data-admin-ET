@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dalocha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259910437,
-    "wof:lastmodified":1537562765,
+    "wof:lastmodified":1564233595,
     "wof:name":"Dalocha",
     "wof:parent_id":1108695215,
     "wof:placetype":"locality",

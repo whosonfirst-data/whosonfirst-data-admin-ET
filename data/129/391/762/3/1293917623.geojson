@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Robi"
+    ],
+    "name:ita_x_preferred":[
+        "Robi"
+    ],
+    "name:swe_x_preferred":[
+        "Robi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293917623,
-    "wof:lastmodified":1536664196,
+    "wof:lastmodified":1564232294,
     "wof:name":"Robi",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

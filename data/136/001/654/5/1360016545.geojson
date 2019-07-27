@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dangila"
+    ],
+    "name:pol_x_preferred":[
+        "Dangila"
+    ],
     "name:und_x_variant":[
         "Dungoler",
         "Danghila",
@@ -32,6 +38,9 @@
         "Danghela",
         "D\u0101ngl\u0101",
         "Dangila"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5409\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1360016545,
-    "wof:lastmodified":1537622050,
+    "wof:lastmodified":1564233232,
     "wof:name":"Dangila",
     "wof:parent_id":1108695125,
     "wof:placetype":"locality",

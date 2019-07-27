@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Imi"
+    ],
+    "name:ita_x_preferred":[
+        "Imi"
+    ],
     "name:und_x_variant":[
         "Hinna",
         "Imei",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343895243,
-    "wof:lastmodified":1537621983,
+    "wof:lastmodified":1564232287,
     "wof:name":"Imei",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

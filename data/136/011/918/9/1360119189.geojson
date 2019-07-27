@@ -25,6 +25,48 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b9\u09a6"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0997\u09cb\u09b9\u09a6"
+    ],
+    "name:cat_x_preferred":[
+        "Gohad"
+    ],
+    "name:ceb_x_preferred":[
+        "Gohad"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0939\u0926"
+    ],
+    "name:ita_x_preferred":[
+        "Gohad"
+    ],
+    "name:mlg_x_preferred":[
+        "Gohad"
+    ],
+    "name:msa_x_preferred":[
+        "Gohad"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0939\u0926"
+    ],
+    "name:por_x_preferred":[
+        "Gohad"
+    ],
+    "name:spa_x_preferred":[
+        "Gohad"
+    ],
+    "name:swe_x_preferred":[
+        "Gohad"
+    ],
+    "name:vie_x_preferred":[
+        "Gohad"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u54c8\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1360119189,
-    "wof:lastmodified":1536896275,
+    "wof:lastmodified":1564233244,
     "wof:name":"Gohad",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

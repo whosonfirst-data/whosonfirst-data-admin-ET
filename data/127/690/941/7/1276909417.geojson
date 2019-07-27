@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0431\u0456\u0447"
+    ],
+    "name:deu_x_preferred":[
+        "Babich"
+    ],
+    "name:fra_x_preferred":[
+        "Babicht"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Babich"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0447"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276909417,
-    "wof:lastmodified":1537000933,
+    "wof:lastmodified":1564232657,
     "wof:name":"Babich",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

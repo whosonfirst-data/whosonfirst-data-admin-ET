@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jima"
+    ],
+    "name:ceb_x_preferred":[
+        "Jima"
+    ],
+    "name:deu_x_preferred":[
+        "Jima"
+    ],
+    "name:fra_x_preferred":[
+        "Jima"
+    ],
+    "name:spa_x_preferred":[
+        "Jima"
+    ],
+    "name:swe_x_preferred":[
+        "Jima"
+    ],
     "name:und_x_variant":[
         "Gima",
         "J\u012bma"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343892219,
-    "wof:lastmodified":1537621975,
+    "wof:lastmodified":1564232273,
     "wof:name":"Jima",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

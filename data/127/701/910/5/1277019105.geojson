@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dibate"
+    ],
+    "name:pol_x_preferred":[
+        "Dibate"
+    ],
     "name:und_x_variant":[
         "Debatie",
         "Dibati",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1277019105,
-    "wof:lastmodified":1537622039,
+    "wof:lastmodified":1564232531,
     "wof:name":"Dibate",
     "wof:parent_id":1108695191,
     "wof:placetype":"locality",

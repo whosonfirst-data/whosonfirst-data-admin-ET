@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Munesa"
+    ],
+    "name:fra_x_preferred":[
+        "Munesa"
+    ],
+    "name:swe_x_preferred":[
+        "Munesa"
+    ],
     "name:und_x_variant":[
         "Munessa",
         "Mun\u0113sa"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343298049,
-    "wof:lastmodified":1537621936,
+    "wof:lastmodified":1564232255,
     "wof:name":"Munesa",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

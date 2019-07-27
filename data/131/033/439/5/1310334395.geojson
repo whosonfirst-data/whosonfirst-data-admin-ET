@@ -25,6 +25,33 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coron"
+    ],
+    "name:deu_x_preferred":[
+        "Coron"
+    ],
+    "name:fra_x_preferred":[
+        "Coron"
+    ],
+    "name:ita_x_preferred":[
+        "Coron"
+    ],
+    "name:nld_x_preferred":[
+        "Coron"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Coron"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Coron"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310334395,
-    "wof:lastmodified":1536666423,
+    "wof:lastmodified":1564233187,
     "wof:name":"Coron",
     "wof:parent_id":1108695185,
     "wof:placetype":"locality",

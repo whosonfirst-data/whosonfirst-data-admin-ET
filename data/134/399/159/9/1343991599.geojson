@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0631\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0631\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343991599,
-    "wof:lastmodified":1536974594,
+    "wof:lastmodified":1564232114,
     "wof:name":"Bidaru",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

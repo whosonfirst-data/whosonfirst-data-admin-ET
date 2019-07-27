@@ -25,8 +25,14 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gelila"
+    ],
     "name:und_x_variant":[
         "Gel\u012bla"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u5229\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343989111,
-    "wof:lastmodified":1537622017,
+    "wof:lastmodified":1564232091,
     "wof:name":"Gelila",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

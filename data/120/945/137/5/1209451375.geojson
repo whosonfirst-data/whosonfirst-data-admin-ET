@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alo"
+    ],
+    "name:deu_x_preferred":[
+        "Alo"
+    ],
+    "name:fra_x_preferred":[
+        "Alo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Alo"
+    ],
+    "name:spa_x_preferred":[
+        "Alo"
+    ],
+    "name:swe_x_preferred":[
+        "Alo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209451375,
-    "wof:lastmodified":1536286661,
+    "wof:lastmodified":1564232894,
     "wof:name":"Alo",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

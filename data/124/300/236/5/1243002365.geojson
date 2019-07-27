@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Gurafarda"
     ],
+    "name:fra_x_preferred":[
+        "Guraferda"
+    ],
     "name:und_x_variant":[
         "Gurrafarda",
         "Guaferda",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243002365,
-    "wof:lastmodified":1537621999,
+    "wof:lastmodified":1564233362,
     "wof:name":"Guraferda",
     "wof:parent_id":890450041,
     "wof:placetype":"locality",

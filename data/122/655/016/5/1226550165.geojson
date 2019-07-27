@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kacha Bira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226550165,
-    "wof:lastmodified":1536990757,
+    "wof:lastmodified":1564233855,
     "wof:name":"Kacha Bira",
     "wof:parent_id":1108695175,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12c8\u120d\u12f0\u12eb"
+    ],
+    "name:fra_x_preferred":[
+        "Weldiya"
+    ],
+    "name:hrv_x_preferred":[
+        "Veldija"
+    ],
+    "name:ita_x_preferred":[
+        "Ualdia"
+    ],
+    "name:pol_x_preferred":[
+        "Ueldija"
+    ],
+    "name:ron_x_preferred":[
+        "Woldia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u043b\u044c\u0434\u044b\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "Veldija"
+    ],
     "name:und_x_variant":[
         "Waldia",
         "Ualdia",
@@ -34,6 +58,9 @@
         "Weldya",
         "Wubete",
         "Weldiya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u723e\u8fea\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1343892445,
-    "wof:lastmodified":1537621895,
+    "wof:lastmodified":1564232275,
     "wof:name":"Weldiya",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Roba"
+    ],
+    "name:deu_x_preferred":[
+        "Roba"
+    ],
+    "name:fra_x_preferred":[
+        "Roba"
+    ],
+    "name:ita_x_preferred":[
+        "Roba"
+    ],
+    "name:swe_x_preferred":[
+        "Roba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1292942611,
-    "wof:lastmodified":1537072369,
+    "wof:lastmodified":1564232341,
     "wof:name":"Roba",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

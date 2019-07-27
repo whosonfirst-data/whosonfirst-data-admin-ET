@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guban"
+    ],
+    "name:som_x_preferred":[
+        "Guban"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243206115,
-    "wof:lastmodified":1536655156,
+    "wof:lastmodified":1564233537,
     "wof:name":"Guban",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

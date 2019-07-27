@@ -25,9 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sagur\u0113"
+    ],
+    "name:fra_x_preferred":[
+        "Sagure"
+    ],
+    "name:swe_x_preferred":[
+        "Sagur\u0113"
+    ],
     "name:und_x_variant":[
         "Saggure",
         "Sagur\u0113"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0631\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u53e4\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326663725,
-    "wof:lastmodified":1537621927,
+    "wof:lastmodified":1564231962,
     "wof:name":"Sagure",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

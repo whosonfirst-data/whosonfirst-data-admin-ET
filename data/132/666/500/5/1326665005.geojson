@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mulona Sululta"
+    ],
     "name:und_x_variant":[
         "Silulta",
         "Sululta"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326665005,
-    "wof:lastmodified":1537621912,
+    "wof:lastmodified":1564231951,
     "wof:name":"Sululta",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",
