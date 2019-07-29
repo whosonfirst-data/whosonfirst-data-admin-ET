@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kebri Beyah"
+    ],
+    "name:fra_x_preferred":[
+        "Kebri Beyah"
+    ],
     "name:und_x_variant":[
         "Gabribaja",
         "Gabribagia",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259913745,
-    "wof:lastmodified":1537621972,
+    "wof:lastmodified":1564233600,
     "wof:name":"K'ebri Beyah",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

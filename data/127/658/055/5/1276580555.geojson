@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9bir"
+    ],
+    "name:ind_x_preferred":[
+        "Debir"
+    ],
     "name:und_x_variant":[
         "Debir (2)",
         "Debir"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276580555,
-    "wof:lastmodified":1537622047,
+    "wof:lastmodified":1564232589,
     "wof:name":"Debir",
     "wof:parent_id":1108695225,
     "wof:placetype":"locality",

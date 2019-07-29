@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Harle"
+    ],
+    "name:deu_x_preferred":[
+        "Harle"
+    ],
+    "name:fra_x_preferred":[
+        "Harle"
+    ],
+    "name:fry_x_preferred":[
+        "Harle"
+    ],
+    "name:swe_x_preferred":[
+        "Harle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343892709,
-    "wof:lastmodified":1536617842,
+    "wof:lastmodified":1564232279,
     "wof:name":"Harle",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

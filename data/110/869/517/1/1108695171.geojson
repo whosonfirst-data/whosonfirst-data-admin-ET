@@ -30,7 +30,16 @@
     "mps:longitude":39.165001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guji"
+    ],
+    "name:deu_x_preferred":[
+        "Guji"
+    ],
     "name:eng_x_variant":[
+        "Guji"
+    ],
+    "name:swe_x_preferred":[
         "Guji"
     ],
     "src:geom":"meso",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1108695171,
-    "wof:lastmodified":1555047466,
+    "wof:lastmodified":1564233056,
     "wof:name":"Guji",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

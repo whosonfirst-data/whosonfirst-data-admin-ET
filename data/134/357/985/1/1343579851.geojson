@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lalo Asabi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343579851,
-    "wof:lastmodified":1537068470,
+    "wof:lastmodified":1564232210,
     "wof:name":"Lalo Asabi",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

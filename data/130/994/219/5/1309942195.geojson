@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yubdo"
+    ],
     "name:und_x_variant":[
         "Jubdo",
         "Iubdo",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309942195,
-    "wof:lastmodified":1537621887,
+    "wof:lastmodified":1564233311,
     "wof:name":"Yubdo",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

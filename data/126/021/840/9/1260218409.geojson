@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wenago"
+    ],
     "name:und_x_variant":[
         "Wonago",
         "Uonago",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260218409,
-    "wof:lastmodified":1537621894,
+    "wof:lastmodified":1564233040,
     "wof:name":"Wenago",
     "wof:parent_id":421204107,
     "wof:placetype":"locality",

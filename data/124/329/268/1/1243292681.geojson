@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Leta"
+    ],
+    "name:jam_x_preferred":[
+        "Leta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Leta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243292681,
-    "wof:lastmodified":1537026125,
+    "wof:lastmodified":1564233555,
     "wof:name":"Leta",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

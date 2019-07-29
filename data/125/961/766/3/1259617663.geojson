@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Fenja"
+    ],
     "name:und_x_variant":[
         "Fangia",
         "Fenja"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259617663,
-    "wof:lastmodified":1537622026,
+    "wof:lastmodified":1564233658,
     "wof:name":"Fenja",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

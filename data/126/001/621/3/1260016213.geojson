@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habro"
+    ],
     "name:und_x_variant":[
         "Abr\u00f2",
         "Habro"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260016213,
-    "wof:lastmodified":1537621998,
+    "wof:lastmodified":1564232995,
     "wof:name":"Habro",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

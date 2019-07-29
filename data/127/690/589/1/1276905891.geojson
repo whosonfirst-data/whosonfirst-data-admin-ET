@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gidami"
+    ],
     "name:und_x_variant":[
         "K\u2019idam\u0113 Gebeya",
         "Gadamo",
@@ -32,6 +35,9 @@
         "Gidamie",
         "Gadame",
         "G\u012bdam\u012b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u9054\u7c73"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276905891,
-    "wof:lastmodified":1537622011,
+    "wof:lastmodified":1564232659,
     "wof:name":"Gidami",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

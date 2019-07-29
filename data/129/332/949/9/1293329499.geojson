@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Niso"
+    ],
+    "name:fra_x_preferred":[
+        "Niso"
+    ],
+    "name:nld_x_preferred":[
+        "Niso"
+    ],
+    "name:swe_x_preferred":[
+        "Niso"
+    ],
+    "name:vie_x_preferred":[
+        "Niso"
+    ],
+    "name:war_x_preferred":[
+        "Niso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293329499,
-    "wof:lastmodified":1537014045,
+    "wof:lastmodified":1564232453,
     "wof:name":"Niso",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

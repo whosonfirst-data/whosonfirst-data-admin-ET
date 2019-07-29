@@ -25,6 +25,30 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Cotta"
+    ],
+    "name:deu_x_preferred":[
+        "Cotta"
+    ],
+    "name:fra_x_preferred":[
+        "Cotta"
+    ],
+    "name:ita_x_preferred":[
+        "Cotta"
+    ],
+    "name:nld_x_preferred":[
+        "Cotta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cotta"
+    ],
     "name:und_x_variant":[
         "Kotta",
         "Gomma",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1259820059,
-    "wof:lastmodified":1537622054,
+    "wof:lastmodified":1564233648,
     "wof:name":"Cotta",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

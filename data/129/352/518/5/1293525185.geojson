@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Dehan"
+    ],
     "name:und_x_variant":[
         "Dekhan",
         "Dehan"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293525185,
-    "wof:lastmodified":1537622044,
+    "wof:lastmodified":1564232331,
     "wof:name":"Dehan",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

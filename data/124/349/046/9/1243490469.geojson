@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koli"
+    ],
+    "name:deu_x_preferred":[
+        "Koli"
+    ],
+    "name:fin_x_preferred":[
+        "Koli"
+    ],
+    "name:isl_x_preferred":[
+        "Koli"
+    ],
+    "name:swe_x_preferred":[
+        "Koli"
+    ],
+    "name:tgl_x_preferred":[
+        "Koli"
+    ],
     "name:und_x_variant":[
         "Mabil",
         "Kol\u012b"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243490469,
-    "wof:lastmodified":1537621965,
+    "wof:lastmodified":1564233461,
     "wof:name":"Koli",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

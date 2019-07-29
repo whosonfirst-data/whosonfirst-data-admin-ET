@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Gasera"
+    ],
     "name:und_x_variant":[
         "Gasara",
         "Gasera"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293620309,
-    "wof:lastmodified":1537622020,
+    "wof:lastmodified":1564232314,
     "wof:name":"Gasera",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Meng\u0113"
+    ],
+    "name:fra_x_preferred":[
+        "Menge"
+    ],
+    "name:swe_x_preferred":[
+        "Meng\u0113"
+    ],
     "name:und_x_variant":[
         "Mengie",
         "Meng\u0113"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310235739,
-    "wof:lastmodified":1537621944,
+    "wof:lastmodified":1564233077,
     "wof:name":"Menge",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

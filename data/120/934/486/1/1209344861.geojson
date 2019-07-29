@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u130d\u1295\u12f0 \u1260\u1228\u1275"
+    ],
+    "name:fra_x_preferred":[
+        "Ginde Beret"
+    ],
+    "name:orm_x_preferred":[
+        "Gindabarat"
+    ],
     "name:und_x_variant":[
         "Caccisi",
         "Kaccisi",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209344861,
-    "wof:lastmodified":1537621973,
+    "wof:lastmodified":1564232872,
     "wof:name":"Kachisi",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

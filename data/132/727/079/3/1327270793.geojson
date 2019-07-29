@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hele"
+    ],
+    "name:deu_x_preferred":[
+        "Hele"
+    ],
+    "name:est_x_preferred":[
+        "Hele"
+    ],
+    "name:swe_x_preferred":[
+        "Hele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327270793,
-    "wof:lastmodified":1536914545,
+    "wof:lastmodified":1564232075,
     "wof:name":"Hele",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

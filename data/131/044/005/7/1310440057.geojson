@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kula"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310440057,
-    "wof:lastmodified":1537562756,
+    "wof:lastmodified":1564233143,
     "wof:name":"Kula",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

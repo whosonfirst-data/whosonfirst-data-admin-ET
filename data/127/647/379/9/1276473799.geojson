@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gena Bosa"
+    ],
     "name:und_x_variant":[
         "Bosa",
         "Gena Bosa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276473799,
-    "wof:lastmodified":1537622016,
+    "wof:lastmodified":1564232617,
     "wof:name":"Gena Bosa",
     "wof:parent_id":1108695147,
     "wof:placetype":"locality",

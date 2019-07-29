@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mal_x_preferred":[
+        "\u0d05\u0d15\u0d32\u0d46"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310042569,
-    "wof:lastmodified":1537083971,
+    "wof:lastmodified":1564233168,
     "wof:name":"Akale",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

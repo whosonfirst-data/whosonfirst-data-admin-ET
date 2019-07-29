@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mascha"
+    ],
+    "name:fra_x_preferred":[
+        "Macha"
+    ],
+    "name:ltz_x_preferred":[
+        "Mascha"
+    ],
+    "name:ron_x_preferred":[
+        "Ma\u0219a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0448\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343594989,
-    "wof:lastmodified":1537047587,
+    "wof:lastmodified":1564232194,
     "wof:name":"Masha",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

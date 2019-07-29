@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0635\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Usul"
+    ],
+    "name:msa_x_preferred":[
+        "Usul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0443\u043b\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276801987,
-    "wof:lastmodified":1536647563,
+    "wof:lastmodified":1564232557,
     "wof:name":"Usul",
     "wof:parent_id":1108695185,
     "wof:placetype":"locality",

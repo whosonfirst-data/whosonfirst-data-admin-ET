@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bike"
+    ],
     "name:und_x_variant":[
         "Biki",
         "Bicch\u00e8",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209345095,
-    "wof:lastmodified":1537622074,
+    "wof:lastmodified":1564232870,
     "wof:name":"Bikki",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

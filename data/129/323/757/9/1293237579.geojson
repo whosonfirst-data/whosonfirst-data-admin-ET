@@ -25,6 +25,42 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arara"
+    ],
+    "name:ces_x_preferred":[
+        "Arara"
+    ],
+    "name:deu_x_preferred":[
+        "Arara"
+    ],
+    "name:hrv_x_preferred":[
+        "Arara"
+    ],
+    "name:ita_x_preferred":[
+        "Arara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10e0\u10d0"
+    ],
+    "name:por_x_preferred":[
+        "Arara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Arara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Arara"
+    ],
+    "name:vie_x_preferred":[
+        "Arara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1293237579,
-    "wof:lastmodified":1536650083,
+    "wof:lastmodified":1564232376,
     "wof:name":"Arara",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

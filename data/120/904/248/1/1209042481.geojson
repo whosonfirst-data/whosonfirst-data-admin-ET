@@ -25,6 +25,66 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Obo"
+    ],
+    "name:deu_x_preferred":[
+        "Obo"
+    ],
+    "name:est_x_preferred":[
+        "Obo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Obo"
+    ],
+    "name:frr_x_preferred":[
+        "Obo"
+    ],
+    "name:ita_x_preferred":[
+        "Obo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30dc"
+    ],
+    "name:lit_x_preferred":[
+        "Obo"
+    ],
+    "name:nld_x_preferred":[
+        "Obo"
+    ],
+    "name:pol_x_preferred":[
+        "Obo"
+    ],
+    "name:ron_x_preferred":[
+        "Obo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e"
+    ],
+    "name:sag_x_preferred":[
+        "Obo"
+    ],
+    "name:sqi_x_preferred":[
+        "Obo"
+    ],
+    "name:swe_x_preferred":[
+        "Obo"
+    ],
+    "name:tur_x_preferred":[
+        "Obo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0628\u0648"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10d1\u10dd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +94,7 @@
         "gn:id":330009
     },
     "wof:country":"ET",
-    "wof:geomhash":"bfa79cd055b80b85bcd7533ea6a17bff",
+    "wof:geomhash":"208bac1881c513714198cbbb49035716",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +102,7 @@
         }
     ],
     "wof:id":1209042481,
-    "wof:lastmodified":1536299500,
+    "wof:lastmodified":1564232852,
     "wof:name":"Obo",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +113,9 @@
 },
   "bbox": [
     41.63722,
-    8.710280000000001,
+    8.71028,
     41.63722,
-    8.710280000000001
+    8.71028
 ],
   "geometry": {"coordinates":[41.63722,8.71028],"type":"Point"}
 }

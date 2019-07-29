@@ -25,6 +25,75 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Soye"
+    ],
+    "name:ceb_x_preferred":[
+        "Soye"
+    ],
+    "name:deu_x_preferred":[
+        "Soye"
+    ],
+    "name:eus_x_preferred":[
+        "Soye"
+    ],
+    "name:fra_x_preferred":[
+        "Soye"
+    ],
+    "name:hun_x_preferred":[
+        "Soye"
+    ],
+    "name:ita_x_preferred":[
+        "Soye"
+    ],
+    "name:lat_x_preferred":[
+        "Soye"
+    ],
+    "name:msa_x_preferred":[
+        "Soye"
+    ],
+    "name:nld_x_preferred":[
+        "Soye"
+    ],
+    "name:oci_x_preferred":[
+        "Soye"
+    ],
+    "name:pms_x_preferred":[
+        "Soye"
+    ],
+    "name:pol_x_preferred":[
+        "Soye"
+    ],
+    "name:por_x_preferred":[
+        "Soye"
+    ],
+    "name:slk_x_preferred":[
+        "Soye"
+    ],
+    "name:spa_x_preferred":[
+        "Soye"
+    ],
+    "name:swe_x_preferred":[
+        "Soye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Soye"
+    ],
+    "name:vie_x_preferred":[
+        "Soye"
+    ],
+    "name:vol_x_preferred":[
+        "Soye"
+    ],
+    "name:war_x_preferred":[
+        "Soye"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u74e6\u57c3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -42,7 +111,7 @@
         }
     ],
     "wof:id":1209036017,
-    "wof:lastmodified":1536299697,
+    "wof:lastmodified":1564232841,
     "wof:name":"Soye",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

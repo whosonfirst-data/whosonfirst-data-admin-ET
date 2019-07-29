@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kela"
+    ],
+    "name:deu_x_preferred":[
+        "Kela"
+    ],
+    "name:fin_x_preferred":[
+        "Kela"
+    ],
+    "name:fra_x_preferred":[
+        "Kela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05e2"
+    ],
+    "name:swe_x_preferred":[
+        "Kela"
+    ],
     "name:und_x_variant":[
         "Scerscera",
         "K\u0113la"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326764789,
-    "wof:lastmodified":1537621971,
+    "wof:lastmodified":1564231996,
     "wof:name":"Kela",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

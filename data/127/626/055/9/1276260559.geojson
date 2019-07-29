@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tole"
+    ],
     "name:und_x_variant":[
         "Tole (2)",
         "Tol\u0113"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276260559,
-    "wof:lastmodified":1537621906,
+    "wof:lastmodified":1564232539,
     "wof:name":"Tole",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

@@ -25,6 +25,81 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0443\u0447"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00e0nega"
+    ],
+    "name:ces_x_preferred":[
+        "Hadice"
+    ],
+    "name:dan_x_preferred":[
+        "Slange"
+    ],
+    "name:deu_x_preferred":[
+        "Schlauch"
+    ],
+    "name:epo_x_preferred":[
+        "Hoso"
+    ],
+    "name:est_x_preferred":[
+        "Voolik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Letku"
+    ],
+    "name:fra_x_preferred":[
+        "Tuyau souple"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d9\u05e0\u05d5\u05e8 \u05d4\u05e9\u05e7\u05d9\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0578\u0572\u0580\u0561\u056f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043b\u0430\u043d\u0433"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0440\u0435\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "Slange"
+    ],
+    "name:nor_x_preferred":[
+        "Slange"
+    ],
+    "name:por_x_preferred":[
+        "Mangueira"
+    ],
+    "name:que_x_preferred":[
+        "Pila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043b\u0430\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Hadica"
+    ],
+    "name:spa_x_preferred":[
+        "Manguera"
+    ],
+    "name:swe_x_preferred":[
+        "Slang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043b\u0430\u043d\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1243104171,
-    "wof:lastmodified":1536801771,
+    "wof:lastmodified":1564233574,
     "wof:name":"Hose",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

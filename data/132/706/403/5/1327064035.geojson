@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wili"
+    ],
+    "name:deu_x_preferred":[
+        "Wili"
+    ],
+    "name:swe_x_preferred":[
+        "Wili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327064035,
-    "wof:lastmodified":1536715161,
+    "wof:lastmodified":1564231871,
     "wof:name":"Wili",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gus"
+    ],
+    "name:swe_x_preferred":[
+        "Gus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310333815,
-    "wof:lastmodified":1536667291,
+    "wof:lastmodified":1564233195,
     "wof:name":"Gus",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

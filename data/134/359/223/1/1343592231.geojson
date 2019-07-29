@@ -25,9 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Kulli urqu"
+    ],
     "name:und_x_variant":[
         "Kule",
         "Cule"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u840a\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343592231,
-    "wof:lastmodified":1537622054,
+    "wof:lastmodified":1564232203,
     "wof:name":"Cule",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

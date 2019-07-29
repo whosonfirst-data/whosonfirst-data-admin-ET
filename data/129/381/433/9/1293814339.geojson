@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boko"
+    ],
+    "name:deu_x_preferred":[
+        "Boko"
+    ],
+    "name:epo_x_preferred":[
+        "Boko"
+    ],
+    "name:fra_x_preferred":[
+        "Boko"
+    ],
+    "name:ido_x_preferred":[
+        "Boko"
+    ],
+    "name:lin_x_preferred":[
+        "Boko"
+    ],
+    "name:swe_x_preferred":[
+        "Boko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293814339,
-    "wof:lastmodified":1536812496,
+    "wof:lastmodified":1564232498,
     "wof:name":"Boko",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Melka Kunture"
+    ],
+    "name:fra_x_preferred":[
+        "Melka Kunture"
+    ],
+    "name:ita_x_preferred":[
+        "Melka Kunture"
+    ],
+    "name:pol_x_preferred":[
+        "Melka Kunture"
+    ],
     "name:und_x_variant":[
         "Melca Contarre",
         "Melka Konture",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242613879,
-    "wof:lastmodified":1537621945,
+    "wof:lastmodified":1564233438,
     "wof:name":"Melka Kunture",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

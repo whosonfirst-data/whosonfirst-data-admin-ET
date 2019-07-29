@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sela Dingay"
+    ],
     "name:und_x_variant":[
         "Sahla Dengai",
         "Salla Dingai",
@@ -35,6 +38,9 @@
         "Sabala Dingai",
         "Sela Dingay",
         "Sela Dengay"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u62c9\u4e01\u84cb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209547159,
-    "wof:lastmodified":1537621923,
+    "wof:lastmodified":1564232721,
     "wof:name":"Sela Dingay",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

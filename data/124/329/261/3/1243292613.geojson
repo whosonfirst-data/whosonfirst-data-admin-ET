@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goda"
+    ],
+    "name:deu_x_preferred":[
+        "Goda"
+    ],
+    "name:lit_x_preferred":[
+        "Goda"
+    ],
+    "name:swe_x_preferred":[
+        "Goda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243292613,
-    "wof:lastmodified":1537026218,
+    "wof:lastmodified":1564233556,
     "wof:name":"Goda",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

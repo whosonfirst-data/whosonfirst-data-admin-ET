@@ -25,6 +25,33 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ilo"
+    ],
+    "name:est_x_preferred":[
+        "ILO"
+    ],
+    "name:fin_x_preferred":[
+        "Ilo"
+    ],
+    "name:fra_x_preferred":[
+        "Ilo"
+    ],
+    "name:lit_x_preferred":[
+        "Ilas"
+    ],
+    "name:por_x_preferred":[
+        "Ilo"
+    ],
+    "name:spa_x_preferred":[
+        "Ilo"
+    ],
+    "name:swe_x_preferred":[
+        "Ilo"
+    ],
+    "name:war_x_preferred":[
+        "Ilo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1243589779,
-    "wof:lastmodified":1537092561,
+    "wof:lastmodified":1564233479,
     "wof:name":"Ilo",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

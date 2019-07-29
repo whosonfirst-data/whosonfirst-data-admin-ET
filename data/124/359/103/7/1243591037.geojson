@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buyo"
+    ],
+    "name:deu_x_preferred":[
+        "Buyo"
+    ],
+    "name:fra_x_preferred":[
+        "Buyo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0439\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Buyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243591037,
-    "wof:lastmodified":1537090694,
+    "wof:lastmodified":1564233469,
     "wof:name":"Buyo",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

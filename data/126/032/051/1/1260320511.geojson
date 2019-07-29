@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Roge"
+    ],
+    "name:fra_x_preferred":[
+        "Roge"
+    ],
+    "name:msa_x_preferred":[
+        "Roge"
+    ],
+    "name:nld_x_preferred":[
+        "Roge"
+    ],
+    "name:por_x_preferred":[
+        "Roge"
+    ],
+    "name:slv_x_preferred":[
+        "Roge"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0433\u0435"
+    ],
     "name:und_x_variant":[
         "Uorce",
         "Rog\u0113 (1)",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1260320511,
-    "wof:lastmodified":1537621929,
+    "wof:lastmodified":1564233054,
     "wof:name":"Roge",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

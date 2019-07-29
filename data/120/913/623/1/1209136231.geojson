@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bicho"
+    ],
+    "name:ita_x_preferred":[
+        "Bicho"
+    ],
+    "name:por_x_preferred":[
+        "Bicho"
+    ],
+    "name:spa_x_preferred":[
+        "Bicho"
+    ],
     "name:und_x_variant":[
         "Biccio",
         "B\u012bcho"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209136231,
-    "wof:lastmodified":1537622075,
+    "wof:lastmodified":1564232804,
     "wof:name":"Bicho",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

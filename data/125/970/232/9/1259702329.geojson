@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kirkos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259702329,
-    "wof:lastmodified":1537038253,
+    "wof:lastmodified":1564233606,
     "wof:name":"Kirkos",
     "wof:parent_id":1108695113,
     "wof:placetype":"locality",

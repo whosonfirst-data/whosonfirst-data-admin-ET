@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0631\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "\u012arar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Irar"
+    ],
+    "name:swe_x_preferred":[
+        "\u012arar"
+    ],
     "name:und_x_variant":[
         "Irar (2)",
         "Irar"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293235535,
-    "wof:lastmodified":1537621979,
+    "wof:lastmodified":1564232376,
     "wof:name":"Irar",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

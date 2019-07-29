@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Renda"
+    ],
+    "name:por_x_preferred":[
+        "Renda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293525481,
-    "wof:lastmodified":1536732492,
+    "wof:lastmodified":1564232338,
     "wof:name":"Renda",
     "wof:parent_id":1108695149,
     "wof:placetype":"locality",

@@ -25,11 +25,17 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gatama"
+    ],
     "name:und_x_variant":[
         "Katama",
         "Catama",
         "Gatama",
         "Getema"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5854\u746a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293036881,
-    "wof:lastmodified":1537622013,
+    "wof:lastmodified":1564232428,
     "wof:name":"Getema",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

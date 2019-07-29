@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yaso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343695603,
-    "wof:lastmodified":1536904610,
+    "wof:lastmodified":1564232211,
     "wof:name":"Yaso",
     "wof:parent_id":1108695179,
     "wof:placetype":"locality",

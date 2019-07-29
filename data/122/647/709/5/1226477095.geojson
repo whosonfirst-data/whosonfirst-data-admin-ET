@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boren"
+    ],
+    "name:dan_x_preferred":[
+        "Boren"
+    ],
+    "name:deu_x_preferred":[
+        "Boren"
+    ],
+    "name:pol_x_preferred":[
+        "Boren"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226477095,
-    "wof:lastmodified":1537093728,
+    "wof:lastmodified":1564233817,
     "wof:name":"Boren",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Buno"
+    ],
+    "name:spa_x_preferred":[
+        "Buno"
+    ],
     "name:und_x_variant":[
         "Buno (2)",
         "Buno"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310532535,
-    "wof:lastmodified":1537622066,
+    "wof:lastmodified":1564233121,
     "wof:name":"Buno",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

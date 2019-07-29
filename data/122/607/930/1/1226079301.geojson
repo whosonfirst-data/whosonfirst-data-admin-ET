@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bedadi"
+    ],
     "name:und_x_variant":[
         "Bedad\u012b"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226079301,
-    "wof:lastmodified":1537622081,
+    "wof:lastmodified":1564233880,
     "wof:name":"Bedadi",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

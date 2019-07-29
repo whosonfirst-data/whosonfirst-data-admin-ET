@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tulli"
+    ],
+    "name:fra_x_preferred":[
+        "Tulli"
+    ],
+    "name:ita_x_preferred":[
+        "Tulli"
+    ],
+    "name:nds_x_preferred":[
+        "Tulli"
+    ],
     "name:und_x_variant":[
         "Guglu",
         "Tulli"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327467865,
-    "wof:lastmodified":1537621905,
+    "wof:lastmodified":1564231988,
     "wof:name":"Tulli",
     "wof:parent_id":1108695185,
     "wof:placetype":"locality",

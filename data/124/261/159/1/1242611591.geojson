@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rasan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242611591,
-    "wof:lastmodified":1537014031,
+    "wof:lastmodified":1564233422,
     "wof:name":"Rasan",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

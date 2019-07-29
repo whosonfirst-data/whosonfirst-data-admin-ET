@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bado"
+    ],
+    "name:deu_x_preferred":[
+        "Bado"
+    ],
+    "name:swe_x_preferred":[
+        "Bado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1292939655,
-    "wof:lastmodified":1537076782,
+    "wof:lastmodified":1564232349,
     "wof:name":"Bado",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

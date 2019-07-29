@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12c8\u120d\u1242\u1324"
+    ],
+    "name:fra_x_preferred":[
+        "Welkite"
+    ],
+    "name:pol_x_preferred":[
+        "Welkite"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u043b\u044c\u043a\u0438\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Uolkitt\u00e8",
         "Wolkite",
@@ -32,6 +44,9 @@
         "Uolchitte",
         "Walkitti",
         "Welk\u2019\u012bt\u2019\u0113"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u723e\u57fa\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1276479973,
-    "wof:lastmodified":1537621894,
+    "wof:lastmodified":1564232614,
     "wof:name":"Wolkite",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Defer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343994009,
-    "wof:lastmodified":1536971137,
+    "wof:lastmodified":1564232118,
     "wof:name":"Defer",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

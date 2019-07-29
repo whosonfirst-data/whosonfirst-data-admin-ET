@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jare"
+    ],
+    "name:swe_x_preferred":[
+        "Jare"
+    ],
     "name:und_x_variant":[
         "Dzhare",
         "Jar\u0113"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360121749,
-    "wof:lastmodified":1537621977,
+    "wof:lastmodified":1564233199,
     "wof:name":"Jare",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

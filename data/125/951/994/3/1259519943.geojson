@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abobo"
+    ],
+    "name:fra_x_preferred":[
+        "Abobo"
+    ],
     "name:und_x_variant":[
         "\u0100bobo"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259519943,
-    "wof:lastmodified":1537622119,
+    "wof:lastmodified":1564233675,
     "wof:name":"Abobo",
     "wof:parent_id":421200427,
     "wof:placetype":"locality",

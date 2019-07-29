@@ -25,9 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dengel Ber"
+    ],
+    "name:fra_x_preferred":[
+        "Dengel Ber"
+    ],
+    "name:swe_x_preferred":[
+        "Dengel Ber"
+    ],
     "name:und_x_variant":[
         "Dengel Ber (2)",
         "Dengel Ber"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u84cb\u8c9d\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209549319,
-    "wof:lastmodified":1537622041,
+    "wof:lastmodified":1564232717,
     "wof:name":"Dengel Ber",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

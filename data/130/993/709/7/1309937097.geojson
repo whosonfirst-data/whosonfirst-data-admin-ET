@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Negele Boran"
+    ],
+    "name:hrv_x_preferred":[
+        "Negele Boran"
+    ],
+    "name:ita_x_preferred":[
+        "Neghelli"
+    ],
+    "name:pol_x_preferred":[
+        "Negele Boran"
+    ],
+    "name:ron_x_preferred":[
+        "Negele Boran"
+    ],
     "name:und_x_variant":[
         "Nag\u0113l\u0113",
         "Neghelle",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1309937097,
-    "wof:lastmodified":1537621934,
+    "wof:lastmodified":1564233298,
     "wof:name":"Negele",
     "wof:parent_id":1108695171,
     "wof:placetype":"locality",

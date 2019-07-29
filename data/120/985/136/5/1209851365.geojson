@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ketari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209851365,
-    "wof:lastmodified":1536388279,
+    "wof:lastmodified":1564232785,
     "wof:name":"Ketari",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

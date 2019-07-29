@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Info"
+    ],
+    "name:fra_x_preferred":[
+        "Info"
+    ],
+    "name:nld_x_preferred":[
+        "Info"
+    ],
+    "name:swe_x_preferred":[
+        "Info"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259520473,
-    "wof:lastmodified":1536805390,
+    "wof:lastmodified":1564233604,
     "wof:name":"Info",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

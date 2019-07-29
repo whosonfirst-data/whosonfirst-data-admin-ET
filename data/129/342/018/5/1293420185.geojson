@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Harana"
+    ],
+    "name:fra_x_preferred":[
+        "Harana"
+    ],
     "name:und_x_variant":[
         "Kharana",
         "Harana"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293420185,
-    "wof:lastmodified":1537621994,
+    "wof:lastmodified":1564232477,
     "wof:name":"Harana",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Didu"
+    ],
+    "name:swe_x_preferred":[
+        "Didu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309745665,
-    "wof:lastmodified":1537017178,
+    "wof:lastmodified":1564233321,
     "wof:name":"Didu",
     "wof:parent_id":1108695237,
     "wof:placetype":"locality",

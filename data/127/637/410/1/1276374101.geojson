@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kebira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276374101,
-    "wof:lastmodified":1536724166,
+    "wof:lastmodified":1564232676,
     "wof:name":"Kebira",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

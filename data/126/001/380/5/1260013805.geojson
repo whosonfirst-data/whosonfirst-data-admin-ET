@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fofa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1260013805,
-    "wof:lastmodified":1537562762,
+    "wof:lastmodified":1564233011,
     "wof:name":"Fofa",
     "wof:parent_id":1108695241,
     "wof:placetype":"locality",

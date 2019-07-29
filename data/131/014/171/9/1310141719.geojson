@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Buno"
+    ],
+    "name:spa_x_preferred":[
+        "Buno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310141719,
-    "wof:lastmodified":1536944735,
+    "wof:lastmodified":1564233104,
     "wof:name":"Buno",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

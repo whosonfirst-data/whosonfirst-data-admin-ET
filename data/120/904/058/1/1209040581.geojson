@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Robe"
+    ],
+    "name:orm_x_preferred":[
+        "Roobee"
+    ],
     "name:und_x_variant":[
         "Rob\u0113",
         "Rob\u0113 (1)",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209040581,
-    "wof:lastmodified":1537621929,
+    "wof:lastmodified":1564232854,
     "wof:name":"Robi",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fugnan Bira"
+    ],
     "name:und_x_variant":[
         "Bivio Fiambiro",
         "Funyan Jebe",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310532625,
-    "wof:lastmodified":1537622023,
+    "wof:lastmodified":1564233121,
     "wof:name":"Funyan Bira",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

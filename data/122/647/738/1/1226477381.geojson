@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koda"
+    ],
+    "name:ces_x_preferred":[
+        "Koda"
+    ],
+    "name:deu_x_preferred":[
+        "Koda"
+    ],
+    "name:est_x_preferred":[
+        "Koda"
+    ],
+    "name:fra_x_preferred":[
+        "Koda"
+    ],
+    "name:pol_x_preferred":[
+        "Koda"
+    ],
+    "name:swe_x_preferred":[
+        "Koda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1226477381,
-    "wof:lastmodified":1537093318,
+    "wof:lastmodified":1564233818,
     "wof:name":"Koda",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

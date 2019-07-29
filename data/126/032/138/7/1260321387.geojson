@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jikawo"
+    ],
     "name:und_x_variant":[
         "Jikaw",
         "Jikao",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260321387,
-    "wof:lastmodified":1537621975,
+    "wof:lastmodified":1564233051,
     "wof:name":"Jikawo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

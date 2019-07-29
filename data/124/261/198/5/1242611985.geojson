@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hie"
+    ],
     "name:und_x_variant":[
         "D\u012bk\u012bl\u0113"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242611985,
-    "wof:lastmodified":1537622037,
+    "wof:lastmodified":1564233433,
     "wof:name":"Hie",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

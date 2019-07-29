@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Meraro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u62c9\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326465029,
-    "wof:lastmodified":1537077657,
+    "wof:lastmodified":1564232013,
     "wof:name":"Meraro",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

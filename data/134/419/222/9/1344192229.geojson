@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1344192229,
-    "wof:lastmodified":1537562765,
+    "wof:lastmodified":1564232239,
     "wof:name":"Dara",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

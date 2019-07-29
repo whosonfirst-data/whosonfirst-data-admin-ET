@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Elidar"
+    ],
+    "name:fra_x_preferred":[
+        "Elidar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343473861,
-    "wof:lastmodified":1537562776,
+    "wof:lastmodified":1564232187,
     "wof:name":"Elidar",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

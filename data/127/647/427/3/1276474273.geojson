@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Debre Zebit"
+    ],
     "name:und_x_variant":[
         "Zebit",
         "Debra Zebit",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276474273,
-    "wof:lastmodified":1537622046,
+    "wof:lastmodified":1564232623,
     "wof:name":"Debre Zebit",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

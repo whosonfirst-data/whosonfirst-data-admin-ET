@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mustahil"
+    ],
     "name:und_x_variant":[
         "Mustakhil\u2019",
         "Mustah\u012bl"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226276195,
-    "wof:lastmodified":1537621936,
+    "wof:lastmodified":1564233731,
     "wof:name":"Mustahil",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

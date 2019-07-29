@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hamero"
+    ],
     "name:und_x_variant":[
         "Hamarro Hadad",
         "Hadad",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1193174193,
-    "wof:lastmodified":1537621995,
+    "wof:lastmodified":1564232974,
     "wof:name":"Hammero",
     "wof:parent_id":1108695165,
     "wof:placetype":"locality",

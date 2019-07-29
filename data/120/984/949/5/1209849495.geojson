@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huruta"
+    ],
+    "name:fra_x_preferred":[
+        "Huruta"
+    ],
+    "name:swe_x_preferred":[
+        "Huruta"
+    ],
     "name:und_x_variant":[
         "Huruta (2)",
         "Huruta"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209849495,
-    "wof:lastmodified":1537621986,
+    "wof:lastmodified":1564232762,
     "wof:name":"Huruta",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

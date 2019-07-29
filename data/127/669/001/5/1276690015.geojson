@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fite"
+    ],
+    "name:fra_x_preferred":[
+        "Fite"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276690015,
-    "wof:lastmodified":1536797960,
+    "wof:lastmodified":1564232571,
     "wof:name":"Fite",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

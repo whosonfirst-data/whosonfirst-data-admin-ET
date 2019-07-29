@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kersa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226758245,
-    "wof:lastmodified":1536697697,
+    "wof:lastmodified":1564233702,
     "wof:name":"Kersa",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

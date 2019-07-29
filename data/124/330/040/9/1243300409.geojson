@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gombi"
+    ],
+    "name:fra_x_preferred":[
+        "Gombi"
+    ],
+    "name:hau_x_preferred":[
+        "Gombi"
+    ],
+    "name:ita_x_preferred":[
+        "Gombi"
+    ],
+    "name:spa_x_preferred":[
+        "Gombi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243300409,
-    "wof:lastmodified":1537015214,
+    "wof:lastmodified":1564233371,
     "wof:name":"Gombi",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

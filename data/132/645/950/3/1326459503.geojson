@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fich\u0113"
+    ],
+    "name:fra_x_preferred":[
+        "Fitche"
+    ],
+    "name:ita_x_preferred":[
+        "Fiche"
+    ],
+    "name:pol_x_preferred":[
+        "Ficze"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326459503,
-    "wof:lastmodified":1537085711,
+    "wof:lastmodified":1564231913,
     "wof:name":"Fiche",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

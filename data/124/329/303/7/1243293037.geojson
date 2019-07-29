@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guto"
+    ],
+    "name:ces_x_preferred":[
+        "Guto"
+    ],
+    "name:por_x_preferred":[
+        "Guto"
+    ],
+    "name:swe_x_preferred":[
+        "Guto"
+    ],
     "name:und_x_variant":[
         "Gufo",
         "Guto"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243293037,
-    "wof:lastmodified":1537621998,
+    "wof:lastmodified":1564233560,
     "wof:name":"Guto",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

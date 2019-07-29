@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wera"
+    ],
+    "name:deu_x_preferred":[
+        "Wera"
+    ],
+    "name:swe_x_preferred":[
+        "Wera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276152145,
-    "wof:lastmodified":1537020650,
+    "wof:lastmodified":1564232637,
     "wof:name":"Wera",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

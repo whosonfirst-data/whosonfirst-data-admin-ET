@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gofa"
+    ],
     "name:und_x_variant":[
         "Gofa (2)",
         "Gofa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226571917,
-    "wof:lastmodified":1537622007,
+    "wof:lastmodified":1564233770,
     "wof:name":"Gofa",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Wersi"
+    ],
     "name:und_x_variant":[
         "Uorsi",
         "Wers\u012b"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260219073,
-    "wof:lastmodified":1537621892,
+    "wof:lastmodified":1564233031,
     "wof:name":"Wersi",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

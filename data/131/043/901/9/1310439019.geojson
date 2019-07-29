@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:yor_x_preferred":[
+        "Dibo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310439019,
-    "wof:lastmodified":1537012259,
+    "wof:lastmodified":1564233146,
     "wof:name":"Dibo",
     "wof:parent_id":1108695121,
     "wof:placetype":"locality",

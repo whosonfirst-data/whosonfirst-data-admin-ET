@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Danot"
+    ],
     "name:und_x_variant":[
         "\u0112lmo Der\u0113",
         "Danol",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360119057,
-    "wof:lastmodified":1537622050,
+    "wof:lastmodified":1564233240,
     "wof:name":"Danot",
     "wof:parent_id":1108695235,
     "wof:placetype":"locality",

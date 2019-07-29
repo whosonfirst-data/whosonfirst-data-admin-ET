@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Selela"
+    ],
+    "name:swa_x_preferred":[
+        "Selela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293037853,
-    "wof:lastmodified":1536939004,
+    "wof:lastmodified":1564232433,
     "wof:name":"Selela",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

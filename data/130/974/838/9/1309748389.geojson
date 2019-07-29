@@ -25,6 +25,24 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ramis"
+    ],
+    "name:deu_x_preferred":[
+        "Ramis"
+    ],
+    "name:fra_x_preferred":[
+        "Ramis"
+    ],
+    "name:nds_x_preferred":[
+        "Ramis"
+    ],
+    "name:spa_x_preferred":[
+        "Ramis"
+    ],
+    "name:swe_x_preferred":[
+        "Ramis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1309748389,
-    "wof:lastmodified":1537013134,
+    "wof:lastmodified":1564233334,
     "wof:name":"Ramis",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

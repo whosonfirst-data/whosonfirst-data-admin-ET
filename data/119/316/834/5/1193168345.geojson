@@ -25,6 +25,12 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shinile"
+    ],
+    "name:fra_x_preferred":[
+        "Shinile"
+    ],
     "name:und_x_variant":[
         "Ghini\u00e8le",
         "Scenele",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193168345,
-    "wof:lastmodified":1537621916,
+    "wof:lastmodified":1564232963,
     "wof:name":"Scenele",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

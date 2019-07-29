@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Shiro"
+    ],
+    "name:por_x_preferred":[
+        "Shiro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Shiro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343692843,
-    "wof:lastmodified":1536908723,
+    "wof:lastmodified":1564232225,
     "wof:name":"Shiro",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Libo"
+    ],
+    "name:deu_x_preferred":[
+        "Libo"
+    ],
+    "name:fra_x_preferred":[
+        "Libo"
+    ],
+    "name:swe_x_preferred":[
+        "Libo"
+    ],
     "name:und_x_variant":[
         "Lebbo",
         "L\u012bbo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344193873,
-    "wof:lastmodified":1537621956,
+    "wof:lastmodified":1564232242,
     "wof:name":"Libo",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

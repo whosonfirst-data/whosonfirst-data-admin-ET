@@ -25,6 +25,21 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dolu"
+    ],
+    "name:ceb_x_preferred":[
+        "Dolu"
+    ],
+    "name:deu_x_preferred":[
+        "Dolu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10e3"
+    ],
+    "name:swe_x_preferred":[
+        "Dolu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327170437,
-    "wof:lastmodified":1537056557,
+    "wof:lastmodified":1564232060,
     "wof:name":"Dolu",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

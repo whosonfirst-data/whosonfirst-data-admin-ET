@@ -25,6 +25,18 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Wisil"
+    ],
+    "name:por_x_preferred":[
+        "Wisil"
+    ],
+    "name:ron_x_preferred":[
+        "Wisil"
+    ],
+    "name:som_x_preferred":[
+        "Wisil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1360215985,
-    "wof:lastmodified":1536757024,
+    "wof:lastmodified":1564233254,
     "wof:name":"Wisil",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

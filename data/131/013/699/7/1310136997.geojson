@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bore"
+    ],
     "name:und_x_variant":[
         "Bor\u0113"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310136997,
-    "wof:lastmodified":1537622070,
+    "wof:lastmodified":1564233092,
     "wof:name":"Bore",
     "wof:parent_id":1108695171,
     "wof:placetype":"locality",

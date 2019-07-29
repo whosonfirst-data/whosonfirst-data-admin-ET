@@ -25,6 +25,27 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Harewa"
+    ],
+    "name:fra_x_preferred":[
+        "Harewa"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u0930\u0947\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Harewa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u0930\u0947\u0935\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u0930\u0947\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Harewa"
+    ],
     "name:und_x_variant":[
         "Arreruh\u00e0",
         "Harraua",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1326861601,
-    "wof:lastmodified":1537621993,
+    "wof:lastmodified":1564231893,
     "wof:name":"Harewa",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

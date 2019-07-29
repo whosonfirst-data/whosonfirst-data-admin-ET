@@ -25,6 +25,36 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:ces_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:deu_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:fra_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30bf\u30e4"
+    ],
+    "name:nld_x_preferred":[
+        "Itaya"
+    ],
+    "name:por_x_preferred":[
+        "Itaya"
+    ],
+    "name:spa_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:swe_x_preferred":[
+        "Itaya amicorum"
+    ],
+    "name:vie_x_preferred":[
+        "Itaya amicorum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1310042233,
-    "wof:lastmodified":1537084455,
+    "wof:lastmodified":1564233170,
     "wof:name":"Itaya",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

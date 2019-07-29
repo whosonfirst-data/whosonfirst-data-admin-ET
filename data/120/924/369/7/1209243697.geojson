@@ -25,6 +25,15 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Meteka"
+    ],
+    "name:fra_x_preferred":[
+        "Meteka"
+    ],
+    "name:swe_x_preferred":[
+        "Meteka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209243697,
-    "wof:lastmodified":1537562754,
+    "wof:lastmodified":1564232772,
     "wof:name":"Meteka",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

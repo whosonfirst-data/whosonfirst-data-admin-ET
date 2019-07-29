@@ -25,6 +25,9 @@
     "iso:country":"ET",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jeju"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343889179,
-    "wof:lastmodified":1537562757,
+    "wof:lastmodified":1564232292,
     "wof:name":"Jeju",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",
