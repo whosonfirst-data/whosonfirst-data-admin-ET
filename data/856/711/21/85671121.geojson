@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":11.475486,
     "lbl:longitude":38.502595,
     "meso:name_local":"Amhara",
@@ -337,16 +340,13 @@
         }
     ],
     "wof:id":85671121,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278419,
+    "wof:lastmodified":1565673977,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

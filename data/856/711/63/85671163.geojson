@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":9.291204,
     "lbl:longitude":42.1758,
     "meso:name_local":"Harari People",
@@ -323,16 +326,13 @@
         }
     ],
     "wof:id":85671163,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278422,
+    "wof:lastmodified":1565673978,
     "wof:name":"Harari People",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

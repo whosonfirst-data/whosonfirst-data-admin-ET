@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":6.949966,
     "lbl:longitude":44.141758,
     "meso:name_local":"Somali",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85671155,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278421,
+    "wof:lastmodified":1565673978,
     "wof:name":"Somali",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

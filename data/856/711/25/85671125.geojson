@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TI"
+    ],
     "lbl:latitude":13.801798,
     "lbl:longitude":39.205161,
     "meso:name_local":"Tigray",
@@ -319,16 +322,13 @@
         }
     ],
     "wof:id":85671125,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278426,
+    "wof:lastmodified":1565673978,
     "wof:name":"Tigray",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

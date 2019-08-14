@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administration"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DD"
+    ],
     "lbl:latitude":9.582266,
     "lbl:longitude":41.899902,
     "meso:name_local":"Dire Dawa",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85671159,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278416,
+    "wof:lastmodified":1565673977,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

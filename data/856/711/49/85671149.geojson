@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administration"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":8.982564,
     "lbl:longitude":38.771595,
     "meso:name_local":"Addis Ababa",
@@ -601,16 +604,13 @@
         }
     ],
     "wof:id":85671149,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278425,
+    "wof:lastmodified":1565673978,
     "wof:name":"Addis Ababa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

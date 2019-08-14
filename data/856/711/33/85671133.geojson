@@ -12,13 +12,15 @@
     "geom:bbox":"34.189015,4.443766,39.135849,8.46159",
     "geom:latitude":6.470633,
     "geom:longitude":36.750435,
-    "gn:id":"",
     "iso:country":"ET",
     "label:eng_x_preferred_longname":[
         "Southern Nations, Nationalities and Peoples State"
     ],
     "label:eng_x_preferred_placetype":[
         "state"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
     ],
     "lbl:latitude":6.251044,
     "lbl:longitude":36.581461,
@@ -350,24 +352,21 @@
         }
     ],
     "wof:id":85671133,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278416,
+    "wof:lastmodified":1565816268,
     "wof:name":"Southern Nations, Nationalities and Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":14929548,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-et",
+    "wof:shortcode":"SN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

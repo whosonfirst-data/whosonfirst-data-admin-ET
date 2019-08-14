@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AF"
+    ],
     "lbl:latitude":12.304699,
     "lbl:longitude":40.893577,
     "meso:name_local":"Afar",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85671129,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278417,
+    "wof:lastmodified":1565673977,
     "wof:name":"Afar",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

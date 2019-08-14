@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":7.963491,
     "lbl:longitude":34.221357,
     "meso:name_local":"Gambella Peoples",
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85671137,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278420,
+    "wof:lastmodified":1565673978,
     "wof:name":"Gambella Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

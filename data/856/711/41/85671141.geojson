@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "lbl:latitude":7.549569,
     "lbl:longitude":40.114991,
     "meso:name_local":"Oromiya",
@@ -322,16 +325,13 @@
         }
     ],
     "wof:id":85671141,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278422,
+    "wof:lastmodified":1565673978,
     "wof:name":"Oromiya",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

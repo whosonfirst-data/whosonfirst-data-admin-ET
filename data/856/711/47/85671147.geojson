@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":10.555497,
     "lbl:longitude":35.571038,
     "meso:name_local":"Beneshangul Gumuz",
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85671147,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "amh"
     ],
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1563278425,
+    "wof:lastmodified":1565673978,
     "wof:name":"Beneshangul Gumuz",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
