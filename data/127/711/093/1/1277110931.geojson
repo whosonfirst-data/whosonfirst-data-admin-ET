@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.14667,11.43,38.18667,11.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Damot"
     ],
@@ -41,8 +45,7 @@
         "\u0414\u0430\u043c\u043e\u0442"
     ],
     "name:und_x_variant":[
-        "Damot (1)",
-        "Damot"
+        "Damot (1)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1277110931,
-    "wof:lastmodified":1564232714,
+    "wof:lastmodified":1566593210,
     "wof:name":"Damot",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

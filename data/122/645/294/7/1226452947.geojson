@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.23,10.98,36.27,11.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u121b\u1295\u12f1\u122b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226452947,
-    "wof:lastmodified":1564233726,
+    "wof:lastmodified":1566593766,
     "wof:name":"Mandura",
     "wof:parent_id":1108695191,
     "wof:placetype":"locality",

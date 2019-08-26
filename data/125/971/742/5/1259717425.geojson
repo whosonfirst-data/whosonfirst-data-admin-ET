@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.48,11.64667,37.52,11.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abba",
         "\u0100ba Ger\u012bma"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259717425,
-    "wof:lastmodified":1537622122,
+    "wof:lastmodified":1566593719,
     "wof:name":"Aba Gerima",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

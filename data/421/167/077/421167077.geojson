@@ -10,10 +10,14 @@
     "geom:latitude":6.86667,
     "geom:longitude":38.45,
     "iso:country":"ET",
+    "lbl:bbox":"38.43,6.84667,38.47,6.88667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Locu"
     ],
     "qs:gn_country":"ET",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":332129,
         "gp:id":1318359,
-        "qs:id":124201
+        "qs_pg:id":124201
     },
     "wof:country":"ET",
     "wof:created":1459008718,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167077,
-    "wof:lastmodified":1505340583,
+    "wof:lastmodified":1566593552,
     "wof:name":"Leku",
     "wof:parent_id":421204421,
     "wof:placetype":"locality",

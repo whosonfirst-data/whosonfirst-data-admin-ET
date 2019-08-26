@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.59667,7.69667,36.63667,7.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Senyo Gebeya",
         "Santamma",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276803267,
-    "wof:lastmodified":1537621922,
+    "wof:lastmodified":1566593135,
     "wof:name":"Sentama",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

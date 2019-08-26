@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"41.80861,9.49306,41.84861,9.53306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Felema (1)",
         "Felema"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310239731,
-    "wof:lastmodified":1537622026,
+    "wof:lastmodified":1566593410,
     "wof:name":"Felema",
     "wof:parent_id":421190257,
     "wof:placetype":"locality",

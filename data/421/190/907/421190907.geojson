@@ -10,8 +10,12 @@
     "geom:latitude":11.47704,
     "geom:longitude":41.68403,
     "iso:country":"ET",
+    "lbl:bbox":"41.66403,11.45704,41.70403,11.49704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:amh_x_preferred":[
         "\u12a0\u134b\u121d\u1266"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Afambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Afembo"
     ],
     "qs:gn_country":"ET",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":344770,
         "gp:id":1313128,
-        "qs:id":58810,
+        "qs_pg:id":58810,
         "wd:id":"Q2825704",
         "wk:page":"Afambo (woreda)"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421190907,
-    "wof:lastmodified":1563279344,
+    "wof:lastmodified":1566593556,
     "wof:name":"Afambo",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

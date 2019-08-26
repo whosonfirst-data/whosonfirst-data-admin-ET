@@ -10,6 +10,9 @@
     "geom:latitude":11.19152,
     "geom:longitude":40.01675,
     "iso:country":"ET",
+    "lbl:bbox":"39.99675,11.17152,40.03675,11.21152",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Bat\u012b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Batie"
     ],
     "name:wuu_x_preferred":[
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":342641,
         "gp:id":1481398,
-        "qs:id":44374,
+        "qs_pg:id":44374,
         "wd:id":"Q2891356",
         "wk:page":"Bati, Ethiopia"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421189393,
-    "wof:lastmodified":1563279339,
+    "wof:lastmodified":1566593555,
     "wof:name":"Bati",
     "wof:parent_id":1108695203,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.97841,
     "geom:longitude":39.42974,
     "iso:country":"ET",
+    "lbl:bbox":"39.40974,13.95841,39.44974,13.99841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Hawz\u0113n"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Hawz\u0113n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u0101wuz\u0113n"
     ],
     "qs:gn_country":"ET",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":334838,
         "gp:id":1317159,
-        "qs:id":229240,
+        "qs_pg:id":229240,
         "wd:id":"Q3128788",
         "wk:page":"Hawzen"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421203047,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1566593553,
     "wof:name":"Hawzen",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

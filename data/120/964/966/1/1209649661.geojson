@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.19667,6.44667,37.23667,6.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Zala"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1209649661,
-    "wof:lastmodified":1564232742,
+    "wof:lastmodified":1566593224,
     "wof:name":"Zala",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

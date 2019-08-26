@@ -10,8 +10,12 @@
     "geom:latitude":9.8,
     "geom:longitude":38.4,
     "iso:country":"ET",
+    "lbl:bbox":"38.38,9.78,38.42,9.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gebre Guracha"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Gebre Guracha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuyu"
     ],
     "qs:gn_country":"ET",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":337152,
         "gp:id":1316198,
-        "qs:id":124227,
+        "qs_pg:id":124227,
         "wd:id":"Q3100037",
         "wk:page":"Gerba Guracha"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421167081,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1566593552,
     "wof:name":"Gebre Guracha",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

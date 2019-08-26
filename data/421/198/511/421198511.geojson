@@ -10,8 +10,12 @@
     "geom:latitude":10.45,
     "geom:longitude":38.2,
     "iso:country":"ET",
+    "lbl:bbox":"38.18,10.43,38.22,10.47",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0438\u0447\u0435\u043d\u0430"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Bichena"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bichana"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":342190,
         "gp:id":1314195,
-        "qs:id":183335,
+        "qs_pg:id":183335,
         "wd:id":"Q2901625",
         "wk:page":"Bichena"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421198511,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1566593556,
     "wof:name":"Bichena",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

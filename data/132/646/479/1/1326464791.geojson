@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.39556,12.72222,37.43556,12.76222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bagena",
         "Bagena Amba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326464791,
-    "wof:lastmodified":1537622120,
+    "wof:lastmodified":1566592854,
     "wof:name":"Abertege",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

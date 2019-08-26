@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.96333,8.81333,39.00333,8.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Babicef",
         "Romagna d\u2019Etiopia",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293817561,
-    "wof:lastmodified":1537621940,
+    "wof:lastmodified":1566593099,
     "wof:name":"Migra",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

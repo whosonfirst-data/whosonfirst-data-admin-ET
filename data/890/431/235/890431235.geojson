@@ -11,10 +11,14 @@
     "geom:longitude":38.73333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":25758,
+    "gn:population":25758,
     "iso:country":"ET",
+    "lbl:bbox":"38.71333,9.78,38.75333,9.82",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Fich\u0113"
     ],
@@ -36,9 +40,6 @@
     "name:swe_x_preferred":[
         "Fich\u0113"
     ],
-    "name:unk_x_variant":[
-        "Fitche"
-    ],
     "qs:name":"Fich\u0113",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":337771,
         "gp:id":1481963,
-        "qs:id":274894,
+        "qs_pg:id":274894,
         "wd:id":"Q3073074",
         "wk:page":"Fiche"
     },
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":890431235,
-    "wof:lastmodified":1563279367,
+    "wof:lastmodified":1566593564,
     "wof:name":"Fich\u0113",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

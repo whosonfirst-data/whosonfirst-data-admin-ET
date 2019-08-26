@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.99242,9.58561,39.03242,9.62561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277110831,
-    "wof:lastmodified":1536727532,
+    "wof:lastmodified":1566593205,
     "wof:name":"Werebi",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

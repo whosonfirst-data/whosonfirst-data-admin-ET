@@ -11,10 +11,14 @@
     "geom:longitude":38.36667,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":30502,
+    "gn:population":30502,
     "iso:country":"ET",
+    "lbl:bbox":"38.34667,8.09667,38.38667,8.13667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:amh_x_preferred":[
         "\u1261\u1273\u1305\u122b"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Butaj\u012bra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Butlagira"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":341297,
         "gp:id":1314560,
-        "qs:id":124263,
+        "qs_pg:id":124263,
         "wd:id":"Q2928812",
         "wk:page":"Butajira"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890441627,
-    "wof:lastmodified":1563279359,
+    "wof:lastmodified":1566593561,
     "wof:name":"Butaj\u012bra",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

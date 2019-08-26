@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.7008,9.65151,39.7408,9.69151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cundi",
         "Gandi Ghior",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276802003,
-    "wof:lastmodified":1537622121,
+    "wof:lastmodified":1566593134,
     "wof:name":"Aba Wibe Ager",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.57481,13.33698,39.61481,13.37698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":331611
     },
     "wof:country":"ET",
-    "wof:geomhash":"d2a2d988a48ff9f4a63db48a79e5e7b5",
+    "wof:geomhash":"d580f74fe95ea202a199caf7c72e4287",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209552627,
-    "wof:lastmodified":1536283645,
+    "wof:lastmodified":1566593232,
     "wof:name":"Manch'elfo",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     39.59481,
-    13.356979999999998,
+    13.35698,
     39.59481,
-    13.356979999999998
+    13.35698
 ],
   "geometry": {"coordinates":[39.59481,13.35698],"type":"Point"}
 }

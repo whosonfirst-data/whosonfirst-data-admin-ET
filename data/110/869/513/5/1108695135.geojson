@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.585324,
     "lbl:longitude":37.392436,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Amhara",
     "meso:gadm_admin":"Bahir Dar Special Zone",
     "meso:gaul_admin":"No Name",
@@ -30,6 +32,7 @@
     "mps:longitude":37.392436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Bahir Dar"
     ],
@@ -155,9 +158,9 @@
         "\u5df4\u8d6b\u9054\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"28",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1108695135,
-    "wof:lastmodified":1564233061,
+    "wof:lastmodified":1566593394,
     "wof:name":"Bahir Dar",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

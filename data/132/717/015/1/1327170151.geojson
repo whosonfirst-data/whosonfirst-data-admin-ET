@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.65587,10.35279,39.69587,10.39279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sama"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1327170151,
-    "wof:lastmodified":1564232055,
+    "wof:lastmodified":1566592871,
     "wof:name":"Sama",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.09667,7.84667,37.13667,7.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209648927,
-    "wof:lastmodified":1536280643,
+    "wof:lastmodified":1566593222,
     "wof:name":"Folla",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"42.27345,8.11805,42.31345,8.15805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Fik"
     ],
@@ -35,8 +39,7 @@
         "\u0424\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Fich",
-        "Fik"
+        "Fich"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310436865,
-    "wof:lastmodified":1564233147,
+    "wof:lastmodified":1566593450,
     "wof:name":"Fik",
     "wof:parent_id":1108695165,
     "wof:placetype":"locality",

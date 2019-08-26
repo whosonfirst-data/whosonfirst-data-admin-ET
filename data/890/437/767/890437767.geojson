@@ -11,10 +11,14 @@
     "geom:longitude":37.89806,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":24700,
+    "gn:population":24700,
     "iso:country":"ET",
+    "lbl:bbox":"37.87806,13.13611,37.91806,13.17611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Debark'"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Debark'"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dibark"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":339823,
         "gp:id":1315131,
-        "qs:id":124258,
+        "qs_pg:id":124258,
         "wd:id":"Q1067464"
     },
     "wof:country":"ET",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890437767,
-    "wof:lastmodified":1563279365,
+    "wof:lastmodified":1566593563,
     "wof:name":"Debark\u2019",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

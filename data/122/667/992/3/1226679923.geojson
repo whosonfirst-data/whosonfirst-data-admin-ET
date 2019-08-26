@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.305,12.40417,37.345,12.44417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sarua",
         "Kolla Debba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226679923,
-    "wof:lastmodified":1537621965,
+    "wof:lastmodified":1566593780,
     "wof:name":"K'ola Diba",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

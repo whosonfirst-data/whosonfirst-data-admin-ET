@@ -11,8 +11,11 @@
     "geom:longitude":38.72444,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":41249,
+    "gn:population":41249,
     "iso:country":"ET",
+    "lbl:bbox":"38.70444,14.10448,38.74444,14.14448",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -220,9 +223,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0443\u043c"
     ],
-    "name:unk_x_variant":[
-        "Axum"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0632\u0648\u0645"
     ],
@@ -348,7 +348,7 @@
     "wof:concordances":{
         "gn:id":344420,
         "gp:id":1313280,
-        "qs:id":1026770,
+        "qs_pg:id":1026770,
         "wd:id":"Q5832"
     },
     "wof:country":"ET",
@@ -364,7 +364,7 @@
         }
     ],
     "wof:id":890443213,
-    "wof:lastmodified":1563279372,
+    "wof:lastmodified":1566593565,
     "wof:name":"\u0100ksum",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

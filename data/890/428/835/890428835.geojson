@@ -11,10 +11,14 @@
     "geom:longitude":34.5,
     "gn:country":"ET",
     "gn:fcode":"ADMD",
-    "gn:pop":605284,
+    "gn:population":605284,
     "iso:country":"ET",
+    "lbl:bbox":"34.4,9.9,34.6,10.1",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "qs:name":"The State of Benishangul-Gumuz",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":343291,
-        "qs:id":80194
+        "qs_pg:id":80194
     },
     "wof:country":"ET",
     "wof:created":1469051774,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890428835,
-    "wof:lastmodified":1505343508,
+    "wof:lastmodified":1566593565,
     "wof:name":"The State of Benishangul-Gumuz",
     "wof:parent_id":1108695133,
     "wof:placetype":"localadmin",

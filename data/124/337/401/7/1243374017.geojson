@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.23,14.31333,39.27,14.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ganta Afeshum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243374017,
-    "wof:lastmodified":1564233374,
+    "wof:lastmodified":1566593582,
     "wof:name":"Ganta Afeshum",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

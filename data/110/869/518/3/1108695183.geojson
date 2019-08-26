@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.321174,
     "lbl:longitude":37.380263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SNNPR",
     "meso:gadm_admin":"Konso",
     "meso:gaul_admin":"Segen Peoples'",
@@ -30,12 +32,13 @@
     "mps:longitude":37.380263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Segen Peoples'",
         "Konso"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1108695183,
-    "wof:lastmodified":1555047466,
+    "wof:lastmodified":1566593390,
     "wof:name":"Konso SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

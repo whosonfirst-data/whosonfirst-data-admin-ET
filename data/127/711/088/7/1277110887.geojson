@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.5855,14.2765,38.6255,14.3165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsada Uallaka",
         "Tsada Wallaka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277110887,
-    "wof:lastmodified":1537622127,
+    "wof:lastmodified":1566593209,
     "wof:name":"Tsada Wallaka",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

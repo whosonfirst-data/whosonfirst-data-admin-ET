@@ -10,8 +10,12 @@
     "geom:latitude":11.73611,
     "geom:longitude":41.08528,
     "iso:country":"ET",
+    "lbl:bbox":"41.06528,11.71611,41.10528,11.75611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dubti"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Dubti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dufty"
     ],
     "qs:gn_country":"ET",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":338554,
         "gp:id":1315635,
-        "qs:id":183338,
+        "qs_pg:id":183338,
         "wd:id":"Q5311156",
         "wk:page":"Dubti"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421198513,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1566593556,
     "wof:name":"Dubti",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

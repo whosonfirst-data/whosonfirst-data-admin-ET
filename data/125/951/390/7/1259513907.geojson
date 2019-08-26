@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.58,12.16333,37.62,12.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lag\u0113",
         "Leg\u0113",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259513907,
-    "wof:lastmodified":1537621958,
+    "wof:lastmodified":1566593734,
     "wof:name":"Layge",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.16667,
     "geom:longitude":38.13333,
     "iso:country":"ET",
+    "lbl:bbox":"38.11333,10.14667,38.15333,10.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dejen"
@@ -25,7 +29,7 @@
     "name:swe_x_preferred":[
         "Dejen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dingab"
     ],
     "qs:gn_country":"ET",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":339551,
         "gp:id":1315242,
-        "qs:id":124245,
+        "qs_pg:id":124245,
         "wd:id":"Q5252725",
         "wk:page":"Dejen"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421167085,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1566593552,
     "wof:name":"Dejen",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

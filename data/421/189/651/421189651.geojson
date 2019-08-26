@@ -11,10 +11,14 @@
     "geom:longitude":37.380981,
     "gn:country":"ET",
     "gn:fcode":"PPLA",
-    "gn:pop":168899,
+    "gn:population":168899,
     "iso:country":"ET",
+    "lbl:bbox":"37.360981,11.573723,37.400981,11.613723",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bahir Dar"
@@ -169,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u0440-\u0414\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babardur Georgis"
     ],
     "name:urd_x_preferred":[
@@ -218,13 +222,13 @@
     "wof:concordances":{
         "gn:id":342884,
         "gp:id":1313880,
-        "qs:id":1115527,
+        "qs_pg:id":1115527,
         "wd:id":"Q464699",
         "wk:page":"Bahir Dar"
     },
     "wof:concordances_alt":{
         "gp:id":90874444,
-        "qs:id":547793
+        "qs_pg:id":547793
     },
     "wof:country":"ET",
     "wof:created":1459009631,
@@ -239,7 +243,7 @@
         }
     ],
     "wof:id":421189651,
-    "wof:lastmodified":1563279339,
+    "wof:lastmodified":1566593555,
     "wof:name":"Bahir Dar",
     "wof:parent_id":1108695135,
     "wof:placetype":"locality",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.01333,6.06333,38.05333,6.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kele"
     ],
     "name:und_x_variant":[
-        "Kelie",
-        "Kele"
+        "Kelie"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u840a"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343497541,
-    "wof:lastmodified":1564232168,
+    "wof:lastmodified":1566592926,
     "wof:name":"Kele",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

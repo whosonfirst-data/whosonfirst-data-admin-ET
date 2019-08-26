@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"45.11333,7.21333,45.15333,7.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fortino Gheldidis",
         "Fortino Geldidis",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293722931,
-    "wof:lastmodified":1537622013,
+    "wof:lastmodified":1566593104,
     "wof:name":"Gheldidis",
     "wof:parent_id":1108695235,
     "wof:placetype":"locality",

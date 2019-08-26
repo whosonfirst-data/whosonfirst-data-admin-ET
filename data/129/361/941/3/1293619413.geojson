@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"46.83083,7.87139,46.87083,7.91139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Domo"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Doomo",
-        "Damot",
-        "Domo"
+        "Damot"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293619413,
-    "wof:lastmodified":1564232421,
+    "wof:lastmodified":1566593059,
     "wof:name":"Domo",
     "wof:parent_id":1108695235,
     "wof:placetype":"locality",

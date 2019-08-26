@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.53746,6.93766,35.57746,6.97766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0627\u0646"
     ],
@@ -86,8 +90,7 @@
         "\u0410\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Greater Aman",
-        "Aman"
+        "Greater Aman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1209846077,
-    "wof:lastmodified":1564232765,
+    "wof:lastmodified":1566593238,
     "wof:name":"Aman",
     "wof:parent_id":890450041,
     "wof:placetype":"locality",

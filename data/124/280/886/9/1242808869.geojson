@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.43,9.69667,37.47,9.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dugde D\u0113ra",
         "Dugda D\u0113ra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242808869,
-    "wof:lastmodified":1537622033,
+    "wof:lastmodified":1566593592,
     "wof:name":"Dugda Dera",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

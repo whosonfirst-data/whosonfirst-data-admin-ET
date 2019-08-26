@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.49425,14.37693,38.53425,14.41693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adi Meda",
         "Addi Fereg",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276374255,
-    "wof:lastmodified":1537622113,
+    "wof:lastmodified":1566593188,
     "wof:name":"Adi Fereg",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.38,4.18,38.42,4.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0648\u062f\u0627"
     ],
@@ -119,8 +123,7 @@
         "Soda"
     ],
     "name:und_x_variant":[
-        "El Sod",
-        "Soda"
+        "El Sod"
     ],
     "name:vie_x_preferred":[
         "Soda"
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1293726473,
-    "wof:lastmodified":1564232511,
+    "wof:lastmodified":1566593107,
     "wof:name":"Soda",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

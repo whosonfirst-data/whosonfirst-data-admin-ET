@@ -10,8 +10,12 @@
     "geom:latitude":7.060008,
     "geom:longitude":38.469915,
     "iso:country":"ET",
+    "lbl:bbox":"38.449915,7.040008,38.489915,7.080008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:amh_x_preferred":[
         "\u12a0\u12cb\u1233"
@@ -198,7 +202,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1313776,
-        "qs:id":1115526,
+        "qs_pg:id":1115526,
         "wd:id":"Q755765"
     },
     "wof:country":"ET",
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":421189649,
-    "wof:lastmodified":1563279340,
+    "wof:lastmodified":1566593555,
     "wof:name":"Awasa",
     "wof:parent_id":421204421,
     "wof:placetype":"locality",

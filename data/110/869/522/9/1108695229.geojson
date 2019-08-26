@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.899127,
     "lbl:longitude":37.382017,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tigray",
     "meso:gadm_admin":"Mi'irabawi",
     "meso:gaul_admin":"Western",
@@ -30,6 +32,7 @@
     "mps:longitude":37.382017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mi'irabawi Zone"
     ],
@@ -54,9 +57,9 @@
         "Mi'irabawi Zone"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"24709",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108695229,
-    "wof:lastmodified":1563279094,
+    "wof:lastmodified":1566593394,
     "wof:name":"W. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

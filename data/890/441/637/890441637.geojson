@@ -11,8 +11,11 @@
     "geom:longitude":39.53333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":57787,
+    "gn:population":57787,
     "iso:country":"ET",
+    "lbl:bbox":"39.51333,9.66333,39.55333,9.70333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -50,7 +53,7 @@
         "\u0aa1\u0ac7\u0aac\u0acd\u0ab0\u0ac7 \u0aac\u0ac7\u0ab0\u0ab9\u0abe\u0aa8"
     ],
     "name:hin_x_preferred":[
-        "\u0926\u0947\u092c\u094d\u0930\u0947  \u092c\u0947\u0930\u0939\u093e\u0928"
+        "\u0926\u0947\u092c\u094d\u0930\u0947 \u092c\u0947\u0930\u0939\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Debre Berhan"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435-\u0411\u0435\u0440\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Debra Brehan"
     ],
     "name:urd_x_preferred":[
@@ -247,10 +250,12 @@
     "wof:concordances":{
         "gn:id":339734,
         "gp:id":1481756,
-        "qs:id":124272,
-        "qs_pg:id":267482,
+        "qs_pg:id":124272,
         "wd:id":"Q1181637",
         "wk:page":"Debre Berhan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":267482
     },
     "wof:country":"ET",
     "wof:created":1469052331,
@@ -265,7 +270,7 @@
         }
     ],
     "wof:id":890441637,
-    "wof:lastmodified":1563279363,
+    "wof:lastmodified":1566593562,
     "wof:name":"Debre Birhan",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.996115,
     "lbl:longitude":38.896778,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.996115,
     "mps:longitude":38.896778,
     "mz:hierarchy_label":1,
@@ -847,15 +849,8 @@
     "name:ukr_x_preferred":[
         "\u0415\u0444\u0456\u043e\u043f\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Etiopija",
-        "E\u00fe\u00ed\u00f3p\u00eda"
-    ],
     "name:und_x_variant":[
-        "Federal Democratic Republic of Ethiopia",
-        "Ityopiya"
-    ],
-    "name:unk_x_variant":[
+        "Ityopiya",
         "Socialist Ethiopia"
     ],
     "name:urd_x_preferred":[
@@ -1017,7 +1012,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"251",
     "statoids:ds":"ETH",
@@ -1062,7 +1057,7 @@
         "mzb:id":"ethiopia",
         "ne:adm0_a3":"ETH",
         "nyt:id":"19383612942544915631",
-        "qs:id":1263204,
+        "qs_pg:id":1263204,
         "uncrt:id":"ETH",
         "wd:id":"Q115",
         "wk:page":"Ethiopia",
@@ -1084,7 +1079,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1565673975,
+    "wof:lastmodified":1566592986,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

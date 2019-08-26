@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.07303,8.38487,36.11303,8.42487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aba Abdella",
         "\u0100bdela"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309749015,
-    "wof:lastmodified":1537622121,
+    "wof:lastmodified":1566593540,
     "wof:name":"Abdela",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

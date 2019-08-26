@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.90375,14.41439,38.94375,14.45439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Debre Kharmaz",
         "Debre Harmaz"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327271063,
-    "wof:lastmodified":1537622047,
+    "wof:lastmodified":1566592882,
     "wof:name":"Debre Harmaz",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

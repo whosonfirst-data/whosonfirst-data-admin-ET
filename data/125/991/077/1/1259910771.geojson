@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.13,8.74667,38.17,8.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Busa"
     ],
@@ -50,8 +54,7 @@
         "Busa"
     ],
     "name:und_x_variant":[
-        "Busa (2)",
-        "Busa"
+        "Busa (2)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259910771,
-    "wof:lastmodified":1564233582,
+    "wof:lastmodified":1566593685,
     "wof:name":"Busa",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

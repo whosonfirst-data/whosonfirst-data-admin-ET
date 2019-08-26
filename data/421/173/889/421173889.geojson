@@ -10,8 +10,12 @@
     "geom:latitude":4.05,
     "geom:longitude":38.3,
     "iso:country":"ET",
+    "lbl:bbox":"38.28,4.03,38.32,4.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "M\u0113ga"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "M\u0113ga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Megga"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":331259,
         "gp:id":1318689,
-        "qs:id":559878,
+        "qs_pg:id":559878,
         "wd:id":"Q3304215",
         "wk:page":"Mega, Ethiopia"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421173889,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1566593554,
     "wof:name":"Mega",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

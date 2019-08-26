@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.521122,
     "lbl:longitude":39.165001,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oromiya",
     "meso:gadm_admin":"Guji",
     "meso:gaul_admin":"Guji",
@@ -30,6 +32,7 @@
     "mps:longitude":39.165001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guji"
     ],
@@ -43,7 +46,7 @@
         "Guji"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108695171,
-    "wof:lastmodified":1564233056,
+    "wof:lastmodified":1566593387,
     "wof:name":"Guji",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

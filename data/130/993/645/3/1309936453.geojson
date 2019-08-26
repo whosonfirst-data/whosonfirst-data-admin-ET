@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.81493,6.90425,35.85493,6.94425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kuka"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1309936453,
-    "wof:lastmodified":1564233300,
+    "wof:lastmodified":1566593531,
     "wof:name":"Kuka",
     "wof:parent_id":890450041,
     "wof:placetype":"locality",

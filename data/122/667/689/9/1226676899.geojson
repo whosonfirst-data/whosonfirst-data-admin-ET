@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"43.05667,8.91111,43.09667,8.95111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uarroh",
         "Durwal\u0113 (2)",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226676899,
-    "wof:lastmodified":1537622032,
+    "wof:lastmodified":1566593779,
     "wof:name":"Durwale",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

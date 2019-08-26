@@ -11,10 +11,14 @@
     "geom:longitude":37.7,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":26813,
+    "gn:population":26813,
     "iso:country":"ET",
+    "lbl:bbox":"37.68,11.89667,37.72,11.93667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Werota"
     ],
@@ -39,9 +43,6 @@
     "name:swe_x_preferred":[
         "Werota"
     ],
-    "name:unk_x_variant":[
-        "Wereta"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u96f7\u5854"
     ],
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":326206,
         "gp:id":1320927,
-        "qs:id":80150,
+        "qs_pg:id":80150,
         "wd:id":"Q3567308",
         "wk:page":"Wereta"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":890428827,
-    "wof:lastmodified":1563279372,
+    "wof:lastmodified":1566593565,
     "wof:name":"Werota",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

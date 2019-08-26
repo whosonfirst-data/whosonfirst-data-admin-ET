@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.83,5.58,37.87,5.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maddale"
     ],
     "name:und_x_variant":[
-        "Naddal\u00e8",
-        "Maddale"
+        "Naddal\u00e8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326560677,
-    "wof:lastmodified":1564231937,
+    "wof:lastmodified":1566592815,
     "wof:name":"Maddale",
     "wof:parent_id":1108695143,
     "wof:placetype":"locality",

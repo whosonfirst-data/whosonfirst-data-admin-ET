@@ -10,8 +10,12 @@
     "geom:latitude":5.25,
     "geom:longitude":37.48333,
     "iso:country":"ET",
+    "lbl:bbox":"37.46333,5.23,37.50333,5.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0648"
@@ -122,7 +126,7 @@
     "wof:concordances":{
         "gn:id":332817,
         "gp:id":1318146,
-        "qs:id":229239,
+        "qs_pg:id":229239,
         "wd:id":"Q575352",
         "wk:page":"Konso"
     },
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":421203043,
-    "wof:lastmodified":1563279335,
+    "wof:lastmodified":1566593554,
     "wof:name":"Konso",
     "wof:parent_id":1108695183,
     "wof:placetype":"locality",

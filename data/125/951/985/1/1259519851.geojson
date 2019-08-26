@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.81333,9.64667,38.85333,9.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mut\u2019\u0113",
         "Mut\u2019\u0113 Washa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259519851,
-    "wof:lastmodified":1537621935,
+    "wof:lastmodified":1566593738,
     "wof:name":"Mut'e Washa",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

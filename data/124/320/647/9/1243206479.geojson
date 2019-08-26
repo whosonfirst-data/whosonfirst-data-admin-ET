@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.29702,10.14328,39.33702,10.18328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019at Wina",
         "Ch\u2019at Wiha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243206479,
-    "wof:lastmodified":1537622061,
+    "wof:lastmodified":1566593664,
     "wof:name":"Ch'at Wiha",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

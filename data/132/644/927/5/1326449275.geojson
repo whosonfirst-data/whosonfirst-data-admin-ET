@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"46.75026,7.38206,46.79026,7.42206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326449275,
-    "wof:lastmodified":1536603516,
+    "wof:lastmodified":1566592800,
     "wof:name":"Gaxandhaale",
     "wof:parent_id":1108695235,
     "wof:placetype":"locality",

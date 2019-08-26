@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.48,12.61333,39.52,12.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "D\u00e9bir"
     ],
@@ -32,8 +36,7 @@
         "Debir"
     ],
     "name:und_x_variant":[
-        "Debir (4)",
-        "Debir"
+        "Debir (4)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209137423,
-    "wof:lastmodified":1564232806,
+    "wof:lastmodified":1566593258,
     "wof:name":"Debir",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

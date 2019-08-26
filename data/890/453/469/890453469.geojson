@@ -11,10 +11,14 @@
     "geom:longitude":41.1,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":12295,
+    "gn:population":12295,
     "iso:country":"ET",
+    "lbl:bbox":"41.08,9.19667,41.12,9.23667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "H\u012brna"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":334700,
         "gp:id":1317206,
-        "qs:id":124212,
+        "qs_pg:id":124212,
         "wd:id":"Q5769883",
         "wk:page":"Hirna"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890453469,
-    "wof:lastmodified":1563279371,
+    "wof:lastmodified":1566593565,
     "wof:name":"H\u012brna",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

@@ -11,13 +11,16 @@
     "geom:longitude":38.786796,
     "gn:country":"ET",
     "gn:fcode":"PPLC",
-    "gn:pop":2757729,
+    "gn:population":2757729,
     "iso:country":"ET",
     "lbl:latitude":9.018947,
     "lbl:longitude":38.746032,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
@@ -430,9 +433,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "Addis Abeba"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u06cc\u0633 \u0627\u0628\u0627\u0628\u0627"
     ],
@@ -509,12 +509,12 @@
     "wof:concordances":{
         "gn:id":344979,
         "gp:id":1313090,
-        "qs:id":559538,
+        "qs_pg:id":559538,
         "wd:id":"Q3624",
         "wk:page":"Addis Ababa"
     },
     "wof:concordances_alt":{
-        "qs:id":124296
+        "qs_pg:id":124296
     },
     "wof:coterminous":[
         85671149
@@ -532,7 +532,7 @@
         }
     ],
     "wof:id":421170391,
-    "wof:lastmodified":1563279352,
+    "wof:lastmodified":1566593558,
     "wof:name":"Addis Ababa",
     "wof:parent_id":1108695109,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.733106,
     "lbl:longitude":38.367899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SNNPR",
     "meso:gadm_admin":"Sidama",
     "meso:gaul_admin":"Sidama",
@@ -30,6 +32,7 @@
     "mps:longitude":38.367899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sidama Zone"
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"6833",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gp:id":56017420,
         "hasc:id":"ET.SN.SD",
-        "qs:id":1307293,
+        "qs_pg:id":1307293,
         "wd:id":"Q1070673"
     },
     "wof:country":"ET",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421204421,
-    "wof:lastmodified":1563279333,
+    "wof:lastmodified":1566593553,
     "wof:name":"Sidama",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

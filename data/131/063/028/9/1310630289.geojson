@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"40.51908,9.94684,40.55908,9.98684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Madderala-dala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310630289,
-    "wof:lastmodified":1537621954,
+    "wof:lastmodified":1566593442,
     "wof:name":"Madderala",
     "wof:parent_id":1108695247,
     "wof:placetype":"locality",

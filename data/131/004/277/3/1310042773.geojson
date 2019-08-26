@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.94667,8.06333,37.98667,8.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dacun",
         "Dak\u2019une"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310042773,
-    "wof:lastmodified":1537622052,
+    "wof:lastmodified":1566593463,
     "wof:name":"Dak'une",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

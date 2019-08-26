@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.55764,10.0039,39.59764,10.0439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243203271,
-    "wof:lastmodified":1536659339,
+    "wof:lastmodified":1566593667,
     "wof:name":"Yidowona",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

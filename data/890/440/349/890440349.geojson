@@ -11,10 +11,14 @@
     "geom:longitude":35.58333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":29648,
+    "gn:population":29648,
     "iso:country":"ET",
+    "lbl:bbox":"35.56333,8.28,35.60333,8.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Metu"
     ],
@@ -39,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041c\u044d\u0442\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mattu"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":330764,
         "gp:id":1318918,
-        "qs:id":124192,
+        "qs_pg:id":124192,
         "wd:id":"Q3175104"
     },
     "wof:country":"ET",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890440349,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1566593560,
     "wof:name":"Metu",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

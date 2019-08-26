@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.81333,11.24667,36.85333,11.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dangila"
     ],
@@ -36,8 +40,7 @@
         "Danghila",
         "Danghilla",
         "Danghela",
-        "D\u0101ngl\u0101",
-        "Dangila"
+        "D\u0101ngl\u0101"
     ],
     "name:zho_x_preferred":[
         "\u4e39\u5409\u62c9"
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1360016545,
-    "wof:lastmodified":1564233232,
+    "wof:lastmodified":1566593495,
     "wof:name":"Dangila",
     "wof:parent_id":1108695125,
     "wof:placetype":"locality",

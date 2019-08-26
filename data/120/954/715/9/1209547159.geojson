@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.61079,9.93433,39.65079,9.97433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sela Dingay"
     ],
@@ -36,7 +40,6 @@
         "Sala Dingai",
         "Sabala",
         "Sabala Dingai",
-        "Sela Dingay",
         "Sela Dengay"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209547159,
-    "wof:lastmodified":1564232721,
+    "wof:lastmodified":1566593213,
     "wof:name":"Sela Dingay",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

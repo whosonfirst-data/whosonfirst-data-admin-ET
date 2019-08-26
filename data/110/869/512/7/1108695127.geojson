@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.457781,
     "lbl:longitude":38.216561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SNNPR",
     "meso:gadm_admin":"Alaba",
     "meso:gaul_admin":"Alaba",
@@ -30,6 +32,7 @@
     "mps:longitude":38.216561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kembata Alaba and Tembaro"
     ],
@@ -37,9 +40,9 @@
         "Alaba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"2434",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108695127,
-    "wof:lastmodified":1553718273,
+    "wof:lastmodified":1566593396,
     "wof:name":"Alaba SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",
