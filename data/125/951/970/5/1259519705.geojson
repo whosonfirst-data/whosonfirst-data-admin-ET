@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.64667,10.84667,38.68667,10.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agibar",
         "Ajibar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259519705,
-    "wof:lastmodified":1537622102,
+    "wof:lastmodified":1566593736,
     "wof:name":"Ajibar",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

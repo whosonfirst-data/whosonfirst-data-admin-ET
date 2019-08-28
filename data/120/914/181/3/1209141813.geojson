@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.50577,13.52693,39.54577,13.56693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0100d\u012b K\u012bdan",
         "Addi Kidan"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209141813,
-    "wof:lastmodified":1537622110,
+    "wof:lastmodified":1566593261,
     "wof:name":"Adi Kidan",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

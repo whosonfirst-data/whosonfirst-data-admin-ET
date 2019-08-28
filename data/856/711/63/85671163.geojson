@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.291204,
     "lbl:longitude":42.1758,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Harari People",
     "mps:latitude":9.291479,
     "mps:longitude":42.175858,
@@ -187,7 +188,7 @@
         "Harari"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bbe\u0bb0\u0bbf  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb9\u0bbe\u0bb0\u0bbf \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c30\u0c3e\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -201,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u0101rer\u012b Hizb"
     ],
     "name:urd_x_preferred":[
@@ -285,9 +286,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-28",
+    "src:population_date":"2007-05-28",
     "statoids:area_km":"311",
     "statoids:area_mi":"120",
     "statoids:as_of_date":"2007-05-28",
@@ -312,7 +313,7 @@
         "gp:id":56013544,
         "hasc:id":"ET.HA",
         "iso:id":"ET-HA",
-        "qs:id":1086829,
+        "qs_pg:id":1086829,
         "wd:id":"Q1033855",
         "wk:page":"Harari Region"
     },
@@ -332,11 +333,10 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1565673978,
+    "wof:lastmodified":1566592991,
     "wof:name":"Harari People",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":183415,
     "wof:population_rank":9,

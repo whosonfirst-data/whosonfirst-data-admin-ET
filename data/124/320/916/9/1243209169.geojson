@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.07696,13.76172,39.11696,13.80172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Dembela"
     ],
@@ -44,8 +48,7 @@
         "Dembela"
     ],
     "name:und_x_variant":[
-        "Dembela (2)",
-        "Dembela"
+        "Dembela (2)"
     ],
     "name:zho_x_preferred":[
         "\u767b\u8c9d\u62c9"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1243209169,
-    "wof:lastmodified":1564233548,
+    "wof:lastmodified":1566593666,
     "wof:name":"Dembela",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

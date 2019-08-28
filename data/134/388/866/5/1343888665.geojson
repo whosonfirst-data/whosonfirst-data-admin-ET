@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"44.84222,5.67778,44.88222,5.71778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lib\u00e8h Aval",
         "Libeli Aval"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343888665,
-    "wof:lastmodified":1537621957,
+    "wof:lastmodified":1566592985,
     "wof:name":"Libeli Aval",
     "wof:parent_id":421200119,
     "wof:placetype":"locality",

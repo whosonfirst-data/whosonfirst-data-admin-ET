@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"42.56222,9.79833,42.60222,9.83833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaudera",
         "K\u2019awd\u0113ra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276581633,
-    "wof:lastmodified":1537621972,
+    "wof:lastmodified":1566593152,
     "wof:name":"K'awdera",
     "wof:parent_id":421184699,
     "wof:placetype":"locality",

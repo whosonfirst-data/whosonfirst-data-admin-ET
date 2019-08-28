@@ -10,8 +10,12 @@
     "geom:latitude":10.6,
     "geom:longitude":39.43333,
     "iso:country":"ET",
+    "lbl:bbox":"39.41333,10.58,39.45333,10.62",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Were \u012alu"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Were \u012alu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wereyilu"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":326259,
         "gp:id":1320711,
-        "qs:id":274878,
+        "qs_pg:id":274878,
         "wd:id":"Q3567301",
         "wk:page":"Were Ilu"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421177291,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1566593558,
     "wof:name":"Were Ilu",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

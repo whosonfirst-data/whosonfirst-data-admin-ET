@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.44365,14.07762,38.48365,14.11762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Medebay Zana"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209014851,
-    "wof:lastmodified":1564232735,
+    "wof:lastmodified":1566593220,
     "wof:name":"Medebay Zana",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":6.251044,
     "lbl:longitude":36.581461,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Southern Nations, Nationalities and Peoples",
     "mps:latitude":6.150873,
     "mps:longitude":36.483499,
@@ -208,7 +209,7 @@
         "Ye Debub Biheroch Bihereseboch na Hizboch"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0ba8\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c26\u0c47\u0c36\u0c3e\u0c32\u0c41"
@@ -222,7 +223,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041d\u0430\u0440\u043e\u0434\u0456\u0432 \u0456 \u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0441\u0442\u0435\u0439 \u043f\u0456\u0432\u0434\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "YeDebub Bih\u0113roch Bih\u0113reseboch na Hizboch"
     ],
     "name:urd_x_preferred":[
@@ -312,9 +313,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-28",
+    "src:population_date":"2007-05-28",
     "statoids:area_km":"112,343",
     "statoids:area_mi":"43,376",
     "statoids:as_of_date":"2007-05-28",
@@ -339,7 +340,7 @@
         "gp:id":56013536,
         "hasc:id":"ET.SN",
         "iso:id":"ET-SN",
-        "qs:id":4715,
+        "qs_pg:id":4715,
         "wd:id":"Q203193"
     },
     "wof:country":"ET",
@@ -358,7 +359,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1565816268,
+    "wof:lastmodified":1566592989,
     "wof:name":"Southern Nations, Nationalities and Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

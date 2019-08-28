@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.65265,13.71357,39.69265,13.75357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u2019ink\u2019e",
         "T\u2019irk\u2019e"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209649433,
-    "wof:lastmodified":1537621907,
+    "wof:lastmodified":1566593228,
     "wof:name":"T'irk'e",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

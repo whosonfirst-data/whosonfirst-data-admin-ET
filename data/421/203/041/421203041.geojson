@@ -10,8 +10,12 @@
     "geom:latitude":7.93333,
     "geom:longitude":38.71667,
     "iso:country":"ET",
+    "lbl:bbox":"38.69667,7.91333,38.73667,7.95333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ziway"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Ziway"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zway"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":325579,
         "gp:id":1321043,
-        "qs:id":229238,
+        "qs_pg:id":229238,
         "wd:id":"Q2570767",
         "wk:page":"Ziway"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421203041,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1566593553,
     "wof:name":"Ziway",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

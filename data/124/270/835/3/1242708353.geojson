@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.3115,10.61411,39.3515,10.65411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jama"
     ],
@@ -73,7 +77,6 @@
     "name:und_x_variant":[
         "Jema",
         "Jamma",
-        "Jama",
         "Dzhemma"
     ],
     "src:geom":"geonames",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1242708353,
-    "wof:lastmodified":1564233491,
+    "wof:lastmodified":1566593636,
     "wof:name":"Jama",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

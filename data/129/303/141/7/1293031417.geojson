@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.81588,14.38569,38.85588,14.42569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Tebay"
     ],
@@ -56,8 +60,7 @@
         "Tebay"
     ],
     "name:und_x_variant":[
-        "Tebay (1)",
-        "Tebay"
+        "Tebay (1)"
     ],
     "name:vie_x_preferred":[
         "Tebay"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1293031417,
-    "wof:lastmodified":1564232441,
+    "wof:lastmodified":1566593070,
     "wof:name":"Tebay",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

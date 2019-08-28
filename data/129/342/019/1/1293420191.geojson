@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.1125,13.54139,38.1525,13.58139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Enda Medane Alem",
         "May Ts\u2019ebr\u012b",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293420191,
-    "wof:lastmodified":1537621949,
+    "wof:lastmodified":1566593092,
     "wof:name":"May Ts'emre",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

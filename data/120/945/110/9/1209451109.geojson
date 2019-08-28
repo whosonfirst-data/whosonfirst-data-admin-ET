@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"44.31333,5.19667,44.35333,5.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Danziou",
         "Danaiou"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209451109,
-    "wof:lastmodified":1537622050,
+    "wof:lastmodified":1566593298,
     "wof:name":"Danaiou",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

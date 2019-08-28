@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.57777,13.92031,39.61777,13.96031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_historical":[
         "Adi Bagh\u00e8"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276912263,
-    "wof:lastmodified":1537622116,
+    "wof:lastmodified":1566593194,
     "wof:name":"Adi Abbaghie",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

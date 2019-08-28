@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"42.62806,9.37056,42.66806,9.41056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Legakh-Gelal\u2019",
         "Legah Gelal"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327470151,
-    "wof:lastmodified":1537621958,
+    "wof:lastmodified":1566592831,
     "wof:name":"Legah Gelal",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

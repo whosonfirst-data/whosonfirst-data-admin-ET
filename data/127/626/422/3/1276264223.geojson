@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.54667,8.26333,36.58667,8.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Imboru Gechi",
         "Gache",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276264223,
-    "wof:lastmodified":1537622019,
+    "wof:lastmodified":1566593120,
     "wof:name":"Gechi",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

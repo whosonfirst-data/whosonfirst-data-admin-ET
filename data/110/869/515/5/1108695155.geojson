@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.857456,
     "lbl:longitude":41.750069,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oromiya",
     "meso:gadm_admin":"Misraq Harerge",
     "meso:gaul_admin":"East Harerge",
@@ -30,12 +32,13 @@
     "mps:longitude":41.750069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "East Harerge",
         "Misraq Harerge"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695155,
-    "wof:lastmodified":1555047466,
+    "wof:lastmodified":1566593397,
     "wof:name":"E. Harerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

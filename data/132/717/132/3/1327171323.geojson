@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"34.31318,6.91472,34.35318,6.95472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kena"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327171323,
-    "wof:lastmodified":1564232054,
+    "wof:lastmodified":1566592871,
     "wof:name":"Kena",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

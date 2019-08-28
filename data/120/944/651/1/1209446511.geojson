@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.48808,6.19267,35.52808,6.23267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gobe"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209446511,
-    "wof:lastmodified":1537622008,
+    "wof:lastmodified":1566593302,
     "wof:name":"Gobi",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

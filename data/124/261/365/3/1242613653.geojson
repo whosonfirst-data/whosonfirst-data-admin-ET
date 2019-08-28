@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"41.15454,9.05766,41.19454,9.09766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Masala",
         "Messela",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242613653,
-    "wof:lastmodified":1537621943,
+    "wof:lastmodified":1566593603,
     "wof:name":"Mesela",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

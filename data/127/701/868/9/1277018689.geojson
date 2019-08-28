@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.96333,7.51333,40.00333,7.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Sibe"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277018689,
-    "wof:lastmodified":1564232519,
+    "wof:lastmodified":1566593113,
     "wof:name":"Sibe",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

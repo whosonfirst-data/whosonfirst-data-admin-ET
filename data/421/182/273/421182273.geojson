@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.118051,
     "lbl:longitude":38.029406,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SNNPR",
     "meso:gadm_admin":"Gurage",
     "meso:gaul_admin":"Gurage",
@@ -30,6 +32,7 @@
     "mps:longitude":38.029406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guraghe Zone"
@@ -80,9 +83,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"7992",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gp:id":56017415,
         "hasc:id":"ET.SN.GR",
-        "qs:id":897510,
+        "qs_pg:id":897510,
         "wd:id":"Q1070678"
     },
     "wof:country":"ET",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421182273,
-    "wof:lastmodified":1563279353,
+    "wof:lastmodified":1566593559,
     "wof:name":"Gurage",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.33,6.98,37.37,7.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buro"
     ],
@@ -41,8 +45,7 @@
         "Buro"
     ],
     "name:und_x_variant":[
-        "Buro (1)",
-        "Buro"
+        "Buro (1)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293914613,
-    "wof:lastmodified":1564232306,
+    "wof:lastmodified":1566592999,
     "wof:name":"Buro",
     "wof:parent_id":1108695147,
     "wof:placetype":"locality",

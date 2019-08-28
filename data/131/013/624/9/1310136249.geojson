@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.53971,12.396,39.57971,12.436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u120b\u121b\u1323"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1310136249,
-    "wof:lastmodified":1564233091,
+    "wof:lastmodified":1566593416,
     "wof:name":"Alamata",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

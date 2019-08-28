@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"34.61333,10.08,34.65333,10.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baro"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1259520495,
-    "wof:lastmodified":1564233603,
+    "wof:lastmodified":1566593696,
     "wof:name":"Baro",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

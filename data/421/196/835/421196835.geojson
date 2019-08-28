@@ -10,8 +10,12 @@
     "geom:latitude":8.66667,
     "geom:longitude":38.21667,
     "iso:country":"ET",
+    "lbl:bbox":"38.19667,8.64667,38.23667,8.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tulu Bolo"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Tulu Bolo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Masno Gabado"
     ],
     "qs:gn_country":"ET",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":327234,
         "gp:id":1482893,
-        "qs:id":1299255,
+        "qs_pg:id":1299255,
         "wd:id":"Q4465171",
         "wk:page":"Tulu Bolo"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421196835,
-    "wof:lastmodified":1561829967,
+    "wof:lastmodified":1566593556,
     "wof:name":"Tulu Bolo",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

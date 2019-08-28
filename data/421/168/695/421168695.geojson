@@ -10,6 +10,9 @@
     "geom:latitude":8.53333,
     "geom:longitude":37.98333,
     "iso:country":"ET",
+    "lbl:bbox":"37.96333,8.51333,38.00333,8.55333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -40,9 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "Waliso"
-    ],
-    "name:unk_x_variant":[
-        "Wolisso"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -166,7 +166,7 @@
     "wof:concordances":{
         "gn:id":336372,
         "gp:id":1316517,
-        "qs:id":256967,
+        "qs_pg:id":256967,
         "wd:id":"Q3565377",
         "wk:page":"Waliso"
     },
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":421168695,
-    "wof:lastmodified":1563279327,
+    "wof:lastmodified":1566593551,
     "wof:name":"Giyon",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

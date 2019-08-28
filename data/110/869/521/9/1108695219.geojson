@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.383735,
     "lbl:longitude":36.461317,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SNNPR",
     "meso:gadm_admin":"Debub Omo",
     "meso:gaul_admin":"South Omo",
@@ -30,6 +32,7 @@
     "mps:longitude":36.461317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "South Omo"
     ],
@@ -56,9 +59,9 @@
         "\u5357\u5967\u83ab\u5730\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"22361",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108695219,
-    "wof:lastmodified":1563279083,
+    "wof:lastmodified":1566593388,
     "wof:name":"South Omo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

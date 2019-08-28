@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.11333,7.93,39.15333,7.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u1230\u120b"
     ],
@@ -75,12 +79,8 @@
         "\u0100sela"
     ],
     "name:und_x_variant":[
-        "Asella",
         "Asselle",
-        "Asal\u0101",
-        "Assela",
-        "Aselle",
-        "\u0100sela"
+        "Asal\u0101"
     ],
     "name:zho_x_preferred":[
         "\u963f\u585e\u62c9"
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1326566531,
-    "wof:lastmodified":1564231937,
+    "wof:lastmodified":1566592814,
     "wof:name":"Asela",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.96333,8.01333,40.00333,8.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gola"
     ],
@@ -76,8 +80,7 @@
     "name:und_x_variant":[
         "Ocheccio",
         "Hokecho",
-        "Hocheci\u00f2",
-        "Gola"
+        "Hocheci\u00f2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1276157231,
-    "wof:lastmodified":1564232633,
+    "wof:lastmodified":1566593170,
     "wof:name":"Gola",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

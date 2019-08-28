@@ -10,8 +10,12 @@
     "geom:latitude":10.05067,
     "geom:longitude":38.207702,
     "iso:country":"ET",
+    "lbl:bbox":"38.187702,10.03067,38.227702,10.07067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1316636,
-        "qs:id":1006028
+        "qs_pg:id":1006028
     },
     "wof:country":"ET",
     "wof:created":1459009421,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421184739,
-    "wof:lastmodified":1499977592,
+    "wof:lastmodified":1566593558,
     "wof:name":"Golje Giyorgis Bete Kiristyan",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

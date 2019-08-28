@@ -11,8 +11,11 @@
     "geom:longitude":39.63333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":136056,
+    "gn:population":136056,
     "iso:country":"ET",
+    "lbl:bbox":"39.61333,11.11333,39.65333,11.15333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0441\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Das\u0113"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":339219,
         "gp:id":1315369,
-        "qs:id":124248,
+        "qs_pg:id":124248,
         "wd:id":"Q755752",
         "wk:page":"Dessie"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":890441629,
-    "wof:lastmodified":1563279359,
+    "wof:lastmodified":1566593561,
     "wof:name":"Des\u0113",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

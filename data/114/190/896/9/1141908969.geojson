@@ -10,10 +10,14 @@
     "geom:latitude":5.316612,
     "geom:longitude":39.58331,
     "iso:country":"ET",
+    "lbl:bbox":"39.5633096911,5.29661216117,39.6033096911,5.33661216117",
     "lbl:latitude":5.316612,
     "lbl:longitude":39.58331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nagele"
     ],
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":1141908969,
-    "wof:lastmodified":1564233892,
+    "wof:lastmodified":1566593863,
     "wof:name":"Nagele",
     "wof:parent_id":1108695171,
     "wof:placetype":"locality",

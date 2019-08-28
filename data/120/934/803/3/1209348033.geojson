@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.09667,5.04667,38.13667,5.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":337337
     },
     "wof:country":"ET",
-    "wof:geomhash":"7f0262b111ab9ee47a1e29c93d109f6d",
+    "wof:geomhash":"5018876121a667133f2e475614644fe3",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209348033,
-    "wof:lastmodified":1536289843,
+    "wof:lastmodified":1566593286,
     "wof:name":"Garadase",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     38.11667,
-    5.0666699999999985,
+    5.06667,
     38.11667,
-    5.0666699999999985
+    5.06667
 ],
   "geometry": {"coordinates":[38.11667,5.06667],"type":"Point"}
 }

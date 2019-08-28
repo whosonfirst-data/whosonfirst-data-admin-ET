@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"43.20289,7.31876,43.24289,7.35876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":327114
     },
     "wof:country":"ET",
-    "wof:geomhash":"ed850a29896d0680fb2917d6f6bbb9d4",
+    "wof:geomhash":"cec3b986436a3cb84ec1aa0a461fdd76",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209243209,
-    "wof:lastmodified":1536293252,
+    "wof:lastmodified":1566593243,
     "wof:name":"Uadeleb",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     43.22289,
-    7.3387600000000015,
+    7.33876,
     43.22289,
-    7.3387600000000015
+    7.33876
 ],
   "geometry": {"coordinates":[43.22289,7.33876],"type":"Point"}
 }

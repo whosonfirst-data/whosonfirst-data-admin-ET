@@ -9,15 +9,18 @@
     "geom:bbox":"38.01667,11.85,38.01667,11.85",
     "geom:latitude":11.85,
     "geom:longitude":38.01667,
-    "gn:gn_country":"ET",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":32659,
+    "gn:country":"ET",
+    "gn:fcode":"PPL",
     "gn:population":32659,
     "iso:country":"ET",
+    "lbl:bbox":"37.99667,11.83,38.03667,11.87",
     "lbl:latitude":11.85,
     "lbl:longitude":38.01667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:amh_x_preferred":[
         "\u12f0\u1265\u1228 \u1273\u1266\u122d"
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Debre Tabor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samara"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":124251,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125931683,
-    "wof:lastmodified":1563279379,
+    "wof:lastmodified":1566593567,
     "wof:name":"Debre Tabor",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.99667,10.03,37.03667,10.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fuliyo",
         "Fuliye",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327470655,
-    "wof:lastmodified":1537622023,
+    "wof:lastmodified":1566592832,
     "wof:name":"Fuliya",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

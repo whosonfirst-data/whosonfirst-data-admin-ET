@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.36333,7.73,35.40333,7.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Humaccia",
         "Cumacha",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360021227,
-    "wof:lastmodified":1537622055,
+    "wof:lastmodified":1566593517,
     "wof:name":"Ciauaca",
     "wof:parent_id":1108695217,
     "wof:placetype":"locality",

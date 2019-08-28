@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"41.11333,6.71333,41.15333,6.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":342016
     },
     "wof:country":"ET",
-    "wof:geomhash":"4453d3daafd1e634bda3a3cd424dedc6",
+    "wof:geomhash":"f7156a682df8f7095692b607f9417b8d",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209451271,
-    "wof:lastmodified":1536286664,
+    "wof:lastmodified":1566593298,
     "wof:name":"Biriti",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     41.13333,
-    6.7333300000000005,
+    6.73333,
     41.13333,
-    6.7333300000000005
+    6.73333
 ],
   "geometry": {"coordinates":[41.13333,6.73333],"type":"Point"}
 }

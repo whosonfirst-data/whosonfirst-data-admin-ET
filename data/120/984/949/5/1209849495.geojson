@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.26333,8.16333,39.30333,8.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huruta"
     ],
@@ -35,8 +39,7 @@
         "Huruta"
     ],
     "name:und_x_variant":[
-        "Huruta (2)",
-        "Huruta"
+        "Huruta (2)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209849495,
-    "wof:lastmodified":1564232762,
+    "wof:lastmodified":1566593236,
     "wof:name":"Huruta",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

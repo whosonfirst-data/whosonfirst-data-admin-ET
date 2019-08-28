@@ -11,10 +11,14 @@
     "geom:longitude":34.58333,
     "gn:country":"ET",
     "gn:fcode":"PPLA",
-    "gn:pop":42366,
+    "gn:population":42366,
     "iso:country":"ET",
+    "lbl:bbox":"34.56333,8.23,34.60333,8.27",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:amh_x_preferred":[
         "\u130b\u121d\u1264\u120b"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043c\u0431\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gambela Post"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":337405,
         "gp:id":1316101,
-        "qs:id":274892,
+        "qs_pg:id":274892,
         "wd:id":"Q762656",
         "wk:page":"Gambela, Ethiopia"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890441249,
-    "wof:lastmodified":1563279362,
+    "wof:lastmodified":1566593562,
     "wof:name":"Gamb\u0113la",
     "wof:parent_id":421188217,
     "wof:placetype":"locality",

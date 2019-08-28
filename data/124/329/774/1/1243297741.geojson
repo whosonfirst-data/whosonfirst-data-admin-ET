@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.54495,6.24757,35.58495,6.28757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Machi"
     ],
@@ -44,8 +48,7 @@
         "Machi"
     ],
     "name:und_x_variant":[
-        "Masci",
-        "Machi"
+        "Masci"
     ],
     "name:zho_x_preferred":[
         "Machi"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1243297741,
-    "wof:lastmodified":1564233566,
+    "wof:lastmodified":1566593678,
     "wof:name":"Machi",
     "wof:parent_id":890450041,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.475486,
     "lbl:longitude":38.502595,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Amhara",
     "mps:latitude":11.729755,
     "mps:longitude":37.879946,
@@ -191,7 +192,7 @@
         "Amhara"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bae\u0bcd\u0bae\u0bb0  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0bae\u0bcd\u0bae\u0bb0 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0410\u043c\u0445\u0430\u0440\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
@@ -208,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0445\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0100mara"
     ],
     "name:urd_x_preferred":[
@@ -298,9 +299,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-28",
+    "src:population_date":"2007-05-28",
     "statoids:area_km":"159,202",
     "statoids:area_mi":"61,468",
     "statoids:as_of_date":"2007-05-28",
@@ -325,7 +326,7 @@
         "gp:id":56013541,
         "hasc:id":"ET.AM",
         "iso:id":"ET-AM",
-        "qs:id":1086828,
+        "qs_pg:id":1086828,
         "unlc:id":"ET-AM",
         "wd:id":"Q203009",
         "wk:page":"Amhara Region"
@@ -346,11 +347,10 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1565673977,
+    "wof:lastmodified":1566592990,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":17221976,
     "wof:population_rank":14,

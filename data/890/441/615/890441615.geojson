@@ -11,11 +11,15 @@
     "geom:longitude":39.48333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":10089,
+    "gn:population":10089,
     "iso:country":"ET",
+    "lbl:bbox":"39.46333,8.29667,39.50333,8.33667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Siri\u00e8"
     ],
     "qs:name":"Sirre",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":328316,
         "gp:id":1482816,
-        "qs:id":124173
+        "qs_pg:id":124173
     },
     "wof:country":"ET",
     "wof:created":1469052330,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441615,
-    "wof:lastmodified":1505343583,
+    "wof:lastmodified":1566593562,
     "wof:name":"Sirre",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

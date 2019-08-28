@@ -10,8 +10,12 @@
     "geom:latitude":7.13333,
     "geom:longitude":40.7,
     "iso:country":"ET",
+    "lbl:bbox":"40.68,7.11333,40.72,7.15333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0413\u0438\u043d\u0438\u0440"
@@ -39,9 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "Ginir"
-    ],
-    "name:unk_x_variant":[
-        "Ghinnir"
     ],
     "name:zho_x_preferred":[
         "\u5409\u5c3c\u723e"
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":336454,
         "gp:id":1316471,
-        "qs:id":124218,
+        "qs_pg:id":124218,
         "wd:id":"Q3106775",
         "wk:page":"Ginir"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421191849,
-    "wof:lastmodified":1563279343,
+    "wof:lastmodified":1566593556,
     "wof:name":"G\u012bn\u012br",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

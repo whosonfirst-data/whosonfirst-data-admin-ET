@@ -11,10 +11,14 @@
     "geom:longitude":39.0,
     "gn:country":"ET",
     "gn:fcode":"ADM3",
-    "gn:pop":165026,
+    "gn:population":165026,
     "iso:country":"ET",
+    "lbl:bbox":"38.9,10.9,39.1,11.1",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Legambo"
     ],
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7732960,
-        "qs:id":698143
+        "qs_pg:id":698143
     },
     "wof:country":"ET",
     "wof:created":1469052574,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890446957,
-    "wof:lastmodified":1505343614,
+    "wof:lastmodified":1566593560,
     "wof:name":"Legambo Woreda",
     "wof:parent_id":1108695209,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.96333,13.14667,39.00333,13.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":333720
     },
     "wof:country":"ET",
-    "wof:geomhash":"1404b9ffadd7aa8c2fe9bbedd358e7f1",
+    "wof:geomhash":"55d780fd233fb9d354b3cf9cec251c7b",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209345055,
-    "wof:lastmodified":1536289940,
+    "wof:lastmodified":1566593285,
     "wof:name":"Ji'u",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     38.98333,
-    13.166670000000002,
+    13.16667,
     38.98333,
-    13.166670000000002
+    13.16667
 ],
   "geometry": {"coordinates":[38.98333,13.16667],"type":"Point"}
 }

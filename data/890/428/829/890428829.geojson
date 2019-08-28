@@ -11,14 +11,18 @@
     "geom:longitude":38.41667,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":12945,
+    "gn:population":12945,
     "iso:country":"ET",
+    "lbl:bbox":"38.39667,6.58,38.43667,6.62",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:fra_x_preferred":[
         "Wendo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uondo"
     ],
     "qs:name":"Wendo",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":326321,
         "gp:id":1320684,
-        "qs:id":80151,
+        "qs_pg:id":80151,
         "wk:page":"Wendo"
     },
     "wof:country":"ET",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890428829,
-    "wof:lastmodified":1564233345,
+    "wof:lastmodified":1566593565,
     "wof:name":"Wendo",
     "wof:parent_id":421204421,
     "wof:placetype":"locality",

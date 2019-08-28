@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.664114,
     "lbl:longitude":40.767526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oromiya",
     "meso:gadm_admin":"Mirab Hararghe",
     "meso:gaul_admin":"West Harerge",
@@ -30,6 +32,7 @@
     "mps:longitude":40.767526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "West Harerghe Zone"
     ],
@@ -53,7 +56,7 @@
         "\u897f\u54c8\u52d2\u723e\u84cb\u5730\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108695227,
-    "wof:lastmodified":1563279094,
+    "wof:lastmodified":1566593395,
     "wof:name":"W. Haraerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

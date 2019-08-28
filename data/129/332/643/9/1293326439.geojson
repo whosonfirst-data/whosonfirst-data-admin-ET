@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.62488,13.47795,39.66488,13.51795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adi Scinguala",
         "Shugala"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293326439,
-    "wof:lastmodified":1537621916,
+    "wof:lastmodified":1566593072,
     "wof:name":"Shugala",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

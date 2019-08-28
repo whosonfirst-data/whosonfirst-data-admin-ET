@@ -10,6 +10,9 @@
     "geom:latitude":9.16667,
     "geom:longitude":35.83333,
     "iso:country":"ET",
+    "lbl:bbox":"35.81333,9.14667,35.85333,9.18667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Gimbi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gembi"
     ],
     "name:zho_x_preferred":[
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gn:id":336496,
         "gp:id":1316453,
-        "qs:id":124232,
+        "qs_pg:id":124232,
         "wd:id":"Q987235",
         "wk:page":"Gimbi"
     },
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":421197337,
-    "wof:lastmodified":1561829968,
+    "wof:lastmodified":1566593557,
     "wof:name":"Gimbi",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

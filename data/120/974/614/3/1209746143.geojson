@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"42.06278,9.07694,42.10278,9.11694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0100liy\u0101 Bol\u0113",
         "\u0100l\u012by\u0113 Bol\u0113"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209746143,
-    "wof:lastmodified":1537622099,
+    "wof:lastmodified":1566593294,
     "wof:name":"Aliye Bole",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

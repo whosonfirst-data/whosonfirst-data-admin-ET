@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"36.25892,8.09424,36.29892,8.13424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boba"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360316099,
-    "wof:lastmodified":1564233218,
+    "wof:lastmodified":1566593489,
     "wof:name":"Boba",
     "wof:parent_id":890418071,
     "wof:placetype":"locality",

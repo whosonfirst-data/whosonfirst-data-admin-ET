@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"33.81333,7.81333,33.85333,7.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276911219,
-    "wof:lastmodified":1536998351,
+    "wof:lastmodified":1566593195,
     "wof:name":"Udia",
     "wof:parent_id":421200427,
     "wof:placetype":"locality",

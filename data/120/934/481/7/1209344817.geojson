@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"41.62417,9.58194,41.66417,9.62194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hurso"
     ],
     "name:und_x_variant":[
-        "Urso",
-        "Hurso"
+        "Urso"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209344817,
-    "wof:lastmodified":1564232871,
+    "wof:lastmodified":1566593289,
     "wof:name":"Hurso",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

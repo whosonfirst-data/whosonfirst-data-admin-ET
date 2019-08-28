@@ -11,10 +11,14 @@
     "geom:longitude":38.78333,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":9643,
+    "gn:population":9643,
     "iso:country":"ET",
+    "lbl:bbox":"38.76333,7.04667,38.80333,7.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kofel\u0113"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kofel\u0113"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cofole"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":332938,
         "gp:id":1318108,
-        "qs:id":274886,
+        "qs_pg:id":274886,
         "wd:id":"Q934205",
         "wk:page":"Kofele"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890431223,
-    "wof:lastmodified":1563279368,
+    "wof:lastmodified":1566593564,
     "wof:name":"Kofel\u0113",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

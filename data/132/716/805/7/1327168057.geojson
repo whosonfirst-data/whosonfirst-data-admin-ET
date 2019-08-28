@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.23246,14.10902,38.27246,14.14902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amba Georghis",
         "Amba Ghiorghis",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327168057,
-    "wof:lastmodified":1537622116,
+    "wof:lastmodified":1566592877,
     "wof:name":"Adi Ademay",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

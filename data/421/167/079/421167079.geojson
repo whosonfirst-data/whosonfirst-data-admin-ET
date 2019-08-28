@@ -10,8 +10,12 @@
     "geom:latitude":5.65,
     "geom:longitude":37.36667,
     "iso:country":"ET",
+    "lbl:bbox":"37.34667,5.63,37.38667,5.67",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "G\u012bdol\u0113"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "G\u012bdol\u0113"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghidole"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":336526,
         "gp:id":1316436,
-        "qs:id":124220,
+        "qs_pg:id":124220,
         "wd:id":"Q3105416",
         "wk:page":"Gidole"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421167079,
-    "wof:lastmodified":1561829966,
+    "wof:lastmodified":1566593552,
     "wof:name":"Gidole",
     "wof:parent_id":1108695151,
     "wof:placetype":"locality",

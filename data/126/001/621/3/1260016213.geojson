@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"40.49667,8.84667,40.53667,8.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Habro"
     ],
     "name:und_x_variant":[
-        "Abr\u00f2",
-        "Habro"
+        "Abr\u00f2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260016213,
-    "wof:lastmodified":1564232995,
+    "wof:lastmodified":1566593353,
     "wof:name":"Habro",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

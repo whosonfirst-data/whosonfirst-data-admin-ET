@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.501508,
     "lbl:longitude":39.471318,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tigray",
     "meso:gadm_admin":"Debubawi",
     "meso:gaul_admin":"Southern",
@@ -30,6 +32,7 @@
     "mps:longitude":39.471318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Debubawi Zone"
     ],
@@ -50,7 +53,7 @@
         "Southern Tigray Zone"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108695189,
-    "wof:lastmodified":1561829954,
+    "wof:lastmodified":1566593389,
     "wof:name":"Mekele",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

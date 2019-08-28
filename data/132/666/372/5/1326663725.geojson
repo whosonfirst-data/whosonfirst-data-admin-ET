@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.13,7.73,39.17,7.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sagur\u0113"
     ],
@@ -35,8 +39,7 @@
         "Sagur\u0113"
     ],
     "name:und_x_variant":[
-        "Saggure",
-        "Sagur\u0113"
+        "Saggure"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06af\u0631\u06d2"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326663725,
-    "wof:lastmodified":1564231962,
+    "wof:lastmodified":1566592826,
     "wof:name":"Sagure",
     "wof:parent_id":1108695131,
     "wof:placetype":"locality",

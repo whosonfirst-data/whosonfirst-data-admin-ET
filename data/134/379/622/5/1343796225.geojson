@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"37.23,9.08,37.27,9.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12f0\u1265\u1228 \u12d8\u12ed\u1275"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1343796225,
-    "wof:lastmodified":1564232160,
+    "wof:lastmodified":1566592921,
     "wof:name":"Bishoftu",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

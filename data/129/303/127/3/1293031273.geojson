@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"34.93,10.61333,34.97,10.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sceich Eutmen",
         "Sceich Othman"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293031273,
-    "wof:lastmodified":1537621925,
+    "wof:lastmodified":1566593066,
     "wof:name":"Sceich Othman",
     "wof:parent_id":1108695133,
     "wof:placetype":"locality",

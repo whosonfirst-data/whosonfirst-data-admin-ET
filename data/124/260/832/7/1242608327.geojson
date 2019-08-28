@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.66333,12.63,35.70333,12.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zair",
         "Ez Zair"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242608327,
-    "wof:lastmodified":1537622027,
+    "wof:lastmodified":1566593613,
     "wof:name":"Ez Zair",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

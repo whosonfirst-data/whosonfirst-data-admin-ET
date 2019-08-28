@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.51817,10.51496,39.55817,10.55496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Giafarie",
         "Feses B\u0113t",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360220597,
-    "wof:lastmodified":1537622026,
+    "wof:lastmodified":1566593483,
     "wof:name":"Feres Bet",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

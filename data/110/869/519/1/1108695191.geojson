@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.041449,
     "lbl:longitude":35.76737,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Beneshangul Gumuz",
     "meso:gadm_admin":"Metekel",
     "meso:gaul_admin":"Metekel",
@@ -30,6 +32,7 @@
     "mps:longitude":35.76737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0442\u0435\u043a\u0435\u043b"
     ],
@@ -58,9 +61,9 @@
         "Metekel"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"26272",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108695191,
-    "wof:lastmodified":1563279084,
+    "wof:lastmodified":1566593389,
     "wof:name":"Metekel",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":39.86667,
     "gn:country":"ET",
     "gn:fcode":"PPL",
-    "gn:pop":23861,
+    "gn:population":23861,
     "iso:country":"ET",
+    "lbl:bbox":"39.84667,10.69667,39.88667,10.73667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Kemise"
     ],
@@ -27,7 +31,7 @@
     "name:pol_x_preferred":[
         "Kemise"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cascim"
     ],
     "name:zho_x_preferred":[
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":333356,
         "gp:id":1317523,
-        "qs:id":274889,
+        "qs_pg:id":274889,
         "wd:id":"Q3194987",
         "wk:page":"Kemise"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890431229,
-    "wof:lastmodified":1561829969,
+    "wof:lastmodified":1566593563,
     "wof:name":"Kemis\u0113",
     "wof:parent_id":1108695203,
     "wof:placetype":"locality",

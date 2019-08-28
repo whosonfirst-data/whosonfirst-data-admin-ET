@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.55054,14.16806,38.59054,14.20806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Addi Terekbe",
         "\u0100d\u012b Terekb\u0113"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243298627,
-    "wof:lastmodified":1537622107,
+    "wof:lastmodified":1566593676,
     "wof:name":"Adi Terekbe",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

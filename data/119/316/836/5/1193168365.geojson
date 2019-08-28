@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.61656,14.09935,39.65656,14.13935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193168365,
-    "wof:lastmodified":1536383200,
+    "wof:lastmodified":1566593336,
     "wof:name":"Ayfelah",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

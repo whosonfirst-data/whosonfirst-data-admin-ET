@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"39.13,14.25889,39.17,14.29889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Enticho"
     ],
@@ -39,7 +43,6 @@
         "Enticcio",
         "Ent\u2019ech\u2019o",
         "Entichew",
-        "Enticho",
         "Intich\u2019o"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326459907,
-    "wof:lastmodified":1564231911,
+    "wof:lastmodified":1566592801,
     "wof:name":"Intich'o",
     "wof:parent_id":1108695145,
     "wof:placetype":"locality",

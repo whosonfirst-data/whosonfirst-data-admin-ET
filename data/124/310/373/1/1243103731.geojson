@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.19914,14.03987,38.23914,14.07987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243103731,
-    "wof:lastmodified":1536802394,
+    "wof:lastmodified":1566593683,
     "wof:name":"Gubale",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

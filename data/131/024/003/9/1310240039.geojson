@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.59667,12.48,38.63667,12.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Walu"
     ],
@@ -32,8 +36,7 @@
         "Walu"
     ],
     "name:und_x_variant":[
-        "Walu (2)",
-        "Walu"
+        "Walu (2)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310240039,
-    "wof:lastmodified":1564233068,
+    "wof:lastmodified":1566593400,
     "wof:name":"Walu",
     "wof:parent_id":1108695225,
     "wof:placetype":"locality",

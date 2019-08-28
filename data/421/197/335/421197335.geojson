@@ -10,10 +10,14 @@
     "geom:latitude":6.3,
     "geom:longitude":36.88333,
     "iso:country":"ET",
+    "lbl:bbox":"36.86333,6.28,36.90333,6.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sawla Felege Neway"
     ],
     "qs:gn_country":"ET",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":337853,
         "gp:id":1315909,
-        "qs:id":124230
+        "qs_pg:id":124230
     },
     "wof:country":"ET",
     "wof:created":1459009910,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421197335,
-    "wof:lastmodified":1505340750,
+    "wof:lastmodified":1566593557,
     "wof:name":"Felege Neway",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

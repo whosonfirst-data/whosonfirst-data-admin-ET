@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"38.93964,10.09124,38.97964,10.13124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259714293,
-    "wof:lastmodified":1537021831,
+    "wof:lastmodified":1566593716,
     "wof:name":"Agerit Kumamba",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

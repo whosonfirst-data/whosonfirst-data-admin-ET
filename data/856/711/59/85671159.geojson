@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.582266,
     "lbl:longitude":41.899902,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Dire Dawa",
     "mps:latitude":9.580459,
     "mps:longitude":41.898418,
@@ -209,7 +210,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0440\u0435-\u0414\u0430\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dir\u0113 Dawa"
     ],
     "name:urd_x_preferred":[
@@ -299,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-28",
+    "src:population_date":"2007-05-28",
     "statoids:area_km":"1,213",
     "statoids:area_mi":"468",
     "statoids:as_of_date":"2007-05-28",
@@ -327,7 +328,7 @@
         "gp:id":56013542,
         "hasc:id":"ET.DD",
         "iso:id":"ET-DD",
-        "qs:id":1105137,
+        "qs_pg:id":1105137,
         "unlc:id":"ET-DD",
         "wd:id":"Q193486"
     },
@@ -347,11 +348,10 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1565673977,
+    "wof:lastmodified":1566592989,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administration",
     "wof:population":341834,
     "wof:population_rank":10,

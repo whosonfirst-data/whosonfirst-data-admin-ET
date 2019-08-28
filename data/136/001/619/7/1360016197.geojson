@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"35.99908,8.44763,36.03908,8.48763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Buno"
     ],
@@ -32,8 +36,7 @@
         "Buno"
     ],
     "name:und_x_variant":[
-        "Buno (1)",
-        "Buno"
+        "Buno (1)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1360016197,
-    "wof:lastmodified":1564233222,
+    "wof:lastmodified":1566593491,
     "wof:name":"Buno",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

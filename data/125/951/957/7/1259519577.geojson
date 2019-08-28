@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"42.98861,9.76167,43.02861,9.80167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Harew\u0113 (2)",
         "Kharoue",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259519577,
-    "wof:lastmodified":1537621993,
+    "wof:lastmodified":1566593738,
     "wof:name":"Harewe",
     "wof:parent_id":421188343,
     "wof:placetype":"locality",

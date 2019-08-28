@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"41.34142,11.411,41.38142,11.451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goma\u2018itu",
         "Gomaitu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360120739,
-    "wof:lastmodified":1537622005,
+    "wof:lastmodified":1566593478,
     "wof:name":"Goma`itu",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

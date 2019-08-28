@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.771853,
     "lbl:longitude":35.85345,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Beneshangul Gumuz",
     "meso:gadm_admin":"Kemashi",
     "meso:gaul_admin":"Kemashi",
@@ -30,6 +32,7 @@
     "mps:longitude":35.85345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:amh_x_preferred":[
         "\u12ab\u121b\u123a"
     ],
@@ -43,9 +46,9 @@
         "Kamashi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-07-01",
+    "src:population_date":"2008-07-01",
     "statoids:area_km":"8851",
     "statoids:as_of_date":"2008-07-01",
     "statoids:capital":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108695179,
-    "wof:lastmodified":1561829954,
+    "wof:lastmodified":1566593387,
     "wof:name":"Kamashi",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

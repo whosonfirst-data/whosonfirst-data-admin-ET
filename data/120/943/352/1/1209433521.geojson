@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Addis_Ababa",
     "iso:country":"ET",
+    "lbl:bbox":"40.58307,7.23486,40.62307,7.27486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -34,7 +38,7 @@
         "gn:id":11001332
     },
     "wof:country":"ET",
-    "wof:geomhash":"19066bd7057793037295b2062cd30b95",
+    "wof:geomhash":"d58baa37d1275908101ab679f2a95586",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209433521,
-    "wof:lastmodified":1536287168,
+    "wof:lastmodified":1566593306,
     "wof:name":"Hakima or Hakiimma",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     40.60307,
-    7.254860000000001,
+    7.25486,
     40.60307,
-    7.254860000000001
+    7.25486
 ],
   "geometry": {"coordinates":[40.60307,7.25486],"type":"Point"}
 }
