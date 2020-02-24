@@ -103,6 +103,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469051389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6b968088e906b3e6ce43fcc758e6791",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890421359,
-    "wof:lastmodified":1566593565,
+    "wof:lastmodified":1582362126,
     "wof:name":"Hadiya",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

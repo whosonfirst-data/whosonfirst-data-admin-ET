@@ -286,6 +286,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55af5b00c86b1ce9f1ad264d852e5e71",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":421190257,
-    "wof:lastmodified":1566593557,
+    "wof:lastmodified":1582362126,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85671159,
     "wof:placetype":"county",

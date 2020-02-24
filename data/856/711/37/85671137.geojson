@@ -309,6 +309,9 @@
         "wk:page":"Gambela Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa2f104029f0b77db86a95a6ab2097c7",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592990,
+    "wof:lastmodified":1582362115,
     "wof:name":"Gambella Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

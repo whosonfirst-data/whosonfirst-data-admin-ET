@@ -100,6 +100,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469052721,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5743d182c4c23bbe5d411d110237db02",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890450041,
-    "wof:lastmodified":1566593567,
+    "wof:lastmodified":1582362127,
     "wof:name":"Bench Maji",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

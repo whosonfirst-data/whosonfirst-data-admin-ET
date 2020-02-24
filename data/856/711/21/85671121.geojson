@@ -332,6 +332,9 @@
         "wk:page":"Amhara Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfb73d2a1adfd94dfd43d5e472301995",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592990,
+    "wof:lastmodified":1582362115,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

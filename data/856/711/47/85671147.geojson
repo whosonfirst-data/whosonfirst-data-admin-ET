@@ -321,6 +321,9 @@
         "wd:id":"Q207635"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32083aba8d125554e1460fe8b9238d49",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592991,
+    "wof:lastmodified":1582362116,
     "wof:name":"Beneshangul Gumuz",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

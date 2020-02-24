@@ -333,6 +333,9 @@
         "wd:id":"Q193486"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55af5b00c86b1ce9f1ad264d852e5e71",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592989,
+    "wof:lastmodified":1582362115,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
