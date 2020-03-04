@@ -317,6 +317,9 @@
         "wd:id":"Q202107"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38e94cdf74a49e9c03e74a98ac24c52e",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592991,
+    "wof:lastmodified":1582362115,
     "wof:name":"Oromiya",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

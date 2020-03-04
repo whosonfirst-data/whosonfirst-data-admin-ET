@@ -315,6 +315,9 @@
         "wk:page":"Afar Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9550aca8a970b74d6d2f307dae2781c7",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592990,
+    "wof:lastmodified":1582362115,
     "wof:name":"Afar",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

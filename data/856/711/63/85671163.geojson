@@ -318,6 +318,9 @@
         "wk:page":"Harari Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b730a838fa4fb6a11e6eff9cfd8e4db",
     "wof:hierarchy":[
         {
@@ -333,7 +336,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592991,
+    "wof:lastmodified":1582362115,
     "wof:name":"Harari People",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

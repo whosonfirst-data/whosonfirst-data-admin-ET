@@ -105,6 +105,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469051233,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1ce58df59d5aeefaae9260aa122db3c",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890418071,
-    "wof:lastmodified":1566593566,
+    "wof:lastmodified":1582362126,
     "wof:name":"Jimma",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

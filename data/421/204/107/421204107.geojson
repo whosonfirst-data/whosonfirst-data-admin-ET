@@ -115,6 +115,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459010174,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57e1e19b2497c24b482ef7fa5d5cfbfc",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421204107,
-    "wof:lastmodified":1566593553,
+    "wof:lastmodified":1582362126,
     "wof:name":"Gedeo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

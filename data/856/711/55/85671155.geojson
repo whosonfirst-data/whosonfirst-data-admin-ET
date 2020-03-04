@@ -315,6 +315,9 @@
         "wk:page":"Somali Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3329cae3a46b184f3ae9d4e1908e8865",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592990,
+    "wof:lastmodified":1582362115,
     "wof:name":"Somali",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

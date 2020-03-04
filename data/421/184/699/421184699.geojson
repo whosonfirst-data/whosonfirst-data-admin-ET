@@ -111,6 +111,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459009419,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdc01eadcaf7db660cf3d012afee8437",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421184699,
-    "wof:lastmodified":1566593558,
+    "wof:lastmodified":1582362126,
     "wof:name":"Shinile",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

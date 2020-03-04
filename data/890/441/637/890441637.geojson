@@ -259,6 +259,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469052331,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd5e4b020dc1cc08d506d0acf0594e15",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":890441637,
-    "wof:lastmodified":1566593562,
+    "wof:lastmodified":1582362126,
     "wof:name":"Debre Birhan",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

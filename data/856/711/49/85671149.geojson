@@ -593,6 +593,9 @@
         421170391
     ],
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a56d100115d2c8887438662331ed250b",
     "wof:hierarchy":[
         {
@@ -608,7 +611,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592991,
+    "wof:lastmodified":1582362116,
     "wof:name":"Addis Ababa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

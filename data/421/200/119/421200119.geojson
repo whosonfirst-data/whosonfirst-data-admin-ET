@@ -203,6 +203,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459010012,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f20d3b773afce26074c735dda06e7f5",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421200119,
-    "wof:lastmodified":1566593557,
+    "wof:lastmodified":1582362126,
     "wof:name":"Gode",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

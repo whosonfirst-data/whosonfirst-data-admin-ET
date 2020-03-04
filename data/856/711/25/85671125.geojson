@@ -314,6 +314,9 @@
         "wk:page":"Tigray Region"
     },
     "wof:country":"ET",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c87bfe9a71a775ea44ff9f79e7eb56d",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592992,
+    "wof:lastmodified":1582362116,
     "wof:name":"Tigray",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

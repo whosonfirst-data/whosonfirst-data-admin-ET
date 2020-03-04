@@ -1065,6 +1065,11 @@
     },
     "wof:country":"ET",
     "wof:country_alpha3":"ETH",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"0a5147bfef410b70b84d2caa7a138542",
     "wof:hierarchy":[
         {
@@ -1079,7 +1084,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1566592986,
+    "wof:lastmodified":1583243011,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

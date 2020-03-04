@@ -114,6 +114,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"63f5cdf51995ea1ac8ea9fc9be320327",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421188225,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1582362126,
     "wof:name":"Borena",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

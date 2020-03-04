@@ -304,6 +304,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469052063,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ef3266ba03271ed16660793bada29dc",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":890435323,
-    "wof:lastmodified":1566593567,
+    "wof:lastmodified":1582362127,
     "wof:name":"Mekele",
     "wof:parent_id":1108695189,
     "wof:placetype":"locality",

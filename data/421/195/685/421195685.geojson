@@ -348,6 +348,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459009856,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25f640037ea85d715b3a725fe76097d3",
     "wof:hierarchy":[
         {
@@ -359,7 +362,7 @@
         }
     ],
     "wof:id":421195685,
-    "wof:lastmodified":1566593551,
+    "wof:lastmodified":1582362126,
     "wof:name":"Harer",
     "wof:parent_id":1108695173,
     "wof:placetype":"locality",

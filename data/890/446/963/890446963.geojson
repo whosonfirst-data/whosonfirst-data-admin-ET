@@ -104,6 +104,9 @@
     },
     "wof:country":"ET",
     "wof:created":1469052574,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21f1fb5150e7022e1b0d6e70d12d6c67",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890446963,
-    "wof:lastmodified":1566593560,
+    "wof:lastmodified":1582362126,
     "wof:name":"Illubabor",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

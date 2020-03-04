@@ -89,6 +89,9 @@
     },
     "wof:country":"ET",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"810d4053f853883de6a37fdef356e1c0",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421188217,
-    "wof:lastmodified":1566593555,
+    "wof:lastmodified":1582362126,
     "wof:name":"Gambela Zone 1",
     "wof:parent_id":85671137,
     "wof:placetype":"county",
