@@ -1041,9 +1041,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Ethiopia",
-        "digitalenvoy:country_code":[
-            231
-        ],
+        "digitalenvoy:country_code":231,
         "fb:id":"en.ethiopia",
         "fifa:id":"ETH",
         "fips:code":"ET",
@@ -1087,7 +1085,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1583529129,
+    "wof:lastmodified":1583797334,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
