@@ -81,7 +81,7 @@
         "Bundi"
     ],
     "name:ori_x_preferred":[
-        "\u0b2c\u0b41\u0b28\u0b4d\u0b26\u0b3f "
+        "\u0b2c\u0b41\u0b28\u0b4d\u0b26\u0b3f"
     ],
     "name:pol_x_preferred":[
         "Bundi"
@@ -111,8 +111,8 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671141,
-        1108695233
+        1108695233,
+        85671141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1259819747,
-    "wof:lastmodified":1566593751,
+    "wof:lastmodified":1587163117,
     "wof:name":"Bundi",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",
