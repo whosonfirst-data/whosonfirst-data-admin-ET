@@ -562,7 +562,9 @@
         85671149
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632257,
+    "wof:capital_of":[
+        85632257
+    ],
     "wof:concordances":{
         "gn:id":344979,
         "gp:id":1313090,
@@ -592,7 +594,7 @@
         }
     ],
     "wof:id":421170391,
-    "wof:lastmodified":1587429040,
+    "wof:lastmodified":1607390881,
     "wof:name":"Addis Ababa",
     "wof:parent_id":1108695109,
     "wof:placetype":"locality",
