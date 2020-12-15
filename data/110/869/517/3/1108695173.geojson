@@ -62,6 +62,9 @@
     "wof:concordances":{
         "hasc:id":"ET.HA.HA"
     },
+    "wof:coterminous":[
+        85671163
+    ],
     "wof:country":"ET",
     "wof:created":1474493498,
     "wof:geomhash":"5b730a838fa4fb6a11e6eff9cfd8e4db",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108695173,
-    "wof:lastmodified":1566593387,
+    "wof:lastmodified":1607993758,
     "wof:name":"Harar/Hundene",
     "wof:parent_id":85671163,
     "wof:placetype":"county",

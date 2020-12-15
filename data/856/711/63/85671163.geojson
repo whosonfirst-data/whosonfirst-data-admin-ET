@@ -317,6 +317,9 @@
         "wd:id":"Q1033855",
         "wk:page":"Harari Region"
     },
+    "wof:coterminous":[
+        1108695173
+    ],
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
@@ -336,7 +339,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1582362115,
+    "wof:lastmodified":1607993758,
     "wof:name":"Harari People",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
