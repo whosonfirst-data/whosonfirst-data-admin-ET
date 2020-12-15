@@ -284,6 +284,9 @@
         "wd:id":"Q193486",
         "wk:page":"Dire Dawa"
     },
+    "wof:coterminous":[
+        85671159
+    ],
     "wof:country":"ET",
     "wof:created":1459009652,
     "wof:geom_alt":[
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":421190257,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1607993768,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85671159,
     "wof:placetype":"county",

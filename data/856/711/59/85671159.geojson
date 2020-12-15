@@ -332,6 +332,9 @@
         "unlc:id":"ET-DD",
         "wd:id":"Q193486"
     },
+    "wof:coterminous":[
+        421190257
+    ],
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1582362115,
+    "wof:lastmodified":1607993768,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
