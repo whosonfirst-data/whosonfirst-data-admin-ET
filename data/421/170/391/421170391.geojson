@@ -20,7 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":3.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
@@ -568,6 +568,7 @@
     "wof:concordances":{
         "gn:id":344979,
         "gp:id":1313090,
+        "ne:id":1159151549,
         "qs_pg:id":559538,
         "wd:id":"Q3624",
         "wk:page":"Addis Ababa"
@@ -594,7 +595,8 @@
         }
     ],
     "wof:id":421170391,
-    "wof:lastmodified":1607390881,
+    "wof:lastmodified":1608688190,
+    "wof:megacity":1,
     "wof:name":"Addis Ababa",
     "wof:parent_id":1108695109,
     "wof:placetype":"locality",
