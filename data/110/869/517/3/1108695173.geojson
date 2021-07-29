@@ -39,6 +39,9 @@
     "name:eng_x_variant":[
         "Hareri"
     ],
+    "name:fra_x_preferred":[
+        "Harar/Hundene"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108695173,
-    "wof:lastmodified":1607993758,
+    "wof:lastmodified":1627522113,
     "wof:name":"Harar/Hundene",
     "wof:parent_id":85671163,
     "wof:placetype":"county",

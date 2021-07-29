@@ -40,6 +40,9 @@
         "North Wollo",
         "Semen Wello"
     ],
+    "name:fra_x_preferred":[
+        "North Wello"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108695201,
-    "wof:lastmodified":1566593391,
+    "wof:lastmodified":1627522114,
     "wof:name":"N. Wello",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

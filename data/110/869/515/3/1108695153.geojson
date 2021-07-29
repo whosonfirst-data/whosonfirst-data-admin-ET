@@ -40,6 +40,9 @@
         "East Gojam",
         "Misraq Gojjam"
     ],
+    "name:fra_x_preferred":[
+        "East Gojjam"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108695153,
-    "wof:lastmodified":1566593397,
+    "wof:lastmodified":1627522113,
     "wof:name":"E. Gojam",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

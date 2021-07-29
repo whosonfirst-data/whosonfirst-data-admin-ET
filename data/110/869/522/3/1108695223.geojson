@@ -40,6 +40,9 @@
         "West Gojam",
         "Mirab Gojjam"
     ],
+    "name:fra_x_preferred":[
+        "West Gojjam"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108695223,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1627522114,
     "wof:name":"W. Gojam",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

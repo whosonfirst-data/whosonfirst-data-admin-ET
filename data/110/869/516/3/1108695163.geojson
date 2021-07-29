@@ -40,6 +40,9 @@
         "East Wellega",
         "Misraq Wellega"
     ],
+    "name:fra_x_preferred":[
+        "East Welega"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108695163,
-    "wof:lastmodified":1566593392,
+    "wof:lastmodified":1627522113,
     "wof:name":"E. Wellega",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

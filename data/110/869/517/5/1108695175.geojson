@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Kembata Tembaro"
     ],
+    "name:fra_x_preferred":[
+        "Kembata Tembaro"
+    ],
     "name:und_x_variant":[
         "KT"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108695175,
-    "wof:lastmodified":1566593388,
+    "wof:lastmodified":1627522113,
     "wof:name":"Kembata Tembaro",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

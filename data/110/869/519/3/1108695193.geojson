@@ -40,6 +40,9 @@
         "North Gonder",
         "Semen Gondar"
     ],
+    "name:fra_x_preferred":[
+        "N. Gonder"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108695193,
-    "wof:lastmodified":1566593389,
+    "wof:lastmodified":1627522114,
     "wof:name":"N. Gonder",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

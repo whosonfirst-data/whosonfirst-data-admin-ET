@@ -42,6 +42,9 @@
     "name:eng_x_variant":[
         "Guji"
     ],
+    "name:fra_x_preferred":[
+        "Guji"
+    ],
     "name:swe_x_preferred":[
         "Guji"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108695171,
-    "wof:lastmodified":1566593387,
+    "wof:lastmodified":1627522113,
     "wof:name":"Guji",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

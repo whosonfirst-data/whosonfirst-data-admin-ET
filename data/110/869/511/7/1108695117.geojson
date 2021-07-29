@@ -41,6 +41,9 @@
         "AA Zone5",
         "Addis Abeba"
     ],
+    "name:fra_x_preferred":[
+        "Addis Ababa Zone\u00a05"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108695117,
-    "wof:lastmodified":1566593392,
+    "wof:lastmodified":1627522113,
     "wof:name":"Addis Ababa Zone 5",
     "wof:parent_id":85671149,
     "wof:placetype":"county",

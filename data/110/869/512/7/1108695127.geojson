@@ -39,6 +39,9 @@
     "name:eng_x_variant":[
         "Alaba"
     ],
+    "name:fra_x_preferred":[
+        "Alaba SW"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108695127,
-    "wof:lastmodified":1566593396,
+    "wof:lastmodified":1627522113,
     "wof:name":"Alaba SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

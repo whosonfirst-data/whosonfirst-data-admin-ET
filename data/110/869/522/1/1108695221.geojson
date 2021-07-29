@@ -39,6 +39,9 @@
     "name:eng_x_variant":[
         "Asosa"
     ],
+    "name:fra_x_preferred":[
+        "Tongo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108695221,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1627522114,
     "wof:name":"Tongo SW",
     "wof:parent_id":85671147,
     "wof:placetype":"county",
