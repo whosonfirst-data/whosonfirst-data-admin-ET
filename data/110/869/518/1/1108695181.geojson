@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Keffa"
     ],
+    "name:fra_x_preferred":[
+        "Keficho Shekicho"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695181,
-    "wof:lastmodified":1566593389,
+    "wof:lastmodified":1628266664,
     "wof:name":"Keffa",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

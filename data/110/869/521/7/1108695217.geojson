@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Keffa"
     ],
+    "name:fra_x_preferred":[
+        "Sheka"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695217,
-    "wof:lastmodified":1566593388,
+    "wof:lastmodified":1628266714,
     "wof:name":"Sheka",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

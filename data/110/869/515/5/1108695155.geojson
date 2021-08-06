@@ -37,6 +37,9 @@
         "East Harerge",
         "Misraq Harerge"
     ],
+    "name:fra_x_preferred":[
+        "Misraq Hararghe"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108695155,
-    "wof:lastmodified":1566593397,
+    "wof:lastmodified":1628266645,
     "wof:name":"E. Harerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

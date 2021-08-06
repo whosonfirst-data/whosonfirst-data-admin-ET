@@ -37,6 +37,9 @@
         "Segen Peoples'",
         "Burji"
     ],
+    "name:fra_x_preferred":[
+        "Burji"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108695143,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1628266634,
     "wof:name":"Burji SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

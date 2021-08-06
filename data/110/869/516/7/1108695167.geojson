@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Gamo Gofa"
     ],
+    "name:fra_x_preferred":[
+        "Gamu-Gofa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695167,
-    "wof:lastmodified":1566593391,
+    "wof:lastmodified":1628266650,
     "wof:name":"Gamo Gofa",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

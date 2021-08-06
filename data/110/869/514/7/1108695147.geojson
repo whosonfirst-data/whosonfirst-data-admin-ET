@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Dawro"
     ],
+    "name:fra_x_preferred":[
+        "Dawro"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695147,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1628266643,
     "wof:name":"Dawro",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

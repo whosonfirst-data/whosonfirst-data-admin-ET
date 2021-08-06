@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Wolayita"
     ],
+    "name:fra_x_preferred":[
+        "Welayita"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108695237,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1628266744,
     "wof:name":"Welayita",
     "wof:parent_id":85671133,
     "wof:placetype":"county",
