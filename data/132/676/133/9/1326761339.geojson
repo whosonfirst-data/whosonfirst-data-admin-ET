@@ -77,6 +77,9 @@
     "name:fra_x_preferred":[
         "Edo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Edo"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1326761339,
-    "wof:lastmodified":1566592843,
+    "wof:lastmodified":1636503433,
     "wof:name":"Edo",
     "wof:parent_id":1108695203,
     "wof:placetype":"locality",

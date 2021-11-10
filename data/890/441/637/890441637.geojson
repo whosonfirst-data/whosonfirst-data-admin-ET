@@ -52,6 +52,9 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0acd\u0ab0\u0ac7 \u0aac\u0ac7\u0ab0\u0ab9\u0abe\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05e8\u05d4 \u05d1\u05d9\u05e8\u05d7\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u0947\u092c\u094d\u0930\u0947 \u092c\u0947\u0930\u0939\u093e\u0928"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:pol_x_preferred":[
         "Debre Byrhan"
+    ],
+    "name:por_x_preferred":[
+        "Debre Berhan"
     ],
     "name:ron_x_preferred":[
         "Debre Berhan"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":890441637,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1636503448,
     "wof:name":"Debre Birhan",
     "wof:parent_id":1108695197,
     "wof:placetype":"locality",

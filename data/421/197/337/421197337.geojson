@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0645\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09ae\u09cd\u09ac\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Gimbi"
     ],
     "name:deu_x_preferred":[
         "Gimbi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03af\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Gimbi"
@@ -32,8 +41,26 @@
     "name:fra_x_preferred":[
         "Gimbi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05de\u05d1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093f\u092e\u094d\u092c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ind_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ita_x_preferred":[
+        "Gimbi"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30f3\u30d3"
+    ],
+    "name:kor_x_preferred":[
+        "\uae40\ube44"
     ],
     "name:nld_x_preferred":[
         "Gimbi"
@@ -41,11 +68,32 @@
     "name:pol_x_preferred":[
         "Gimbi"
     ],
+    "name:por_x_preferred":[
+        "Gimbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043c\u0431\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Gimbi"
+    ],
     "name:swe_x_preferred":[
         "Gimbi"
     ],
+    "name:tur_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043c\u0431\u0456"
+    ],
     "name:und_x_variant":[
         "Gembi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0645\u0628\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Gimbi"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u6bd4"
@@ -193,7 +241,7 @@
         }
     ],
     "wof:id":421197337,
-    "wof:lastmodified":1566593557,
+    "wof:lastmodified":1636503447,
     "wof:name":"Gimbi",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

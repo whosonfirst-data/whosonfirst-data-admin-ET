@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.4699832751,14.2804319447,39.4699832751,14.2804319447",
+    "geom:bbox":"39.469983,14.280432,39.469983,14.280432",
     "geom:latitude":14.280432,
     "geom:longitude":39.469983,
     "iso:country":"ET",
@@ -103,6 +103,9 @@
         "Adigrat"
     ],
     "name:pol_x_preferred":[
+        "Adigrat"
+    ],
+    "name:por_x_preferred":[
         "Adigrat"
     ],
     "name:ron_x_preferred":[
@@ -258,7 +261,7 @@
     },
     "wof:country":"ET",
     "wof:created":1499130777,
-    "wof:geomhash":"de6b7038aabdcce628b14c77907f7235",
+    "wof:geomhash":"b2945e4b260719ccf2d494fe50852692",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":1141907835,
-    "wof:lastmodified":1566593863,
+    "wof:lastmodified":1636503454,
     "wof:name":"Adigrat",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",
@@ -279,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.46998327511039,
-    14.28043194473497,
-    39.46998327511039,
-    14.28043194473497
+    39.469983,
+    14.280432,
+    39.469983,
+    14.280432
 ],
-  "geometry": {"coordinates":[39.46998327511039,14.28043194473497],"type":"Point"}
+  "geometry": {"coordinates":[39.469983,14.280432],"type":"Point"}
 }

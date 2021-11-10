@@ -51,6 +51,12 @@
     "name:fra_x_preferred":[
         "Chendi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e0\u05d3\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Shendi"
+    ],
     "name:ita_x_preferred":[
         "Shendi"
     ],
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1226461353,
-    "wof:lastmodified":1566593838,
+    "wof:lastmodified":1636503453,
     "wof:name":"Shendi",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

@@ -23,20 +23,32 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0628\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09ac\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Goba"
     ],
     "name:deu_x_preferred":[
         "Goba"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Goba"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Goba"
     ],
     "name:hbs_x_preferred":[
         "Goba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092c\u093e"
@@ -45,6 +57,9 @@
         "Goba"
     ],
     "name:hun_x_preferred":[
+        "Goba"
+    ],
+    "name:ind_x_preferred":[
         "Goba"
     ],
     "name:ita_x_preferred":[
@@ -77,11 +92,20 @@
     "name:swe_x_preferred":[
         "Goba"
     ],
+    "name:tur_x_preferred":[
+        "Goba"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0431\u0430"
     ],
     "name:und_x_variant":[
         "Gobb\u00e0"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Goba"
     ],
     "name:zho_x_preferred":[
         "\u6208\u5df4"
@@ -229,7 +253,7 @@
         }
     ],
     "wof:id":421173609,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1636503446,
     "wof:name":"Goba",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

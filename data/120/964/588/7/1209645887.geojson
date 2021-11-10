@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e9\u05e9\u05de\u05e0\u05d4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632257
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209645887,
-    "wof:lastmodified":1566593224,
+    "wof:lastmodified":1636503441,
     "wof:name":"Shashemene",
     "wof:parent_id":85632257,
     "wof:placetype":"locality",

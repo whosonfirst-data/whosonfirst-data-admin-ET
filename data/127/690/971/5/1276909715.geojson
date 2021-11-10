@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Anaco"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Anaco"
+    ],
     "name:ita_x_preferred":[
         "Anaco"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1276909715,
-    "wof:lastmodified":1566593183,
+    "wof:lastmodified":1636503440,
     "wof:name":"Anaco",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

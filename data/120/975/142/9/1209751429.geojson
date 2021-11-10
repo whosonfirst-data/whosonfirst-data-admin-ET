@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Debar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d0\u05e8"
+    ],
     "name:hrv_x_preferred":[
         "Debar"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1209751429,
-    "wof:lastmodified":1566593308,
+    "wof:lastmodified":1636503441,
     "wof:name":"Debar",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

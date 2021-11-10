@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0456\u043d\u0447\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09a8\u09cd\u09b8\u09bf\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0447\u043e"
     ],
@@ -53,6 +56,9 @@
     "name:deu_x_preferred":[
         "Mincio"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03c3\u03c4\u03b9\u03bf"
+    ],
     "name:est_x_preferred":[
         "Mincio"
     ],
@@ -60,6 +66,15 @@
         "\u0645\u06cc\u0646\u0686\u0648"
     ],
     "name:fra_x_preferred":[
+        "Mincio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05d3\u05d5\u05e8\u05d5 \u05d0\u05d5\u05e7\u05e1\u05d9\u05d3\u05e0\u05d8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0928\u093f\u0938\u093f\u092f\u094b"
+    ],
+    "name:ind_x_preferred":[
         "Mincio"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +88,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0438\u043d\u0447\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbfc\ucd08"
     ],
     "name:lat_x_preferred":[
         "Mincius"
@@ -104,8 +122,23 @@
     "name:spa_x_preferred":[
         "R\u00edo Mincio"
     ],
+    "name:swe_x_preferred":[
+        "Mincio"
+    ],
+    "name:tur_x_preferred":[
+        "Mincio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0447\u0456\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u06a9\u06cc\u0648"
+    ],
     "name:vec_x_preferred":[
         "Menzo"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mincio"
     ],
     "name:zho_x_preferred":[
         "\u660e\u55ac\u6cb3"
@@ -133,7 +166,7 @@
         }
     ],
     "wof:id":1260214193,
-    "wof:lastmodified":1566593376,
+    "wof:lastmodified":1636503443,
     "wof:name":"Mincio",
     "wof:parent_id":1108695191,
     "wof:placetype":"locality",

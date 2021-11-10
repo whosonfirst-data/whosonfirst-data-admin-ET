@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Gedo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Gedo"
+    ],
     "name:ita_x_preferred":[
         "Ghedo"
     ],
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421176921,
-    "wof:lastmodified":1566593559,
+    "wof:lastmodified":1636503447,
     "wof:name":"Gedo",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

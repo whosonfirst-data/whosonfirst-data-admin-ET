@@ -17,17 +17,47 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09df\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Waliso"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03b3\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Waliso"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Waliso"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d9\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093f\u092f\u094b\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Giyon"
+    ],
+    "name:ind_x_preferred":[
+        "Giyon"
+    ],
     "name:ita_x_preferred":[
         "Wolisso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30e8\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uae30\uc698"
     ],
     "name:nld_x_preferred":[
         "Waliso"
@@ -38,11 +68,35 @@
     "name:pol_x_preferred":[
         "Waliso"
     ],
+    "name:por_x_preferred":[
+        "Waliso"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u044b\u0439\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Giyon"
+    ],
     "name:swe_x_preferred":[
         "Waliso"
+    ],
+    "name:tur_x_preferred":[
+        "Giyon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Giyon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6c83\u5229\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u6c38"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -183,7 +237,7 @@
         }
     ],
     "wof:id":421168695,
-    "wof:lastmodified":1566593551,
+    "wof:lastmodified":1636503446,
     "wof:name":"Giyon",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

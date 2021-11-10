@@ -32,11 +32,17 @@
     "name:ceb_x_preferred":[
         "Dese"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e1\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Dese"
     ],
     "name:ita_x_preferred":[
         "Dese"
+    ],
+    "name:por_x_preferred":[
+        "Dessie"
     ],
     "name:swe_x_preferred":[
         "Dese"
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1293136915,
-    "wof:lastmodified":1566593058,
+    "wof:lastmodified":1636503438,
     "wof:name":"Dese",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",
