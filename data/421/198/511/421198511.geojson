@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bichena"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0447\u0435\u043d\u0430"
     ],
@@ -32,6 +35,9 @@
     "name:nld_x_preferred":[
         "Bichena"
     ],
+    "name:pol_x_preferred":[
+        "Bichena"
+    ],
     "name:swe_x_preferred":[
         "Bichena"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u5fb9\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Bichena"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421198511,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879620,
     "wof:name":"Bichena",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guder"
+    ],
     "name:eng_x_preferred":[
         "Guder"
     ],
@@ -25,6 +28,12 @@
     ],
     "name:orm_x_preferred":[
         "Gudar"
+    ],
+    "name:pol_x_preferred":[
+        "Guder"
+    ],
+    "name:swe_x_preferred":[
+        "Guder"
     ],
     "name:zho_x_preferred":[
         "\u53e4\u5fb7\u723e"
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421180431,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1690879618,
     "wof:name":"Guder",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

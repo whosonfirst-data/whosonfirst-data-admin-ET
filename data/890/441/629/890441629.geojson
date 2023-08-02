@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0633\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Dessie"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u0441\u044d"
     ],
@@ -55,14 +61,23 @@
     "name:eus_x_preferred":[
         "Dese"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Dessie"
     ],
     "name:fra_x_preferred":[
         "Dessie"
     ],
+    "name:gle_x_preferred":[
+        "Dessie"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0ab8\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0947\u0938\u094d\u0938\u0940"
@@ -127,6 +142,9 @@
     "name:spa_x_preferred":[
         "Dese"
     ],
+    "name:swa_x_preferred":[
+        "Dese"
+    ],
     "name:swe_x_preferred":[
         "Dese"
     ],
@@ -151,6 +169,9 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0633\u06cc\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Dessi\u00e8"
+    ],
     "name:vie_x_preferred":[
         "Dessie"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Dessie"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -288,7 +312,7 @@
         }
     ],
     "wof:id":890441629,
-    "wof:lastmodified":1566593561,
+    "wof:lastmodified":1690879627,
     "wof:name":"Des\u0113",
     "wof:parent_id":1108695209,
     "wof:placetype":"locality",

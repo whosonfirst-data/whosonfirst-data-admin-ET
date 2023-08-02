@@ -49,6 +49,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d5\u05dd \u05d2\u05d5\u05e0\u05d3\u05e8"
     ],
+    "name:ita_x_preferred":[
+        "Gondar meridionale"
+    ],
     "name:jpn_x_preferred":[
         "\u5357\u30b4\u30f3\u30c0\u30fc\u30eb\u770c"
     ],
@@ -58,8 +61,14 @@
     "name:swe_x_preferred":[
         "South Gondar Zone"
     ],
+    "name:swe_x_variant":[
+        "Debub Gondar"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u8ca2\u5fb7\u723e\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "South Gondar Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1108695205,
-    "wof:lastmodified":1566593391,
+    "wof:lastmodified":1690879609,
     "wof:name":"S. Gonder",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

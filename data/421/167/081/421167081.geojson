@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Gebre Guracha"
     ],
+    "name:pol_x_preferred":[
+        "Gebre Guracha"
+    ],
     "name:swe_x_preferred":[
         "Gebre Guracha"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421167081,
-    "wof:lastmodified":1566593552,
+    "wof:lastmodified":1690879615,
     "wof:name":"Gebre Guracha",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

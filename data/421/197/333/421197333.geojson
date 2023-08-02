@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Shambu"
+    ],
     "name:ceb_x_preferred":[
         "Shambu"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c71\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Shambu"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421197333,
-    "wof:lastmodified":1566593557,
+    "wof:lastmodified":1690879622,
     "wof:name":"Shambu",
     "wof:parent_id":1108695163,
     "wof:placetype":"locality",

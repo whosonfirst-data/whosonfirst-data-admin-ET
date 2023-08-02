@@ -67,6 +67,9 @@
     "name:und_x_variant":[
         "Addis-\u0100lam"
     ],
+    "name:zul_x_preferred":[
+        "Addis Alem"
+    ],
     "qs:name":"\u0100d\u012bs \u2018Alem",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890437885,
-    "wof:lastmodified":1566593563,
+    "wof:lastmodified":1690879630,
     "wof:name":"\u0100d\u012bs \u2018Alem",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

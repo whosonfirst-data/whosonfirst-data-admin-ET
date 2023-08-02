@@ -40,8 +40,17 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0629 \u062f\u0627\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631\u0629 \u062f\u0627\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Dire Dawa"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0631\u062f\u0627\u0648\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0131re-Daua"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u044b\u0440\u044d-\u0414\u0430\u0443\u0430"
@@ -51,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u0987\u09b0\u09c7 \u09a1\u09be\u0993\u09af\u09bc"
+    ],
+    "name:bho_x_preferred":[
+        "\u0921\u093f\u0930\u0947 \u0921\u093e\u0935\u093e"
     ],
     "name:bre_x_preferred":[
         "Dire Dawa"
@@ -97,6 +109,12 @@
     "name:fra_x_preferred":[
         "Dire Dawa"
     ],
+    "name:gle_x_preferred":[
+        "Dire Dawa"
+    ],
+    "name:glg_x_preferred":[
+        "Dire Dawa"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0abf\u0ab0\u0ac7 \u0aa1\u0abe\u0ab5\u0abe"
     ],
@@ -117,6 +135,9 @@
     ],
     "name:hun_x_preferred":[
         "Dire Dawa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0580\u0565 \u0534\u0561\u0578\u0582\u0561"
     ],
     "name:ind_x_preferred":[
         "Dire Dawa"
@@ -226,14 +247,23 @@
     "name:uzb_x_preferred":[
         "Diredava"
     ],
+    "name:vec_x_preferred":[
+        "Dire Daua"
+    ],
     "name:vie_x_preferred":[
         "Dire Dawa"
     ],
     "name:war_x_preferred":[
         "Dire Dawa"
     ],
+    "name:wuu_x_preferred":[
+        "\u5fb7\u96f7\u8fbe\u74e6"
+    ],
     "name:zho_x_preferred":[
         "\u5fb7\u96f7\u8fbe\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Dire Dawa"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"ADM2",
@@ -302,7 +332,7 @@
         }
     ],
     "wof:id":421190257,
-    "wof:lastmodified":1607993768,
+    "wof:lastmodified":1690879621,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85671159,
     "wof:placetype":"county",

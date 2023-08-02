@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0645\u0628\u064a\u062f\u0648\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0645\u0628\u064a\u062f\u0648\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Dembi Dollo"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09ae\u09cd\u09ac\u09bf \u09a6\u09cb\u09b2\u09cb"
     ],
@@ -38,8 +44,14 @@
     "name:eng_x_variant":[
         "Dembi Dollo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0628\u06cc\u062f\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Dembidolo"
+    ],
+    "name:fra_x_variant":[
+        "Dembi Dolo"
     ],
     "name:hbs_x_preferred":[
         "Dembidolo"
@@ -98,6 +110,9 @@
     "name:tur_x_preferred":[
         "Dembi Dolo"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u0431\u0456-\u0414\u043e\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Saio"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u767b\u6bd4\u591a\u6d1b"
+    ],
+    "name:zul_x_preferred":[
+        "Dembidolo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":421197341,
-    "wof:lastmodified":1636503447,
+    "wof:lastmodified":1690879622,
     "wof:name":"Dembi Dolo",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0622\u062f\u064a\u063a\u0631\u0627\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u062f\u064a\u062c\u0631\u0627\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Adigrat"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u062f\u06cc\u0642\u0631\u0627\u062a"
     ],
@@ -121,6 +127,9 @@
     "name:spa_x_preferred":[
         "Adigrat"
     ],
+    "name:swa_x_preferred":[
+        "Adigrat"
+    ],
     "name:swe_x_preferred":[
         "Adigrat"
     ],
@@ -150,6 +159,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u8fea\u683c\u62c9\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Adigrat"
     ],
     "qs:name":"\u0100d\u012bgrat",
     "qs:photos_9r":0,
@@ -182,7 +194,7 @@
         }
     ],
     "wof:id":890440169,
-    "wof:lastmodified":1566593560,
+    "wof:lastmodified":1690879625,
     "wof:name":"\u0100d\u012bgrat",
     "wof:parent_id":1108695161,
     "wof:placetype":"locality",

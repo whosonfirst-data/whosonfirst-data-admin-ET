@@ -34,32 +34,87 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u0627\u0645\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Sidama"
+    ],
     "name:ceb_x_preferred":[
         "Sidama Zone"
     ],
+    "name:ces_x_preferred":[
+        "Sidama"
+    ],
     "name:deu_x_preferred":[
         "Sidama-Zone"
+    ],
+    "name:deu_x_variant":[
+        "Sidama"
     ],
     "name:eng_x_preferred":[
         "Sidama"
     ],
     "name:eng_x_variant":[
-        "Sidama Zone"
+        "Sidama Zone",
+        "Sidama Region"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u06cc\u062f\u0627\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Sidama"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d3\u05de\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Szidama"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30c0\u30de\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub2e4\ub9c8\uc8fc"
+    ],
+    "name:nob_x_preferred":[
+        "Sidama"
+    ],
+    "name:oci_x_preferred":[
+        "Sidama"
+    ],
+    "name:orm_x_preferred":[
+        "Naannoo Sidaamaa"
     ],
     "name:pol_x_preferred":[
         "Strefa Sidama"
     ],
+    "name:por_x_preferred":[
+        "Sidama"
+    ],
+    "name:ron_x_preferred":[
+        "Statul Sidama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0430\u043c\u0430"
+    ],
     "name:swe_x_preferred":[
         "Sidama Zone"
     ],
+    "name:swe_x_variant":[
+        "Sidama"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0ba4\u0bbe\u0bae\u0bbe \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0bae\u0bcd"
+    ],
+    "name:vie_x_preferred":[
+        "Sidama"
+    ],
     "name:zho_x_preferred":[
         "\u932b\u9054\u99ac\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Sidama Region"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -123,7 +178,7 @@
         }
     ],
     "wof:id":421204421,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1690879616,
     "wof:name":"Sidama",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

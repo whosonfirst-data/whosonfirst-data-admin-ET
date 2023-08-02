@@ -42,6 +42,9 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u0645\u0647\u0631\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n d'Amhara"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09b9\u09be\u09b0\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -80,6 +83,9 @@
     "name:epo_x_preferred":[
         "Regiono Amharo"
     ],
+    "name:est_x_preferred":[
+        "Amhara osariik"
+    ],
     "name:eus_x_preferred":[
         "Amhara eskualdea"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:fra_x_preferred":[
         "Amhara"
+    ],
+    "name:frr_x_preferred":[
+        "Amhaara"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0ab9\u0abe\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -194,6 +203,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0bae\u0bcd\u0bae\u0bb0 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bae\u0bcd\u0bae\u0bbe\u0bb0\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u043c\u0445\u0430\u0440\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
     ],
@@ -226,6 +238,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u59c6\u54c8\u62c9\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Amhara Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ETH",
@@ -350,7 +365,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1582362115,
+    "wof:lastmodified":1690879602,
     "wof:name":"Amhara",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

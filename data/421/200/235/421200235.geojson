@@ -53,6 +53,9 @@
     "name:und_x_variant":[
         "Addis Zaman"
     ],
+    "name:zul_x_preferred":[
+        "Addis Zemen"
+    ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":344923,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421200235,
-    "wof:lastmodified":1566593557,
+    "wof:lastmodified":1690879622,
     "wof:name":"Adis Zemen",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

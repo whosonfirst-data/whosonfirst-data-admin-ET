@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u064a\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0643\u064a\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mek'ele"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u044d\u043a\u044d\u043b\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u0995'\u098f\u09b2\u09c7"
     ],
@@ -35,6 +44,9 @@
         "Mekele"
     ],
     "name:ceb_x_preferred":[
+        "Mekele"
+    ],
+    "name:ces_x_preferred":[
         "Mekele"
     ],
     "name:dan_x_preferred":[
@@ -67,6 +79,12 @@
     "name:fra_x_preferred":[
         "Mekele"
     ],
+    "name:gle_x_preferred":[
+        "Mek'ele"
+    ],
+    "name:glg_x_preferred":[
+        "Makalle"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a95\u0ac7\u0ab2\u0ac7"
     ],
@@ -82,6 +100,12 @@
     "name:hun_x_preferred":[
         "Mek\u2019ele"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056f\u0565\u056c\u0565"
+    ],
+    "name:ile_x_preferred":[
+        "Mekele"
+    ],
     "name:ind_x_preferred":[
         "Mek'ele"
     ],
@@ -91,8 +115,14 @@
     "name:jpn_x_preferred":[
         "\u30e1\u30b1\u30ec"
     ],
+    "name:jpn_x_variant":[
+        "\u30e1\u30c3\u30af\u30a8\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc6\u0c95\u0cc6\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d9\u10d4\u10da\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uba54\ucf08\ub808"
@@ -117,6 +147,9 @@
     ],
     "name:nld_x_preferred":[
         "Mek'ele"
+    ],
+    "name:nno_x_preferred":[
+        "Mekele"
     ],
     "name:nob_x_preferred":[
         "Mekele"
@@ -151,6 +184,9 @@
     "name:swe_x_preferred":[
         "Mekele"
     ],
+    "name:szl_x_preferred":[
+        "Mekelie"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc6\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bc7\u0bb2\u0bc7"
     ],
@@ -159,6 +195,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e40\u0e04\u0e40\u0e25"
+    ],
+    "name:tir_x_preferred":[
+        "\u1218\u1250\u1208"
     ],
     "name:tur_x_preferred":[
         "Mek'ele"
@@ -172,6 +211,9 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06a9\u06cc\u0644\u06d2"
     ],
+    "name:vec_x_preferred":[
+        "Macall\u00e8"
+    ],
     "name:vie_x_preferred":[
         "Makale"
     ],
@@ -180,6 +222,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9ed8\u514b\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Mekelle"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -318,7 +363,7 @@
         }
     ],
     "wof:id":890435323,
-    "wof:lastmodified":1582362127,
+    "wof:lastmodified":1690879636,
     "wof:name":"Mekele",
     "wof:parent_id":1108695189,
     "wof:placetype":"locality",

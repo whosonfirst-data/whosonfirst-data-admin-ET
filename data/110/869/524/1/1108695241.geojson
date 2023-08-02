@@ -51,6 +51,12 @@
     "name:swe_x_preferred":[
         "Yem Special Woreda"
     ],
+    "name:swe_x_variant":[
+        "Yem"
+    ],
+    "name:zul_x_preferred":[
+        "Yem special woreda"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108695241,
-    "wof:lastmodified":1566593396,
+    "wof:lastmodified":1690879612,
     "wof:name":"Yem SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

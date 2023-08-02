@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "Basketo"
     ],
+    "name:eus_x_preferred":[
+        "Basketoaren Woreda Berezia"
+    ],
     "name:fra_x_preferred":[
         "Basketo"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Basketo"
+    ],
+    "name:zul_x_preferred":[
+        "Basketo special woreda"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1108695139,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1690879610,
     "wof:name":"Basketo SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

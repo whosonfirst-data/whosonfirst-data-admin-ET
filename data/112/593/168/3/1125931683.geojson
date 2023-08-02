@@ -25,6 +25,12 @@
     "name:amh_x_preferred":[
         "\u12f0\u1265\u1228 \u1273\u1266\u122d"
     ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0628\u0631\u064a \u062a\u0627\u0628\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0628\u0631\u0649 \u062a\u0627\u0628\u0648\u0631"
+    ],
     "name:ceb_x_preferred":[
         "Debre Tabor"
     ],
@@ -34,6 +40,12 @@
     "name:eng_x_preferred":[
         "Debre Tabor"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0631\u0647 \u062a\u0627\u0628\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Debre Tabor"
+    ],
     "name:fra_x_preferred":[
         "Debre Tabor"
     ],
@@ -41,6 +53,9 @@
         "\u05d3\u05d1\u05e8\u05d4 \u05ea\u05d1\u05d5\u05e8"
     ],
     "name:hrv_x_preferred":[
+        "Debre Tabor"
+    ],
+    "name:ind_x_preferred":[
         "Debre Tabor"
     ],
     "name:ita_x_preferred":[
@@ -72,6 +87,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u535c\u52d2\u5854\u535a\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Debre Tabor"
     ],
     "qs_pg:aaroncc":"ET",
     "qs_pg:gn_country":"ET",
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":1125931683,
-    "wof:lastmodified":1566593567,
+    "wof:lastmodified":1690879637,
     "wof:name":"Debre Tabor",
     "wof:parent_id":1108695205,
     "wof:placetype":"locality",

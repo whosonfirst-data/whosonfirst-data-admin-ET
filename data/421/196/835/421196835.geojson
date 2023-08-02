@@ -23,7 +23,13 @@
     "name:eng_x_preferred":[
         "Tulu Bolo"
     ],
+    "name:fra_x_preferred":[
+        "Tulu Bolo"
+    ],
     "name:nld_x_preferred":[
+        "Tulu Bolo"
+    ],
+    "name:pol_x_preferred":[
         "Tulu Bolo"
     ],
     "name:rus_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421196835,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879621,
     "wof:name":"Tulu Bolo",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

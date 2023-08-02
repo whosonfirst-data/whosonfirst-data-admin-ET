@@ -25,7 +25,13 @@
     "name:eng_x_preferred":[
         "Deder"
     ],
+    "name:ita_x_preferred":[
+        "Ded\u00e8r"
+    ],
     "name:nld_x_preferred":[
+        "Deder"
+    ],
+    "name:pol_x_preferred":[
         "Deder"
     ],
     "name:swe_x_preferred":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890431237,
-    "wof:lastmodified":1566593564,
+    "wof:lastmodified":1690879632,
     "wof:name":"Deder",
     "wof:parent_id":1108695155,
     "wof:placetype":"locality",

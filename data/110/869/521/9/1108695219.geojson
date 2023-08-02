@@ -33,8 +33,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:amh_x_preferred":[
+        "\u12f0\u1261\u1265 \u12a6\u121e"
+    ],
     "name:ceb_x_preferred":[
         "South Omo"
+    ],
+    "name:deu_x_preferred":[
+        "Debub Omo"
     ],
     "name:eng_x_preferred":[
         "Debub Omo"
@@ -46,6 +52,9 @@
     "name:fra_x_preferred":[
         "Debub Omo"
     ],
+    "name:ita_x_preferred":[
+        "Omo meridionale"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30d6\u30d6\u30fb\u30aa\u30e2\u770c"
     ],
@@ -55,8 +64,14 @@
     "name:swe_x_preferred":[
         "South Omo"
     ],
+    "name:swe_x_variant":[
+        "Debub Omo"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5967\u83ab\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "South Omo Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1108695219,
-    "wof:lastmodified":1566593388,
+    "wof:lastmodified":1690879607,
     "wof:name":"South Omo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

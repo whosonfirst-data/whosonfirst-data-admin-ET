@@ -130,6 +130,9 @@
     "name:ind_x_preferred":[
         "Region Southern Nations"
     ],
+    "name:ind_x_variant":[
+        "Region Bangsa Selatan"
+    ],
     "name:ita_x_preferred":[
         "Regione delle Nazioni"
     ],
@@ -216,6 +219,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e32\u0e23\u0e4c\u0e40\u0e17\u0e34\u0e19 \u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e20\u0e39\u0e21\u0e34\u0e20\u0e32\u0e04\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e0a\u0e32\u0e15\u0e34 \u0e0a\u0e19\u0e0a\u0e32\u0e15\u0e34 \u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e0a\u0e19\u0e17\u0e32\u0e07\u0e43\u0e15\u0e49"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney Uluslar\u0131 ve Halklar\u0131 B\u00f6lgesi"
@@ -362,7 +368,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1582362115,
+    "wof:lastmodified":1690879601,
     "wof:name":"Southern Nations, Nationalities and Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

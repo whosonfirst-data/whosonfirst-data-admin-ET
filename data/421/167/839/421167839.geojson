@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Dodola"
+    ],
     "name:ceb_x_preferred":[
         "Dodola"
     ],
@@ -24,6 +27,9 @@
         "Dodola"
     ],
     "name:fra_x_preferred":[
+        "Dodola"
+    ],
+    "name:ita_x_preferred":[
         "Dodola"
     ],
     "name:jpn_x_preferred":[
@@ -49,6 +55,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u591a\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Dodola"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421167839,
-    "wof:lastmodified":1566593553,
+    "wof:lastmodified":1690879616,
     "wof:name":"Dodola",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:amh_x_preferred":[
         "\u1266\u1295\u130b"
     ],
+    "name:ast_x_preferred":[
+        "Bonga"
+    ],
+    "name:ceb_x_preferred":[
+        "Bonga"
+    ],
     "name:deu_x_preferred":[
         "Bonga"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:ita_x_preferred":[
         "Bonga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30ac"
     ],
     "name:nld_x_preferred":[
         "Bonga"
@@ -46,11 +55,17 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043d\u0433\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Bonga"
+    ],
     "name:und_x_variant":[
         "Bonga (1)"
     ],
     "name:zho_x_preferred":[
         "\u90a6\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Bonga"
     ],
     "qs:name":"Bonga",
     "qs:photos_9r":0,
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":890441251,
-    "wof:lastmodified":1566593562,
+    "wof:lastmodified":1690879628,
     "wof:name":"Bonga",
     "wof:parent_id":1108695181,
     "wof:placetype":"locality",

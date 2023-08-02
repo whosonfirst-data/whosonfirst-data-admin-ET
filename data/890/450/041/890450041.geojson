@@ -43,10 +43,17 @@
         "Bench Maji Zone"
     ],
     "name:eng_x_variant":[
-        "Bench Maji"
+        "Bench Maji",
+        "Bench Sheko"
     ],
     "name:fra_x_preferred":[
         "Bench Maji"
+    ],
+    "name:fra_x_variant":[
+        "Bench Sheko"
+    ],
+    "name:ita_x_preferred":[
+        "Bench Sheko"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30f3\u30c1\u30fb\u30de\u30b8\u5730\u65b9"
@@ -57,11 +64,17 @@
     "name:swe_x_preferred":[
         "Bench Maji Zone"
     ],
+    "name:swe_x_variant":[
+        "Bench Maji"
+    ],
     "name:und_x_variant":[
         "Benchi"
     ],
     "name:zho_x_preferred":[
         "\u672c\u5947\u99ac\u5409\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Bench Maji Zone"
     ],
     "qs:name":"Bench Maji Zone",
     "qs:photos_9r":0,
@@ -113,7 +126,7 @@
         }
     ],
     "wof:id":890450041,
-    "wof:lastmodified":1582362127,
+    "wof:lastmodified":1690879636,
     "wof:name":"Bench Maji",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

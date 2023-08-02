@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u062f\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Gode"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09a1\u09c7"
     ],
@@ -136,6 +142,9 @@
     "name:spa_x_preferred":[
         "Gode"
     ],
+    "name:swa_x_preferred":[
+        "Gode"
+    ],
     "name:swe_x_preferred":[
         "Gode"
     ],
@@ -162,6 +171,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6208\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Gode"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":421200119,
-    "wof:lastmodified":1636503447,
+    "wof:lastmodified":1690879623,
     "wof:name":"Gode",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0646\u0633\u0648"
+    ],
     "name:ast_x_preferred":[
+        "Konso"
+    ],
+    "name:aze_x_preferred":[
         "Konso"
     ],
     "name:cat_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:dan_x_preferred":[
         "Konsos kulturlandskab"
+    ],
+    "name:dan_x_variant":[
+        "Konso"
     ],
     "name:deu_x_preferred":[
         "Konso"
@@ -44,11 +53,20 @@
     "name:fin_x_preferred":[
         "Konson kulttuurimaisema"
     ],
+    "name:fin_x_variant":[
+        "Konso"
+    ],
     "name:fra_x_preferred":[
         "Konso"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e0\u05d5\u05e3 \u05d4\u05ea\u05e8\u05d1\u05d5\u05ea\u05d9 \u05e9\u05dc \u05e7\u05d5\u05e0\u05e1\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Konso"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u057d\u0578"
     ],
     "name:ita_x_preferred":[
         "Konso"
@@ -59,11 +77,17 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10dc\u10e1\u10dd"
     ],
+    "name:lit_x_preferred":[
+        "Konsas"
+    ],
     "name:nld_x_preferred":[
         "Konso"
     ],
     "name:nob_x_preferred":[
         "Konsos kulturlandskap"
+    ],
+    "name:nob_x_variant":[
+        "Konso"
     ],
     "name:nor_x_preferred":[
         "Konsos kulturlandskap"
@@ -86,6 +110,9 @@
     "name:swe_x_preferred":[
         "Karat"
     ],
+    "name:swe_x_variant":[
+        "Konso"
+    ],
     "name:tur_x_preferred":[
         "Konso"
     ],
@@ -94,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b54\u7d22"
+    ],
+    "name:zul_x_preferred":[
+        "Konso"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -143,7 +173,7 @@
         }
     ],
     "wof:id":421203043,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1690879617,
     "wof:name":"Konso",
     "wof:parent_id":1108695183,
     "wof:placetype":"locality",

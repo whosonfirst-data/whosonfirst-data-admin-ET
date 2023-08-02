@@ -49,11 +49,17 @@
     "name:ron_x_preferred":[
         "Jinka"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043d\u043a\u0430"
+    ],
     "name:swe_x_preferred":[
         "Jinka"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Jinka"
     ],
     "qs:name":"Jinka",
     "qs:photos_9r":0,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890441623,
-    "wof:lastmodified":1566593562,
+    "wof:lastmodified":1690879629,
     "wof:name":"Jinka",
     "wof:parent_id":1108695219,
     "wof:placetype":"locality",

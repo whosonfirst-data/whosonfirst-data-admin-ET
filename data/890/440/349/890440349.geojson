@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Metu"
+    ],
+    "name:ceb_x_preferred":[
+        "Metu"
+    ],
     "name:eng_x_preferred":[
         "Metu"
     ],
     "name:fra_x_preferred":[
         "Metou"
+    ],
+    "name:fra_x_variant":[
+        "Metu"
     ],
     "name:hrv_x_preferred":[
         "Metu"
@@ -43,11 +55,17 @@
     "name:rus_x_preferred":[
         "\u041c\u044d\u0442\u0442\u0443"
     ],
+    "name:swe_x_preferred":[
+        "Metu"
+    ],
     "name:und_x_variant":[
         "Mattu"
     ],
     "name:zho_x_preferred":[
         "\u9ed8\u5716"
+    ],
+    "name:zul_x_preferred":[
+        "Metu"
     ],
     "qs:name":"Metu",
     "qs:photos_9r":0,
@@ -80,7 +98,7 @@
         }
     ],
     "wof:id":890440349,
-    "wof:lastmodified":1566593560,
+    "wof:lastmodified":1690879626,
     "wof:name":"Metu",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

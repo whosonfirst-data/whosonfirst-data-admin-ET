@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u063a\u0627\u0644\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u062c\u0627\u0644\u0645"
+    ],
     "name:bar_x_preferred":[
         "Irgalem"
     ],
@@ -89,6 +92,9 @@
     "name:spa_x_preferred":[
         "Irgalem"
     ],
+    "name:swa_x_preferred":[
+        "Irgalem"
+    ],
     "name:swe_x_preferred":[
         "Yirga \u2018Alem"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5409\u5409\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Irgalem"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -252,7 +261,7 @@
         }
     ],
     "wof:id":421201463,
-    "wof:lastmodified":1636503447,
+    "wof:lastmodified":1690879623,
     "wof:name":"Yirga Alem",
     "wof:parent_id":421204421,
     "wof:placetype":"locality",

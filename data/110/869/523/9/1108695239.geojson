@@ -41,10 +41,14 @@
     ],
     "name:eng_x_variant":[
         "West Shewa",
-        "Mirab Shewa Zone"
+        "Mirab Shewa Zone",
+        "West Shewa Zone"
     ],
     "name:fra_x_preferred":[
         "Mirab Shewa"
+    ],
+    "name:ita_x_preferred":[
+        "Scioa occidentale"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u30b7\u30a7\u30ef\u770c"
@@ -55,8 +59,14 @@
     "name:swe_x_preferred":[
         "West Shewa Zone"
     ],
+    "name:swe_x_variant":[
+        "Mirab Shewa"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u65bd\u74e6\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "West Shewa Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +104,7 @@
         }
     ],
     "wof:id":1108695239,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1690879611,
     "wof:name":"West Shewa",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

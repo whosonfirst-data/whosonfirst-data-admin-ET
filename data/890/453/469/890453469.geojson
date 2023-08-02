@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Hirna"
     ],
+    "name:ita_x_preferred":[
+        "Hirna"
+    ],
     "name:nld_x_preferred":[
         "Hirna"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890453469,
-    "wof:lastmodified":1566593565,
+    "wof:lastmodified":1690879634,
     "wof:name":"H\u012brna",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:amh_x_preferred":[
         "\u1261\u1273\u1305\u122b"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0627\u062c\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Butajira"
+    ],
     "name:ceb_x_preferred":[
         "Butaj\u012bra"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854\u5409\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Butajira"
     ],
     "qs:name":"Butaj\u012bra",
     "qs:photos_9r":0,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890441627,
-    "wof:lastmodified":1566593561,
+    "wof:lastmodified":1690879627,
     "wof:name":"Butaj\u012bra",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",

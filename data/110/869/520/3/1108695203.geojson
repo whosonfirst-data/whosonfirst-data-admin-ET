@@ -45,11 +45,17 @@
     "name:eng_x_variant":[
         "Oromia Zone"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0648\u0631\u0648\u0645\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Oromia"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8\u05d5\u05de\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Oromia"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ed\u30df\u30a2\u770c"
@@ -60,8 +66,14 @@
     "name:swe_x_preferred":[
         "Oromia Zone"
     ],
+    "name:swe_x_variant":[
+        "Oromia"
+    ],
     "name:zho_x_preferred":[
         "\u5967\u7f85\u7c73\u4e9e\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Oromia Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108695203,
-    "wof:lastmodified":1566593391,
+    "wof:lastmodified":1690879608,
     "wof:name":"Oromiya",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

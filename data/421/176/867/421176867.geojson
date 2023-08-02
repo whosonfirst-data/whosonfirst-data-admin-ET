@@ -38,6 +38,9 @@
     "name:und_x_variant":[
         "Sandafe"
     ],
+    "name:zul_x_preferred":[
+        "Sendafa"
+    ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":328880,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421176867,
-    "wof:lastmodified":1566593559,
+    "wof:lastmodified":1690879625,
     "wof:name":"Sendafa",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",

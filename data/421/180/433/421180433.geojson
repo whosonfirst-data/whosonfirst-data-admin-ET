@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0631"
+    ],
     "name:ceb_x_preferred":[
         "Gor\u0113"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6208\u96f7"
+    ],
+    "name:zul_x_preferred":[
+        "Gore"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":421180433,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1690879618,
     "wof:name":"Gor\u0113",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

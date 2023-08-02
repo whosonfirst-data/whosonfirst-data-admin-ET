@@ -47,14 +47,23 @@
     "name:fra_x_preferred":[
         "Zone 3"
     ],
+    "name:fra_x_variant":[
+        "Gabi Resu"
+    ],
     "name:hrv_x_preferred":[
         "Upravna zona 3"
+    ],
+    "name:ita_x_preferred":[
+        "Gabi"
     ],
     "name:swe_x_preferred":[
         "Administrative Zone 3"
     ],
     "name:zho_x_preferred":[
         "\u7b2c\u4e09\u5730\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Gabi Rasu"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108695247,
-    "wof:lastmodified":1566593396,
+    "wof:lastmodified":1690879612,
     "wof:name":"Afar Zone 3",
     "wof:parent_id":85671129,
     "wof:placetype":"county",

@@ -47,11 +47,20 @@
     "name:fra_x_preferred":[
         "Zone 5"
     ],
+    "name:fra_x_variant":[
+        "Hari Resu"
+    ],
     "name:hrv_x_preferred":[
         "Upravna zona 5"
     ],
+    "name:ita_x_preferred":[
+        "Hari"
+    ],
     "name:zho_x_preferred":[
         "\u7b2c\u4e94\u5730\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Hari Rasu"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1108695253,
-    "wof:lastmodified":1566593394,
+    "wof:lastmodified":1690879611,
     "wof:name":"Afar Zone 5",
     "wof:parent_id":85671129,
     "wof:placetype":"county",

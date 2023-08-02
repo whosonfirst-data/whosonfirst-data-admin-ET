@@ -37,8 +37,14 @@
     "name:pol_x_preferred":[
         "Ficze"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0448\u0435"
+    ],
     "name:swe_x_preferred":[
         "Fich\u0113"
+    ],
+    "name:zul_x_preferred":[
+        "Fiche"
     ],
     "qs:name":"Fich\u0113",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890431235,
-    "wof:lastmodified":1566593564,
+    "wof:lastmodified":1690879631,
     "wof:name":"Fich\u0113",
     "wof:parent_id":1108695199,
     "wof:placetype":"locality",
