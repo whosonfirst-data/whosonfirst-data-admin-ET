@@ -48,6 +48,9 @@
     "name:spa_x_preferred":[
         "Godere"
     ],
+    "name:zul_x_preferred":[
+        "Godere"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108695169,
-    "wof:lastmodified":1566593391,
+    "wof:lastmodified":1690879609,
     "wof:name":"Godere",
     "wof:parent_id":85671137,
     "wof:placetype":"county",

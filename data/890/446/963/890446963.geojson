@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:cat_x_preferred":[
+        "Ilubabor"
+    ],
     "name:ceb_x_preferred":[
         "Illubabor Zone"
     ],
@@ -64,8 +67,14 @@
     "name:swe_x_preferred":[
         "Illubabor Zone"
     ],
+    "name:swe_x_variant":[
+        "Illubabor"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u8def\u5df4\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "Illubabor Zone"
     ],
     "qs:name":"Illubabor Zone",
     "qs:photos_9r":0,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":890446963,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1690879626,
     "wof:name":"Illubabor",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

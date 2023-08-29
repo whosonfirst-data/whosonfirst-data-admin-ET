@@ -48,6 +48,9 @@
     "name:orm_x_preferred":[
         "Liiban"
     ],
+    "name:zul_x_preferred":[
+        "Liben"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108695187,
-    "wof:lastmodified":1566593389,
+    "wof:lastmodified":1690879608,
     "wof:name":"Liben",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e8\u05db\u05d6\u05d9"
     ],
+    "name:ita_x_preferred":[
+        "Mehakelegnaw"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30e9\u30b1\u30ec\u30f3\u30ce\u30fc\u770c"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:swe_x_preferred":[
         "Central Tigray Zone"
+    ],
+    "name:swe_x_variant":[
+        "Mehakelegnaw"
+    ],
+    "name:zul_x_preferred":[
+        "Maekelay Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108695145,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1690879610,
     "wof:name":"C. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

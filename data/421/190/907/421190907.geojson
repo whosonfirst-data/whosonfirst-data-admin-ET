@@ -20,6 +20,9 @@
     "name:amh_x_preferred":[
         "\u12a0\u134b\u121d\u1266"
     ],
+    "name:cat_x_preferred":[
+        "Afambo"
+    ],
     "name:eng_x_preferred":[
         "Afambo"
     ],
@@ -27,6 +30,9 @@
         "Afambo"
     ],
     "name:hrv_x_preferred":[
+        "Afambo"
+    ],
+    "name:ita_x_preferred":[
         "Afambo"
     ],
     "name:nld_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:und_x_variant":[
         "Afembo"
+    ],
+    "name:zul_x_preferred":[
+        "Afambo"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421190907,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879621,
     "wof:name":"Afambo",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

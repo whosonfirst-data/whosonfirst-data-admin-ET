@@ -17,17 +17,29 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Batu"
+    ],
     "name:ceb_x_preferred":[
         "Ziway"
     ],
+    "name:deu_x_preferred":[
+        "Batu"
+    ],
     "name:eng_x_preferred":[
         "Ziway"
+    ],
+    "name:eng_x_variant":[
+        "Batu"
     ],
     "name:fra_x_preferred":[
         "Ziway"
     ],
     "name:hbs_x_preferred":[
         "Zivaj"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Zivaj"
@@ -40,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "Ziway"
+    ],
+    "name:orm_x_preferred":[
+        "Baatuu"
     ],
     "name:pol_x_preferred":[
         "Ziway"
@@ -58,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8332\u61f7"
+    ],
+    "name:zul_x_preferred":[
+        "Ziway"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":421203041,
-    "wof:lastmodified":1566593553,
+    "wof:lastmodified":1690879617,
     "wof:name":"Ziway",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

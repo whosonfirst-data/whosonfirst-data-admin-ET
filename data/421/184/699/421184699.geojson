@@ -37,8 +37,14 @@
     "name:ceb_x_preferred":[
         "Shinile Zone"
     ],
+    "name:ceb_x_variant":[
+        "Sitti Zone"
+    ],
     "name:deu_x_preferred":[
         "Shinile-Zone"
+    ],
+    "name:deu_x_variant":[
+        "Sitti-Zone"
     ],
     "name:eng_x_preferred":[
         "Shinile Zone"
@@ -51,6 +57,12 @@
     "name:fra_x_preferred":[
         "Shinile"
     ],
+    "name:fra_x_variant":[
+        "Sitti"
+    ],
+    "name:ita_x_preferred":[
+        "Siti"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30c3\u30c6\u30a3\u770c"
     ],
@@ -59,6 +71,12 @@
     ],
     "name:swe_x_preferred":[
         "Shinile Zone"
+    ],
+    "name:swe_x_variant":[
+        "Shinile"
+    ],
+    "name:zul_x_preferred":[
+        "Sitti Zone"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"ADM2",
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":421184699,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1690879623,
     "wof:name":"Shinile",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

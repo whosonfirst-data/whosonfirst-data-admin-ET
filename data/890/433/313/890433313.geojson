@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Holeta Genet"
     ],
+    "name:ita_x_preferred":[
+        "Olett\u00e0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ec\u30bf"
+    ],
     "name:nld_x_preferred":[
         "Holeta Genet"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "Oletta"
+    ],
+    "name:zul_x_preferred":[
+        "Holeta Genet"
     ],
     "qs:name":"Genet",
     "qs:photos_9r":0,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890433313,
-    "wof:lastmodified":1566593567,
+    "wof:lastmodified":1690879636,
     "wof:name":"Genet",
     "wof:parent_id":1108695239,
     "wof:placetype":"locality",

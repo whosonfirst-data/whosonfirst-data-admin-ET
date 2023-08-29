@@ -31,8 +31,14 @@
     "name:fra_x_preferred":[
         "Asebe Teferi"
     ],
+    "name:fra_x_variant":[
+        "Chiro"
+    ],
     "name:ita_x_preferred":[
         "Asba Littoria"
+    ],
+    "name:ita_x_variant":[
+        "Ciro"
     ],
     "name:nld_x_preferred":[
         "Asebe Teferi"
@@ -48,6 +54,9 @@
     ],
     "name:und_x_variant":[
         "Asbatafari"
+    ],
+    "name:zul_x_preferred":[
+        "Chiro"
     ],
     "qs:name":"\u0100sbe Tefer\u012b",
     "qs:photos_9r":0,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890418079,
-    "wof:lastmodified":1566593565,
+    "wof:lastmodified":1690879634,
     "wof:name":"\u0100sbe Tefer\u012b",
     "wof:parent_id":1108695227,
     "wof:placetype":"locality",

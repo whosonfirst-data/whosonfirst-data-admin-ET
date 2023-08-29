@@ -20,6 +20,9 @@
     "name:amh_x_preferred":[
         "\u1260\u12f0\u120c \u12a8\u1270\u121b"
     ],
+    "name:ast_x_preferred":[
+        "Bedele"
+    ],
     "name:ceb_x_preferred":[
         "Bedel\u0113"
     ],
@@ -32,11 +35,17 @@
     "name:nld_x_preferred":[
         "Bedele"
     ],
+    "name:pol_x_preferred":[
+        "Bedele"
+    ],
     "name:swe_x_preferred":[
         "Bedel\u0113"
     ],
     "name:und_x_variant":[
         "Beddele"
+    ],
+    "name:zul_x_preferred":[
+        "Bedele"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421198509,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879620,
     "wof:name":"Bedele",
     "wof:parent_id":890446963,
     "wof:placetype":"locality",

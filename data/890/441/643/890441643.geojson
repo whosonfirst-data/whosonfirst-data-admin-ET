@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:amh_x_preferred":[
+        "\u12a0\u1228\u12ab"
+    ],
+    "name:ast_x_preferred":[
+        "Areka"
+    ],
     "name:ceb_x_preferred":[
         "\u0100reka"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:und_x_variant":[
         "Ancheto"
+    ],
+    "name:zul_x_preferred":[
+        "Areka"
     ],
     "qs:name":"\u0100reka",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890441643,
-    "wof:lastmodified":1566593560,
+    "wof:lastmodified":1690879627,
     "wof:name":"\u0100reka",
     "wof:parent_id":1108695237,
     "wof:placetype":"locality",

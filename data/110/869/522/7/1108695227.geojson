@@ -46,14 +46,23 @@
     "name:fra_x_preferred":[
         "Mirab Hararghe"
     ],
+    "name:ita_x_preferred":[
+        "Hararge occidentale"
+    ],
     "name:orm_x_preferred":[
         "Dhiha Hararghe"
     ],
     "name:swe_x_preferred":[
         "West Harerghe Zone"
     ],
+    "name:swe_x_variant":[
+        "Mirab Hararghe"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u54c8\u52d2\u723e\u84cb\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "West Hararghe Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108695227,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1690879611,
     "wof:name":"W. Haraerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

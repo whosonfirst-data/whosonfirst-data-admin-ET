@@ -22,11 +22,29 @@
     "name:amh_x_preferred":[
         "\u12a5\u1295\u12f3\u1235\u120b\u1234"
     ],
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u064a\u0631"
+    ],
+    "name:bar_x_preferred":[
+        "Shire"
+    ],
+    "name:bel_x_preferred":[
+        "\u042b\u043d\u0434\u0430-\u0421\u044b\u043b\u0430\u0441\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Inda Silas\u0113"
     ],
+    "name:deu_x_preferred":[
+        "Shire"
+    ],
     "name:eng_x_preferred":[
         "Shire"
+    ],
+    "name:est_x_preferred":[
+        "Shire Inda Selassie"
+    ],
+    "name:fin_x_preferred":[
+        "Inda Silase"
     ],
     "name:fra_x_preferred":[
         "Shire"
@@ -55,6 +73,9 @@
     "name:slv_x_preferred":[
         "Shire"
     ],
+    "name:swa_x_preferred":[
+        "Shire"
+    ],
     "name:swe_x_preferred":[
         "Inda Silas\u0113"
     ],
@@ -66,6 +87,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u96f7"
+    ],
+    "name:zul_x_preferred":[
+        "Shire Inda Selassie"
     ],
     "qs:name":"Inda Silas\u0113",
     "qs:photos_9r":0,
@@ -98,7 +122,7 @@
         }
     ],
     "wof:id":890438205,
-    "wof:lastmodified":1566593564,
+    "wof:lastmodified":1690879633,
     "wof:name":"Inda Silas\u0113",
     "wof:parent_id":1108695229,
     "wof:placetype":"locality",

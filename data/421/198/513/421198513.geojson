@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Dubti"
     ],
+    "name:fin_x_preferred":[
+        "Dubti"
+    ],
     "name:nld_x_preferred":[
         "Dubti"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421198513,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879620,
     "wof:name":"Dubti",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

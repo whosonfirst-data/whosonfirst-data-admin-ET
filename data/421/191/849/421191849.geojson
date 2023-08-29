@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ginir"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0438\u043d\u0438\u0440"
     ],
@@ -32,6 +35,9 @@
     "name:fra_x_preferred":[
         "Ginir"
     ],
+    "name:ita_x_preferred":[
+        "Ghim\u00ecr"
+    ],
     "name:jpn_x_preferred":[
         "\u30ae\u30cb\u30eb"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5409\u5c3c\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Ginir"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421191849,
-    "wof:lastmodified":1566593556,
+    "wof:lastmodified":1690879621,
     "wof:name":"G\u012bn\u012br",
     "wof:parent_id":1108695137,
     "wof:placetype":"locality",

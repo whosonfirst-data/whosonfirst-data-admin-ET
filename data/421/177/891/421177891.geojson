@@ -20,6 +20,12 @@
     "name:amh_x_preferred":[
         "\u134d\u1296\u1270 \u1230\u120b\u121d"
     ],
+    "name:ast_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:cat_x_preferred":[
+        "Finote Selam"
+    ],
     "name:ceb_x_preferred":[
         "Finote Selam"
     ],
@@ -35,6 +41,12 @@
     "name:fra_x_preferred":[
         "Finote Selam"
     ],
+    "name:hau_x_preferred":[
+        "Finote Selam"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05d5\u05d8\u05d4 \u05e1\u05dc\u05d0\u05dd"
+    ],
     "name:hun_x_preferred":[
         "Finote Selam"
     ],
@@ -47,6 +59,9 @@
     "name:pol_x_preferred":[
         "Finote Selam"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u044b\u043d\u043e\u0442\u044d-\u0421\u044d\u043b\u0430\u043c"
+    ],
     "name:swe_x_preferred":[
         "Finote Selam"
     ],
@@ -55,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8cbb\u8afe\u7279\u585e\u862d"
+    ],
+    "name:zul_x_preferred":[
+        "Finote Selam"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":421177891,
-    "wof:lastmodified":1566593558,
+    "wof:lastmodified":1690879624,
     "wof:name":"Finote Selam",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",

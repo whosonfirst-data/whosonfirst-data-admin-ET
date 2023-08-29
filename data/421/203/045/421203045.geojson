@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0430\u0438\u0442\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Asayita"
+    ],
     "name:ceb_x_preferred":[
         "Asaita"
     ],
@@ -27,6 +30,12 @@
         "Asaita"
     ],
     "name:eng_x_preferred":[
+        "Asaita"
+    ],
+    "name:epo_x_preferred":[
+        "Asaita"
+    ],
+    "name:fin_x_preferred":[
         "Asaita"
     ],
     "name:fra_x_preferred":[
@@ -62,8 +71,17 @@
     "name:swe_x_preferred":[
         "Asaita"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0430\u0457\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Aisaita"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8428\u4f0a\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Asaita"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":421203045,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1690879617,
     "wof:name":"Asayita",
     "wof:parent_id":1108695243,
     "wof:placetype":"locality",

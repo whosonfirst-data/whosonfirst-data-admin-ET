@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "Dingab"
     ],
+    "name:zul_x_preferred":[
+        "Dejen"
+    ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":339551,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421167085,
-    "wof:lastmodified":1566593552,
+    "wof:lastmodified":1690879615,
     "wof:name":"Dejen",
     "wof:parent_id":1108695153,
     "wof:placetype":"locality",

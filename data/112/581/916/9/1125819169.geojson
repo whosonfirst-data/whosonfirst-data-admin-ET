@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nejo"
+    ],
     "name:ceb_x_preferred":[
         "Nejo"
     ],
@@ -37,6 +40,9 @@
     "name:nld_x_preferred":[
         "Nejo"
     ],
+    "name:pol_x_preferred":[
+        "Nejo"
+    ],
     "name:swe_x_preferred":[
         "Nejo"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5167\u55ac"
+    ],
+    "name:zul_x_preferred":[
+        "Nejo"
     ],
     "qs_pg:aaroncc":"ET",
     "qs_pg:gn_country":"ET",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125819169,
-    "wof:lastmodified":1566593568,
+    "wof:lastmodified":1690879638,
     "wof:name":"Nejo",
     "wof:parent_id":1108695233,
     "wof:placetype":"locality",

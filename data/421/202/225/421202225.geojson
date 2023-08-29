@@ -29,8 +29,17 @@
     "name:arg_x_preferred":[
         "Lalibela"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0644\u064a\u0628\u064a\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Lalibela"
+    ],
+    "name:aze_x_preferred":[
+        "Lalibela"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0430\u043b\u0438\u0431\u044d\u043b\u0430"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u043b\u0456\u0431\u044d\u043b\u0430"
@@ -92,6 +101,9 @@
     "name:hrv_x_preferred":[
         "Lalibela"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u056c\u056b\u0562\u0565\u056c\u0561"
+    ],
     "name:ind_x_preferred":[
         "Lalibela"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub784\ub9ac\ubca8\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Lalibela"
     ],
     "name:lit_x_preferred":[
         "Lalibela"
@@ -120,6 +135,9 @@
         "Lalibela"
     ],
     "name:nor_x_preferred":[
+        "Lalibela"
+    ],
+    "name:oci_x_preferred":[
         "Lalibela"
     ],
     "name:pol_x_preferred":[
@@ -152,6 +170,9 @@
     "name:swe_x_preferred":[
         "Lalibela"
     ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e25\u0e35\u0e40\u0e1a\u0e25\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043b\u0456\u0431\u0435\u043b\u0430"
     ],
@@ -167,8 +188,14 @@
     "name:war_x_preferred":[
         "Lalibela"
     ],
+    "name:yue_x_preferred":[
+        "\u62c9\u5229\u8c9d\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5229\u8c9d\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Lalibela"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -221,7 +248,7 @@
         }
     ],
     "wof:id":421202225,
-    "wof:lastmodified":1566593554,
+    "wof:lastmodified":1690879617,
     "wof:name":"Lalibela",
     "wof:parent_id":1108695201,
     "wof:placetype":"locality",

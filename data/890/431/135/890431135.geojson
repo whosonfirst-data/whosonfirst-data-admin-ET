@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Maychew"
     ],
+    "name:fin_x_preferred":[
+        "Maychew"
+    ],
     "name:fra_x_preferred":[
         "Maychew"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Maych\u2019awu"
+    ],
+    "name:zul_x_preferred":[
+        "Maichew"
     ],
     "qs:name":"Maych\u2019ew",
     "qs:photos_9r":0,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890431135,
-    "wof:lastmodified":1566593563,
+    "wof:lastmodified":1690879631,
     "wof:name":"Maych\u2019ew",
     "wof:parent_id":1108695207,
     "wof:placetype":"locality",

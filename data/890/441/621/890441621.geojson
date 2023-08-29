@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Mojo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062c\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mojo"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Maggio"
+    ],
+    "name:zul_x_preferred":[
+        "Mojo"
     ],
     "qs:name":"Mojo",
     "qs:photos_9r":0,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890441621,
-    "wof:lastmodified":1566593561,
+    "wof:lastmodified":1690879627,
     "wof:name":"Mojo",
     "wof:parent_id":1108695157,
     "wof:placetype":"locality",

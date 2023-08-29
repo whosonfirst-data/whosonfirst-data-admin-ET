@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:amh_x_preferred":[
+        "\u12a0\u1308\u12cd \u12a0\u12ca \u12de\u1295"
+    ],
     "name:ceb_x_preferred":[
         "Awi"
     ],
@@ -43,11 +46,17 @@
         "Awi/Agew",
         "Agew Awi Zone"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0627\u0648"
+    ],
     "name:fra_x_preferred":[
         "Agew Awi"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d2\u05d0\u05d5 \u05d0\u05d5\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Awi"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b8\u30e5\u30fb\u30a2\u30a6\u30a3\u770c"
@@ -60,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u53e4\u963f\u7dad\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Agew Awi Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1108695125,
-    "wof:lastmodified":1566593397,
+    "wof:lastmodified":1690879613,
     "wof:name":"Agew Awi",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

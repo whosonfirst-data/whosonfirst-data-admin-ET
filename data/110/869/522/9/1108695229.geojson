@@ -50,10 +50,19 @@
     "name:heb_x_preferred":[
         "\u05d4\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e2\u05e8\u05d1\u05d9"
     ],
+    "name:ita_x_preferred":[
+        "Mi'irabawi"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30a4\u30e9\u30d0\u30a6\u30a3\u770c"
     ],
     "name:swe_x_preferred":[
+        "Mi'irabawi Zone"
+    ],
+    "name:swe_x_variant":[
+        "Mi'irabawi"
+    ],
+    "name:zul_x_preferred":[
         "Mi'irabawi Zone"
     ],
     "src:geom":"meso",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108695229,
-    "wof:lastmodified":1566593394,
+    "wof:lastmodified":1690879611,
     "wof:name":"W. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

@@ -52,6 +52,9 @@
     "name:ita_x_preferred":[
         "Borana"
     ],
+    "name:ita_x_variant":[
+        "Borena"
+    ],
     "name:orm_x_preferred":[
         "Boorana"
     ],
@@ -61,8 +64,17 @@
     "name:swe_x_preferred":[
         "Borena Zone"
     ],
+    "name:swe_x_variant":[
+        "Borena"
+    ],
     "name:zho_x_preferred":[
         "\u535a\u52d2\u7d0d\u5730\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u62c9\u7d0d\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Borena Zone"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":421188225,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1690879620,
     "wof:name":"Borena",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

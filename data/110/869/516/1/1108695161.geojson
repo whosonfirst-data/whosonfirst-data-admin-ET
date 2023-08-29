@@ -42,9 +42,13 @@
     "name:eng_x_variant":[
         "Eastern",
         "Misraqawi",
-        "Misraqawi Zone"
+        "Misraqawi Zone",
+        "Eastern Zone"
     ],
     "name:fra_x_preferred":[
+        "Misraqawi"
+    ],
+    "name:ita_x_preferred":[
         "Misraqawi"
     ],
     "name:jpn_x_preferred":[
@@ -55,6 +59,12 @@
     ],
     "name:swe_x_preferred":[
         "Eastern Tigray Zone"
+    ],
+    "name:swe_x_variant":[
+        "Misraqawi"
+    ],
+    "name:zul_x_preferred":[
+        "Misraqawi Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108695161,
-    "wof:lastmodified":1566593392,
+    "wof:lastmodified":1690879609,
     "wof:name":"E. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

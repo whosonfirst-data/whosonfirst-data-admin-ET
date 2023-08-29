@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yabelo"
+    ],
     "name:ceb_x_preferred":[
         "Yab\u0113lo"
     ],
@@ -30,6 +33,9 @@
         "Javello"
     ],
     "name:nld_x_preferred":[
+        "Yabelo"
+    ],
+    "name:pol_x_preferred":[
         "Yabelo"
     ],
     "name:ron_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e9e\u8c9d\u6d1b"
+    ],
+    "name:zul_x_preferred":[
+        "Yabelo"
     ],
     "qs:gn_country":"ET",
     "qs:gn_fcode":"PPL",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421201473,
-    "wof:lastmodified":1566593558,
+    "wof:lastmodified":1690879623,
     "wof:name":"Yabalo",
     "wof:parent_id":421188225,
     "wof:placetype":"locality",

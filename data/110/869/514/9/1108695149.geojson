@@ -45,6 +45,9 @@
     "name:nld_x_preferred":[
         "Degehabur"
     ],
+    "name:zul_x_preferred":[
+        "Degehabur"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108695149,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1690879609,
     "wof:name":"Degehabur",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

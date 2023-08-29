@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Waliso"
     ],
+    "name:deu_x_preferred":[
+        "Waliso"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03b9\u03b3\u03b9\u03cc\u03bd"
     ],
@@ -77,6 +80,9 @@
     "name:spa_x_preferred":[
         "Giyon"
     ],
+    "name:swa_x_preferred":[
+        "Waliso"
+    ],
     "name:swe_x_preferred":[
         "Waliso"
     ],
@@ -97,6 +103,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5409\u6c38"
+    ],
+    "name:zul_x_preferred":[
+        "Waliso"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ethiopia",
@@ -237,7 +246,7 @@
         }
     ],
     "wof:id":421168695,
-    "wof:lastmodified":1636503446,
+    "wof:lastmodified":1690879614,
     "wof:name":"Giyon",
     "wof:parent_id":1108695211,
     "wof:placetype":"locality",

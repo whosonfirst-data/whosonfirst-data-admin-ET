@@ -50,6 +50,12 @@
     "name:fra_x_preferred":[
         "Jimma"
     ],
+    "name:hye_x_preferred":[
+        "\u054b\u056b\u0574\u0574\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Jimma"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30f3\u30de\u770c"
     ],
@@ -62,11 +68,20 @@
     "name:swe_x_preferred":[
         "Jimma Zone"
     ],
+    "name:swe_x_variant":[
+        "Jima"
+    ],
+    "name:tgk_x_preferred":[
+        "\u043c\u0438\u043d\u0442\u0430\u049b\u0430\u0438 \u04b6\u0438\u043c\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "J\u012bma \u0100wraja"
     ],
     "name:zho_x_preferred":[
         "\u5409\u99ac\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Jimma Zone"
     ],
     "qs:name":"Jimma Zone",
     "qs:photos_9r":0,
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":890418071,
-    "wof:lastmodified":1582362126,
+    "wof:lastmodified":1690879635,
     "wof:name":"Jimma",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

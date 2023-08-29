@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Turmi"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u043c\u0438"
     ],
     "name:ceb_x_preferred":[
+        "Turmi"
+    ],
+    "name:ces_x_preferred":[
         "Turmi"
     ],
     "name:deu_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5716\u723e\u7c73"
+    ],
+    "name:zul_x_preferred":[
+        "Turmi"
     ],
     "qs_pg:aaroncc":"ET",
     "qs_pg:gn_country":"ET",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125819163,
-    "wof:lastmodified":1566593568,
+    "wof:lastmodified":1690879638,
     "wof:name":"Turmi",
     "wof:parent_id":1108695219,
     "wof:placetype":"locality",

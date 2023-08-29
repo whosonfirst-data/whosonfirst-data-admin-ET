@@ -54,11 +54,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05ea\u05e7\u05dc"
     ],
+    "name:ita_x_preferred":[
+        "Metekel"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30c6\u30b1\u30eb\u770c"
     ],
     "name:swe_x_preferred":[
         "Metekel"
+    ],
+    "name:zul_x_preferred":[
+        "Metekel Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108695191,
-    "wof:lastmodified":1566593389,
+    "wof:lastmodified":1690879607,
     "wof:name":"Metekel",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

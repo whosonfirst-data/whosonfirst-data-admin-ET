@@ -47,17 +47,29 @@
     "name:fra_x_preferred":[
         "Mirab Welega"
     ],
+    "name:ita_x_preferred":[
+        "Uollegg\u00e0 occidentale"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u30a6\u30a7\u30ec\u30ac\u770c"
     ],
     "name:orm_x_preferred":[
         "Wallagga Dhihaa"
     ],
+    "name:pol_x_preferred":[
+        "Strefa Zachodnia Welega"
+    ],
     "name:swe_x_preferred":[
         "West Wellega Zone"
     ],
+    "name:swe_x_variant":[
+        "Mirab Welega"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u6c83\u840a\u52a0\u5730\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "West Welega Zone"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108695233,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1690879612,
     "wof:name":"W. Wellega",
     "wof:parent_id":85671141,
     "wof:placetype":"county",
