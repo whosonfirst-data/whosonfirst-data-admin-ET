@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.537363,
-    "geom:area_square_m":6569681240.971062,
+    "geom:area_square_m":6569681240.971137,
     "geom:bbox":"37.537609,8.258238,38.772228,9.017621",
     "geom:latitude":8.61073,
     "geom:longitude":38.217463,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "S.W. Shewa"
+    ],
     "name:eng_x_variant":[
         "South West Shewa",
         "Debub Mirab Shewa"
@@ -51,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1474493528,
-    "wof:geomhash":"5f29ea55cae0552b72ee77b45b7ab0b6",
+    "wof:geomhash":"a862a4e38bb94f0a101432d8fcd00e79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108695211,
-    "wof:lastmodified":1628266709,
+    "wof:lastmodified":1694492881,
     "wof:name":"S.W. Shewa",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.452777,
-    "geom:area_square_m":17878389681.534691,
+    "geom:area_square_m":17878389681.534683,
     "geom:bbox":"38.34103,4.659274,40.036865,6.445345",
     "geom:latitude":5.5754,
     "geom:longitude":39.177591,
@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Guji"
     ],
+    "name:eng_x_preferred":[
+        "Guji"
+    ],
     "name:eng_x_variant":[
         "Guji"
     ],
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1474493495,
-    "wof:geomhash":"904e33db1602065be0d21ebd55332899",
+    "wof:geomhash":"732ae882ab6ae0604635950916b93332",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108695171,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1694492672,
     "wof:name":"Guji",
     "wof:parent_id":85671141,
     "wof:placetype":"county",
