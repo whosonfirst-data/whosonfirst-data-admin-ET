@@ -1207,7 +1207,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"251",
     "statoids:ds":"ETH",
     "statoids:fifa":"ETH",
@@ -1280,7 +1280,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1694492106,
+    "wof:lastmodified":1694639559,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
