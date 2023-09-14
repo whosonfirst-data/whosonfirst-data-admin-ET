@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087704,
-    "geom:area_square_m":1075325191.648596,
+    "geom:area_square_m":1075325191.648595,
     "geom:bbox":"38.048561,7.211843,38.433124,7.626074",
     "geom:latitude":7.448676,
     "geom:longitude":38.213635,
@@ -62,10 +62,12 @@
         85671133
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"ET.SN.KA"
+    },
     "wof:country":"ET",
     "wof:created":1474493461,
-    "wof:geomhash":"dd23d43f48615afe2c9a3ef256e8b1de",
+    "wof:geomhash":"e62ffc20cb8f542d298a970e3126be9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108695127,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1694492672,
     "wof:name":"Alaba SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

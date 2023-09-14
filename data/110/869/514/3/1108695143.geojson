@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11043,
-    "geom:area_square_m":1359225448.448184,
+    "geom:area_square_m":1359225448.448125,
     "geom:bbox":"37.57188,5.237774,37.967728,5.707352",
     "geom:latitude":5.489426,
     "geom:longitude":37.788286,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Burji SW"
+    ],
     "name:eng_x_variant":[
         "Segen Peoples'",
         "Burji"
@@ -51,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1474493473,
-    "wof:geomhash":"f552ae724552c56d31de6758a24a619c",
+    "wof:geomhash":"5e497e8a967c20c09d8d371d2fa4fa4d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108695143,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694492835,
     "wof:name":"Burji SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

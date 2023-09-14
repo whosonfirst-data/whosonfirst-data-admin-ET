@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189475,
-    "geom:area_square_m":2332637419.597929,
+    "geom:area_square_m":2332637419.597909,
     "geom:bbox":"37.009369,5.160219,37.702633,5.662293",
     "geom:latitude":5.361331,
     "geom:longitude":37.380254,
@@ -33,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Konso SW"
+    ],
     "name:eng_x_variant":[
         "Segen Peoples'",
         "Konso"
@@ -51,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1474493507,
-    "wof:geomhash":"2ca9bc1f822011f8bb5efdf8811e94a5",
+    "wof:geomhash":"188c094ed52b95e17f8d21c53342ebcc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108695183,
-    "wof:lastmodified":1628266667,
+    "wof:lastmodified":1694492856,
     "wof:name":"Konso SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",
