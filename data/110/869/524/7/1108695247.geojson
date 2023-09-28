@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.355947,
-    "geom:area_square_m":16507721056.185617,
+    "geom:area_square_m":16507721056.185385,
     "geom:bbox":"39.793056,8.844014,41.169632,11.20131",
     "geom:latitude":10.063327,
     "geom:longitude":40.540555,
@@ -89,9 +89,10 @@
         "hasc:id":"ET.AF.TH",
         "wd:id":"Q3444674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493555,
-    "wof:geomhash":"b41ca9ac54868b3fabf5d3fd08b7c6bc",
+    "wof:geomhash":"2dc6c209ca010ef3abb30d137fe12289",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695247,
-    "wof:lastmodified":1690879612,
+    "wof:lastmodified":1695886705,
     "wof:name":"Afar Zone 3",
     "wof:parent_id":85671129,
     "wof:placetype":"county",

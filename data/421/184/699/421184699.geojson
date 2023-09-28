@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.528691,
-    "geom:area_square_m":30767653542.261337,
+    "geom:area_square_m":30767653542.261135,
     "geom:bbox":"40.6954,9.308142,42.946651,11.08447",
     "geom:latitude":10.252547,
     "geom:longitude":41.8403,
@@ -127,12 +127,13 @@
         "wd:id":"Q2279103",
         "wk:page":"Shinile Zone"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459009419,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bdc01eadcaf7db660cf3d012afee8437",
+    "wof:geomhash":"9f6ef14df6a2a8b85ea15f4f1fa7e2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421184699,
-    "wof:lastmodified":1690879623,
+    "wof:lastmodified":1695886035,
     "wof:name":"Shinile",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

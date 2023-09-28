@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.973235,
-    "geom:area_square_m":61062089577.413727,
+    "geom:area_square_m":61062089577.414062,
     "geom:bbox":"38.639267,5.357072,42.213078,8.150882",
     "geom:latitude":6.774406,
     "geom:longitude":40.505315,
@@ -122,9 +122,10 @@
     "wof:concordances":{
         "hasc:id":"ET.OR.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493468,
-    "wof:geomhash":"ecaf6ae41ae8f231efe59713672479b2",
+    "wof:geomhash":"a8214f305187712561e34d6bf6bff763",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108695137,
-    "wof:lastmodified":1566593393,
+    "wof:lastmodified":1695886704,
     "wof:name":"Bale",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.945429,
-    "geom:area_square_m":23829144962.363827,
+    "geom:area_square_m":23829144962.363819,
     "geom:bbox":"38.640541,6.864342,40.719498,8.866351",
     "geom:latitude":7.858003,
     "geom:longitude":39.599795,
@@ -115,9 +115,10 @@
         "hasc:id":"ET.OR.AR",
         "wd:id":"Q646859"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493464,
-    "wof:geomhash":"7fc30b3ca7944930ebbcce08189e457c",
+    "wof:geomhash":"5962d2557d941171946513e2ab52dedf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108695131,
-    "wof:lastmodified":1690879610,
+    "wof:lastmodified":1695886704,
     "wof:name":"Arsi",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

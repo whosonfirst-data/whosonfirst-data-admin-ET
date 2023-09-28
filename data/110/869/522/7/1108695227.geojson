@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.434289,
-    "geom:area_square_m":17531581296.135376,
+    "geom:area_square_m":17531581296.135475,
     "geom:bbox":"40.028362,7.881435,41.573277,9.484483",
     "geom:latitude":8.682737,
     "geom:longitude":40.779246,
@@ -76,9 +76,10 @@
         "hasc:id":"ET.OR.MK",
         "wd:id":"Q1109889"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493539,
-    "wof:geomhash":"eae9c637875177692e4542b08d6c4d29",
+    "wof:geomhash":"39d9751032bfcaa7d2af8b0b98f07e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108695227,
-    "wof:lastmodified":1690879611,
+    "wof:lastmodified":1695886705,
     "wof:name":"W. Haraerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.524462,
-    "geom:area_square_m":6367191730.506999,
+    "geom:area_square_m":6367191730.507138,
     "geom:bbox":"36.283207,10.45452,37.133884,11.475761",
     "geom:latitude":10.938836,
     "geom:longitude":36.69662,
@@ -97,9 +97,10 @@
         "hasc:id":"ET.AM.AA",
         "wd:id":"Q1070718"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493459,
-    "wof:geomhash":"7fff2279b66aaff135a9a7fa283813c8",
+    "wof:geomhash":"f3b5c8ca2109af216f6550765ed8088c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108695125,
-    "wof:lastmodified":1690879613,
+    "wof:lastmodified":1695886706,
     "wof:name":"Agew Awi",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

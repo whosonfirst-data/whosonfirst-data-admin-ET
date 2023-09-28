@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.25675,
-    "geom:area_square_m":15341376109.690973,
+    "geom:area_square_m":15341376109.691235,
     "geom:bbox":"37.030472,8.31551,38.712372,9.941409",
     "geom:latitude":9.163848,
     "geom:longitude":37.863402,
@@ -92,9 +92,10 @@
         "hasc:id":"ET.OR.MR",
         "wd:id":"Q1109833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493547,
-    "wof:geomhash":"f2ee080d1bb8c333ceb874e3a6058472",
+    "wof:geomhash":"c1bf73ee10202fb3e189a28ccfe8da79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695239,
-    "wof:lastmodified":1690879611,
+    "wof:lastmodified":1695886705,
     "wof:name":"West Shewa",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

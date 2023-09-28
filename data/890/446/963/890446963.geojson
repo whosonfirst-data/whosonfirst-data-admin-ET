@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.343627,
-    "geom:area_square_m":16440324796.923014,
+    "geom:area_square_m":16440324796.922632,
     "geom:bbox":"34.870197,7.460334,36.822906,8.961849",
     "geom:latitude":8.291854,
     "geom:longitude":35.73734,
@@ -111,12 +111,13 @@
         "wd:id":"Q768586",
         "wk:page":"Illubabor Zone"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1469052574,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21f1fb5150e7022e1b0d6e70d12d6c67",
+    "wof:geomhash":"11a0a52b55b62edce8c1cb1ee98cd0ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890446963,
-    "wof:lastmodified":1690879626,
+    "wof:lastmodified":1695886035,
     "wof:name":"Illubabor",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

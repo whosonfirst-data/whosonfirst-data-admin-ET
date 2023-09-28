@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.74255,
-    "geom:area_square_m":33179443915.748459,
+    "geom:area_square_m":33179443915.748741,
     "geom:bbox":"39.988212,10.784766,42.358013,13.092632",
     "geom:latitude":11.920802,
     "geom:longitude":41.268557,
@@ -101,9 +101,10 @@
         "hasc:id":"ET.AF.ON",
         "wd:id":"Q3444678"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493553,
-    "wof:geomhash":"2e9ab29ecd2bc628b610e68188d04ca1",
+    "wof:geomhash":"4d474458153b2b98dc856e1376beaa1c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695243,
-    "wof:lastmodified":1690879612,
+    "wof:lastmodified":1695886705,
     "wof:name":"Afar Zone 1",
     "wof:parent_id":85671129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061794,
-    "geom:area_square_m":756995527.299222,
+    "geom:area_square_m":756995527.29921,
     "geom:bbox":"37.391709,7.568999,37.610836,8.021088",
     "geom:latitude":7.816095,
     "geom:longitude":37.491039,
@@ -70,7 +70,7 @@
     },
     "wof:country":"ET",
     "wof:created":1474493549,
-    "wof:geomhash":"90f4b6facc5e036e78c05ed5e40946a7",
+    "wof:geomhash":"e2e728cd43d2e9c34db62533e6a4d983",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1108695241,
-    "wof:lastmodified":1690879612,
+    "wof:lastmodified":1695886705,
     "wof:name":"Yem SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

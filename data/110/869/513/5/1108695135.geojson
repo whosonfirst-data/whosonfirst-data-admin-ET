@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000558,
-    "geom:area_square_m":6762023.200182,
+    "geom:area_square_m":6762023.20018,
     "geom:bbox":"37.377319,11.574529,37.405266,11.603682",
     "geom:latitude":11.587917,
     "geom:longitude":37.392702,
@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AM.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493467,
-    "wof:geomhash":"87171947eebe1a266917d1dffc7dd657",
+    "wof:geomhash":"94042e12a200ef583d02a935ed20147d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1108695135,
-    "wof:lastmodified":1566593394,
+    "wof:lastmodified":1695886704,
     "wof:name":"Bahir Dar",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

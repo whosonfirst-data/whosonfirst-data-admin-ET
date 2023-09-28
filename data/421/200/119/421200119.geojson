@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.710452,
-    "geom:area_square_m":33320000437.867363,
+    "geom:area_square_m":33320000437.86718,
     "geom:bbox":"42.002403,4.936429,45.671398,7.33065",
     "geom:latitude":6.168042,
     "geom:longitude":43.581612,
@@ -225,12 +225,13 @@
         "qs_pg:id":784356,
         "wd:id":"Q744673"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459010012,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f20d3b773afce26074c735dda06e7f5",
+    "wof:geomhash":"639bd5d55dcdfdf1bc59d4e49507e6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -240,7 +241,7 @@
         }
     ],
     "wof:id":421200119,
-    "wof:lastmodified":1690879623,
+    "wof:lastmodified":1695886118,
     "wof:name":"Gode",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

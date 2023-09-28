@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000635,
-    "geom:area_square_m":7757491.113034,
+    "geom:area_square_m":7757491.113033,
     "geom:bbox":"38.719097,9.008665,38.755924,9.032926",
     "geom:latitude":9.021863,
     "geom:longitude":38.736667,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AA.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493449,
-    "wof:geomhash":"2ed7078d9715c9d4b40a4d97f42de84e",
+    "wof:geomhash":"013a8423a7060f9d733cd129f5b89bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108695109,
-    "wof:lastmodified":1627522112,
+    "wof:lastmodified":1695886584,
     "wof:name":"Addis Ababa Zone 1",
     "wof:parent_id":85671149,
     "wof:placetype":"county",

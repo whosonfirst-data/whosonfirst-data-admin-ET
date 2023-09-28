@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AA.FO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493453,
-    "wof:geomhash":"f6d02f87eea2d9d6793d8855a3e931fb",
+    "wof:geomhash":"3d99374ea2675b42067f6eb4dd3883e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108695115,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1695886585,
     "wof:name":"Addis Ababa Zone 4",
     "wof:parent_id":85671149,
     "wof:placetype":"county",

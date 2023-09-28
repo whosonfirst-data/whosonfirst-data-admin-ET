@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.950298,
-    "geom:area_square_m":36362257089.272713,
+    "geom:area_square_m":36362257089.27301,
     "geom:bbox":"39.09248,3.402422,42.067848,5.695502",
     "geom:latitude":4.59858,
     "geom:longitude":40.624564,
@@ -75,9 +75,10 @@
         "hasc:id":"ET.SO.LI",
         "wd:id":"Q3237714"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493510,
-    "wof:geomhash":"76d8c49619f5886b438aa59ddbccfc92",
+    "wof:geomhash":"f433ae023f65ca82442082c7d7f5ff3b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108695187,
-    "wof:lastmodified":1690879608,
+    "wof:lastmodified":1695886703,
     "wof:name":"Liben",
     "wof:parent_id":85671155,
     "wof:placetype":"county",
