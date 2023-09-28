@@ -1245,6 +1245,7 @@
         "hasc:id":"ET",
         "icao:code":"ET",
         "ioc:id":"ETH",
+        "iso:code":"ET",
         "itu:id":"ETH",
         "loc:id":"n79081279",
         "m49:code":"231",
@@ -1259,6 +1260,7 @@
         "wk:page":"Ethiopia",
         "wmo:id":"ET"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:country_alpha3":"ETH",
     "wof:geom_alt":[
@@ -1280,7 +1282,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1694639559,
+    "wof:lastmodified":1695881217,
     "wof:name":"Ethiopia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
