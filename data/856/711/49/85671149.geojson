@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045285,
-    "geom:area_square_m":553095457.00583,
+    "geom:area_square_m":553095457.005975,
     "geom:bbox":"38.655861,8.832989,38.910461,9.099371",
     "geom:latitude":8.979066,
     "geom:longitude":38.786796,
@@ -674,11 +674,13 @@
         "gn:id":444178,
         "gp:id":56013543,
         "hasc:id":"ET.AA",
+        "iso:code":"ET-AA",
         "iso:id":"ET-AA",
         "qs_pg:id":481499,
         "unlc:id":"ET-AA",
         "wd:id":"Q3624"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421170391
     ],
@@ -686,7 +688,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a56d100115d2c8887438662331ed250b",
+    "wof:geomhash":"81e1621a3570481ef904fbc8d4c35267",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -701,7 +703,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879604,
+    "wof:lastmodified":1695884375,
     "wof:name":"Addis Ababa",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

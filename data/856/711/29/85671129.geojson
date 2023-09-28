@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.938181,
-    "geom:area_square_m":95966219988.155182,
+    "geom:area_square_m":95966219988.155655,
     "geom:bbox":"39.663116,8.844014,42.358013,14.50096",
     "geom:latitude":12.05945,
     "geom:longitude":40.761101,
@@ -326,17 +326,19 @@
         "gn:id":444179,
         "gp:id":56013537,
         "hasc:id":"ET.AF",
+        "iso:code":"ET-AF",
         "iso:id":"ET-AF",
         "qs_pg:id":223945,
         "unlc:id":"ET-AF",
         "wd:id":"Q193494",
         "wk:page":"Afar Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9550aca8a970b74d6d2f307dae2781c7",
+    "wof:geomhash":"b72bf1ba27c35e9e2638816074e7ed19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879602,
+    "wof:lastmodified":1695884375,
     "wof:name":"Afar",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
