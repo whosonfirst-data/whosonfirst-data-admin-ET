@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"ET.SN.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493461,
     "wof:geomhash":"e62ffc20cb8f542d298a970e3126be9a",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695127,
-    "wof:lastmodified":1695886585,
+    "wof:lastmodified":1696023153,
     "wof:name":"Alaba SW",
     "wof:parent_id":85671133,
     "wof:placetype":"county",
