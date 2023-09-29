@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.293459,
-    "geom:area_square_m":52664502964.957764,
+    "geom:area_square_m":52664502964.95771,
     "geom:bbox":"44.52087,5.904538,47.961559,8.446335",
     "geom:latitude":7.268618,
     "geom:longitude":46.054467,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"ET.SO.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493544,
-    "wof:geomhash":"97f2bc58bfdf3db55128727ae602726c",
+    "wof:geomhash":"ded83e0fe0c11f642cf9225d6d72a6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108695235,
-    "wof:lastmodified":1566593395,
+    "wof:lastmodified":1695886705,
     "wof:name":"Warder",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

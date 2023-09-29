@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.109525,
-    "geom:area_square_m":13463037876.734268,
+    "geom:area_square_m":13463037876.735292,
     "geom:bbox":"36.510883,10.286711,37.857563,11.946078",
     "geom:latitude":11.087305,
     "geom:longitude":37.203192,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AM.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493536,
-    "wof:geomhash":"10eba5ddbf6c259709a475a1118108c1",
+    "wof:geomhash":"a8926a539fbfa95422871254e9ee2e42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695223,
-    "wof:lastmodified":1627522114,
+    "wof:lastmodified":1695886586,
     "wof:name":"W. Gojam",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

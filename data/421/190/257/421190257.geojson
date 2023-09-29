@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086721,
-    "geom:area_square_m":1057265695.580524,
+    "geom:area_square_m":1057265695.580476,
     "geom:bbox":"41.731247,9.47579,42.343376,9.787045",
     "geom:latitude":9.609687,
     "geom:longitude":42.006561,
@@ -314,6 +314,7 @@
         "wd:id":"Q193486",
         "wk:page":"Dire Dawa"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671159
     ],
@@ -322,7 +323,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55af5b00c86b1ce9f1ad264d852e5e71",
+    "wof:geomhash":"d1cca387757d0bd6c9bf4ec69a4e4857",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -332,7 +333,7 @@
         }
     ],
     "wof:id":421190257,
-    "wof:lastmodified":1690879621,
+    "wof:lastmodified":1695886411,
     "wof:name":"Dire Dawa",
     "wof:parent_id":85671159,
     "wof:placetype":"county",

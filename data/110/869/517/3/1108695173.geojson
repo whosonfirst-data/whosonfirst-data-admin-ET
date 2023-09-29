@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030501,
-    "geom:area_square_m":372204540.858443,
+    "geom:area_square_m":372204540.858463,
     "geom:bbox":"42.062099,9.189271,42.275394,9.392007",
     "geom:latitude":9.292987,
     "geom:longitude":42.1758,
@@ -65,12 +65,13 @@
     "wof:concordances":{
         "hasc:id":"ET.HA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671163
     ],
     "wof:country":"ET",
     "wof:created":1474493498,
-    "wof:geomhash":"5b730a838fa4fb6a11e6eff9cfd8e4db",
+    "wof:geomhash":"3e39a53d4313242a786f107c6591fc2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108695173,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1695886586,
     "wof:name":"Harar/Hundene",
     "wof:parent_id":85671163,
     "wof:placetype":"county",

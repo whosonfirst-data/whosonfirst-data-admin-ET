@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ET.OR.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493483,
     "wof:geomhash":"3011cc6f0031e69dd0a19394b8ea0777",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108695155,
-    "wof:lastmodified":1694492842,
+    "wof:lastmodified":1695886286,
     "wof:name":"E. Harerge",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.583367,
-    "geom:area_square_m":325741999860.511047,
+    "geom:area_square_m":325741999860.510986,
     "geom:bbox":"34.128887,3.513587,42.915611,10.389673",
     "geom:latitude":7.514718,
     "geom:longitude":38.716034,
@@ -335,16 +335,18 @@
         "gn:id":444185,
         "gp:id":56013545,
         "hasc:id":"ET.OR",
+        "iso:code":"ET-OR",
         "iso:id":"ET-OR",
         "qs_pg:id":1136824,
         "unlc:id":"ET-OR",
         "wd:id":"Q202107"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38e94cdf74a49e9c03e74a98ac24c52e",
+    "wof:geomhash":"ff82e53ca34b95363bb5ff0a83e214ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +361,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879603,
+    "wof:lastmodified":1695884375,
     "wof:name":"Oromiya",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.198478,
-    "geom:area_square_m":50414363685.539749,
+    "geom:area_square_m":50414363685.539398,
     "geom:bbox":"36.451977,12.254976,39.994682,14.852769",
     "geom:latitude":13.799932,
     "geom:longitude":38.441505,
@@ -346,17 +346,19 @@
         "gn:id":444187,
         "gp:id":2345312,
         "hasc:id":"ET.TI",
+        "iso:code":"ET-TI",
         "iso:id":"ET-TI",
         "qs_pg:id":890064,
         "unlc:id":"ET-TI",
         "wd:id":"Q200127",
         "wk:page":"Tigray Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c87bfe9a71a775ea44ff9f79e7eb56d",
+    "wof:geomhash":"994617054c0d551b35111bc749428d31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -371,7 +373,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879604,
+    "wof:lastmodified":1695884375,
     "wof:name":"Tigray",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

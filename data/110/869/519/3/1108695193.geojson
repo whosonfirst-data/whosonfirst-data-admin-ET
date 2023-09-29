@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.783045,
-    "geom:area_square_m":45635890053.218781,
+    "geom:area_square_m":45635890053.21862,
     "geom:bbox":"35.261765,11.416514,38.745594,13.771042",
     "geom:latitude":12.677531,
     "geom:longitude":36.989593,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AM.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493515,
-    "wof:geomhash":"cae922c0ad4cba4b9473c198683d917c",
+    "wof:geomhash":"6c1b49b71319e47010b365e24bc84754",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695193,
-    "wof:lastmodified":1627522114,
+    "wof:lastmodified":1695886586,
     "wof:name":"N. Gonder",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

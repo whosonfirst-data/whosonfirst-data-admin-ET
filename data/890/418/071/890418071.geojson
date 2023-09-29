@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.514824,
-    "geom:area_square_m":18552252073.328823,
+    "geom:area_square_m":18552252073.328934,
     "geom:bbox":"35.852131,7.224869,37.627087,8.87549",
     "geom:latitude":7.915881,
     "geom:longitude":36.826156,
@@ -118,12 +118,13 @@
         "wd:id":"Q1109877",
         "wk:page":"Jimma Zone"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1469051233,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1ce58df59d5aeefaae9260aa122db3c",
+    "wof:geomhash":"f970152cc00658c041751e06055cd14c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":890418071,
-    "wof:lastmodified":1690879635,
+    "wof:lastmodified":1695886035,
     "wof:name":"Jimma",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

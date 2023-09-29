@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.891712,
-    "geom:area_square_m":23245286625.331654,
+    "geom:area_square_m":23245286625.332375,
     "geom:bbox":"34.189015,5.334055,36.137562,7.212884",
     "geom:latitude":6.388331,
     "geom:longitude":35.408656,
@@ -111,12 +111,13 @@
         "wd:id":"Q2895686",
         "wk:page":"Bench Maji Zone"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1469052721,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5743d182c4c23bbe5d411d110237db02",
+    "wof:geomhash":"fc51c8234f5e6eea20da722d80dfbb16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890450041,
-    "wof:lastmodified":1690879636,
+    "wof:lastmodified":1695886036,
     "wof:name":"Bench Maji",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

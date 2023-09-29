@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.224607,
-    "geom:area_square_m":113323793116.269028,
+    "geom:area_square_m":113323793116.269272,
     "geom:bbox":"34.189015,4.443766,39.135849,8.46159",
     "geom:latitude":6.470633,
     "geom:longitude":36.750435,
@@ -345,15 +345,17 @@
         "gn:id":444188,
         "gp:id":56013536,
         "hasc:id":"ET.SN",
+        "iso:code":"ET-SN",
         "iso:id":"ET-SN",
         "qs_pg:id":4715,
         "wd:id":"Q203193"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40801fb4cd322c5d76a1f155d4455968",
+    "wof:geomhash":"58a9258666b8cb40985c36a12a70ddae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -368,7 +370,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879601,
+    "wof:lastmodified":1695884375,
     "wof:name":"Southern Nations, Nationalities and Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

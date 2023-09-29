@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.632769,
-    "geom:area_square_m":32334331021.414497,
+    "geom:area_square_m":32334331021.414474,
     "geom:bbox":"43.336971,5.626095,45.946346,7.709302",
     "geom:latitude":6.648438,
     "geom:longitude":44.425002,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"ET.SO.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493509,
-    "wof:geomhash":"83c53775df0ab14c6064fe40171c41b4",
+    "wof:geomhash":"566da3ccaae60b3f4ae12818ca53a170",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695185,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1695886586,
     "wof:name":"Korahe",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

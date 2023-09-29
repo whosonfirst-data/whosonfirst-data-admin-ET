@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.245557,
-    "geom:area_square_m":39720441233.083099,
+    "geom:area_square_m":39720441233.083305,
     "geom:bbox":"42.681351,7.052646,45.624111,9.110385",
     "geom:latitude":8.193024,
     "geom:longitude":44.017094,
@@ -72,9 +72,10 @@
         "hasc:id":"ET.SO.DE",
         "wd:id":"Q3021240"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493477,
-    "wof:geomhash":"ddf0f0bd62a1fc4173a7b79557544457",
+    "wof:geomhash":"4837fa9b48a8e655cab473a88b9459a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108695149,
-    "wof:lastmodified":1690879609,
+    "wof:lastmodified":1695886704,
     "wof:name":"Degehabur",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509494,
-    "geom:area_square_m":6236402637.676391,
+    "geom:area_square_m":6236402637.676414,
     "geom:bbox":"37.466553,7.759041,38.720455,8.46159",
     "geom:latitude":8.146077,
     "geom:longitude":38.082019,
@@ -117,12 +117,13 @@
         "qs_pg:id":897510,
         "wd:id":"Q1070678"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459009324,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da9ec6d27486568e15776d78a53fbe17",
+    "wof:geomhash":"9e93e6b9816c29d5c259ae0d1f2ca0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421182273,
-    "wof:lastmodified":1690879624,
+    "wof:lastmodified":1695886035,
     "wof:name":"Gurage",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

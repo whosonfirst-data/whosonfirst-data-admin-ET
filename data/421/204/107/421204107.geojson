@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110856,
-    "geom:area_square_m":1362867124.586391,
+    "geom:area_square_m":1362867124.58647,
     "geom:bbox":"38.083859,5.843603,38.442562,6.425851",
     "geom:latitude":6.147834,
     "geom:longitude":38.276621,
@@ -125,12 +125,13 @@
         "qs_pg:id":238118,
         "wd:id":"Q500213"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459010174,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57e1e19b2497c24b482ef7fa5d5cfbfc",
+    "wof:geomhash":"98c46a27d707e3e3e460429c79bf47c5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421204107,
-    "wof:lastmodified":1690879616,
+    "wof:lastmodified":1695886035,
     "wof:name":"Gedeo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

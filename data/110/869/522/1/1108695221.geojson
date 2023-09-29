@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157602,
-    "geom:area_square_m":1922334532.085363,
+    "geom:area_square_m":1922334532.085409,
     "geom:bbox":"34.100773,9.174226,34.511352,9.751704",
     "geom:latitude":9.448479,
     "geom:longitude":34.273365,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"ET.BE.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493535,
-    "wof:geomhash":"222a706ffbf860d259e7dae1fc552125",
+    "wof:geomhash":"9400d7d593868a220c7d357d275731d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695221,
-    "wof:lastmodified":1627522114,
+    "wof:lastmodified":1695886586,
     "wof:name":"Tongo SW",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

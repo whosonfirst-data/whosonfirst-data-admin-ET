@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.864537,
-    "geom:area_square_m":10374939955.069725,
+    "geom:area_square_m":10374939955.069305,
     "geom:bbox":"38.434204,13.181948,39.418335,14.640534",
     "geom:latitude":13.944368,
     "geom:longitude":38.926081,
@@ -97,9 +97,10 @@
         "hasc:id":"ET.TI.MH",
         "wd:id":"Q2902680"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493474,
-    "wof:geomhash":"6e2e7c961e19fd3e41dc2382c56c6703",
+    "wof:geomhash":"575fcf408bef2904beaf1a14f133189a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108695145,
-    "wof:lastmodified":1690879610,
+    "wof:lastmodified":1695886704,
     "wof:name":"C. Tigray",
     "wof:parent_id":85671125,
     "wof:placetype":"county",

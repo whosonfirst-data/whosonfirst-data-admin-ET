@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.054713,
-    "geom:area_square_m":12761409867.11202,
+    "geom:area_square_m":12761409867.111887,
     "geom:bbox":"38.446793,11.346755,40.009651,12.389856",
     "geom:latitude":11.898361,
     "geom:longitude":39.202236,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"ET.AM.SW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493519,
-    "wof:geomhash":"5dac5fcf75b1dca3fbace6671662786d",
+    "wof:geomhash":"dd15fff19825d7e23c64c411afbe628f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695201,
-    "wof:lastmodified":1627522114,
+    "wof:lastmodified":1695886586,
     "wof:name":"N. Wello",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.706409,
-    "geom:area_square_m":8519229084.219945,
+    "geom:area_square_m":8519229084.220071,
     "geom:bbox":"38.332706,12.264945,39.324203,13.295953",
     "geom:latitude":12.755616,
     "geom:longitude":38.80806,
@@ -97,9 +97,10 @@
         "hasc:id":"ET.AM.WH",
         "wd:id":"Q1070687"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493538,
-    "wof:geomhash":"37fef68203daecb54f7a5a324e6288d8",
+    "wof:geomhash":"ed832757a167a3faf1c5c8987acaa310",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108695225,
-    "wof:lastmodified":1690879611,
+    "wof:lastmodified":1695886705,
     "wof:name":"W. Hamra",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

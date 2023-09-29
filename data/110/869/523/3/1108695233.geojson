@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.991845,
-    "geom:area_square_m":24318949643.042831,
+    "geom:area_square_m":24318949643.043121,
     "geom:bbox":"34.128887,8.182982,36.137237,10.048877",
     "geom:latitude":9.100979,
     "geom:longitude":35.045378,
@@ -95,9 +95,10 @@
         "hasc:id":"ET.OR.MW",
         "wd:id":"Q1709377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493543,
-    "wof:geomhash":"27a3bdec04259f097f412042d012b81c",
+    "wof:geomhash":"2fc45fa555bd77c937cce07475886016",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695233,
-    "wof:lastmodified":1690879612,
+    "wof:lastmodified":1695886705,
     "wof:name":"W. Wellega",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

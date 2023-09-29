@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.08928,
-    "geom:area_square_m":25593366826.900021,
+    "geom:area_square_m":25593366826.899891,
     "geom:bbox":"32.999939,7.008826,35.367371,8.612321",
     "geom:latitude":7.822677,
     "geom:longitude":34.221474,
@@ -315,16 +315,18 @@
         "gn:id":444183,
         "gp:id":56013539,
         "hasc:id":"ET.GA",
+        "iso:code":"ET-GA",
         "iso:id":"ET-GA",
         "qs_pg:id":1095742,
         "wd:id":"Q207638",
         "wk:page":"Gambela Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa2f104029f0b77db86a95a6ab2097c7",
+    "wof:geomhash":"bee27febe2c691547aa378a9ffdf4a70",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879602,
+    "wof:lastmodified":1695884375,
     "wof:name":"Gambella Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

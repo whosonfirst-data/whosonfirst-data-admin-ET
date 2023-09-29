@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.212112,
-    "geom:area_square_m":14672743567.253981,
+    "geom:area_square_m":14672743567.253637,
     "geom:bbox":"37.424812,11.038393,38.72142,12.551664",
     "geom:latitude":11.767531,
     "geom:longitude":38.111463,
@@ -94,9 +94,10 @@
         "hasc:id":"ET.AM.DG",
         "wd:id":"Q1070727"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493523,
-    "wof:geomhash":"5d3354d74a2debe6bbfbe09dc1807b27",
+    "wof:geomhash":"3b5da6d257d41072061460583cf33d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108695205,
-    "wof:lastmodified":1690879609,
+    "wof:lastmodified":1695886704,
     "wof:name":"S. Gonder",
     "wof:parent_id":85671121,
     "wof:placetype":"county",

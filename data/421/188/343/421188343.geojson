@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.096211,
-    "geom:area_square_m":13374745675.995712,
+    "geom:area_square_m":13374745675.995735,
     "geom:bbox":"42.437595,8.632634,43.978771,10.189709",
     "geom:latitude":9.344902,
     "geom:longitude":43.074909,
@@ -97,12 +97,13 @@
         "qs_pg:id":19680,
         "wd:id":"Q3178653"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459009542,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21958ad5a580097e9fe88fae014597d3",
+    "wof:geomhash":"9b346873e9c492a5a29471894ebdff3c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421188343,
-    "wof:lastmodified":1690879620,
+    "wof:lastmodified":1695886035,
     "wof:name":"Jijiga",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.117991,
-    "geom:area_square_m":50053260170.879852,
+    "geom:area_square_m":50053260170.880905,
     "geom:bbox":"34.100773,8.787545,37.036968,12.05778",
     "geom:latitude":10.562211,
     "geom:longitude":35.479268,
@@ -325,15 +325,17 @@
         "gn:id":444181,
         "gp:id":56013538,
         "hasc:id":"ET.BE",
+        "iso:code":"ET-BE",
         "iso:id":"ET-BE",
         "qs_pg:id":481505,
         "wd:id":"Q207635"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ET",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32083aba8d125554e1460fe8b9238d49",
+    "wof:geomhash":"8df1b4060deedcaf1a29fe39afa06c81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -348,7 +350,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1690879604,
+    "wof:lastmodified":1695884375,
     "wof:name":"Beneshangul Gumuz",
     "wof:parent_id":85632257,
     "wof:placetype":"region",

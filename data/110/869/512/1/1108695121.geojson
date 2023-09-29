@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.062123,
-    "geom:area_square_m":62313159854.362152,
+    "geom:area_square_m":62313159854.362129,
     "geom:bbox":"40.859951,4.122208,45.005909,6.697906",
     "geom:latitude":5.401541,
     "geom:longitude":42.485494,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"ET.SO.AF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493458,
-    "wof:geomhash":"651e66a5f41c3963fbc6e27cb1a039e7",
+    "wof:geomhash":"d03891daf0c84b67eb677f822e3c580e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695121,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1695886585,
     "wof:name":"Afder",
     "wof:parent_id":85671155,
     "wof:placetype":"county",

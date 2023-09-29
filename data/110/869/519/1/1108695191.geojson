@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.188371,
-    "geom:area_square_m":26558949645.360344,
+    "geom:area_square_m":26558949645.360641,
     "geom:bbox":"34.923816,9.942647,36.580696,12.05778",
     "geom:latitude":11.027293,
     "geom:longitude":35.767536,
@@ -90,9 +90,10 @@
         "hasc:id":"ET.BE.MT",
         "wd:id":"Q742955"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493514,
-    "wof:geomhash":"8cf0ed9f13b4c69d951c8060e8f7d25e",
+    "wof:geomhash":"bd5356c5f28f8587ffa79ae471c53831",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695191,
-    "wof:lastmodified":1690879607,
+    "wof:lastmodified":1695886703,
     "wof:name":"Metekel",
     "wof:parent_id":85671147,
     "wof:placetype":"county",

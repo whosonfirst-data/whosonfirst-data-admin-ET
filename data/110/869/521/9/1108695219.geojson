@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.885824,
-    "geom:area_square_m":23215496568.60685,
+    "geom:area_square_m":23215496568.607033,
     "geom:bbox":"35.788189,4.443766,37.067577,6.463396",
     "geom:latitude":5.365544,
     "geom:longitude":36.397319,
@@ -97,9 +97,10 @@
         "hasc:id":"ET.SN.DO",
         "wd:id":"Q3020952"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1474493534,
-    "wof:geomhash":"0fd3fe4fa2748a5d9d9375c4af55d7c8",
+    "wof:geomhash":"05d3ad51225c8dc8e933002d7f4adac6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108695219,
-    "wof:lastmodified":1690879607,
+    "wof:lastmodified":1695886703,
     "wof:name":"South Omo",
     "wof:parent_id":85671133,
     "wof:placetype":"county",

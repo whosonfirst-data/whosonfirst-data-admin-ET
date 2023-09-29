@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.306927,
-    "geom:area_square_m":53074824640.544243,
+    "geom:area_square_m":53074824640.544289,
     "geom:bbox":"36.716114,3.513587,39.748768,6.599661",
     "geom:latitude":4.683609,
     "geom:longitude":38.28047,
@@ -124,12 +124,13 @@
         "qs_pg:id":1090865,
         "wd:id":"Q1109855"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ET",
     "wof:created":1459009538,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63f5cdf51995ea1ac8ea9fc9be320327",
+    "wof:geomhash":"eccc09bcb08f39851a73be33d3bba6a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421188225,
-    "wof:lastmodified":1690879620,
+    "wof:lastmodified":1695886035,
     "wof:name":"Borena",
     "wof:parent_id":85671141,
     "wof:placetype":"county",

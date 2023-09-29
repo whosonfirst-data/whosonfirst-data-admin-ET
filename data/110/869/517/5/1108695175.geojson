@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116486,
-    "geom:area_square_m":1428712537.882348,
+    "geom:area_square_m":1428712537.882319,
     "geom:bbox":"37.351166,7.146977,38.078384,7.500944",
     "geom:latitude":7.296342,
     "geom:longitude":37.758532,
@@ -53,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1474493502,
-    "wof:geomhash":"d160a73febb31515b9676a6e8014523e",
+    "wof:geomhash":"189a2fb18ceb35c4d9032a8d3af567b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1108695175,
-    "wof:lastmodified":1627522113,
+    "wof:lastmodified":1695886586,
     "wof:name":"Kembata Tembaro",
     "wof:parent_id":85671133,
     "wof:placetype":"county",
